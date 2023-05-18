@@ -4,7 +4,7 @@
 
 This is the fully open source repository for BikeGroups.org.
 
-You can read more about this project on the about page: https://www.notion.so/subdavis/About-BikeGroups-org-f04b4012659c495c8e7a539395e23b13
+You can read more about this project on the about page: https://subdavis.notion.site/About-BikeGroups-org-f04b4012659c495c8e7a539395e23b13
 
 ## About the software
 

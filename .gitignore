@@ -25,4 +25,4 @@ dist-ssr
 
 # Credentials files
 .env
-data/keys.json
+src/data/keys.json

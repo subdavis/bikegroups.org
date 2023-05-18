@@ -1,10 +1,16 @@
 # BikeGroups.org
 
-This is the fully open source repository for BikeGroups.org.  It is a fully static application, meaning there is no backend server.  The database is a public google calendar, which is compiled into JSON data.
+This is the fully open source repository for BikeGroups.org.
+
+You can read more about this project on the about page: https://www.notion.so/subdavis/About-BikeGroups-org-f04b4012659c495c8e7a539395e23b13
+
+## About the software
+
+It is a fully static application, meaning there is no backend server.  The database is a public google calendar, which is compiled into JSON data by scheduled github action.
 
 ## Running data compilation
 
-This repository is designed to work with a specific google calendar.  You can subscribe to it directly if you want to use it without my website.
+This repository is designed to work with a google calendar.  You can subscribe to it directly if you want to use it without the website.
 
 ```
 5b0f9ebb2f4cca6705cf48ad4e4562964a7e3f90d6f2646e11c19788912c86ba@group.calendar.google.com
@@ -18,6 +24,18 @@ cp .env.example .env
 
 # run calendar data processing
 yarn process-calendar
+```
+
+## Running the application
+
+Without data, you probably can't do this yet.  I'm working on it.
+
+```bash
+# install stuff
+yarn
+
+# run the server
+yarn dev
 ```
 
 ## Recommended IDE Setup

@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import mapboxgl from 'mapbox-gl'
-import { nextTick, onMounted, ref, shallowRef, watch } from 'vue';
+import { onMounted, ref, shallowRef, watch } from 'vue';
 import { MapBounds } from '@/types';
 import { useDataStore } from '@/store';
 
@@ -27,6 +27,7 @@ onMounted(() => {
     if (marker !== null) marker.remove()
     if (dataStore.semiSelected === null) return;
     marker = new mapboxgl.Marker()
+      // @ts-expect-error TODO remove
       .setLngLat([dataStore.semiSelected?.coordinates?.lng, dataStore.semiSelected?.coordinates?.lat])
       .addTo(map)
   })
@@ -37,6 +38,7 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
+        // @ts-expect-error TODO remove
         features: dataStore.eventGeoJson,
       },
     })

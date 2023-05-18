@@ -25,9 +25,9 @@ const dataStore = useDataStore();
           Always check the event website for the most current information.
         </V-alert>
         <EventCard
-          v-for="event in dataStore.filteredEvents"
+          v-for="(event, i) in dataStore.filteredEvents"
           :event="event"
-          :key="event.id"
+          :key="event.id || i"
         />
         <About />
       </div>

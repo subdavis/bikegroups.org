@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import mapboxgl from 'mapbox-gl'
-import { onMounted, ref, shallowRef, watch } from 'vue';
+import { computed, onMounted, ref, shallowRef, watch, watchEffect } from 'vue';
 import { MapBounds } from '@/types';
 import { useDataStore } from '@/store';
 
@@ -11,6 +11,28 @@ let marker: mapboxgl.Marker | null = null
 const emit = defineEmits<{
   (e: 'map-moved', bounds: MapBounds): void,
 }>()
+
+const geojson = computed(() => ({
+  type: 'geojson',
+  data: {
+    type: 'FeatureCollection',
+    features: dataStore.controlFilteredEvents
+      .filter((event) => event.coordinates)
+      .map((event) => ({
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [event.coordinates?.lng, event.coordinates?.lat]
+        },
+        properties: {
+          title: event.summary,
+          location: event.location,
+          id: event.id,
+          recurringEventId: event.recurringEventId,
+        },
+      })),
+  },
+}))
 
 onMounted(() => {
   if (mapRef.value === null) return;
@@ -38,9 +60,12 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        // @ts-expect-error TODO remove
-        features: dataStore.eventGeoJson,
-      },
+        features: [],
+      }
+    })
+    watchEffect(() => {
+      // @ts-expect-error the typings for setData() are wrong
+      map.getSource('points').setData(geojson.value.data)
     })
     map.addLayer({
       id: 'points',

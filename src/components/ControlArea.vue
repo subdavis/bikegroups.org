@@ -1,6 +1,5 @@
 <script lang="ts" setup>
 import { useDataStore } from '@/store';
-import { ref } from 'vue';
 import About from './About.vue';
 
 const store = useDataStore()
@@ -8,13 +7,11 @@ function onlyUnique(value: string, index: number, array: string[]) {
   return array.indexOf(value) === index;
 }
 const tagOptions = store.events.map((event) => event.metadata?.tags || []).flat().filter(onlyUnique)
-
-const toggle = ref('all')
 </script>
 
 <template>
   <div class="d-flex align-center">
-    <v-btn-toggle variant=outlined v-model="toggle" color="cyan" mandatory class="mr-2 control">
+    <v-btn-toggle variant=outlined v-model="store.whenToggle" color="cyan" mandatory class="mr-2 control">
       <v-btn value="all" size="small">
         <span class="no-transform">All Events</span>
       </v-btn>

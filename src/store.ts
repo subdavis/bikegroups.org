@@ -25,28 +25,12 @@ const events: StoreCalendarEvent[] = Object.values(eventData)
   })
   .filter((event) => event.nextEvent >= new Date())
 
-const eventGeoJson = events
-  .filter((event) => event.coordinates)
-  .map((event) => ({
-    type: 'Feature',
-    geometry: {
-      type: 'Point',
-      coordinates: [event.coordinates?.lng, event.coordinates?.lat]
-    },
-    properties: {
-      title: event.summary,
-      location: event.location,
-      id: event.id,
-      recurringEventId: event.recurringEventId,
-    },
-  }))
-
 export const useDataStore = defineStore('dataStore', {
   state: () => ({
     events,
-    eventGeoJson,
     mapBounds: markRaw(shallowRef(null as MapBounds | null)),
     tags: [] as string[],
+    whenToggle: "all",
     markers: [] as mapboxgl.Marker[],
     semiSelected: null as StoreCalendarEvent | null,
   }),
@@ -58,15 +42,28 @@ export const useDataStore = defineStore('dataStore', {
       })
     },
     controlFilteredEvents(state): StoreCalendarEvent[] {
-      return this.sortedEvents.filter((event) => {
-        if (!event.metadata) {
-          return false
-        }
-        if (state.tags.length) {
-          return event.metadata.tags.some((tag) => state.tags.includes(tag))
-        }
-        return true
-      })
+      return this.sortedEvents
+        .filter((event) => {
+          if (!event.metadata) {
+            return false
+          }
+          if (state.tags.length) {
+            return event.metadata.tags.some((tag) => state.tags.includes(tag))
+          }
+          return true
+        })
+        .filter((event) => {
+          if (state.whenToggle === 'all') {
+            return true
+          }
+          if (state.whenToggle === 'this-week') {
+            return event.nextEvent < dayjs().add(7, 'day').toDate()
+          }
+          if (state.whenToggle === 'this-month') {
+            return event.nextEvent < dayjs().add(1, 'month').toDate()
+          }
+          return true
+        })
     },
     filteredEvents(): StoreCalendarEvent[] {
       let filtered = this.controlFilteredEvents

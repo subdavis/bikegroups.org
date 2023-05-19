@@ -23,6 +23,7 @@ const events: StoreCalendarEvent[] = Object.values(eventData)
       nextEvent: expanded.find((date) => date > new Date()) || startDate,
     }
   })
+  .filter((event) => event.nextEvent >= new Date())
 
 const eventGeoJson = events
   .filter((event) => event.coordinates)

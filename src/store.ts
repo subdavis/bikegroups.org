@@ -12,8 +12,8 @@ const events: StoreCalendarEvent[] = Object.values(eventData)
     const expanded = event.recurrence ? RRule.fromString(event.recurrence[0]).all((date) => {
       return date < recurringLimit
     }) : []
-    const startDate = new Date(event.start?.dateTime || event.start?.date || 0)
-    const endDate = new Date(event.end?.dateTime || event.end?.date || 0)
+    const startDate = new Date(event.start?.dateTime || (event.start?.date + `T00:00:00`) || 0)
+    const endDate = new Date(event.end?.dateTime || (event.end?.date + `T00:00:00`) || 0)
     return {
       ...event,
       startDate,

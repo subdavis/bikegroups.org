@@ -6,6 +6,7 @@ import { RRule } from "rrule";
 import dayjs from 'dayjs'
 import mapboxgl from "mapbox-gl";
 
+const thisMorning = dayjs().startOf('day').toDate()
 const recurringLimit = dayjs().add(1, 'year').toDate()
 const events: StoreCalendarEvent[] = Object.values(eventData)
   .map((event: DecoratedCalendarEvent) => {
@@ -20,10 +21,10 @@ const events: StoreCalendarEvent[] = Object.values(eventData)
       endDate,
       rrule: event.recurrence ? RRule.fromString(event.recurrence[0]) : null,
       rruleExpanded: expanded,
-      nextEvent: expanded.find((date) => date > new Date()) || startDate,
+      nextEvent: expanded.find((date) => date > thisMorning) || startDate,
     }
   })
-  .filter((event) => event.nextEvent >= new Date())
+  .filter((event) => event.nextEvent >= thisMorning)
 
 export const useDataStore = defineStore('dataStore', {
   state: () => ({

@@ -21,7 +21,7 @@ const events: StoreCalendarEvent[] = Object.values(eventData)
       endDate,
       rrule: event.recurrence ? RRule.fromString(event.recurrence[0]) : null,
       rruleExpanded: expanded,
-      nextEvent: expanded.find((date) => date > thisMorning) || startDate,
+      nextEvent: dayjs(expanded.find((date) => date > thisMorning) || startDate).startOf('day').toDate(),
     }
   })
   .filter((event) => event.nextEvent >= thisMorning)

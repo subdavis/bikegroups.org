@@ -5,8 +5,8 @@ import fs from "fs";
 import { convert } from 'html-to-text'
 import { DecoratedCalendarEvent } from "@/types";
 
-const LINK_PATTERN = 'link:'
-const TAGS_PATTERN = 'tags:'
+const LINK_PATTERN = /^link:/is
+const TAGS_PATTERN = /^tags:/is
 
 interface GeocodingFile {
   version: number
@@ -54,12 +54,12 @@ async function processMetadata(events: DecoratedCalendarEvent[]) {
       link: '',
     }
     lines.forEach((line) => {
-      if (line.toLowerCase().startsWith(TAGS_PATTERN)) {
+      if (line.match(TAGS_PATTERN)) {
         const tags = line.toLowerCase().replace(TAGS_PATTERN, '').split(',').map((tag) => tag.trim().toLowerCase())
         metadata.tags = tags
       }
-      if (line.toLowerCase().startsWith(LINK_PATTERN)) {
-        metadata.link = line.toLowerCase().replace(LINK_PATTERN, '').trim()
+      if (line.match(LINK_PATTERN)) {
+        metadata.link = line.replace(LINK_PATTERN, '').trim()
       }
     })
     if (metadata.tags.length === 0) {

@@ -1,15 +1,698 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
-    <title>MN Bike Events</title>
-    <meta name="description" content="A calendar and map of bike events in Minneapolis, St Paul, and Minnesota." />
-  </head>
-  <body>
-    <div id="app"></div>
-    <script type="module" src="/src/main.ts"></script>
-  </body>
-</html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Minneapolis Bike Groups</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-interactiveBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-translucentGray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="89e5a767-45b2-47b6-8a8f-e73ab902d2c8" class="page sans"><header><img class="page-cover-image" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/2008-0705-MPLStour-StAnthonyFalls-PAN.jpg" style="object-position:center 8.870000000000001%"/><h1 class="page-title">Minneapolis Bike Groups</h1><p class="page-description"></p></header><div class="page-body"><p id="a138608c-1586-4202-be4d-ed921fe0e339" class="">Join a group ride with a community of cyclists in Minneapolis. This is a list of groups that host regular rides throughout the season. Come make friends 😊</p><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="420dace5-5bc5-4339-a01d-7f9b1210decc"><div style="font-size:1.5em"><span class="icon">ℹ️</span></div><div style="width:100%">Schedules change, so it’s best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride.
+
+<strong>Helmet always required.
+</strong>Bring a flat kit.<strong>
+</strong>Bring lights for evening rides.</div></figure><p id="b7ab8d95-5312-453f-8202-69c836b2709b" class="">Notice something missing?  <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">Submit feedback or corrections here.</a></p><hr id="7a1db963-48b9-4af6-9d5d-47457fa31a4a"/><h2 id="3aed6cfe-5522-4131-8e9c-236fc76f2a14" class="">Angry Catfish Group Rides</h2><blockquote id="038c6507-e172-46d9-9d6c-7db641d5f064" class="">Want to discover great local bike routes? We&#x27;d love to ride with you. Here you&#x27;ll find shop rides, events, and fun biking things we&#x27;re part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way.</blockquote><p id="b93d73ba-0978-40c6-a5ff-603868281be7" class="">Lots of different options for shop rides ranging from speedy to gravely to social.</p><p id="7e156787-8c99-4a66-bdae-9ef557703655" class="">💻 <a href="https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm">website</a></p><figure id="385ffa65-5379-4b4a-b84d-97cfc9d92318" class="image" style="text-align:left"><a href="https://dgalywyr863hv.cloudfront.net/pictures/clubs/936547/20544121/6/large.jpg"><img style="width:432px" src="https://dgalywyr863hv.cloudfront.net/pictures/clubs/936547/20544121/6/large.jpg"/></a></figure><p id="5961f6ab-43d7-41fd-877b-960734e1945a" class="">
+</p><h2 id="138d8245-65da-4755-8e03-64b174621556" class="">Biking with Baddies</h2><blockquote id="0b5e8c5a-47d9-448f-aa9d-42fd489de94b" class="">Come bike with some Beautiful, Authentic, Divine, Determined, Intelligent, Energetic Sistas</blockquote><p id="1097d66c-1e27-456b-a071-34b1d5e4458e" class="">🌅 <a href="https://www.instagram.com/bikingwithbaddies/">instagram</a></p><figure id="170e600c-98a9-42de-bac2-43678d7127a0" class="image" style="text-align:left"><a href="Minneapolis%20Bike%20Groups%2089e5a76745b247b68a8fe73ab902d2c8/Screenshot_2023-10-06_at_1.14.30_PM.png"><img style="width:432px" src="Minneapolis%20Bike%20Groups%2089e5a76745b247b68a8fe73ab902d2c8/Screenshot_2023-10-06_at_1.14.30_PM.png"/></a></figure><p id="c67dec11-2015-433f-ba90-1442ac310781" class="">
+</p><h2 id="7dc3a731-256a-4852-9db6-08f56e7f69fb" class="">Bone Saw Cycling Collective ⭐</h2><blockquote id="3811c891-5258-477c-a165-db8477ebb322" class="">Making cycling better for all by improving its members skill in any and all cycling disciplines, while fostering a non-judgmental atmosphere.</blockquote><p id="a815dc82-2acc-4285-85f2-9f7f9f077104" class="">Bone Saw rides on Tuesdays throughout the spring, summer, and early fall.  This group meets at the top of <a href="https://en.wikipedia.org/wiki/Martin_Olav_Sabo_Bridge">Martin Olav Sabo Bridge</a>, and it’s one of the largest groups by ridership in the city. I’ve starred this group as really awesome, well organized, and safety-focused.  Watch our on their social channels for <a href="https://www.facebook.com/bonesawcyclingcollective/posts/pfbid0S8RVajVnXuSA3ajNfnWKEXuvzkBcqYo8GGFCDTf7zE3NpcGHDC4VhrNqC9JqGx51l">additional trans / gender non-conforming rides</a>.</p><p id="c8faae09-9a3c-439f-87c7-0ab65c053b0f" class="">🌅 <a href="https://www.instagram.com/bonesawcyclingcollective/">instagram</a> • 👥 <a href="https://www.facebook.com/bonesawcyclingcollective">facebook group</a> • 🌲 <a href="https://linktr.ee/bonesawcycling">linktree</a></p><figure id="a4bb052a-22a5-4fa6-a70c-9bb42a38f357" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/370097443_18101546920342740_2292562937161609333_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=0_VqmMOJX0cAX-1CavF&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfBjH5qEZystweerzrT3e11SINtDUc-3cNjb9deFY83fCw&amp;oe=6525076A"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/370097443_18101546920342740_2292562937161609333_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=0_VqmMOJX0cAX-1CavF&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfBjH5qEZystweerzrT3e11SINtDUc-3cNjb9deFY83fCw&amp;oe=6525076A"/></a></figure><p id="d86bebca-ec3b-47fb-bc81-dc2d10c60e80" class="">
+</p><h2 id="72aa3e30-f57d-49ac-80b2-6103a18bec6f" class="">Corpse Whale Racing</h2><blockquote id="ec889071-10c3-4f2b-a241-560873bae990" class="">We&#x27;re a Twin Cities-based team who race road, criteriums, cyclocross, endurance, and track</blockquote><p id="52dd67fe-dbe8-4637-819d-1b1c425a366e" class="">Racing team that also hosts regular social rides.</p><p id="03c021fc-b46e-400e-b444-e6864f99f9c2" class="">👥 <a href="https://www.facebook.com/corpsewhaleracing/">facebook group</a> • 🌅 <a href="https://www.instagram.com/corpsewhaleracing">instagram</a></p><figure id="c8022b6c-7312-4316-81c2-e4fa4778a4c8" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/366244230_714113057396638_4233269892584484138_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=zlDJglE4MnwAX_je_E3&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfA3nOG5kkKCJuP6cLk7B_LwKiMQ6RxEOa3S_0mwPveukQ&amp;oe=65256D9E"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/366244230_714113057396638_4233269892584484138_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=zlDJglE4MnwAX_je_E3&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfA3nOG5kkKCJuP6cLk7B_LwKiMQ6RxEOa3S_0mwPveukQ&amp;oe=65256D9E"/></a></figure><p id="770cd190-fcb8-4f25-87c8-9b2518445beb" class="">
+</p><h2 id="646863e2-7d2f-47f2-84fb-4d55b3bb4a06" class="">Cycle Sisters</h2><blockquote id="e3a0e8fc-acaf-495e-8f27-8b71d1c25869" class="">We host fun-ass themed bike rides while supporting Minneapolis businesses owned by women and BIPOC owners. BIPOC woman safe space. Open 2 all. </blockquote><p id="fe458e59-5420-464a-a709-7293dec43302" class="">Get ride updates and notifications using the google form on their instagram page.</p><p id="3a935fe2-d5e5-4557-adbf-c51ad7242d31" class="">👥 <a href="https://www.facebook.com/CycleSistersMpls/">facebook group</a> • 🌅 <a href="https://www.instagram.com/cyclesistersmpls/">instagram</a></p><p id="13df7943-b9ed-4fb0-a317-66cfd5975d76" class="">
+</p><h2 id="fa390de1-bb35-464f-8cc6-48ad4700e068" class="">Dangerous Man Adventure Rides</h2><blockquote id="f5882741-f6b8-42a0-8a72-7ed14c617b52" class="">Dangerous Man is teaming up with <a href="https://www.instagram.com/behindbarsbycicleshop/">@behindbarsbycicleshop</a> for an exhilarating bicycle ride! A community bike ride and we will finish off with beers in the taproom! It’s a celebration of bikes, brews, and endless summer vibes.</blockquote><p id="b8a350cd-7fad-43dd-81e2-8962c17a2c04" class="">Rides usually announced by the Behind Bars instagram account.</p><p id="ebd3ff8e-cb85-45ca-b459-be80fff1c0b7" class="">💻 <a href="https://dangerousmanbrewing.com/event/summer-solstice-adventure-ride/">website</a> •📍Northeast</p><p id="1e2322e5-7715-4644-9c18-b4dba894d8c0" class="">
+</p><h2 id="ff508538-194f-4054-b3cb-531a65c9127d" class="">Fulton Social Series</h2><blockquote id="0916f9e8-a3e8-499c-b34f-5fc8121c9eb5" class="">Fulton Racing cordially invites everyone to join us on our no-drop #FultonSocialSeries rides on Thursday nights. First attendance earns you a free Fulton beer token.</blockquote><p id="094f7d90-2a9b-4f8f-9be2-7c81445ab1fe" class="">👥 <a href="https://www.facebook.com/FultonRacing/">facebook group</a> • 🌅 <a href="https://www.instagram.com/fultonracingmpls">instagram</a> •📍Northeast</p><figure id="68cd4478-565c-459a-b98c-1a10da29ca3f" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/380354710_18312948358105226_2153018463895809641_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=PHrVlUOvuKcAX-HGSQY&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfDuBhNRkNDZViS7CyeRJOk2wgbw4eBn3xof1E5HE8upgQ&amp;oe=65258A5A"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/380354710_18312948358105226_2153018463895809641_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=PHrVlUOvuKcAX-HGSQY&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfDuBhNRkNDZViS7CyeRJOk2wgbw4eBn3xof1E5HE8upgQ&amp;oe=65258A5A"/></a></figure><p id="ca2d8989-bbb4-4b7c-8846-67ba287e7879" class="">
+</p><h2 id="332ddf8d-0dd2-4467-81ba-69830f2a5f75" class="">Grease Rag</h2><blockquote id="31bcdc6b-a248-4401-9002-bd9415cb6f0a" class="">Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space.</blockquote><p id="fc49f555-568c-4acf-a709-60facdf93672" class="">💻 <a href="https://greaserag.org/">website</a> • 🌅 <a href="https://www.instagram.com/greaseragbikes/">instagram</a> • 👥 <a href="https://www.facebook.com/groups/greaserag">facebook group</a> •📍Seward</p><figure id="26a16e1a-8ab2-4a84-afa3-b3cbf9c5356f" class="image" style="text-align:left"><a href="http://greaserag.net/wp-content/uploads/2018/06/FTW-camping-group.jpg"><img style="width:432px" src="http://greaserag.net/wp-content/uploads/2018/06/FTW-camping-group.jpg"/></a></figure><p id="d7b17672-661f-4a3a-ab10-807417409896" class="">
+</p><h2 id="ad6dce85-f399-4082-8a3d-7fc876552677" class="">Freewheel Shop Rides</h2><p id="4fb0c6b8-7cd3-4b7d-8e9f-f0488239fbac" class="">Regular rides that leave from various freewheel shops in the Twin Cities.  Various days and pace groups available.</p><p id="6e2c0fe2-3051-450f-891d-de9c6e0bfc9b" class="">📅 <a href="https://www.freewheelbike.com/about/event-calendar-pg1200.htm">Calendar</a> •📍Multiple Locations</p><p id="41937f1d-8360-43c4-9e49-cb0dd244fd9f" class="">
+</p><h2 id="55312d0a-99b7-49d6-99fa-c9a32d45596e" class="">Joyful Riders Club</h2><p id="48797db2-9d03-46fb-bd5f-98f4012bdcf8" class="">Monthly social rides at a friendly pace. Joyful Riders hosts DJ rides once a month.</p><p id="08638c71-1ef4-4b83-ad4c-db92e7e64a59" class="">🌅 <a href="https://www.instagram.com/joyfulridersclub/">instagram</a></p><figure id="e9ca4563-0978-4a80-9428-356758ed4dbf" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/294682505_3366864880304372_3400224538549201669_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=52f669&amp;_nc_ohc=9ri3K7s77sYAX_hrnaW&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfA0DARvcwSijWyMINtknCuC-HBC2ZZePGymltkCE7hHxA&amp;oe=6524E714"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/294682505_3366864880304372_3400224538549201669_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=52f669&amp;_nc_ohc=9ri3K7s77sYAX_hrnaW&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfA0DARvcwSijWyMINtknCuC-HBC2ZZePGymltkCE7hHxA&amp;oe=6524E714"/></a></figure><p id="4f4d713e-7137-46c3-bae6-e939fedcc330" class="">
+</p><h2 id="55541c06-4969-43ed-b18f-b137e715d988" class="">Perennial Cycle Shop Rides</h2><p id="39057ef9-691e-48aa-84e6-449326db93c4" class="">Perennial hosts and/or promotes all sorts of events.  DJ rides, family fun rides, FTW rides, and the 30 Days of Biking pastry rides.  Follow their instagram for event updates.</p><p id="65193eb3-c0e7-4bfe-abed-41fdc717b801" class="">🌅 <a href="https://www.instagram.com/perennialcycle/">instagram</a> •📍South Uptown</p><p id="63eafaf6-9e91-4767-b1f5-c9861c9f4fa9" class="">
+</p><h2 id="7d8818f0-6dc7-4cff-af2d-df9a814b27cd" class="">PieCycle Club</h2><blockquote id="d42bc417-b115-4de2-b5fa-6e17ae580338" class="">MPLS Piecycle Club is a Minneapolis based cycling club focused on building fun and inviting biking experiences for riders of all levels. We organize chill (Pastry Pace), family-friendly group rides around Minneapolis that start and/or end with delicious baked goods.</blockquote><p id="1ab2d714-5079-4f6c-892b-9f64fe81e44e" class="">💻 <a href="https://pie.bike">website</a> • 🌅 <a href="https://www.instagram.com/piecycleclub/">instagram</a> • 📅 calendar</p><figure id="01e22132-c94b-4210-9196-bea949ea1f5a" class="image" style="text-align:left"><a href="https://images.squarespace-cdn.com/content/v1/614e978186e724733350b9ee/45d1d7f1-3afa-4a5b-90b8-dfa91dd62d20/piecycleclub.groupshot.jpg"><img style="width:432px" src="https://images.squarespace-cdn.com/content/v1/614e978186e724733350b9ee/45d1d7f1-3afa-4a5b-90b8-dfa91dd62d20/piecycleclub.groupshot.jpg"/></a></figure><p id="b3f886bf-b412-401b-ba69-b4ae549d385a" class="">
+</p><h2 id="0a0f0526-af30-40a5-a9a3-af2b4d736de1" class="">Plymouth Bikes &amp; Beer</h2><p id="c9779f84-0119-43a4-b9e8-ef44859feebf" class="">Medium to quick paced Thursday evening gravel rides that leave from Trailhead Plymouth and end at Luce Line Brewing.</p><p id="1f554087-4d5b-4e6a-acdc-1fc7dc76a45c" class="">👥 <a href="https://www.facebook.com/PlymouthBikesnBeers/">facebook group</a> •📍Plymouth</p><p id="2e06f15f-69b0-4ef4-bb19-568043abb8a2" class="">
+</p><h2 id="4c5f46d0-2020-42ba-ab35-de84b9bbba96" class="">Recover Bike Shop</h2><h3 id="ca29f6e9-d4a5-461c-a057-0c11d8b8bedf" class="">Saturday Night Rides</h3><blockquote id="275d3f2a-b7f4-4733-9c3d-89f5b2438468" class="">Just a casual exploration of Northeast. No-drop pace. Expect about an hour of riding. We roll out from Recovery Bike Shop at 6:30. We&#x27;re generally back at the shop around 8pm. Sometimes we get ice cream after.</blockquote><h3 id="f1137620-ba68-477c-a12d-559bfcbc2612" class="">Coffee (Outside)</h3><blockquote id="f22a7a07-b6b5-46da-b5a7-e90da872b6a0" class="">Coffee (Outside) is our weekly excuse to start off the week on a bike. Everyone is always welcome. We’ll bring some treats to share. You bring you (and maybe a friend).</blockquote><p id="344c8633-df31-4970-8407-e6e41b352f50" class="">Details and other various rides shared on the shop instagram.</p><p id="49bd5ced-3510-4c94-8c3c-c0586347e139" class="">🌅 <a href="https://www.instagram.com/recoverybikeshop/">instagram</a> • 📅 <a href="http://recovery.bike/events/">calendar</a> •📍Northeast</p><figure id="e893f648-07cd-4f60-8b72-7a3edeab8552" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/305932437_466129875528826_3466653462548142143_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=52f669&amp;_nc_ohc=RgTz1UIf6CkAX8gnzzA&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfDmI1nKAEcKTxHPZEb-gLvAdHbUof_Hogi_zTM3MF63Fg&amp;oe=65255D81"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/305932437_466129875528826_3466653462548142143_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=52f669&amp;_nc_ohc=RgTz1UIf6CkAX8gnzzA&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfDmI1nKAEcKTxHPZEb-gLvAdHbUof_Hogi_zTM3MF63Fg&amp;oe=65255D81"/></a></figure><p id="6d0d4518-eac7-4992-b582-a7bead068e97" class="">
+</p><h2 id="276719f4-1b00-46d3-b0cb-1fa9132442d7" class="">Slow Roll MSP</h2><blockquote id="e9840d28-37b8-413f-897c-ab4126980ff3" class="">Slow Roll Twin Cities aims to challenge negative perceptions of the city and foster economic revitalization.</blockquote><p id="3632c794-e9f4-4eed-a5ea-43b6b9cf3a01" class="">👥 <a href="https://www.facebook.com/SlowRollTC/">facebook group</a></p><figure id="9ae34412-6448-4439-ac26-0f6836b38130" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t31.18172-8/18489504_452229491779545_4689608119420311879_o.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e3f864&amp;_nc_ohc=4RUqUpHiiXsAX-BPSOw&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfB93xDzR9C_XTZ9n2sixSwj0FLpQm1byHAPk21KtLBJPA&amp;oe=6547B74B"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t31.18172-8/18489504_452229491779545_4689608119420311879_o.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e3f864&amp;_nc_ohc=4RUqUpHiiXsAX-BPSOw&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfB93xDzR9C_XTZ9n2sixSwj0FLpQm1byHAPk21KtLBJPA&amp;oe=6547B74B"/></a></figure><p id="0f475af1-44c2-4ea2-85fe-dcca28f609eb" class="">
+</p><h2 id="b17772d7-530a-4998-88c3-663091f0813c" class="">Sociable Cider Werks Group Rides</h2><blockquote id="88afe8ba-20ba-4289-8229-b7585d45e6d8" class="">A place for the riders of Sociable Cider Werks to connect with one another! Keep an eye on our social media pages for any announcements regarding weather cancellations.</blockquote><p id="6927cf74-081f-404b-b42f-5e976b1d6223" class="">👥 <a href="https://www.facebook.com/groups/sociablerides/">facebook group</a> •📍Northeast</p><p id="ee03d322-5ade-43c5-bf89-86f2ddbb154a" class="">
+</p><h2 id="1424ba56-dedb-447e-a629-b649fb7b6e43" class="">Stamina Racing Collective</h2><blockquote id="16d59b0b-f914-4307-9fc5-c2e3c76aac8e" class=""><strong>Stamina Racing Collective</strong> is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.</blockquote><p id="ab9fe25b-4aeb-4144-8fda-34ab2d64f5a2" class="">💻 <a href="https://www.staminaracingcollective.com/">website</a> • 📅 <a href="https://www.staminaracingcollective.com/calendar">calendar</a></p><figure id="975f0f32-557d-49b0-a82c-4886ef8e3a8c" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/349913654_3709169539304179_937639791913425202_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=mY2ZtBnrn8oAX-5fe8t&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfB0EN1c4MnPnFIClzLT0bgjRW6R05nzT4tbJO1SiM72Rw&amp;oe=6524F8E4"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/349913654_3709169539304179_937639791913425202_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=49d041&amp;_nc_ohc=mY2ZtBnrn8oAX-5fe8t&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfB0EN1c4MnPnFIClzLT0bgjRW6R05nzT4tbJO1SiM72Rw&amp;oe=6524F8E4"/></a></figure><p id="9b91997d-10ef-4919-8995-3fe883718202" class="">
+</p><h2 id="42245445-2a21-4bf6-ace2-2286f557ed17" class="">Utepils Cycling</h2><blockquote id="a5b2d6e2-a62e-4c79-a2a8-5dc306febb09" class="">Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere.</blockquote><p id="ec621434-b89d-468d-abd1-4dd448794c53" class="">All ride organization happens in the facebook group (below).</p><h3 id="0b2dd2b7-ad8a-46fb-ae0f-153d53afc740" class="">Utepils Women’s Wednesay Rides</h3><p id="750e3906-c18b-4b73-a6cf-0de3d5418eb3" class="">Organized in the same facebook group.</p><p id="c4dff796-fb23-40b3-8095-4bfce3ca3ebc" class="">👥 <a href="https://www.facebook.com/groups/UtepilsCycling/">facebook group</a> •📍Theodore Wirth Park</p><figure id="9c585c56-3bc3-4b43-84d4-93d5ef7b005d" class="image" style="text-align:left"><a href="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/357567253_10160004624879102_6125302297415859550_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=4c1e7d&amp;_nc_ohc=tZ3-TOApw6QAX_6oWos&amp;_nc_oc=AQntSAfnHXwg-Bg8lXOtAclBFSHHt00-frv2tFkAk_ikTzUIS8lsQcZ_w6Waap_oIgw&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfBV50hzatg29293PXk3IBbGXn3pDP_XIGIVYtvlgvCFwA&amp;oe=65244BC5"><img style="width:432px" src="https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/357567253_10160004624879102_6125302297415859550_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=4c1e7d&amp;_nc_ohc=tZ3-TOApw6QAX_6oWos&amp;_nc_oc=AQntSAfnHXwg-Bg8lXOtAclBFSHHt00-frv2tFkAk_ikTzUIS8lsQcZ_w6Waap_oIgw&amp;_nc_ht=scontent.ffcm1-2.fna&amp;oh=00_AfBV50hzatg29293PXk3IBbGXn3pDP_XIGIVYtvlgvCFwA&amp;oe=65244BC5"/></a></figure><hr id="dd019da0-3217-4275-8bfa-542d80654e3b"/><h1 id="ac31f7a3-d0a7-441e-9e44-85004f3882f3" class="">Additional Resources</h1><p id="e55a3aed-da65-410e-8fe7-8cfd21c5b847" class="">This page is limited in scope to events in the Twin Cities.</p><p id="83500665-a664-42e7-accc-b7d57a688b3d" class="">✅ — details have been verified with ride organizers.</p><p id="9100153b-0d28-498a-9777-6e003baebde0" class="">⭐ — A resource I find especially valuable.</p><h3 id="bedb1a74-6252-4bf0-9aa8-7e3e291772d2" class="">💬 Discussion</h3><ul id="c3cf265f-4de1-46fd-a7df-ea1a7957c650" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.reddit.com/r/cyclingmsp">r/CyclingMSP</a> on Reddit</li></ul><ul id="4838236a-9492-43d6-a261-c281bbd0f0be" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.facebook.com/groups/TCMNBikeTalk">TCMNBikeTalk</a> on Facebook</li></ul><ul id="955bc2a6-c96b-4b1d-aa0f-f1171ffe7b5e" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.facebook.com/groups/451259884926066/">Minnesota Bike Camping and Bikepacking</a> on Facebook</li></ul><ul id="13d52987-03fe-47d8-b076-c473b989545d" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.facebook.com/groups/TwinCitiesBicycleTradingPost">Twin Cities Bicycle Trading Post</a> is a great place to buy or sell used bikes</li></ul><h3 id="38bf5ec8-88dc-4c15-a0d0-e8afd53e8d4a" class="">🔁 Recurring Annual Events</h3><p id="d7088611-3026-4eca-9c3e-7272d1233501" class="">This is an incomplete list of notable/popular annually recurring rides around the Twin Cities.</p><ul id="26dc927d-2b4c-43e5-81d1-81ea27f92d80" class="bulleted-list"><li style="list-style-type:disc"><a href="https://30daysofbiking.com/">30 Days of Biking</a> — Ride your bike every day in April.</li></ul><ul id="a1ef6014-4947-42b9-ab78-dded190568e9" class="bulleted-list"><li style="list-style-type:disc"><a href="https://driftlessgravelcamp.com/">Driftless Gravel Camp</a> (<strong>FTWNB)</strong> — A weekend in April</li></ul><ul id="e1fb2f9d-ee93-41a9-a5cf-d3d3a4b528ea" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.fultongranfondo.com/">Fulton Gran Fondo</a> — Some time in May</li></ul><ul id="97b2aa90-73de-4618-bae6-ad87048dd297" class="bulleted-list"><li style="list-style-type:disc"><a href="https://theheywoodride.com/">The Heywood</a> — Some time in May</li></ul><ul id="1dea9c2b-aec3-405c-97e3-22b04221fbae" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.startribune.com/600287537/">Freedom From Pants</a> — July 4th (<a href="https://www.facebook.com/events/1406607416786200/">Facebook event</a>)</li></ul><ul id="ce255518-947b-49c3-904c-3a72c2d20ff3" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.bikemn.org/events/bone-saw-presents-the-return-of-scaredy-cat/">Scaredy Cat</a> — Halloween Weekend</li></ul><h3 id="41eb3723-8610-42bc-a86b-952a8178e60f" class="">📅 Calendars</h3><p id="c8b48e87-767f-44b4-9011-ab15613d38e2" class="">This is an incomplete list of the calendars and feeds I subscribe to.  Not all events come from these calendars, some are from social media, but everything you see here are public events from the public internet. </p><ul id="8efddefb-47d3-485a-b4df-7984681f6b34" class="bulleted-list"><li style="list-style-type:disc"><a href="https://mnbiketrailnavigator.blogspot.com/">https://mnbiketrailnavigator.blogspot.com/</a> ⭐</li></ul><ul id="4852f03a-4795-4d80-9d58-3ba83374e09b" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.bikemn.org/all-events/">https://www.bikemn.org/all-events/</a> ⭐</li></ul><ul id="e9a21e10-d26d-4bfc-a3ec-6c64d49f83ff" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.staminaracingcollective.com/community-events">https://www.staminaracingcollective.com/community-events</a></li></ul><ul id="28f4f4ed-4ab8-4c7e-9ca7-dd73e64db295" class="bulleted-list"><li style="list-style-type:disc"><a href="https://mntrails.com/events/">https://mntrails.com/events/</a></li></ul><ul id="2aec1b35-657e-4395-ad5d-fcf3777e19ec" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.movemn.org/events/">https://www.movemn.org/events/</a></li></ul><ul id="8a3ab2c4-1a25-4077-943c-ca124f896bac" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.exploreminnesota.com/list/18-essential-minnesota-summer-bike-events">https://www.exploreminnesota.com/list/18-essential-minnesota-summer-bike-events</a></li></ul><ul id="83088d05-90cb-4b57-ad32-afad18c30152" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm">https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm</a></li></ul><ul id="049074c9-99b5-472d-9fbb-5ba9da69924b" class="bulleted-list"><li style="list-style-type:disc"><a href="https://calendar.google.com/calendar/u/0/embed?src=thehubbikecoop.biz_hcucsllbc8nksoiqdqjkavn1j8@group.calendar.google.com&amp;ctz=America/Chicago">The Hub Coop Calendar</a> (rip)</li></ul><ul id="78867ee5-3cfd-4e23-9172-62a7a23f290c" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.greatscottcycling.com/">https://www.greatscottcycling.com/</a></li></ul><ul id="c4586cd3-7f24-49db-bd3b-f6f29ca4b914" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.eriksbikeshop.com/events">https://www.eriksbikeshop.com/events</a></li></ul><ul id="ee884734-9851-420c-a577-4060cb362f50" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.maplegrovecycling.com/about/mgc-event-calendar-pg624.htm">https://www.maplegrovecycling.com/about/mgc-event-calendar-pg624.htm</a></li></ul><ul id="ccd9ecf3-0b16-4a77-83eb-30b419e51447" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.michaelscycles-mn.com/about/michaels-cycles-calendar-pg198.htm">https://www.michaelscycles-mn.com/about/michaels-cycles-calendar-pg198.htm</a></li></ul><ul id="581abbe8-4950-42cb-b868-e1fba10dce82" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.pathlesspedaled.com/coffeeoutside/">https://www.pathlesspedaled.com/coffeeoutside/</a></li></ul><ul id="d580577a-f676-4071-8e35-dac0e987f38f" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.mnrando.org/Rides">https://www.mnrando.org/Rides</a></li></ul><h3 id="6fd7e101-4e33-42b1-b9f6-029b2f3a733d" class="">🌅 Instagram Accounts</h3><ul id="151244a1-58f7-40fd-8f9f-9fbea833bf8f" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/bonesawcyclingcollective/">https://www.instagram.com/bonesawcyclingcollective/</a> ⭐</li></ul><ul id="e4e4c73b-9ef4-45b9-9983-ac4b42216aea" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/behindbarsbicycleshop/">https://www.instagram.com/behindbarsbicycleshop/</a></li></ul><ul id="5ada7e2a-97a8-4e3d-88a2-ac2bfbd23091" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/fultonracingmpls/">https://www.instagram.com/fultonracingmpls/</a></li></ul><ul id="f4a0fd5e-c308-46ac-b07a-8f7ddff1af38" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/greaseragbikes/">https://www.instagram.com/greaseragbikes/</a></li></ul><ul id="6accaefe-5992-4a79-9f34-9dfcb97b48a2" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/joyfulridersclub/">https://www.instagram.com/joyfulridersclub/</a></li></ul><ul id="9f0bb906-9341-4cd3-8c6d-0726d3f41774" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/mncyclingfederation/">https://www.instagram.com/mncyclingfederation/</a></li></ul><ul id="5d64cfed-2d71-4c4a-93d4-0de15093aca5" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/caketeamracing/">https://www.instagram.com/caketeamracing/</a></li></ul><ul id="5d000242-747c-4cae-9bdc-8f01771e416d" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/christofmpls/">https://www.instagram.com/christofmpls/</a></li></ul><ul id="6b7602b2-3bde-4b98-af41-c0886c5d9613" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/bikingwithbaddies/">https://www.instagram.com/bikingwithbaddies/</a></li></ul><ul id="51cc6d82-40ab-4017-9aa4-fbf48b33e155" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/thimbleweedbikebags">https://www.instagram.com/thimbleweedbikebags</a></li></ul><ul id="eee8a1c4-aedd-4a4d-b6bb-6106328d217f" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/30daysofbiking">https://www.instagram.com/30daysofbiking</a></li></ul><ul id="96a8ff3b-8e93-4da1-aa1e-9e1adcaf4b2a" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/genosack/">https://www.instagram.com/genosack/</a></li></ul><ul id="3f19fcc8-c41e-422a-91b8-6b30717ee600" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/recoverybikeshop/">https://www.instagram.com/recoverybikeshop/</a></li></ul><ul id="737d5a47-e9fd-4a18-b094-85c2fc27d1b4" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/sevenspokesbike">https://www.instagram.com/sevenspokesbike</a></li></ul><ul id="d911b79b-6a57-46a5-af16-8fe24d61f9ef" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/risahustad/">https://www.instagram.com/risahustad/</a></li></ul><ul id="0f13c6e1-2fcc-474c-b838-ab8384000183" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.instagram.com/mnrandonneurs/">https://www.instagram.com/mnrandonneurs/</a></li></ul><h3 id="7db3174e-e237-4193-8c15-639de3116f85" class="">🏁 Races / 🪨 Gravel</h3><p id="0f7a3d25-b968-4219-9a77-725ea83fb4ce" class=""><a href="https://mnbiketrailnavigator.blogspot.com/">MN Trail Navigator</a> ⭐ is the best resource for races and gravel events in and around Minnesota.</p><h3 id="a3c0cebf-81f2-4ab0-9465-391c179173ad" class="">⛺ Bikepacking</h3><p id="13b40aa0-8f90-48ed-8a57-16ae2872b5d6" class="">A few groups in the twin cities lead bikepacking trips every year.  These events are mostly advertised on social media and do tend to change from year to year.</p><p id="572eca67-ea3d-434b-a468-1fc8d4fcf322" class=""><strong>Utepils</strong>, <strong>Fulton</strong>, <strong>Angry Catfish</strong>, and <strong>Thimbleweed</strong> have all organized trips in the past.</p><h3 id="35c29ee6-7149-4d14-93b3-860bb8b123ef" class="">🚧 Critical Mass</h3><p id="b2c1f684-1af6-495b-b230-1320d62f6a72" class="">Last Saturday of every month.  Meet at 4PM, roll out at 5PM at “The Quarry” shopping center in NE.  <a href="https://bit.ly/criticalmassmpls">bit.ly/criticalmassmpls</a></p><p id="7d8164f9-bc7b-43f0-bbf3-3c4ac7ec7f20" class="">
+</p></div></article></body></html>

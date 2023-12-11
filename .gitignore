@@ -26,3 +26,4 @@ dist-ssr
 # Credentials files
 .env
 src/data/keys.json
+bicyclegroupsorg-d7a3b65f879f.json

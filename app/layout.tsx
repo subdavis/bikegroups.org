@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { GoogleAnalytics } from '@next/third-parties/google'
 import "./globals.css";
 import Header from "./header";
 import Footer from "./footer";
@@ -21,6 +22,7 @@ export default function RootLayout(params: Readonly<{children: React.ReactNode}>
         </div>
         <Footer />
       </body>
+      <GoogleAnalytics gaId="G-XS73FLDE93" />
     </html>
   );
 }

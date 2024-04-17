@@ -8,7 +8,7 @@ function inlineBlockWord(word: string) {
 
 function bigwheel() {
   return <div className="relative">
-    <div className="absolute -z-10 bg-[url('/wheel.webp')] w-[512px] h-[512px] bg-contain animate-spin-slow -top-[536px] -right-16" />
+    <div className="absolute -z-10 bg-[url('/wheel.small.webp')] w-[512px] h-[512px] bg-contain animate-spin-slow -top-[536px] -right-16" />
   </div>
 }
 

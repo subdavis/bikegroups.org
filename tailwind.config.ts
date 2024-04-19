@@ -13,7 +13,8 @@ const config: Config = {
       },
     },
     fontSize: {
-      sm: '0.8rem',
+      xs: '0.75rem',
+      sm: '0.875rem',
       base: '0.9rem',
       xl: '1.25rem',
       '2xl': '1.563rem',

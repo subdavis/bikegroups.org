@@ -2,17 +2,22 @@ import Image from "next/image";
 
 export default function Footer() {
   return <footer className="bg-stone-950">
-    <div className="flex flex-row mx-auto max-w-screen-md justify-between py-8 px-4">
-      <div className="text-stone-100 text-left text-base">
-        <p className="mb-6">
+    <div className="flex flex-row mx-auto max-w-screen-md justify-between py-6 px-4">
+      <div className="text-stone-100 text-left text-sm font-mono">
+        <p className="mb-4">
           © 2024 bikegroups.org
         </p>
-        <p className="mb-6 underline">
+        <p className="mb-4 underline">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
             submit an update
           </a>
         </p>
-        <p className="mb-6">
+        <p className="mb-4">
+          <a href="https://github.com/subdavis/bikegroups.org" className="text-stone-100 underline">
+            edit the code
+          </a>
+        </p>
+        <p className="mb-4">
           design by <a className="underline" href="https://subdavis.com">subdavis.com</a>
         </p>
       </div>

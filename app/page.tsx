@@ -4,30 +4,48 @@ import Quote from './quote';
 
 export default function Home() {
   return (
-    <main> 
+    <main>
+      <Org
+        name='Utepils Cycling'
+        days={['W', 'Su']}
+        quote="Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere."
+        description={
+          <>
+            <h3 className='text-xl mb-3'>Sunday Morning Rides</h3>
+            <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
+            <h3 className='text-xl mb-3'>Wednesday Women’s Rides</h3>
+            <p className="mb-3">Organized in the same facebook group.</p>
+          </>
+        }
+        facebook='https://www.facebook.com/utepilscycling/'
+        location='Theodore Wirth Park'
+        image='/images/Utepils_Cycling_Full_Group.jpg'
+        highlight
+        verified
+      />
       <Org
         name="Angry Catfish Group Rides"
         quote="Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way."
         description="Lots of different options for shop rides ranging from speedy to gravely to social."
-        image="/images/acf.jpg"
+        image="/images/Angry_Catfish_Group.jpg"
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
       <Org
         name="Behind Bars Social Rides"
         description="Rides lead by Behind Bars Bicycle Shop ambassadors."
-        image="/images/behind-bars.jpg"
+        image="/images/Behind_Bars_Bike_Shop.jpg"
         facebook='https://www.facebook.com/BehindBarsBicycleShopMN/events'
         instagram='https://www.instagram.com/behindbarsbicycleshop/'
-        location="Northeast"
+        location="13th Ave Northeast"
       />
       <Org
         name="Biking with Baddies"
         quote="Come bike with some Beautiful, Authentic, Divine, Determined, Intelligent, Energetic Sistas."
-        image="/images/baddies.png"
+        image="/images/Biking_With_Baddies_Group.png"
         instagram="https://www.instagram.com/bikingwithbaddies/"
       />
       <Org
-        name="Bone Saw Cycling Collective ⭐"
+        name="Bone Saw Cycling Collective"
         days={['T']}
         quote="Making cycling better for all by improving its members skill in any and all cycling disciplines, while fostering a non-judgmental atmosphere."
         description={
@@ -38,7 +56,7 @@ export default function Home() {
             </a>
           </span>
         }
-        image="/images/bonesaw.jpg"
+        image="/images/Bonesaw_Cycling_Collective_Bridge_Photo.jpg"
         instagram='https://www.instagram.com/bonesawcyclingcollective/'
         facebook='https://www.facebook.com/bonesawcyclingcollective/'
         location="Sabo Bridge"
@@ -47,7 +65,7 @@ export default function Home() {
         name="Corpse Whale Racing"
         quote="MPLS made cycling team. We race track, road, criteriums, cyclocross and endurance, party on bikes, and give back to our community."
         description="Racing team that also hosts regular social rides."
-        image="/images/corpsewhale.jpg"
+        image="/images/Corpse_Whale_Racing_Team.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/corpsewhaleracing/'
         instagram='https://www.instagram.com/corpsewhaleracing/'
@@ -56,14 +74,15 @@ export default function Home() {
         name="Cycle Sisters"
         quote="We host fun-ass themed bike rides while supporting Minneapolis businesses owned by women and BIPOC owners. BIPOC woman safe space. Open 2 all. "
         description="Get ride updates and notifications using the google form on their instagram page."
-        image="/images/cyclesisters.jpg"
+        image="/images/Cycle_Sisters_Minneapolis.jpg"
         facebook="https://www.facebook.com/CycleSistersMpls/"
         instagram="https://www.instagram.com/CycleSistersMpls/"
       />
       <Org
         name="Handup Social Series"
-        description="Formerly Fulton Racing. The team is currently in a transition, but will probably continue to lead social rides in 2024. Watch their socials for updates."
-        image="/images/handup.jpg"
+        quote="twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻"
+        description="Formerly Fulton Racing, the team hosts Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."
+        image="/images/Handup_Racing_Group.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/handupracing'
         instagram='https://www.instagram.com/handupracing/'
@@ -76,7 +95,7 @@ export default function Home() {
         instagram='https://www.instagram.com/greaseragbikes/'
         facebook='https://www.facebook.com/groups/greaserag'
         location='Seward'
-        image='/images/greaserag.jpg'
+        image='/images/Grease_Rag_Group.jpg'
       />
       <Org
         name="Freewheel Shop Rides"
@@ -86,32 +105,33 @@ export default function Home() {
       />
       <Org
         name="The Hub Cycling Team Rides"
-        description='Hosts regular rides through the season on Wednesdays, usually ending at Arbiter or Bang Brewing'
+        description='Hosts regular rides through the season on Wednesdays, usually starting from the Minnehaha Ave shop and ending at Arbiter or Bang Brewing.'
         quote='The Hub Cycling Team is a group of like minded individuals who ride, race, work, and play together.'
         instagram='https://www.instagram.com/hubcyclingteam/'
         facebook='https://www.facebook.com/hubcyclingteam/'
-        image='/images/hub.jpg'
+        image='/images/The_Hub_Cycling_Team.jpg'
         days={['W']}
+        location='Longfellow'
       />
       <Org
         name="Joyful Riders Club"
         description="Regularly hosts social rides at a friendly pace. Monthly DJ rides and collaboration with Fulton Brewing."
         instagram='https://www.instagram.com/joyfulridersclub/'
         facebook='https://www.facebook.com/joyfulridersclub/'
-        image='/images/joyful.jpg'
+        image='/images/Joyful_Riders_Club.jpg'
         days={['Th']}
       />
       <Org
         name="Major Taylor Bicycling Club"
         quote="As the premier African-American bicycling club in the state of Minnesota and the Upper Midwest, we have brought diversity to the bicycling community of the Twin Cities since 1999. We invite you to learn more about our Club and our namesake - the legendary Major Taylor - the first Black world champion cyclist in 1899."
-        image="/images/majortaylor.jpg"
+        image="/images/Major_Taylor_Cycling_Club.jpg"
         website='https://major-taylor-minnesota.squarespace.com/'
         calendar='https://major-taylor-minnesota.squarespace.com/ride-schedule'
       />
       <Org
         name="Midwest Dirt Legion"
         quote="MIDWEST DIRT LEGION STRIVES TO CREATE AUTHENTIC AND INCLUSIVE SPACES FOR CISGENDER WOMEN, TRANSGENDER, NON-BINARY AND GENDER NON-CONFORMING FOLKS IN THE CYCLING COMMUNITY.  Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program."
-        image="/images/dirtlegion.jpg"
+        image="/images/Dirt_Legion_Cycling_Team.jpg"
         website='https://www.dirtlegion.com/'
         calendar='https://www.dirtlegion.com/events'
         instagram='https://www.instagram.com/midwestdirtlegion/'
@@ -128,7 +148,7 @@ export default function Home() {
         quote='MPLS Piecycle Club is a Minneapolis based cycling club focused on building fun and inviting biking experiences for riders of all levels. We organize chill (Pastry Pace), family-friendly group rides around Minneapolis that start and/or end with delicious baked goods.'
         website='https://pie.bike'
         instagram='https://www.instagram.com/piecycleclub/'
-        image='/images/piecycle.jpg'
+        image='/images/Pie_Cycle_Club.jpg'
       />
       <Org
         name="Plymouth Bikes & Beer"
@@ -151,7 +171,7 @@ export default function Home() {
         instagram='https://www.instagram.com/recoverybikeshop/'
         calendar='http://recovery.bike/events/'
         location='Northeast'
-        image='/images/recovery.jpg'
+        image='/images/Recovery_Shop_Group.jpg'
         days={['Su']}
       />
       <Org
@@ -159,12 +179,12 @@ export default function Home() {
         description='Slow Roll Twin Cities aims to challenge negative perceptions of the city and foster economic revitalization.'
         facebook='https://www.facebook.com/SlowRollTC/'
         location='Phillips'
-        image='/images/slowroll.jpg'
+        image='/images/Slow_Roll_Group.jpg'
       />
       <Org
         name="Stamina Racing Collective"
         quote='Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.'
-        image='/images/stamina.jpg'
+        image='/images/Stamina_Racing_Collective_Group.jpg'
         website='https://www.staminaracingcollective.com/'
         calendar='https://www.staminaracingcollective.com/calendar'
       />
@@ -176,24 +196,6 @@ export default function Home() {
         instagram="https://www.instagram.com/unruly.women/"
         facebook="https://www.facebook.com/unruly.women.outdoors"
       />
-      <Org
-        name='Utepils Cycling ⭐'
-        days={['W', 'Su']}
-        description={
-          <>
-            <h3 className='text-xl mb-3'>Sunday Morning Rides</h3>
-            <Quote>
-            Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere.
-            </Quote>
-            <p className="my-3">All ride organization happens in the facebook group (below).</p>
-            <h3 className='text-xl mb-3'>Utepils Women’s Wednesday Rides</h3>
-            <p className="mb-3">Organized in the same facebook group.</p>
-          </>
-        }
-        facebook='https://www.facebook.com/utepilscycling/'
-        location='Theodore Wirth Park'
-        image='/images/utepils.jpg'
-      />
 
       <hr />
 
@@ -203,30 +205,20 @@ export default function Home() {
           { href: 'https://www.reddit.com/r/CyclingMSP/', text: 'r/CyclingMSP' },
           { href: 'https://www.facebook.com/groups/TCMNBikeTalk', text: 'TCMN Bike Talk' },
           { href: 'https://www.facebook.com/groups/451259884926066/', text: 'Minnesota Bike Camping and Bikepacking' },
-          { href: 'https://www.facebook.com/groups/TwinCitiesBicycleTradingPost', text: 'Twin Cities Bicycle Trading Post' },
+          { href: 'https://www.facebook.com/groups/TwinCitiesBicycleTradingPost', text: 'TC Bicycle Trading Post' },
+          { href: 'https://www.facebook.com/groups/smallframesbighearts/', text: 'Small Frames Big Hearts' },
+          { href: 'https://www.facebook.com/groups/tcwtfbikes', text: 'FTWNB Trading Post' },
         ]}
       />
 
       <LinkPile
         title="📝 Blogs"
         links={[
-          { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator', icon: '⭐' },
+          { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator' },
           { href: 'https://mplsbikelove.com/', text: 'MPLS Bike Love' },
           { href: 'https://bikejerks.com/', text: 'bikejerks' },
           { href: 'https://carsrcoffins.com/', text: 'cars r coffins' },
-        ]}
-      />
-
-      <LinkPile
-        title="🌅 Instagram"
-        links={[
-          { href: "https://www.instagram.com/mncyclingfederation/", text: 'MN Cycling Federation' },
-          { href: "https://www.instagram.com/caketeamracing/", text: 'Cake Team Racing' },
-          { href: "https://www.instagram.com/thimbleweedbikebags" , text: 'Thimbleweed Bike Bags' },
-          { href: "https://www.instagram.com/30daysofbiking" , text: '30 Days of Biking' },
-          { href: "https://www.instagram.com/genosack/" , text: 'genosack' },
-          { href: "https://www.instagram.com/sevenspokesbike", text: 'Seven Spokes Bike Shop' },
-          { href: "https://www.instagram.com/mnrandonneurs/", text: "MN Randonneurs" },
+          { href: "http://www.ibikempls.com/", text: "i bike mpls" },
         ]}
       />
     </main>

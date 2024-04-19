@@ -3,8 +3,8 @@ import clsx from "clsx";
 export type Day = 'M' | 'T' | 'W' | 'Th' | 'F' | 'Sa' | 'Su';
 const allDays: Day[] = ['M', 'T', 'W', 'Th', 'F', 'Sa', 'Su'];
 
-const activeClasses = "bg-stone-300 text-stone-900 border-2 border-stone-600 font-bold";
-const inactiveClasses = "bg-stone-100 text-stone-400";
+const activeClasses = "bg-stone-300 text-stone-950 border-2 border-stone-800 font-bold";
+const inactiveClasses = "bg-stone-100 text-stone-700";
 
 /** Return a 7-day indicator where each day is a circle with its letter */
 export default function WeekIndicator(params: { days: Day[]}) {

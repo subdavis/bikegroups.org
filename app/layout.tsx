@@ -6,10 +6,16 @@ import Header from "./header";
 import Footer from "./footer";
 
 const inter = Inter({ subsets: ["latin"] });
-const description = 'Join a group ride with a community of cyclists in Minneapolis. This is a list of active groups that host regular rides throughout the season. Come make friends.'
+const description = 'Join a group ride with a community of cyclists in Minneapolis. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.'
 export const metadata: Metadata = {
-  title: "2024 Minneapolis Bike Groups",
+  title: "2024 Minneapolis Bike Clubs",
   description,
+  alternates: {
+    canonical: '/',
+    languages: {
+      'en-US': '/en-US'
+    },
+  },
 };
 
 export default function RootLayout(params: Readonly<{children: React.ReactNode}>) {

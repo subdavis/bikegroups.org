@@ -1,9 +1,7 @@
-import Quote from "./quote";
-
 function inlineBlockWord(word: string) {
-  return <div className="block">
-    <span className="inline rounded bg-stone-950 text-stone-100 px-2">{word}</span>
-  </div>
+  return <span className="block">
+    <span className="inline rounded bg-stone-950 text-stone-100 px-2">{word}&nbsp;</span>
+  </span>
 }
 
 function bigwheel() {
@@ -18,12 +16,12 @@ export default function Header() {
       {inlineBlockWord('2024')}
       {inlineBlockWord('Minneapolis')}
       {inlineBlockWord('Bike')}
-      {inlineBlockWord('Groups')}
+      {inlineBlockWord('Clubs')}
     </h1>
     {bigwheel()}
     <p className="my-3 z-10 bg-white">
       Join a group bicycle ride with a community of cyclists in Minneapolis.
-      This is a list of active groups that host rides throughout the season.
+      This is a list of active teams and clubs that host rides throughout the season.
       <span className="font-semibold"> Notice something missing?</span>
       <a className='underline pl-1' href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
         Let us know!

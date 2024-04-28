@@ -94,7 +94,7 @@ export default function Home() {
         name="Freewheel Shop Rides"
         days={['M', 'W']}
         description="Regular rides that leave from various freewheel shops in the Twin Cities. Various days and pace groups available."
-        calendar="https://www.freewheelbike.com/about/shop-rides-pg37.htm"
+        calendar="https://www.freewheelbike.com/about/event-calendar-pg1200.htm"
         facebook='https://www.facebook.com/FreewheelBike/events'
         location='Multiple Locations'
       />

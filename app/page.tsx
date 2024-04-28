@@ -44,7 +44,7 @@ export default function Home() {
       <Org
         name="Corpse Whale Racing"
         quote="MPLS made cycling team. We race track, road, criteriums, cyclocross and endurance, party on bikes, and give back to our community."
-        description="Racing team that also hosts regular social rides."
+        description="Racing team that has hosted social rides in the past and might try some clinics or skills sessions this year. Follow their socials for updates!"
         image="/images/Corpse_Whale_Racing_Team.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/corpsewhaleracing/'

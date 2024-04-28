@@ -13,6 +13,10 @@ html, body {
   color: rgb(var(--foreground-rgb));
 }
 
+a {
+  text-decoration: underline;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

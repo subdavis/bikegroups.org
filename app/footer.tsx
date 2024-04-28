@@ -7,13 +7,13 @@ export default function Footer() {
         <p className="mb-4">
           © 2024 bikegroups.org
         </p>
-        <p className="mb-4 underline">
+        <p className="mb-4">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
             submit an update
           </a>
         </p>
         <p className="mb-4">
-          <a href="https://github.com/subdavis/bikegroups.org" className="text-stone-100 underline">
+          <a href="https://github.com/subdavis/bikegroups.org" className="text-stone-100">
             edit the code
           </a>
         </p>

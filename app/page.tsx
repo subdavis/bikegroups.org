@@ -41,6 +41,9 @@ export default function Home() {
       <Org
         name="Biking with Baddies"
         quote="Come bike with some Beautiful, Authentic, Divine, Determined, Intelligent, Energetic Sistas."
+        description={
+          <p>Community ride schedule for summer has been <a href="https://www.instagram.com/p/C6R5axsp5ID">announced on instagram</a>.</p>
+        }
         image="/images/Biking_With_Baddies_Group.png"
         instagram="https://www.instagram.com/bikingwithbaddies/"
       />
@@ -89,8 +92,20 @@ export default function Home() {
         location="Northeast"
       />
       <Org
+        name='Genosack Summer Monday Rides'
+        quote='Our events are for people who love experiencing bicycles, outdoor spaces, and unity.  We take pride in creating an environment of inclusivity, respect, and fun for all people of all abilities.'
+        description={
+          <p>Monday summer group rides <a href="https://www.instagram.com/p/C6T9ZAcuekb">announced for the season on instagram</a>.</p>
+        }
+        instagram="https://www.instagram.com/genosack/"
+        image="/images/Genosack_Bikes_Leaning.jpeg"
+      />
+      <Org
         name="Grease Rag"
         quote="Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space."
+        description={
+          <p>Annual FTW (femme/trans/women, non-binary, two-spirit) bikepacking trip to Carver State Park for all skill levels August 17-18 <a href="https://www.instagram.com/p/C6SoQMuM0x-/">announcement</a>.</p>
+        }
         website="https://greaserag.org/"
         instagram='https://www.instagram.com/greaseragbikes/'
         facebook='https://www.facebook.com/groups/greaserag'

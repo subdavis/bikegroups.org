@@ -25,6 +25,7 @@ export default function Home() {
       />
       <Org
         name="Angry Catfish Group Rides"
+        days={['M', "W", "Th"]}
         quote="Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way."
         description="Lots of different options for shop rides ranging from speedy to gravely to social."
         image="/images/Angry_Catfish_Group.jpg"
@@ -40,9 +41,10 @@ export default function Home() {
       />
       <Org
         name="Biking with Baddies"
+        days={["F"]}
         quote="Come bike with some Beautiful, Authentic, Divine, Determined, Intelligent, Energetic Sistas."
         description={
-          <p>Community ride schedule for summer has been <a href="https://www.instagram.com/p/C6R5axsp5ID">announced on instagram</a>.</p>
+          <p>Monthly Friday ride schedule for summer has been <a href="https://www.instagram.com/p/C6R5axsp5ID">announced on instagram</a>.</p>
         }
         image="/images/Biking_With_Baddies_Group.png"
         instagram="https://www.instagram.com/bikingwithbaddies/"
@@ -93,6 +95,7 @@ export default function Home() {
       />
       <Org
         name='Genosack Summer Monday Rides'
+        days={['M']}
         quote='Our events are for people who love experiencing bicycles, outdoor spaces, and unity.  We take pride in creating an environment of inclusivity, respect, and fun for all people of all abilities.'
         description={
           <p>Monday summer group rides <a href="https://www.instagram.com/p/C6T9ZAcuekb">announced for the season on instagram</a>.</p>

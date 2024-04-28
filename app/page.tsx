@@ -6,24 +6,6 @@ export default function Home() {
   return (
     <main>
       <Org
-        name='Utepils Cycling'
-        days={['W', 'Su']}
-        quote="Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere."
-        description={
-          <>
-            <h3 className='text-xl mb-3'>Sunday Morning Rides</h3>
-            <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
-            <h3 className='text-xl mb-3'>Wednesday Women’s Rides</h3>
-            <p className="mb-3">Organized in the same facebook group.</p>
-          </>
-        }
-        facebook='https://www.facebook.com/utepilscycling/'
-        location='Theodore Wirth Park'
-        image='/images/Utepils_Cycling_Full_Group.jpg'
-        highlight
-        verified
-      />
-      <Org
         name="Angry Catfish Group Rides"
         days={['M', "W", "Th"]}
         quote="Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way."
@@ -214,7 +196,23 @@ export default function Home() {
         instagram="https://www.instagram.com/unruly.women/"
         facebook="https://www.facebook.com/unruly.women.outdoors"
       />
-
+      <Org
+        name='Utepils Cycling'
+        days={['W', 'Su']}
+        quote="Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere."
+        description={
+          <>
+            <h3 className='text-xl mb-3'>Sunday Morning Rides</h3>
+            <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
+            <h3 className='text-xl mb-3'>Wednesday Women’s Rides</h3>
+            <p className="mb-3">Organized in the same facebook group.</p>
+          </>
+        }
+        facebook='https://www.facebook.com/utepilscycling/'
+        location='Theodore Wirth Park'
+        image='/images/Utepils_Cycling_Full_Group.jpg'
+        verified
+      />
       <hr />
 
       <LinkPile

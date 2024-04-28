@@ -35,14 +35,7 @@ export default function Home() {
         name="Bone Saw Cycling Collective"
         days={['T']}
         quote="Making cycling better for all by improving its members skill in any and all cycling disciplines, while fostering a non-judgmental atmosphere."
-        description={
-          <span>
-            Bone Saw rides on Tuesdays throughout the spring, summer, and early fall.  This group meets at the top of Martin Olav Sabo Bridge, and it’s one of the largest groups by ridership in the city. I’ve starred this group as really awesome, well organized, and safety-focused.  Watch our on their social channels for additional
-            <a href="https://www.facebook.com/bonesawcyclingcollective/posts/pfbid0S8RVajVnXuSA3ajNfnWKEXuvzkBcqYo8GGFCDTf7zE3NpcGHDC4VhrNqC9JqGx51l">
-              trans / gender non-conforming rides.
-            </a>
-          </span>
-        }
+        description="Bone Saw rides on Tuesdays throughout the spring, summer, and early fall.  This group meets at the top of Martin Olav Sabo Bridge, and it’s one of the largest groups by ridership in the city. Watch our on their social channels for additional trans/GNC rides."
         image="/images/Bonesaw_Cycling_Collective_Bridge_Photo.jpg"
         instagram='https://www.instagram.com/bonesawcyclingcollective/'
         facebook='https://www.facebook.com/bonesawcyclingcollective/'

@@ -136,7 +136,7 @@ export default function Home() {
         location='St Paul &amp; Arden Hills'
         website='https://www.nowbikes-fitness.com/articles/rides-events-pg161.htm'
         description="Faster paced rides from both locations."
-        image="/images/NOW_Bikes_Group.jpg"
+        image="/images/Now_Bikes_Group.jpg"
       />
       <Org
         name="Perennial Cycle Shop Rides"

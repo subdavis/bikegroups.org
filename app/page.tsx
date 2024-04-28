@@ -130,6 +130,15 @@ export default function Home() {
         instagram='https://www.instagram.com/midwestdirtlegion/'
       />
       <Org
+        name="NOW Bikes"
+        days={['Sa', 'Su', 'T', 'Th']}
+        quote="This is where the rubber meets the road. Join us on one of our signature group rides this season. Whether you're new to cycling or a seasoned vet, we have a ride that's right for you."
+        location='St Paul &amp; Arden Hills'
+        website='https://www.nowbikes-fitness.com/articles/rides-events-pg161.htm'
+        description="Faster paced rides from both locations."
+        image="/images/NOW_Bikes_Group.jpg"
+      />
+      <Org
         name="Perennial Cycle Shop Rides"
         description="Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their instagram for event updates. Sometimes collaborates with Joyful Riders Club."
         instagram='https://www.instagram.com/perennialcycle/'

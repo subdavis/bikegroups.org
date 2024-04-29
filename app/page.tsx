@@ -40,6 +40,7 @@ export default function Home() {
         instagram='https://www.instagram.com/bonesawcyclingcollective/'
         facebook='https://www.facebook.com/bonesawcyclingcollective/'
         location="Sabo Bridge"
+        highlight
       />
       <Org
         name="Corpse Whale Racing"
@@ -115,6 +116,7 @@ export default function Home() {
         facebook='https://www.facebook.com/joyfulridersclub/'
         image='/images/Joyful_Riders_Club.jpg'
         days={['Th']}
+        highlight
       />
       <Org
         name="Major Taylor Bicycling Club"
@@ -216,6 +218,18 @@ export default function Home() {
         location='Theodore Wirth Park'
         image='/images/Utepils_Cycling_Full_Group.jpg'
         verified
+        highlight
+      />
+
+      <Org
+        name='West River Racing Club Sunday Coffee Ride'
+        days={['Su']}
+        quote="West River Racing is Minnesota’s largest USAC-affiliated adult bike racing club with more than 70 members. Founded in 2008 as Birchwood Bike and Racing Team, we are a Minneapolis / St. Paul based passionate group of cycling enthusiasts who enjoy all forms of group bike riding. Our journey, spanning over a decade, reflects our unwavering commitment to the joy of cycling."
+        description="Typically 2 hours of riding at 15MPH average pace with a coffee stop. The sunday ride is open to all, and other weekly rides require a membership."
+        instagram='https://www.instagram.com/westriverracing/'
+        website='https://westriverracing.bike/about'
+        location='E Lake &amp; W River Road'
+        image='/images/West_River_Racing_Coffee_Ride.jpg'
       />
       <hr />
 

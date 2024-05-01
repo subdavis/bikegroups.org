@@ -16,7 +16,7 @@ export default function Home() {
       <Org
         name="Behind Bars Social Rides"
         description="Rides lead by Behind Bars Bicycle Shop ambassadors."
-        image="/images/Behind_Bars_Bike_Shop.jpg"
+        image="images/Behind_Bars_Ambassador_Solstice.jpg"
         facebook='https://www.facebook.com/BehindBarsBicycleShopMN/events'
         instagram='https://www.instagram.com/behindbarsbicycleshop/'
         location="13th Ave Northeast"
@@ -63,7 +63,7 @@ export default function Home() {
         name="Handup Social Series"
         quote="twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻"
         description="Formerly Fulton Racing, the team hosts Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."
-        image="/images/Handup_Racing_Group.jpg"
+        image="/images/Behind_Bars_Bike_Shop.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/handupracing'
         instagram='https://www.instagram.com/handupracing/'

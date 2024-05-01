@@ -188,6 +188,17 @@ export default function Home() {
         image='/images/Slow_Roll_Group.jpg'
       />
       <Org
+        name='Sociable Cider Werks Group Rides (SGR)'
+        quote='Sociable Group Rides will take place every Wednesday until the snow sticks. Wheels roll at 6pm. Keep an eye on our social media pages for any announcements regarding weather cancellations.'
+        description={
+          <p>Wednesday rides for the season <a href="https://www.instagram.com/p/C6YynDUACTy/">announced on instagram</a></p>
+        }
+        facebook='https://www.facebook.com/groups/sociablerides/'
+        location='Northeast'
+        image='/images/Sociable_Cider_Werks_Group.jpg'
+        days={['W']}
+      />
+      <Org
         name="Stamina Racing Collective"
         quote='Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.'
         image='/images/Stamina_Racing_Collective_Group.jpg'

@@ -261,9 +261,9 @@ export default function Home() {
         links={[
           { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator' },
           { href: 'https://mplsbikelove.com/', text: 'MPLS Bike Love' },
-          { href: 'https://bikejerks.com/', text: 'bikejerks' },
-          { href: 'https://carsrcoffins.com/', text: 'cars r coffins' },
-          { href: "http://www.ibikempls.com/", text: "i bike mpls" },
+          { href: 'https://streets.mn/', text: 'Streets.mn' },
+          { href: 'https://www.ourstreetsmpls.org/current_news', text: 'Our Streets' },
+          { href: 'https://www.bikemn.org/blog/', text: 'Bicycle Alliance of MN' },
         ]}
       />
     </main>

@@ -24,9 +24,6 @@ export const metadata: Metadata = {
     locale: 'en_US',
     type: 'website',
   },
-  authors: [
-    { name: 'Brandon Davis', url: 'https://subdavis.com' },
-  ],
   alternates: {
     canonical: '/',
     languages: {

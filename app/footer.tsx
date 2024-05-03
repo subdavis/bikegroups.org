@@ -17,9 +17,6 @@ export default function Footer() {
             edit the code
           </a>
         </p>
-        <p className="mb-4">
-          design by <a className="underline" href="https://subdavis.com">subdavis.com</a>
-        </p>
       </div>
       <div className="invert w-32 h-32">
         <Image

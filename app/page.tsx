@@ -120,9 +120,11 @@ export default function Home() {
       />
       <Org
         name="Major Taylor Bicycling Club"
+        days={['M', 'W', 'Sa']}
         quote="As the premier African-American bicycling club in the state of Minnesota and the Upper Midwest, we have brought diversity to the bicycling community of the Twin Cities since 1999. We invite you to learn more about our Club and our namesake - the legendary Major Taylor - the first Black world champion cyclist in 1899."
         image="/images/Major_Taylor_Cycling_Club.jpg"
         website='https://major-taylor-minnesota.squarespace.com/'
+        instagram='https://www.instagram.com/majortaylorminnesota/'
         calendar='https://major-taylor-minnesota.squarespace.com/ride-schedule'
       />
       <Org

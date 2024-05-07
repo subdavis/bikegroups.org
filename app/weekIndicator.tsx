@@ -8,7 +8,7 @@ const inactiveClasses = "bg-stone-100 text-stone-700";
 
 /** Return a 7-day indicator where each day is a circle with its letter */
 export default function WeekIndicator(params: { days: Day[]}) {
-  return <div className="block my-4">
+  return <div className="block my-4" data-nosnippet>
     {
       allDays.map(day => {
         const active = params.days.includes(day);

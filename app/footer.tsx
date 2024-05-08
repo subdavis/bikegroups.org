@@ -21,7 +21,7 @@ export default function Footer() {
       <div className="invert w-32 h-32">
         <Image
           src="/bicycle.webp"
-          alt="A spinning wheel"
+          alt="A penny farthing illustration"
           width={48}
           height={48}
           layout="responsive"

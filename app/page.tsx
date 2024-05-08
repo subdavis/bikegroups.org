@@ -18,8 +18,8 @@ export default function Home() {
         description={
           <p>
             Rides lead by Behind Bars Bicycle Shop ambassadors.
-            This year Behind Bars shop ambassadors are also hosting
-            <a href="https://www.instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">a series of beginner bikepacking classes and trips.</a>
+            This year Behind Bars shop ambassadors are also
+            hosting <a href="https://www.instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">a series of beginner bikepacking classes and trips</a>.
           </p>
         }
         image="images/Behind_Bars_Ambassador_Solstice.jpg"

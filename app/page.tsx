@@ -9,13 +9,19 @@ export default function Home() {
         name="Angry Catfish Group Rides"
         days={['M', "W", "Th"]}
         quote="Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way."
-        description="Lots of different options for shop rides ranging from speedy to gravely to social."
+        description="ACF hosts a Monday speedy training ride, a wednesday social open ride, and a thursday FTW social ride. Check their website for the details."
         image="/images/Angry_Catfish_Group.jpg"
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
       <Org
         name="Behind Bars Social Rides"
-        description="Rides lead by Behind Bars Bicycle Shop ambassadors."
+        description={
+          <p>
+            Rides lead by Behind Bars Bicycle Shop ambassadors.
+            This year Behind Bars shop ambassadors are also hosting
+            <a href="https://www.instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">a series of beginner bikepacking classes and trips.</a>
+          </p>
+        }
         image="images/Behind_Bars_Ambassador_Solstice.jpg"
         facebook='https://www.facebook.com/BehindBarsBicycleShopMN/events'
         instagram='https://www.instagram.com/behindbarsbicycleshop/'
@@ -62,7 +68,7 @@ export default function Home() {
       <Org
         name="Handup Social Series"
         quote="twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻"
-        description="Formerly Fulton Racing, the team hosts Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."
+        description="The team leads themed Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."
         image="/images/Behind_Bars_Bike_Shop.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/handupracing'
@@ -221,9 +227,9 @@ export default function Home() {
         quote="Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere."
         description={
           <>
-            <h3 className='text-xl mb-3'>Sunday Morning Rides</h3>
+            <h4 className='text-xl mb-3'>Sunday Morning Rides</h4>
             <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
-            <h3 className='text-xl mb-3'>Wednesday Women’s Rides</h3>
+            <h4 className='text-xl mb-3'>Wednesday Women’s Rides</h4>
             <p className="mb-3">Organized in the same facebook group.</p>
           </>
         }

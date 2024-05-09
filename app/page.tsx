@@ -236,7 +236,6 @@ export default function Home() {
         facebook='https://www.facebook.com/utepilscycling/'
         location='Theodore Wirth Park'
         image='/images/Utepils_Cycling_Full_Group.jpg'
-        verified
         highlight
       />
 

@@ -57,14 +57,14 @@ export default function Home() {
         facebook='https://www.facebook.com/corpsewhaleracing/'
         instagram='https://www.instagram.com/corpsewhaleracing/'
       />
-      <Org
+      {/* <Org
         name="Cycle Sisters"
         quote="We host fun-ass themed bike rides while supporting Minneapolis businesses owned by women and BIPOC owners. BIPOC woman safe space. Open 2 all. "
         description="Get ride updates and notifications using the google form on their instagram page."
         image="/images/Cycle_Sisters_Minneapolis.jpg"
         facebook="https://www.facebook.com/CycleSistersMpls/"
         instagram="https://www.instagram.com/CycleSistersMpls/"
-      />
+      /> */}
       <Org
         name="EZ Bike Club"
         quote="El Zapatero was started because of our love and passion for style, fashion, sneakers and the exclusivity that came along with it. The sneaker and fashion community welcomed us with open arms and within that community we noticed a group of individuals who also had a love and passion for cycling, health and fitness. We decided to get this group of individuals together for bicycle rides."

@@ -66,6 +66,14 @@ export default function Home() {
         instagram="https://www.instagram.com/CycleSistersMpls/"
       />
       <Org
+        name="EZ Bike Club"
+        quote="El Zapatero was started because of our love and passion for style, fashion, sneakers and the exclusivity that came along with it. The sneaker and fashion community welcomed us with open arms and within that community we noticed a group of individuals who also had a love and passion for cycling, health and fitness. We decided to get this group of individuals together for bicycle rides."
+        description="Rides and other community engagement events announced through instagram."
+        image="/images/EZ.jpeg"
+        instagram='https://www.instagram.com/ez.bikeclub/'
+        website='https://www.ezbikeclub.org/'
+      />
+      <Org
         name="Handup Social Series"
         quote="twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻"
         description="The team leads themed Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."

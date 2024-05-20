@@ -1,5 +1,5 @@
 export default function Quote(params: { children: JSX.Element | React.ReactNode}) {
-  return <p className="border-l-4 rounded bg-stone-100 text-base border-black border-solid pl-4 py-2 text-stone-950 border-stone-950	">
+  return <p className="border-l-4 rounded bg-stone-100 text-base pl-4 py-2 text-stone-950 border-stone-950	">
     &quot;{params.children}&quot;
   </p>
 }

@@ -107,7 +107,9 @@ export default function Home() {
       />
       <Org
         name="The Hub Cycling Team Rides"
-        description='Hosts regular rides through the season on Wednesdays, usually starting from the Minnehaha Ave shop and ending at Arbiter or Bang Brewing.'
+        description={
+          <p>Hosts regular rides through the season on Wednesdays, usually starting from the Minnehaha Ave shop and ending at Arbiter or Bang Brewing. <a href="https://www.instagram.com/p/C691XQ0sLSa">Read the announcement.</a></p>
+        }
         quote='The Hub Cycling Team is a group of like minded individuals who ride, race, work, and play together.'
         instagram='https://www.instagram.com/hubcyclingteam/'
         facebook='https://www.facebook.com/hubcyclingteam/'
@@ -155,6 +157,7 @@ export default function Home() {
         description="Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their instagram for event updates. Sometimes collaborates with Joyful Riders Club."
         instagram='https://www.instagram.com/perennialcycle/'
         facebook='https://www.facebook.com/perennialcycle/events'
+        image='/images/Perennial_Queer_History_Ride.jpeg'
         location='South Uptown'
       />
       <Org
@@ -209,6 +212,9 @@ export default function Home() {
       <Org
         name="Stamina Racing Collective"
         quote='Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.'
+        description={
+          <span>Group rides have not yet been announced for 2024. Stamina Racing also partners with <a href='https://driftlessgravelcamp.com/'>driftless gravel camp</a> in the spring to encourage and equip FTWNB riders to pursue gravel adventures.</span>
+        }
         image='/images/Stamina_Racing_Collective_Group.jpg'
         website='https://www.staminaracingcollective.com/'
         calendar='https://www.staminaracingcollective.com/calendar'

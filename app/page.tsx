@@ -266,6 +266,13 @@ export default function Home() {
       <hr />
 
       <LinkPile
+        title="📅 Annual Events"
+        links={[
+          { href: 'https://swiftcampout.com/', text: '2024 Swift Campout (June 22-23)' },
+        ]}
+      />
+
+      <LinkPile
         title="💬 Discussion"
         links={[
           { href: 'https://www.reddit.com/r/CyclingMSP/', text: 'r/CyclingMSP' },

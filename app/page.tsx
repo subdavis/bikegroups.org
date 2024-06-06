@@ -147,7 +147,7 @@ export default function Home() {
         name="Midwest Dirt Legion"
         quote="MIDWEST DIRT LEGION STRIVES TO CREATE AUTHENTIC AND INCLUSIVE SPACES FOR CISGENDER WOMEN, TRANSGENDER, NON-BINARY AND GENDER NON-CONFORMING FOLKS IN THE CYCLING COMMUNITY.  Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program."
         description={
-          <p>See their website for <a href="https://www.dirtlegion.com/group-ride-information">group rides</a>, skills clinics, and more.</p>
+          <p>See their website for <a href="https://www.dirtlegion.com/group-ride-information">ftw group rides</a>, skills clinics, and more.</p>
         }
         image="/images/Dirt_Legion_Cycling_Team.jpg"
         website='https://www.dirtlegion.com/'

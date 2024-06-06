@@ -231,6 +231,17 @@ export default function Home() {
         calendar='https://www.staminaracingcollective.com/calendar'
       />
       <Org
+        name="Team Recess"
+        quote="The Team Recess approach to racing and riding bikes is supportive, well-stocked with snacks, and fun. We love inviting our friends to play bikes. Recess is the time of day–no matter where you are in life–when you join with folx outside of boundaries set for you by work, school, and other obligations to play and work together and–of course–get the endorphins and the thrill going!"
+        description={
+          <p>Group ride schedule for the season is <a href="https://www.instagram.com/team_recess/p/C71niXwOiq8">announced on instagram</a>. Follow their socials for more details.</p>
+        }
+        image='/images/Team_Recess.jpg'
+        website="https://www.teamrecessmpls.com/"
+        instagram="https://www.instagram.com/team_recess/"
+        facebook='https://www.facebook.com/teamrecess/'
+      />
+      <Org
         name="Unruly Women"
         quote="My dream for Unruly Women is to create an inclusive and accessible community that empowers all female identifying and femme-leaning non-binary persons to reclaim their voice by unearthing their inner wild, outdoors."
         description="By participating in different adventures you’ll learn a variety of wilderness and sport specific skills in an environment where you can feel safe to discover your most authentic self and embrace all of it."

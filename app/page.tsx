@@ -228,6 +228,7 @@ export default function Home() {
         }
         image='/images/Stamina_Racing_Collective_Group.jpg'
         website='https://www.staminaracingcollective.com/'
+        instagram='https://www.instagram.com/stamina.racing.collective/'
         calendar='https://www.staminaracingcollective.com/calendar'
       />
       <Org

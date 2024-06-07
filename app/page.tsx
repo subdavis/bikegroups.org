@@ -246,6 +246,7 @@ export default function Home() {
         name="Unruly Women"
         quote="My dream for Unruly Women is to create an inclusive and accessible community that empowers all female identifying and femme-leaning non-binary persons to reclaim their voice by unearthing their inner wild, outdoors."
         description="By participating in different adventures you’ll learn a variety of wilderness and sport specific skills in an environment where you can feel safe to discover your most authentic self and embrace all of it."
+        image='/images/Unruly.jpeg'
         website="https://www.unrulywomen.org/"
         instagram="https://www.instagram.com/unruly.women/"
         facebook="https://www.facebook.com/unruly.women.outdoors"

@@ -127,9 +127,9 @@ export default function Home() {
       />
       <Org
         name="Joyful Riders Club"
-        description="Regularly hosts social rides at a friendly pace. Monthly DJ rides and collaboration with Fulton Brewing."
+        description="Meets year-round, the second Thursday of the month at Fulton Beer, for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
         instagram='https://www.instagram.com/joyfulridersclub/'
-        facebook='https://www.facebook.com/joyfulridersclub/'
+        facebook='https://www.facebook.com/thejoyfulriders/'
         image='/images/Joyful_Riders_Club.jpg'
         days={['Th']}
         highlight

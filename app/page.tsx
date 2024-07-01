@@ -263,7 +263,7 @@ export default function Home() {
             <p className="mb-3">Organized in the same facebook group.</p>
           </>
         }
-        facebook='https://www.facebook.com/utepilscycling/'
+        facebook='https://www.facebook.com/groups/UtepilsCycling'
         location='Theodore Wirth Park'
         image='/images/Utepils_Cycling_Full_Group.jpg'
         highlight

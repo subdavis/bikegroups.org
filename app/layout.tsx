@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   keywords: "bicycle, bike, ride, group, minneapolis, minnesota, club, team, social",
   openGraph: {
     title: '2024 Minneapolis Bike Clubs',
+    siteName: 'Minneapolis Bike Groups',
     description,
     images: [
       {

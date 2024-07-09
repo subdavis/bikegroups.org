@@ -23,15 +23,15 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
         <p>
           Rides lead by Behind Bars Bicycle Shop ambassadors. This year Behind
           Bars shop ambassadors are also hosting{" "}
-          <a href="https://www.instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">
+          <a href="https://www.Instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">
             a series of beginner bikepacking classes and trips
           </a>
           .
         </p>
       ),
       image: "images/Behind_Bars_Ambassador_Solstice.jpg",
-      facebook: "https://www.facebook.com/BehindBarsBicycleShopMN/events",
-      instagram: "https://www.instagram.com/behindbarsbicycleshop/",
+      Facebook: "https://www.Facebook.com/BehindBarsBicycleShopMN/events",
+      Instagram: "https://www.Instagram.com/behindbarsbicycleshop/",
       location: "13th Ave Northeast",
     },
   ],
@@ -45,14 +45,14 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
       description: (
         <p>
           Monthly Friday ride schedule for summer has been{" "}
-          <a href="https://www.instagram.com/p/C6R5axsp5ID">
-            announced on instagram
+          <a href="https://www.Instagram.com/p/C6R5axsp5ID">
+            announced on Instagram
           </a>
           .
         </p>
       ),
       image: "/images/Biking_With_Baddies_Group.png",
-      instagram: "https://www.instagram.com/bikingwithbaddies/",
+      Instagram: "https://www.Instagram.com/bikingwithbaddies/",
     },
   ],
   [
@@ -65,8 +65,8 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
       description:
         "Bone Saw rides on the last Tuesday of each month and meets at the top of Martin Olav Sabo Bridge. It’s one of the larger groups by ridership in the city. Follow their social channels for additional trans/GNC rides.",
       image: "/images/Bonesaw_Cycling_Collective_Bridge_Photo.jpg",
-      instagram: "https://www.instagram.com/bonesawcyclingcollective/",
-      facebook: "https://www.facebook.com/bonesawcyclingcollective/",
+      Instagram: "https://www.Instagram.com/bonesawcyclingcollective/",
+      Facebook: "https://www.Facebook.com/bonesawcyclingcollective/",
       location: "Sabo Bridge",
       highlight: true,
     },
@@ -81,8 +81,8 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
         "Racing team that has hosted social rides in the past and might try some clinics or skills sessions this year. Follow their socials for updates!",
       image: "/images/Corpse_Whale_Racing_Team.jpg",
       days: ["Th"],
-      facebook: "https://www.facebook.com/corpsewhaleracing/",
-      instagram: "https://www.instagram.com/corpsewhaleracing/",
+      Facebook: "https://www.Facebook.com/corpsewhaleracing/",
+      Instagram: "https://www.Instagram.com/corpsewhaleracing/",
     },
   ],
   [
@@ -92,10 +92,10 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
       quote:
         "We host fun-ass themed bike rides while supporting Minneapolis businesses owned by women and BIPOC owners. BIPOC woman safe space. Open 2 all. ",
       description:
-        "Get ride updates and notifications using the google form on their instagram page.",
+        "Get ride updates and notifications using the google form on their Instagram page.",
       image: "/images/Cycle_Sisters_Minneapolis.jpg",
-      facebook: "https://www.facebook.com/CycleSistersMpls/",
-      instagram: "https://www.instagram.com/CycleSistersMpls/",
+      Facebook: "https://www.Facebook.com/CycleSistersMpls/",
+      Instagram: "https://www.Instagram.com/CycleSistersMpls/",
       active: false,
     },
   ],

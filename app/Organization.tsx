@@ -13,22 +13,22 @@ export interface OrganizationParams {
   description?: string | JSX.Element | React.ReactNode;
   image?: string;
   days?: Day[];
-  instagram?: string;
-  facebook?: string;
-  website?: string;
-  calendar?: string;
-  location?: string;
+  Instagram?: string;
+  Facebook?: string;
+  Website?: string;
+  Calendar?: string;
+  Location?: string;
   highlight?: boolean;
   verified?: boolean;
   active?: boolean;
 }
 
 export const linkIcons = {
-  website: "🌐",
-  instagram: "🌅",
-  facebook: "👥",
-  calendar: "📅",
-  location: "📍",
+  Website: "🌐", // TODO change to link
+  Instagram: "🌅",
+  Facebook: "👥",
+  Calendar: "📅",
+  Location: "📍",
 };
 
 export default function Organization({
@@ -72,11 +72,11 @@ export default function Organization({
               )}
             </div>
             <div>
-              {IconLink(params, "website")}
-              {IconLink(params, "instagram")}
-              {IconLink(params, "facebook")}
-              {IconLink(params, "calendar")}
-              {IconLink(params, "location")}
+              {IconLink(params, "Website")}
+              {IconLink(params, "Instagram")}
+              {IconLink(params, "Facebook")}
+              {IconLink(params, "Calendar")}
+              {IconLink(params, "Location")}
             </div>
           </div>
         </section>

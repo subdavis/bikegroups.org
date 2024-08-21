@@ -42,7 +42,7 @@ export default function RootLayout(params: Readonly<{children: React.ReactNode}>
           {params.children}
         </div>
         <Footer />
-        <script defer data-domain="bikegroups.org" src="https://plausible.subdavis.com/js/script.js"></script>
+        <script defer src="https://umami.subdavis.com/script.js" data-website-id="2bae8950-19d8-4090-8302-af54ae4e3a6b" />
       </body>
     </html>
   );

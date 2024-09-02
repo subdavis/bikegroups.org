@@ -259,7 +259,7 @@ export default function Home() {
           <>
             <h4 className='text-xl mb-3'>Sunday Morning Rides</h4>
             <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
-            <h4 className='text-xl mb-3'>Wednesday Women’s Rides</h4>
+            <h4 className='text-xl mb-3'>FTW Wednesday Ride</h4>
             <p className="mb-3">Organized in the same facebook group.</p>
           </>
         }

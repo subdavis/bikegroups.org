@@ -31,6 +31,7 @@ function link(params: Params, prop: keyof typeof linkIcons) {
   if (params[prop]) {
     if (params[prop]?.startsWith('http')) {
       return <a
+        data-umami-event={`Click: ${params.name} ${prop}`}
         className="whitespace-nowrap inline-block mb-2 px-3 py-1 bg-stone-100 rounded-md mr-2 text-stone-900 hover:text-stone-950 hover:bg-stone-200 transition-all border border-stone-300 hover:border-stone-400"
         href={params[prop]}>
         {linkIcons[prop]} <span className="underline">{prop}</span>
@@ -46,7 +47,6 @@ function link(params: Params, prop: keyof typeof linkIcons) {
 function title(params: Params) {
   return <h3 className="mb-2 flex items-center flex-wrap">
       <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">{params.name}</span>
-      {params.verified && <span className="text-xs font-semibold text-stone-100 bg-green-600 border-2 border-green-800 px-2 py-0 my-1 rounded-full">✔ verified</span>}
   </h3>
 }
 

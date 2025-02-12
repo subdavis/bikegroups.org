@@ -1,3 +1,5 @@
+import WinterBanner from './winterBanner';
+
 function inlineBlockWord(word: string) {
   return <span className="inline-block sm:block mr-2">
     <span className="inline rounded bg-stone-950 text-stone-100 px-2">{word}</span>
@@ -27,7 +29,7 @@ export default function Header() {
   return <header>
     {bigwheel()}
     <h1 className="z-10 text-4xl font-semibold sm:mt-0 my-4">
-      {inlineBlockWord('2024')}
+      {inlineBlockWord('2025')}
       <span> </span>
       {inlineBlockWord('Minneapolis')}
       <span> </span>
@@ -35,6 +37,7 @@ export default function Header() {
       <span> </span>
       {inlineBlockWord('Clubs')}
     </h1>
+    <WinterBanner />
     <p className="my-3 z-10 bg-white">
 
     </p>
@@ -50,7 +53,7 @@ export default function Header() {
           </a>
           <br />
           <br />
-          <p className="mb-2">Updated for Spring 2024. Schedules change, so it’s best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride.</p>
+          <p className="mb-2">Updated for Spring 2025. Schedules change, so it's best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride.</p>
           <p className="font-bold">Helmet always required.</p>
           <p>Bring a flat kit if you can.</p>
           <p>Bring lights for evening rides</p>

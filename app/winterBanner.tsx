@@ -16,11 +16,11 @@ export default function WinterBanner() {
           Winter 2025 Notice
         </h2>
         <p className="text-base">
-          Many bike clubs take a break or reduce their ride schedule during winter months. 
-          The information below may not reflect current winter activities. 
-          Check each group's social media or website for their latest winter updates.
+          {"Many bike clubs take a break or reduce their ride schedule during winter months. "}
+          {"The information below may not reflect current winter activities. "}
+          {"Check each groups social media or website for their latest winter updates."}
         </p>
       </div>
     </div>
   );
-} 
+}

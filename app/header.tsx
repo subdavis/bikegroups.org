@@ -53,7 +53,7 @@ export default function Header() {
           </a>
           <br />
           <br />
-          <p className="mb-2">Updated for Spring 2025. Schedules change, so it's best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride.</p>
+          <p className="mb-2">{"Updated for Spring 2025. Schedules change, so it's best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride."}</p>
           <p className="font-bold">Helmet always required.</p>
           <p>Bring a flat kit if you can.</p>
           <p>Bring lights for evening rides</p>

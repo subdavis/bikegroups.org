@@ -212,6 +212,20 @@ export default function Home() {
           },
         ]}
       />
+
+      <LinkPile
+        title="🗣 Activism"
+        links={[
+          {
+            href: "https://www.movemn.org/",
+            text: "Move Minnesota",
+          },
+          {
+            href: "https://www.bikemn.org",
+            text: "Bicycle Alliance of MN",
+          },
+        ]}
+      />
     </main>
   );
 }

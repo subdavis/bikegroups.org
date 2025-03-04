@@ -15,89 +15,10 @@ export default function Home() {
   return (
     <main>
       <WeekIndicator days={[]} />
-      {Array.from(bikeGroups.entries()).map(([key, group]) => (
+      {Object.entries(bikeGroups).map(([key, group]) => (
         <Org key={key} params={group || getDefaultParams()} />
       ))}
       {/*
-      <Org
-        name="Freewheel Shop Rides"
-        days={["M", "W"]}
-        description="Regular rides that leave from various freewheel shops in the Twin Cities. Various days and pace groups available."
-        calendar="https://www.freewheelbike.com/about/event-calendar-pg1200.htm"
-        Facebook="https://www.Facebook.com/FreewheelBike/events"
-        location="Multiple Locations"
-      />
-      <Org
-        name="The Hub Cycling Team Rides"
-        description={
-          <p>
-            Hosts regular rides through the season on Wednesdays, usually
-            starting from the Minnehaha Ave shop and ending at Arbiter or Bang
-            Brewing.{" "}
-            <a href="https://www.Instagram.com/p/C691XQ0sLSa">
-              Read the announcement.
-            </a>
-          </p>
-        }
-        quote="The Hub Cycling Team is a group of like minded individuals who ride, race, work, and play together."
-        Instagram="https://www.Instagram.com/hubcyclingteam/"
-        Facebook="https://www.Facebook.com/hubcyclingteam/"
-        image="/images/The_Hub_Cycling_Team.jpg"
-        days={["W"]}
-        location="Longfellow"
-      />
-      <Org
-        name="Joyful Riders Club"
-        description="Meets year-round, the second Thursday of the month at Fulton Beer, for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
-        Instagram="https://www.Instagram.com/joyfulridersclub/"
-        Facebook="https://www.Facebook.com/thejoyfulriders/"
-        image="/images/Joyful_Riders_Club.jpg"
-        days={["Th"]}
-        highlight
-      />
-      <Org
-        name="Major Taylor Bicycling Club"
-        days={["M", "W", "Sa"]}
-        quote="As the premier African-American bicycling club in the state of Minnesota and the Upper Midwest, we have brought diversity to the bicycling community of the Twin Cities since 1999. We invite you to learn more about our Club and our namesake - the legendary Major Taylor - the first Black world champion cyclist in 1899."
-        image="/images/Major_Taylor_Cycling_Club.jpg"
-        website="https://major-taylor-minnesota.squarespace.com/"
-        Instagram="https://www.Instagram.com/majortaylorminnesota/"
-        calendar="https://major-taylor-minnesota.squarespace.com/ride-schedule"
-      />
-      <Org
-        name="Midwest Dirt Legion"
-        quote="MIDWEST DIRT LEGION STRIVES TO CREATE AUTHENTIC AND INCLUSIVE SPACES FOR CISGENDER WOMEN, TRANSGENDER, NON-BINARY AND GENDER NON-CONFORMING FOLKS IN THE CYCLING COMMUNITY.  Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program."
-        description={
-          <p>
-            See their website for{" "}
-            <a href="https://www.dirtlegion.com/group-ride-information">
-              group rides
-            </a>
-            , skills clinics, and more.
-          </p>
-        }
-        image="/images/Dirt_Legion_Cycling_Team.jpg"
-        website="https://www.dirtlegion.com/"
-        calendar="https://www.dirtlegion.com/events"
-        Instagram="https://www.Instagram.com/midwestdirtlegion/"
-      />
-      <Org
-        name="NOW Bikes"
-        days={["Sa", "Su", "T", "Th"]}
-        quote="This is where the rubber meets the road. Join us on one of our signature group rides this season. Whether you're new to cycling or a seasoned vet, we have a ride that's right for you."
-        location="St Paul &amp; Arden Hills"
-        website="https://www.nowbikes-fitness.com/articles/rides-events-pg161.htm"
-        description="Faster paced rides from both locations."
-        image="/images/Now_Bikes_Group.jpg"
-      />
-      <Org
-        name="Perennial Cycle Shop Rides"
-        description="Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their Instagram for event updates. Sometimes collaborates with Joyful Riders Club."
-        Instagram="https://www.Instagram.com/perennialcycle/"
-        Facebook="https://www.Facebook.com/perennialcycle/events"
-        image="/images/Perennial_Queer_History_Ride.jpeg"
-        location="South Uptown"
-      />
       <Org
         name="PieCyle Club"
         quote="MPLS Piecycle Club is a Minneapolis based cycling club focused on building fun and inviting biking experiences for riders of all levels. We organize chill (Pastry Pace), family-friendly group rides around Minneapolis that start and/or end with delicious baked goods."

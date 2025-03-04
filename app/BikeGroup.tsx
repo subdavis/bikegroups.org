@@ -12,22 +12,22 @@ export interface BikeGroup {
   description?: string | JSX.Element | React.ReactNode;
   image?: string;
   days?: Day[];
-  Instagram?: string;
-  Facebook?: string;
-  Website?: string;
-  Calendar?: string;
-  Location?: string;
+  instagram?: string;
+  facebook?: string;
+  website?: string;
+  calendar?: string;
+  location?: string;
   highlight?: boolean;
   verified?: boolean;
   active?: boolean;
 }
 
 export const linkIcons = {
-  Website: "🔗",
-  Instagram: "🌅",
-  Facebook: "👥",
-  Calendar: "📅",
-  Location: "📍",
+  website: "🔗",
+  instagram: "🌅",
+  facebook: "👥",
+  calendar: "📅",
+  location: "📍",
 };
 
 function link(params: BikeGroup, prop: keyof typeof linkIcons) {
@@ -90,11 +90,11 @@ export default function BikeGroup({ params }: { params: BikeGroup }) {
               )}
             </div>
             <div>
-              {link(params, "Website")}
-              {link(params, "Instagram")}
-              {link(params, "Facebook")}
-              {link(params, "Calendar")}
-              {link(params, "Location")}
+              {link(params, "website")}
+              {link(params, "instagram")}
+              {link(params, "facebook")}
+              {link(params, "calendar")}
+              {link(params, "location")}
             </div>
           </div>
         </section>

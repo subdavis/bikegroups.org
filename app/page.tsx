@@ -217,11 +217,11 @@ export default function Home() {
         title="🗣 Activism"
         links={[
           {
-            href: "https://www.movemn.org/",
+            href: "https://www.movemn.org/events/",
             text: "Move Minnesota",
           },
           {
-            href: "https://www.bikemn.org",
+            href: "https://www.bikemn.org/all-events/",
             text: "Bicycle Alliance of MN",
           },
         ]}

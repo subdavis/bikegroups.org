@@ -6,7 +6,7 @@ import Footer from "./footer";
 
 const inter = Inter({ subsets: ["latin"] });
 const description =
-  "Updated for Spring 2024. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.";
+  "Updated for Spring 2025. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.";
 export const metadata: Metadata = {
   title: "2024 Minneapolis Bike Clubs",
   description,

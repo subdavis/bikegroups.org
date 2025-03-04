@@ -191,6 +191,15 @@ export default function Home() {
         Facebook="https://www.Facebook.com/teamrecess/"
       />
       <Org
+        name="Twin Cities Cycling Coalition (T3C)"
+        quote="Connection and coordination amongst the cycling community at large in the Twin Cities to link rides, events, volunteers, and resources."
+        image='/images/Twin_Cities_Cycling_Coalition.jpg'
+        description={
+          <p>T3C Group Ride! 🚴🏽‍♀️ Oct. 27th 1pm. Open invitation to cyclists! Individuals, groups, teams, orgs, etc! Social pace.</p>
+        }
+        instagram='https://www.instagram.com/twin_cities_cycling_coalition/'
+      />
+      <Org
         name="Unruly Women"
         quote="My dream for Unruly Women is to create an inclusive and accessible community that empowers all female identifying and femme-leaning non-binary persons to reclaim their voice by unearthing their inner wild, outdoors."
         description="By participating in different adventures you’ll learn a variety of wilderness and sport specific skills in an environment where you can feel safe to discover your most authentic self and embrace all of it."
@@ -232,16 +241,6 @@ export default function Home() {
       /> */}
 
       <hr />
-
-      <LinkPile
-        title="📅 Annual Events"
-        links={[
-          {
-            href: "https://swiftcampout.com/",
-            text: "2024 Swift Campout (June 22-23)",
-          },
-        ]}
-      />
 
       <LinkPile
         title="💬 Discussion"

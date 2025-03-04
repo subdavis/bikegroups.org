@@ -11,6 +11,15 @@ const config: Config = {
       animation: {
         "spin-slow": "spin 300s linear infinite",
       },
+      colors: {
+        "mn-blue": "#003865",
+        "mn-green": "#78BE21",
+        "mn-accent-teal": "#008EAA",
+        "mn-accent-green": "#0D5257",
+        "mn-accent-orange": "#8D3F2B",
+        "mn-accent-purple": "#5D295F",
+        "mn-accent-gold": "#FFC845",
+      },
     },
     fontSize: {
       xs: "0.75rem",

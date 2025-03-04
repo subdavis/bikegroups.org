@@ -5,6 +5,7 @@ import clsx from "clsx";
 import Head from "next/head";
 import { Title } from "./components/Title";
 import { Day } from "./weekIndicator";
+import { Link } from "./components/Link";
 
 export interface BikeGroup {
   name: string;
@@ -20,37 +21,6 @@ export interface BikeGroup {
   highlight?: boolean;
   verified?: boolean;
   active?: boolean;
-}
-
-export const linkIcons = {
-  website: "🔗",
-  instagram: "🌅",
-  facebook: "👥",
-  calendar: "📅",
-  location: "📍",
-};
-
-function link(params: BikeGroup, prop: keyof typeof linkIcons) {
-  if (params[prop]) {
-    if (params[prop]?.startsWith("http")) {
-      return (
-        <a
-          data-umami-event={`Click: ${params.name} ${prop}`}
-          className="whitespace-nowrap inline-block mb-2 px-3 py-1 bg-stone-100 rounded-md mr-2 text-stone-900 hover:text-stone-950 hover:bg-stone-200 transition-all border border-stone-300 hover:border-stone-400"
-          href={params[prop]}
-        >
-          {linkIcons[prop]} <span className="underline">{prop}</span>
-        </a>
-      );
-    } else {
-      return (
-        <span className="whitespace-nowrap pr-2 drop-shadow-lg">
-          {linkIcons[prop]}
-          {params[prop]}
-        </span>
-      );
-    }
-  }
 }
 
 export default function BikeGroup({ params }: { params: BikeGroup }) {
@@ -90,11 +60,11 @@ export default function BikeGroup({ params }: { params: BikeGroup }) {
               )}
             </div>
             <div>
-              {link(params, "website")}
-              {link(params, "instagram")}
-              {link(params, "facebook")}
-              {link(params, "calendar")}
-              {link(params, "location")}
+              {Link(params, "website")}
+              {Link(params, "instagram")}
+              {Link(params, "facebook")}
+              {Link(params, "calendar")}
+              {Link(params, "location")}
             </div>
           </div>
         </section>

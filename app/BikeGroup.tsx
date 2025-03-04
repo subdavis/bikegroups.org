@@ -6,8 +6,10 @@ import Head from "next/head";
 import { Title } from "./components/Title";
 import { IconLink } from "./components/IconLink";
 import { Day } from "./weekIndicator";
+import InstagramIcon from "./components/InstagramIcon";
+import FacebookIcon from "./components/FacebookIcon";
 
-export interface OrganizationParams {
+export interface BikeGroup {
   name: string;
   quote?: string | JSX.Element | React.ReactNode;
   description?: string | JSX.Element | React.ReactNode;
@@ -15,7 +17,7 @@ export interface OrganizationParams {
   days?: Day[];
   Instagram?: string;
   Facebook?: string;
-  Website?: string;
+  website?: string;
   Calendar?: string;
   Location?: string;
   highlight?: boolean;
@@ -24,18 +26,14 @@ export interface OrganizationParams {
 }
 
 export const linkIcons = {
-  Website: "🌐", // TODO change to link
-  Instagram: "🌅",
-  Facebook: "👥",
+  website: "🌐", // TODO change to link
+  Instagram: <InstagramIcon />,
+  Facebook: <FacebookIcon />,
   Calendar: "📅",
   Location: "📍",
 };
 
-export default function Organization({
-  params,
-}: {
-  params: OrganizationParams;
-}) {
+export default function BikeGroup({ params }: { params: BikeGroup }) {
   return (
     params.active !== false && (
       <>
@@ -72,7 +70,7 @@ export default function Organization({
               )}
             </div>
             <div>
-              {IconLink(params, "Website")}
+              {IconLink(params, "website")}
               {IconLink(params, "Instagram")}
               {IconLink(params, "Facebook")}
               {IconLink(params, "Calendar")}

@@ -1,6 +1,6 @@
-import { OrganizationParams } from "../Organization";
+import { BikeGroup } from "../BikeGroup";
 
-export function Title(params: OrganizationParams) {
+export function Title(params: BikeGroup) {
   return (
     <h3 className="mb-2 flex items-center flex-wrap">
       <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">

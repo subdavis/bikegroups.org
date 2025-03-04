@@ -1,6 +1,6 @@
-import { OrganizationParams } from "../Organization";
+import { BikeGroup } from "../BikeGroup";
 
-export let bikeGroups: Map<string, OrganizationParams> = new Map([
+export let bikeGroups: Map<string, BikeGroup> = new Map([
   [
     "AngryCatfish",
     {
@@ -97,6 +97,94 @@ export let bikeGroups: Map<string, OrganizationParams> = new Map([
       Facebook: "https://www.Facebook.com/CycleSistersMpls/",
       Instagram: "https://www.Instagram.com/CycleSistersMpls/",
       active: false,
+    },
+  ],
+  [
+    "EZBikeClub",
+    {
+      name: "EZ Bike Club",
+      quote:
+        "El Zapatero was started because of our love and passion for style, fashion, sneakers and the exclusivity that came along with it. The sneaker and fashion community welcomed us with open arms and within that community we noticed a group of individuals who also had a love and passion for cycling, health and fitness. We decided to get this group of individuals together for bicycle rides.",
+      description:
+        "Rides and other community engagement events announced through Instagram.",
+      image: "/images/EZ.jpeg",
+      Instagram: "https://www.Instagram.com/ez.bikeclub/",
+      website: "https://www.ezbikeclub.org/",
+    },
+  ],
+  [
+    "HandupSocialSeries",
+    {
+      name: "Handup Social Series",
+      quote:
+        "twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻",
+      description:
+        "The team leads themed Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery.",
+      image: "/images/Behind_Bars_Bike_Shop.jpg",
+      days: ["Th"],
+      Facebook: "https://www.Facebook.com/handupracing",
+      Instagram: "https://www.Instagram.com/handupracing/",
+      location: "Northeast",
+    },
+  ],
+  [
+    "Genosack",
+    {
+      name: "Genosack Summer Monday Rides",
+      days: ["M"],
+      quote:
+        "Our events are for people who love experiencing bicycles, outdoor spaces, and unity.  We take pride in creating an environment of inclusivity, respect, and fun for all people of all abilities.",
+      description: (
+        <p>
+          Monday summer group rides{" "}
+          <a href="https://www.Instagram.com/p/C6T9ZAcuekb">
+            announced for the season on Instagram
+          </a>
+          .
+        </p>
+      ),
+      Instagram: "https://www.Instagram.com/genosack/",
+      image: "/images/Genosack_Bikes_Leaning.jpeg",
+    },
+  ],
+  /**
+   * 
+      <Org
+        name="Grease Rag"
+        quote="Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space."
+        description={
+          <p>
+            Annual FTW (femme/trans/women, non-binary, two-spirit) bikepacking
+            trip to Carver State Park for all skill levels August 17-18{" "}
+            <a href="https://www.Instagram.com/p/C6SoQMuM0x-/">announcement</a>.
+          </p>
+        }
+        website="https://greaserag.org/"
+        Instagram="https://www.Instagram.com/greaseragbikes/"
+        Facebook="https://www.Facebook.com/groups/greaserag"
+        location="Seward"
+        image="/images/Grease_Rag_Group.jpg"
+      />
+   */
+  [
+    "GreaseRag",
+    {
+      name: "Grease Rag",
+      quote:
+        "Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space.",
+
+      description: (
+        <p>
+          Annual FTW (femme/trans/women, non-binary, two-spirit) bikepacking
+          trip to Carver State Park for all skill levels August 17-18{" "}
+          <a href="https://www.Instagram.com/p/C6SoQMuM0x-/">announcement</a>.
+        </p>
+      ),
+      website: "https://greaserag.org/",
+      Instagram: "https://www.Instagram.com/greaseragbikes/",
+      Facebook: "https://www.Facebook.com/groups/greaserag",
+      location: "Seward",
+      image: "/images/Grease_Rag_Group.jpg",
     },
   ],
 ]);

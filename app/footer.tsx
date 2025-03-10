@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="flex flex-row mx-auto max-w-screen-md justify-between py-6 px-4">
       <div className="text-stone-100 text-left text-sm font-mono">
         <p className="mb-4">
-          © 2024 bikegroups.org
+          © 2025 bikegroups.org
         </p>
         <p className="mb-4">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">

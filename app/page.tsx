@@ -130,6 +130,7 @@ export default function Home() {
         description="Meets year-round, the second Thursday of the month at Fulton Beer, for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
         instagram='https://www.instagram.com/joyfulridersclub/'
         facebook='https://www.facebook.com/thejoyfulriders/'
+        website='https://thejoyfulriders.club/'
         image='/images/Joyful_Riders_Club.jpg'
         days={['Th']}
         highlight
@@ -224,7 +225,7 @@ export default function Home() {
         name="Stamina Racing Collective"
         quote='Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.'
         description={
-          <span>Group rides have not yet been announced for 2024. Stamina Racing also partners with <a href='https://driftlessgravelcamp.com/'>driftless gravel camp</a> in the spring to encourage and equip FTWNB riders to pursue gravel adventures.</span>
+          <span>Stamina Racing partners with <a href='https://driftlessgravelcamp.com/'>driftless gravel camp</a> in the spring to encourage and equip FTWNB riders to pursue gravel adventures.</span>
         }
         image='/images/Stamina_Racing_Collective_Group.jpg'
         website='https://www.staminaracingcollective.com/'

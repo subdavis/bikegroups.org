@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     type: 'website',
   },
   alternates: {
-    canonical: '/',
+    canonical: 'https://bikegroups.org/',
     languages: {
-      'en-US': '/en-US'
+      'en-US': 'https://bikegroups.org/'
     },
   },
 }

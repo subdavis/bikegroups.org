@@ -2,7 +2,6 @@ import Image from "next/image";
 import Quote from "./quote";
 import WeekIndicator, { Day } from "./weekIndicator";
 import clsx from "clsx";
-import Head from "next/head";
 
 interface Params {
   name: string;
@@ -52,9 +51,6 @@ function title(params: Params) {
 
 export default function Organization(params: Params) {
   return <>
-    <Head>
-      <meta name="check-this"/>
-    </Head>
     <section className={clsx(
       "text-base sm:flex mb-16",
       params.highlight && "border-2 border-amber-400 bg-amber-50 p-4 rounded-lg",

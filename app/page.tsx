@@ -17,9 +17,7 @@ export default function Home() {
         name="Behind Bars Social Rides"
         description={
           <p>
-            Rides lead by Behind Bars Bicycle Shop ambassadors.
-            This year Behind Bars shop ambassadors are also
-            hosting <a href="https://www.instagram.com/behindbarsbicycleshop/p/C6r8q-ZsDyv/">a series of beginner bikepacking classes and trips</a>.
+            Rides lead by Behind Bars Bicycle Shop ambassadors leave from the shop and are announced on instagram.
           </p>
         }
         image="images/Behind_Bars_Ambassador_Solstice.jpg"
@@ -30,18 +28,19 @@ export default function Home() {
       <Org
         name="Biking with Baddies"
         days={["F"]}
-        quote="Come bike with some Beautiful, Authentic, Divine, Determined, Intelligent, Energetic Sistas."
+        quote="Our mission is to empower women in cycling, harnessing the strength of nature and the bonds of community to pave the way for change. We believe that by embracing the beauty of diversity we can achieve unity on open road. Our wheels turn not only to conquer miles, but also to break down barriers."
         description={
-          <p>Monthly Friday ride schedule for summer has been <a href="https://www.instagram.com/p/C6R5axsp5ID">announced on instagram</a>.</p>
+          <p>All kinds of events, from rides to workshops and even violence prevention training with collaborators. Find ride announcements on instagram or <a href="https://bikingwithbaddies.com/calendar">the calendar</a>.</p>
         }
         image="/images/Biking_With_Baddies_Group.png"
         instagram="https://www.instagram.com/bikingwithbaddies/"
+        website="https://linktr.ee/beautifullysea"
       />
       <Org
         name="Bone Saw Cycling Collective"
         days={['T']}
         quote="Making cycling better for all by improving its members skill in any and all cycling disciplines, while fostering a non-judgmental atmosphere."
-        description="Bone Saw rides on the last Tuesday of each month and meets at the top of Martin Olav Sabo Bridge. It’s one of the larger groups by ridership in the city. Follow their social channels for additional trans/GNC rides."
+        description="Bone Saw rides on the last Tuesday of each month all year long and meets at the top of Martin Olav Sabo Bridge. It’s one of the larger groups by ridership in the city. Follow their social channels for additional trans/GNC rides."
         image="/images/Bonesaw_Cycling_Collective_Bridge_Photo.jpg"
         instagram='https://www.instagram.com/bonesawcyclingcollective/'
         facebook='https://www.facebook.com/bonesawcyclingcollective/'
@@ -51,9 +50,10 @@ export default function Home() {
       <Org
         name="Corpse Whale Racing"
         quote="MPLS made cycling team. We race track, road, criteriums, cyclocross and endurance, party on bikes, and give back to our community."
-        description="Racing team that has hosted social rides in the past and might try some clinics or skills sessions this year. Follow their socials for updates!"
+        description={
+          <p>Keep an eye out for the <a href="https://www.instagram.com/corpsewhaleracing/p/C-vpFFUs5jp/">Taco Bell Century</a> in the fall.</p>
+        }
         image="/images/Corpse_Whale_Racing_Team.jpg"
-        days={['Th']}
         facebook='https://www.facebook.com/corpsewhaleracing/'
         instagram='https://www.instagram.com/corpsewhaleracing/'
       />
@@ -76,7 +76,9 @@ export default function Home() {
       <Org
         name="Handup Social Series"
         quote="twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻"
-        description="The team leads themed Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery."
+        description={
+          <p>The team leads themed Thursday social rides that start at Behind Bars and typically end at Bauhaus Brewery. <a href="https://www.facebook.com/handupracing/events">2025 ride calendar is out</a></p>
+        }
         image="/images/Behind_Bars_Bike_Shop.jpg"
         days={['Th']}
         facebook='https://www.facebook.com/handupracing'
@@ -88,7 +90,7 @@ export default function Home() {
         days={['M']}
         quote='Our events are for people who love experiencing bicycles, outdoor spaces, and unity.  We take pride in creating an environment of inclusivity, respect, and fun for all people of all abilities.'
         description={
-          <p>Monday summer group rides <a href="https://www.instagram.com/p/C6T9ZAcuekb">announced for the season on instagram</a>.</p>
+          <p>Hosted <a href="https://www.instagram.com/p/C6T9ZAcuekb">monday summer group rides in 2024</a> and will hopefully continue.</p>
         }
         instagram="https://www.instagram.com/genosack/"
         image="/images/Genosack_Bikes_Leaning.jpeg"
@@ -97,7 +99,7 @@ export default function Home() {
         name="Grease Rag"
         quote="Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space."
         description={
-          <p>Annual FTW (femme/trans/women, non-binary, two-spirit) bikepacking trip to Carver State Park for all skill levels August 17-18 <a href="https://www.instagram.com/p/C6SoQMuM0x-/">announcement</a>.</p>
+          <p>Events for 2025 have started to appear on their Instagram.</p>
         }
         website="https://greaserag.org/"
         instagram='https://www.instagram.com/greaseragbikes/'
@@ -113,7 +115,7 @@ export default function Home() {
         facebook='https://www.facebook.com/FreewheelBike/events'
         location='Multiple Locations'
       />
-      <Org
+      {/* <Org
         name="The Hub Cycling Team Rides"
         description={
           <p>Hosts regular rides through the season on Wednesdays, usually starting from the Minnehaha Ave shop and ending at Arbiter or Bang Brewing. <a href="https://www.instagram.com/p/C691XQ0sLSa">Read the announcement.</a></p>
@@ -124,10 +126,10 @@ export default function Home() {
         image='/images/The_Hub_Cycling_Team.jpg'
         days={['W']}
         location='Longfellow'
-      />
+      /> */}
       <Org
         name="Joyful Riders Club"
-        description="Meets year-round, the second Thursday of the month at Fulton Beer, for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
+        description="Meets year-round for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
         instagram='https://www.instagram.com/joyfulridersclub/'
         facebook='https://www.facebook.com/thejoyfulriders/'
         website='https://thejoyfulriders.club/'
@@ -166,7 +168,7 @@ export default function Home() {
       />
       <Org
         name="Perennial Cycle Shop Rides"
-        description="Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their instagram for event updates. Sometimes collaborates with Joyful Riders Club."
+        description="Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their instagram for event updates."
         instagram='https://www.instagram.com/perennialcycle/'
         facebook='https://www.facebook.com/perennialcycle/events'
         image='/images/Perennial_Queer_History_Ride.jpeg'
@@ -225,18 +227,16 @@ export default function Home() {
         name="Stamina Racing Collective"
         quote='Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.'
         description={
-          <span>Stamina Racing partners with <a href='https://driftlessgravelcamp.com/'>driftless gravel camp</a> in the spring to encourage and equip FTWNB riders to pursue gravel adventures.</span>
+          <span>Stamina Racing has previously partnered with <a href='https://driftlessgravelcamp.com/'>driftless gravel camp</a> in the spring to encourage and equip FTWNB riders to pursue gravel adventures.</span>
         }
         image='/images/Stamina_Racing_Collective_Group.jpg'
-        website='https://www.staminaracingcollective.com/'
         instagram='https://www.instagram.com/stamina.racing.collective/'
-        calendar='https://www.staminaracingcollective.com/calendar'
       />
       <Org
         name="Team Recess"
         quote="The Team Recess approach to racing and riding bikes is supportive, well-stocked with snacks, and fun. We love inviting our friends to play bikes. Recess is the time of day–no matter where you are in life–when you join with folx outside of boundaries set for you by work, school, and other obligations to play and work together and–of course–get the endorphins and the thrill going!"
         description={
-          <p>Group ride schedule for the season is <a href="https://www.instagram.com/team_recess/p/C71niXwOiq8">announced on instagram</a>. Follow their socials for more details.</p>
+          <p>2025 calendar is not yet announced.</p>
         }
         image='/images/Team_Recess.jpg'
         website="https://www.teamrecessmpls.com/"

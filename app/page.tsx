@@ -116,6 +116,7 @@ export default function Home() {
         calendar="https://www.freewheelbike.com/about/event-calendar-pg1200.htm"
         facebook='https://www.facebook.com/FreewheelBike/events'
         location='Multiple Locations'
+        image='/images/Freewheel.jpg'
       />
       {/* <Org
         name="The Hub Cycling Team Rides"
@@ -191,6 +192,7 @@ export default function Home() {
         description="Medium to quick paced Thursday evening gravel rides that leave from Trailhead Plymouth and end at Luce Line Brewing."
         facebook='https://www.facebook.com/PlymouthBikesnBeers/'
         location='Plymouth, MN'
+        image='/images/Plymouth_Bikes_Beer.jpg'
       />
       <Org
         name="Recovery Bike Shop"

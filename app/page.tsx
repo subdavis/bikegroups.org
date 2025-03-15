@@ -131,7 +131,9 @@ export default function Home() {
       /> */}
       <Org
         name="Joyful Riders Club"
-        description="Meets year-round for family-friendly social rides at a casual (7–9mph) pace. Also hosts regular DJ rides in collaboration with DJ Dev and Perennial Cycle. All events promoted on Facebook and Instagram."
+        description={
+          <span>Meets year-round for family-friendly social rides at a casual (7–9mph) pace. Also hosts <a href="https://www.instagram.com/p/DHONlrPsWUB/">DJ dance rides for 2025 in collaboration with Perennial Cycle</a>. All events promoted on Facebook and Instagram.</span>
+        }
         instagram='https://www.instagram.com/joyfulridersclub/'
         facebook='https://www.facebook.com/thejoyfulriders/'
         website='https://thejoyfulriders.club/'

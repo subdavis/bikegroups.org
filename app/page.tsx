@@ -11,6 +11,7 @@ export default function Home() {
         quote="Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we’re left with when we get home. We hope you feel the same way."
         description="ACF hosts a Monday speedy training ride, a wednesday social open ride, and a thursday FTW social ride. Check their website for the details."
         image="/images/Angry_Catfish_Group.jpg"
+        eager
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
       <Org
@@ -21,6 +22,7 @@ export default function Home() {
           </p>
         }
         image="images/Behind_Bars_Ambassador_Solstice.jpg"
+        eager
         facebook='https://www.facebook.com/BehindBarsBicycleShopMN/events'
         instagram='https://www.instagram.com/behindbarsbicycleshop/'
         location="13th Ave Northeast"

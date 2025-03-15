@@ -16,6 +16,7 @@ interface Params {
   location?: string;
   highlight?: boolean;
   verified?: boolean;
+  eager?: boolean;
 }
 
 const linkIcons = {
@@ -63,6 +64,7 @@ export default function Organization(params: Params) {
           alt={params.name}
           width={600}
           height={400}
+          loading={params.eager ? 'eager' : 'lazy'}
         />
       </div>}
       <div className="flex-1">

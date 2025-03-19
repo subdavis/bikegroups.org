@@ -1,4 +1,3 @@
-import WinterBanner from './winterBanner';
 
 function inlineBlockWord(word: string) {
   return <span className="inline-block sm:block mr-2">
@@ -37,31 +36,36 @@ export default function Header() {
       <span> </span>
       {inlineBlockWord('Clubs')}
     </h1>
-    {/* <WinterBanner /> */}
+
     <p className="my-3 z-10 bg-white">
 
     </p>
-    <div className="z-10 bg-stone-100 rounded-xl rounded-tr-xl p-3 text-base mb-8">
+    <div className="z-10 bg-stone-100 rounded-xl rounded-tr-xl p-3 text-base my-10 border-2 border-stone-300">
       <div className="flex">
         <p className="text-2xl pr-3">ℹ️</p>
         <div>
           Join a group bicycle ride with a community of cyclists in Minneapolis.
-          This is a list of active teams and clubs that host rides throughout the season.
-          <span className="font-semibold"> Notice something missing?</span>
-          <a className='pl-1' href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
-            Let us know!
-          </a>
-          <br />
-          <br />
-          <p className="mb-2">{"Updated for Spring 2025. Schedules change, so it's best to use the facebook event page, instagram, calendar, or other links below to confirm the exact details of the ride."}</p>
+          This is a list of active teams and clubs that host rides throughout the season, updated for spring 2025.
+          Schedules change, so check with the organizers to confirm exact details of the ride.
         </div>
       </div>
+      <div className="flex items-center mt-4">
+
+        <p className="text-2xl pr-3">📅</p>
+        <div>
+          There are other calendars for the Minneapolis area, including <a className="font-semibold" href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">
+            this Google Doc
+          </a> and <a className="font-semibold" href="https://www.bikemn.org/all-events/">BikeMN</a>.
+          <br />
+          <p className="font-semibold"> Notice something missing?
+            <a className='pl-1' href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
+              Let us know!
+            </a>
+          </p>
+        </div>
+
+      </div>
+
     </div>
-    {/* Continue on this later */}
-    {/* <div className="flex mb-10 -ml-2 -mr-2">
-      {filterButton('bg-mn-accent-teal', <p>🙌 Social</p>)}
-      {filterButton('bg-mn-accent-purple', <p>🪽 Speedy</p>)}
-      {filterButton('bg-mn-accent-orange', <p>🌟 Popular</p>)}
-    </div> */}
   </header>
 }

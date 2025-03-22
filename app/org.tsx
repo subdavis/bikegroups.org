@@ -46,15 +46,15 @@ function link(params: Params, prop: keyof typeof linkIcons) {
 
 function title(params: Params) {
   return <h3 className="mb-2 flex items-center flex-wrap">
-      <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">{params.name}</span>
+    <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">{params.name}</span>
   </h3>
 }
 
 export default function Organization(params: Params) {
   return <>
     <section className={clsx(
-      "text-base sm:flex mb-16",
-      params.highlight && "border-2 border-amber-400 bg-amber-50 p-4 rounded-lg",
+      "text-base sm:flex mb-16 px-6",
+      params.highlight && "border py-6 border-amber-400 bg-amber-50 rounded-lg",
     )}
     >
       {params.image && <div className="sm:w-72 sm:pr-4 mb-2">
@@ -68,9 +68,9 @@ export default function Organization(params: Params) {
         />
       </div>}
       <div className="flex-1">
-        { title(params) }
-        { params.days && <WeekIndicator days={params.days} /> }
-        { params.quote && <Quote>
+        {title(params)}
+        {params.days && <WeekIndicator days={params.days} />}
+        {params.quote && <Quote>
           {params.quote}
         </Quote>}
         <div className="my-4">

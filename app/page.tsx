@@ -187,14 +187,6 @@ export default function Home() {
         image='/images/Pie_Cycle_Club.jpg'
       />
       <Org
-        name="Plymouth Bikes & Beer"
-        days={['Th']}
-        description="Medium to quick paced Thursday evening gravel rides that leave from Trailhead Plymouth and end at Luce Line Brewing."
-        facebook='https://www.facebook.com/PlymouthBikesnBeers/'
-        location='Plymouth, MN'
-        image='/images/Plymouth_Bikes_Beer.jpg'
-      />
-      <Org
         name="Recovery Bike Shop"
         quote="Just a casual exploration of Northeast. No-drop pace. Expect about an hour of riding. We roll out from Recovery Bike Shop at 6:30. We're generally back at the shop around 8pm. Sometimes we get ice cream after."
         description={
@@ -284,7 +276,6 @@ export default function Home() {
         image='/images/Utepils_Cycling_Full_Group.jpg'
         highlight
       />
-
       <Org
         name='West River Racing Club Sunday Coffee Ride'
         days={['Su']}
@@ -295,30 +286,42 @@ export default function Home() {
         location='E Lake &amp; W River Road'
         image='/images/West_River_Racing_Coffee_Ride.jpg'
       />
-      <hr />
 
-      <LinkPile
-        title="💬 Discussion"
-        links={[
-          { href: 'https://www.reddit.com/r/CyclingMSP/', text: 'r/CyclingMSP' },
-          { href: 'https://www.facebook.com/groups/TCMNBikeTalk', text: 'TCMN Bike Talk' },
-          { href: 'https://www.facebook.com/groups/451259884926066/', text: 'Minnesota Bike Camping and Bikepacking' },
-          { href: 'https://www.facebook.com/groups/TwinCitiesBicycleTradingPost', text: 'TC Bicycle Trading Post' },
-          { href: 'https://www.facebook.com/groups/smallframesbighearts/', text: 'Small Frames Big Hearts' },
-          { href: 'https://www.facebook.com/groups/tcwtfbikes', text: 'FTWNB Trading Post' },
-        ]}
-      />
 
-      <LinkPile
-        title="📝 Blogs"
-        links={[
-          { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator' },
-          { href: 'https://mplsbikelove.com/', text: 'MPLS Bike Love' },
-          { href: 'https://streets.mn/', text: 'Streets.mn' },
-          { href: 'https://www.ourstreetsmpls.org/current_news', text: 'Our Streets' },
-          { href: 'https://www.bikemn.org/blog/', text: 'Bicycle Alliance of MN' },
-        ]}
-      />
+      <div className="mx-6">
+        <hr />
+        <LinkPile
+          title="💬 Discussion"
+          links={[
+            { href: 'https://www.reddit.com/r/CyclingMSP/', text: 'r/CyclingMSP' },
+            { href: 'https://www.facebook.com/groups/TCMNBikeTalk', text: 'TCMN Bike Talk' },
+            { href: 'https://www.facebook.com/groups/451259884926066/', text: 'Minnesota Bike Camping and Bikepacking' },
+            { href: 'https://www.facebook.com/groups/TwinCitiesBicycleTradingPost', text: 'TC Bicycle Trading Post' },
+            { href: 'https://www.facebook.com/groups/smallframesbighearts/', text: 'Small Frames Big Hearts' },
+            { href: 'https://www.facebook.com/groups/tcwtfbikes', text: 'FTWNB Trading Post' },
+          ]}
+        />
+
+        <LinkPile
+          title="📝 Blogs"
+          links={[
+            { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator' },
+            { href: 'https://mplsbikelove.com/', text: 'MPLS Bike Love' },
+            { href: 'https://streets.mn/', text: 'Streets.mn' },
+            { href: 'https://www.ourstreetsmpls.org/current_news', text: 'Our Streets' },
+            { href: 'https://www.bikemn.org/blog/', text: 'Bicycle Alliance of MN' },
+          ]}
+        />
+
+        <LinkPile
+          title="📅 Calendars"
+          links={[
+            { href: 'https://www.bikemn.org/all-events/', text: 'BikeMN Events' },
+            { href: 'https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1', text: 'Community Google Doc' },
+            { href: 'https://mnbiketrailnavigator.blogspot.com/p/event-calendars.html?m=1', text: 'MN Trail Navigation Calendar' },
+          ]}
+        />
+      </div>
     </main>
   );
 }

@@ -24,8 +24,14 @@ function filterButton(extraClasses: string, content: JSX.Element) {
   </div>
 }
 
+function InlineLink(params: { href: string, children: JSX.Element | string }) {
+  return <a className="text-stone-950 font-semibold" href={params.href}>
+    {params.children}
+  </a>
+}
+
 export default function Header() {
-  return <header>
+  return <header className="mx-6">
     {bigwheel()}
     <h1 className="z-10 text-4xl font-semibold sm:mt-0 my-4">
       {inlineBlockWord('2025')}
@@ -53,9 +59,10 @@ export default function Header() {
 
         <p className="text-2xl pr-3">📅</p>
         <div>
-          There are other calendars for the Minneapolis area, including <a className="font-semibold" href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">
-            this Google Doc
-          </a> and <a className="font-semibold" href="https://www.bikemn.org/all-events/">BikeMN</a>.
+          {"There are other calendars for the Minneapolis area, including "}
+          <InlineLink href="https://www.bikemn.org/all-events/">BikeMN</InlineLink>
+          {" and "}
+          <InlineLink href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">this Google Doc</InlineLink>.
           <br />
           <p className="font-semibold"> Notice something missing?
             <a className='pl-1' href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">

@@ -55,23 +55,6 @@ export default function Header() {
           Schedules change, so check with the organizers to confirm exact details of the ride.
         </div>
       </div>
-      <div className="flex items-center mt-4">
-
-        <p className="text-2xl pr-3">📅</p>
-        <div>
-          {"There are other calendars for the Minneapolis area, including "}
-          <InlineLink href="https://www.bikemn.org/all-events/">BikeMN</InlineLink>
-          {" and "}
-          <InlineLink href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">this Google Doc</InlineLink>.
-          <br />
-          <p className="font-semibold"> Notice something missing?
-            <a className='pl-1' href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
-              Let us know!
-            </a>
-          </p>
-        </div>
-
-      </div>
 
     </div>
   </header>

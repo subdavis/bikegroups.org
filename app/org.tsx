@@ -59,7 +59,7 @@ export default function Organization(params: Params) {
     >
       {params.image && <div className="sm:w-72 sm:pr-4 mb-2">
         <Image
-          className="rounded shadow-xl"
+          className="rounded [filter:drop-shadow(0_4px_6px_rgba(0,0,0,0.2))]"
           src={params.image + '.webp'}
           alt={params.name}
           width={600}
@@ -84,7 +84,7 @@ export default function Organization(params: Params) {
           {link(params, 'instagram')}
           {link(params, 'facebook')}
           {link(params, 'calendar')}
-          {link(params, 'location')}
+          {/* {link(params, 'location')} */}
         </div>
       </div>
     </section>

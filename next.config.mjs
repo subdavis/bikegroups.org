@@ -4,6 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
+  env: {
+    BUILD_TIME: new Date().toISOString(),
+  }
 };
 
 export default nextConfig;

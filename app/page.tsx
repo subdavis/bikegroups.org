@@ -14,6 +14,16 @@ export default function Home() {
         eager
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
+      {/* All Bodies on Bikes Minneapolis */}
+      <Org
+        name="All Bodies on Bikes Minneapolis"
+        quote="A cycling community in the twin cities that celebrates cycling diversity and inclusivity with joyful rides for all bodies."
+        description="All Bodies on Bikes is a movement to create and foster a size inclusive bike community. The Minneapolis chapter was established in 2025."
+        image="/images/All_Bodies_On_Bikes.png"
+        eager
+        website="https://www.allbodiesonbikes.com/"
+        instagram="https://www.instagram.com/abob_mpls/"
+      />
       <Org
         name="Behind Bars Social Rides"
         description={
@@ -22,7 +32,6 @@ export default function Home() {
           </p>
         }
         image="images/Behind_Bars_Ambassador_Solstice.jpg"
-        eager
         facebook='https://www.facebook.com/BehindBarsBicycleShopMN/events'
         instagram='https://www.instagram.com/behindbarsbicycleshop/'
         location="13th Ave Northeast"
@@ -211,12 +220,13 @@ export default function Home() {
         image='/images/Slow_Roll_Group.jpg'
       />
       <Org
-        name='Sociable Cider Werks Group Rides (SGR)'
+        name='Sociable Cider Werks Group Rides'
         quote='Sociable Group Rides will take place every Wednesday until the snow sticks. Wheels roll at 6pm. Keep an eye on our social media pages for any announcements regarding weather cancellations.'
         description={
-          <p>Wednesday rides for the season <a href="https://www.instagram.com/p/C6YynDUACTy/">announced on instagram</a></p>
+          <p>In partnership with Recovery Bike Shop. Wednesday rides for the season <a href="https://www.instagram.com/p/DHqlJ-CMc9b/">announced on instagram</a></p>
         }
         facebook='https://www.facebook.com/groups/sociablerides/'
+        instagram='https://www.instagram.com/sociablecider/'
         location='Northeast'
         image='/images/Sociable_Cider_Werks_Group.jpg'
         days={['W']}
@@ -245,9 +255,6 @@ export default function Home() {
         name="Twin Cities Cycling Coalition (T3C)"
         quote="Connection and coordination amongst the cycling community at large in the Twin Cities to link rides, events, volunteers, and resources."
         image='/images/Twin_Cities_Cycling_Coalition.jpg'
-        description={
-          <p>T3C Group Ride! 🚴🏽‍♀️ Oct. 27th 1pm. Open invitation to cyclists! Individuals, groups, teams, orgs, etc! Social pace.</p>
-        }
         instagram='https://www.instagram.com/twin_cities_cycling_coalition/'
       />
       <Org
@@ -286,7 +293,6 @@ export default function Home() {
         location='E Lake &amp; W River Road'
         image='/images/West_River_Racing_Coffee_Ride.jpg'
       />
-
 
       <div className="mx-6">
         <hr />

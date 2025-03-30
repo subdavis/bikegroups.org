@@ -325,6 +325,15 @@ export default function Home() {
             { href: 'https://mnbiketrailnavigator.blogspot.com/p/event-calendars.html?m=1', text: 'MN Trail Navigation Calendar' },
           ]}
         />
+        {/* <div className='mb-8'>
+          <iframe
+            src="https://calendar.google.com/calendar/embed?src=6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2%40group.calendar.google.com&ctz=America%2FChicago&mode=AGENDA"
+            style={{ 'border': 0 }}
+            width="100%"
+            height="600"
+            loading="lazy" />
+          <a href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">Calendar source</a>
+        </div> */}
       </div>
     </main>
   );

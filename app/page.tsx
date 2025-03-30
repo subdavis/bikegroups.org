@@ -316,6 +316,15 @@ export default function Home() {
             { href: 'https://www.bikemn.org/blog/', text: 'Bicycle Alliance of MN' },
           ]}
         />
+
+        <LinkPile
+          title="📅 Calendars"
+          links={[
+            { href: 'https://www.bikemn.org/all-events/', text: 'BikeMN Events' },
+            { href: 'https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1', text: 'Community Google Doc' },
+            { href: 'https://mnbiketrailnavigator.blogspot.com/p/event-calendars.html?m=1', text: 'MN Trail Navigation Calendar' },
+          ]}
+        />
       </div>
     </main>
   );

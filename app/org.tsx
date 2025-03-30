@@ -2,6 +2,7 @@ import Image from "next/image";
 import Quote from "./quote";
 import WeekIndicator, { Day } from "./weekIndicator";
 import clsx from "clsx";
+import OrgEvents from "./OrgEvents";
 
 interface Params {
   name: string;
@@ -47,16 +48,15 @@ function link(params: Params, prop: keyof typeof linkIcons) {
 function title(params: Params) {
   return <h3 className="mb-2 flex items-center flex-wrap">
     <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">{params.name}</span>
+   
   </h3>
 }
 
 export default function Organization(params: Params) {
+  const instagramHandle = params.instagram?.split('instagram.com/')[1].replace('/', '')
+
   return <>
-    <section className={clsx(
-      "text-base sm:flex mb-16 px-6",
-      params.highlight && "border py-6 border-amber-400 bg-amber-50 rounded-lg",
-    )}
-    >
+    <section className="text-base sm:flex mb-16 px-6">
       {params.image && <div className="sm:w-72 sm:pr-4 mb-2">
         <Image
           className="rounded [filter:drop-shadow(0_4px_6px_rgba(0,0,0,0.2))]"
@@ -70,6 +70,7 @@ export default function Organization(params: Params) {
       <div className="flex-1">
         {title(params)}
         {params.days && <WeekIndicator days={params.days} />}
+        <OrgEvents instagramHandle={instagramHandle} />
         {params.quote && <Quote>
           {params.quote}
         </Quote>}
@@ -79,6 +80,7 @@ export default function Organization(params: Params) {
             : params.description
           }
         </div>
+        
         <div>
           {link(params, 'website')}
           {link(params, 'instagram')}

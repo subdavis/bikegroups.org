@@ -33,13 +33,18 @@ export const metadata: Metadata = {
   },
 }
 
-export default function RootLayout(params: Readonly<{children: React.ReactNode}>) {
+export default async function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
+
   return (
     <html lang="en">
       <body className={inter.className}>
         <div className="flex flex-col mx-auto max-w-screen-md pt-8 px-4" >
           <Header />
-          {params.children}
+          {children}
         </div>
         <Footer />
         <script defer src="https://umami.subdavis.com/script.js" data-website-id="2bae8950-19d8-4090-8302-af54ae4e3a6b" />

@@ -12,6 +12,7 @@ export default function Home() {
         description="ACF hosts a Monday speedy training ride, a wednesday social open ride, and a thursday FTW social ride. Check their website for the details."
         image="/images/Angry_Catfish_Group.jpg"
         eager
+        instagram='https://www.instagram.com/angrycatfish/'
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
       {/* All Bodies on Bikes Minneapolis */}
@@ -103,7 +104,7 @@ export default function Home() {
         description={
           <p>Hosted <a href="https://www.instagram.com/p/C6T9ZAcuekb">monday summer group rides in 2024</a> and will hopefully continue.</p>
         }
-        instagram="https://www.instagram.com/genosack/"
+        instagram="https://www.instagram.com/geno_atb/"
         image="/images/Genosack_Bikes_Leaning.jpeg"
       />
       <Org
@@ -197,7 +198,6 @@ export default function Home() {
       />
       <Org
         name="Recovery Bike Shop"
-        quote="Just a casual exploration of Northeast. No-drop pace. Expect about an hour of riding. We roll out from Recovery Bike Shop at 6:30. We're generally back at the shop around 8pm. Sometimes we get ice cream after."
         description={
           <>
             <h3 className='text-xl mb-2'>Coffee (Outside)</h3>
@@ -272,10 +272,8 @@ export default function Home() {
         quote="Beers. Bikes. Community. That’s the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere."
         description={
           <>
-            <h4 className='text-xl mb-3'>Sunday Morning Rides</h4>
-            <p className="my-3">Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
-            <h4 className='text-xl mb-3'>FTW Wednesday Ride</h4>
-            <p className="mb-3">Organized in the same facebook group.</p>
+            <p className="my-3"><span className='font-bold'>Sunday Morning Rides:</span> Four pace groups, either Mountain or Road Biking. All riders meet up at Utepils Brewery afterward.</p>
+            <p className="mb-3"><span className='font-bold'>FTW Wednesday Ride:</span> Organized in the same facebook group.</p>
           </>
         }
         facebook='https://www.facebook.com/groups/UtepilsCycling'

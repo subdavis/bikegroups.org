@@ -69,14 +69,6 @@ export default function Home() {
         facebook='https://www.facebook.com/corpsewhaleracing/'
         instagram='https://www.instagram.com/corpsewhaleracing/'
       />
-      {/* <Org
-        name="Cycle Sisters"
-        quote="We host fun-ass themed bike rides while supporting Minneapolis businesses owned by women and BIPOC owners. BIPOC woman safe space. Open 2 all. "
-        description="Get ride updates and notifications using the google form on their instagram page."
-        image="/images/Cycle_Sisters_Minneapolis.jpg"
-        facebook="https://www.facebook.com/CycleSistersMpls/"
-        instagram="https://www.instagram.com/CycleSistersMpls/"
-      /> */}
       <Org
         name="EZ Bike Club"
         quote="El Zapatero was started because of our love and passion for style, fashion, sneakers and the exclusivity that came along with it. The sneaker and fashion community welcomed us with open arms and within that community we noticed a group of individuals who also had a love and passion for cycling, health and fitness. We decided to get this group of individuals together for bicycle rides."
@@ -98,11 +90,11 @@ export default function Home() {
         location="Northeast"
       />
       <Org
-        name='Genosack Summer Monday Rides'
+        name='Geno Summer Mondays'
         days={['M']}
         quote='Our events are for people who love experiencing bicycles, outdoor spaces, and unity.  We take pride in creating an environment of inclusivity, respect, and fun for all people of all abilities.'
         description={
-          <p>Hosted <a href="https://www.instagram.com/p/C6T9ZAcuekb">monday summer group rides in 2024</a> and will hopefully continue.</p>
+          <p><a href="https://www.instagram.com/p/DH9Xv7vpE4D">Monthly Monday rides for 2025</a> are happening once again.</p>
         }
         instagram="https://www.instagram.com/geno_atb/"
         image="/images/Genosack_Bikes_Leaning.jpeg"
@@ -281,7 +273,7 @@ export default function Home() {
         image='/images/Utepils_Cycling_Full_Group.jpg'
         highlight
       />
-      <Org
+      {/* <Org
         name='West River Racing Club Sunday Coffee Ride'
         days={['Su']}
         quote="West River Racing is Minnesota’s largest USAC-affiliated adult bike racing club with more than 70 members. Founded in 2008 as Birchwood Bike and Racing Team, we are a Minneapolis / St. Paul based passionate group of cycling enthusiasts who enjoy all forms of group bike riding. Our journey, spanning over a decade, reflects our unwavering commitment to the joy of cycling."
@@ -290,7 +282,7 @@ export default function Home() {
         website='https://westriverracing.bike/about'
         location='E Lake &amp; W River Road'
         image='/images/West_River_Racing_Coffee_Ride.jpg'
-      />
+      /> */}
 
       <div className="mx-6">
         <hr />

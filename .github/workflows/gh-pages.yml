@@ -24,8 +24,8 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          yarn install --frozen-lockfile
-          yarn build
+          pnpm install --frozen-lockfile
+          pnpm build
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v4

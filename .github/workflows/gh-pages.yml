@@ -13,20 +13,18 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
+      - uses: actions/checkout@v4
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-
+          cache: 'pnpm'
       - name: Install and Build 🔧
         run: |
           pnpm install --frozen-lockfile
           pnpm build
-
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v4
         with:

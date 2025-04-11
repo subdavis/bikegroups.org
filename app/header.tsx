@@ -25,7 +25,9 @@ function filterButton(extraClasses: string, content: JSX.Element) {
 }
 
 function InlineLink(params: { href: string, children: JSX.Element | string }) {
-  return <a className="text-stone-950 font-semibold" href={params.href}>
+  return <a className="text-stone-950 font-semibold" href={params.href}
+    data-umami-event="click calendar"
+    data-umami-event-type={params.children.toString()}>
     {params.children}
   </a>
 }
@@ -69,7 +71,7 @@ export default function Header() {
           {" and this "}
           <InlineLink href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">Google Doc</InlineLink>.
           <br />
-          
+
         </div>
 
       </div>

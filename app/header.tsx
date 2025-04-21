@@ -1,4 +1,3 @@
-
 function inlineBlockWord(word: string) {
   return <span className="inline-block sm:block mr-2">
     <span className="inline rounded bg-stone-950 text-stone-100 px-2">{word}</span>

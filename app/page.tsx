@@ -15,7 +15,6 @@ export default function Home() {
         instagram='https://www.instagram.com/angrycatfish/'
         website='https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm'
       />
-      {/* All Bodies on Bikes Minneapolis */}
       <Org
         name="All Bodies on Bikes Minneapolis"
         quote="A cycling community in the twin cities that celebrates cycling diversity and inclusivity with joyful rides for all bodies."
@@ -120,18 +119,6 @@ export default function Home() {
         location='Multiple Locations'
         image='/images/Freewheel.jpg'
       />
-      {/* <Org
-        name="The Hub Cycling Team Rides"
-        description={
-          <p>Hosts regular rides through the season on Wednesdays, usually starting from the Minnehaha Ave shop and ending at Arbiter or Bang Brewing. <a href="https://www.instagram.com/p/C691XQ0sLSa">Read the announcement.</a></p>
-        }
-        quote='The Hub Cycling Team is a group of like minded individuals who ride, race, work, and play together.'
-        instagram='https://www.instagram.com/hubcyclingteam/'
-        facebook='https://www.facebook.com/hubcyclingteam/'
-        image='/images/The_Hub_Cycling_Team.jpg'
-        days={['W']}
-        location='Longfellow'
-      /> */}
       <Org
         name="Joyful Riders Club"
         description={

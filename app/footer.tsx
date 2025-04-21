@@ -22,10 +22,10 @@ export default function Footer() {
           </a>
         </p> 
       </div>
-      <div className="invert w-32 h-32">
+      <div className="w-[148px]">
         <Image
-          src="/bicycle.webp"
-          alt="A penny farthing illustration"
+          src="/rainbow_bike.png"
+          alt="A rainbow bike"
           width={48}
           height={48}
           layout="responsive"

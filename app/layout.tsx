@@ -4,8 +4,6 @@ import "./globals.css";
 import Header from "./header";
 import Footer from "./footer";
 
-const svg1 = `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='100'>✌️</text></svg>`
-
 const inter = Inter({ subsets: ["latin"] });
 const description = 'Updated for Spring 2025. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.'
 export const metadata: Metadata = {
@@ -27,13 +25,6 @@ export const metadata: Metadata = {
     locale: 'en_US',
     type: 'website',
   },
-  icons: [
-    { 
-      rel: 'icon',
-      href: `data:image/svg+xml,${svg1}`,
-      url: ''
-    },
-  ],
   alternates: {
     canonical: 'https://bikegroups.org/',
     languages: {

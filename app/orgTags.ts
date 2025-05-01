@@ -6,4 +6,4 @@ export enum OrgTags {
   MOUNTAIN = 'Mountain Biking',
   SOCIAL = 'Social',
   TRAINING = 'Training',
-} 
+}

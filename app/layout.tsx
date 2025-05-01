@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "./header";
 import Footer from "./footer";
+import LinkPile from "./linkPile";
 
 const inter = Inter({ subsets: ["latin"] });
 const description = 'Updated for Spring 2025. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.'
@@ -45,6 +46,41 @@ export default async function RootLayout({
         <div className="flex flex-col mx-auto max-w-screen-md pt-8 px-4" >
           <Header />
           {children}
+          <div>
+            <hr />
+            <LinkPile
+              title="💬 Discussion"
+              links={[
+                { href: 'https://www.reddit.com/r/CyclingMSP/', text: 'r/CyclingMSP' },
+                { href: 'https://www.facebook.com/groups/TCMNBikeTalk', text: 'TCMN Bike Talk' },
+                { href: 'https://www.facebook.com/groups/451259884926066/', text: 'Minnesota Bike Camping and Bikepacking' },
+                { href: 'https://www.facebook.com/groups/TwinCitiesBicycleTradingPost', text: 'TC Bicycle Trading Post' },
+                { href: 'https://www.facebook.com/groups/smallframesbighearts/', text: 'Small Frames Big Hearts' },
+                { href: 'https://www.facebook.com/groups/tcwtfbikes', text: 'FTWNB Trading Post' },
+              ]}
+            />
+
+            <LinkPile
+              title="📝 Blogs"
+              links={[
+                { href: 'https://mnbiketrailnavigator.blogspot.com/', text: 'MN Trail Navigator' },
+                { href: 'https://mplsbikelove.com/', text: 'MPLS Bike Love' },
+                { href: 'https://streets.mn/', text: 'Streets.mn' },
+                { href: 'https://www.ourstreetsmpls.org/current_news', text: 'Our Streets' },
+                { href: 'https://www.bikemn.org/blog/', text: 'Bicycle Alliance of MN' },
+              ]}
+            />
+
+            <LinkPile
+              title="📅 Calendars"
+              links={[
+                { href: 'https://www.bikemn.org/all-events/', text: 'BikeMN Events' },
+                { href: 'https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1', text: 'Community Google Doc' },
+                { href: 'https://mnbiketrailnavigator.blogspot.com/p/event-calendars.html?m=1', text: 'MN Trail Navigation Calendar' },
+              ]}
+            />
+
+          </div>
         </div>
         <Footer />
         {/* Only show the umami script if the user is not on localhost */}

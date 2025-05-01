@@ -1,3 +1,5 @@
+import type { JSX } from "react";
+
 function inlineBlockWord(word: string) {
   return <span className="inline-block sm:block mr-2">
     <span className="inline rounded bg-stone-950 text-stone-100 px-2">{word}</span>
@@ -32,7 +34,7 @@ function InlineLink(params: { href: string, children: JSX.Element | string }) {
 }
 
 export default function Header() {
-  return <header className="mx-6">
+  return <header>
     {bigwheel()}
     <h1 className="z-10 text-4xl font-semibold sm:mt-0 my-4">
       {inlineBlockWord('2025')}
@@ -47,7 +49,7 @@ export default function Header() {
     <p className="my-3 z-10 bg-white">
 
     </p>
-    <div className="z-10 bg-stone-100 rounded-xl rounded-tr-xl p-3 text-base my-10 border-2 border-stone-300">
+    <div className="z-10 bg-stone-100 rounded-xl rounded-tr-xl p-3 text-base mt-10 border-2 border-stone-300">
       <div className="flex">
         <p className="text-2xl pr-3">ℹ️</p>
         <div>
@@ -76,5 +78,6 @@ export default function Header() {
       </div>
 
     </div>
+
   </header>
 }

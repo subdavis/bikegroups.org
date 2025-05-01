@@ -1,10 +1,12 @@
 import Image from "next/image";
 import Quote from "./quote";
 import WeekIndicator, { Day } from "./weekIndicator";
-import clsx from "clsx";
 import OrgEvents from "./OrgEvents";
+import { OrgTags } from "./orgTags";
+import type { JSX } from "react";
+import { TagDot } from "./tags";
 
-interface Params {
+export interface OrgParams {
   name: string;
   quote?: string | JSX.Element | React.ReactNode;
   description?: string | JSX.Element | React.ReactNode;
@@ -18,6 +20,7 @@ interface Params {
   highlight?: boolean;
   verified?: boolean;
   eager?: boolean;
+  tags?: OrgTags[];
 }
 
 const linkIcons = {
@@ -28,7 +31,7 @@ const linkIcons = {
   location: '📍',
 }
 
-function link(params: Params, prop: keyof typeof linkIcons) {
+function link(params: OrgParams, prop: keyof typeof linkIcons) {
   if (params[prop]) {
     if (params[prop]?.startsWith('http')) {
       return <a
@@ -47,18 +50,20 @@ function link(params: Params, prop: keyof typeof linkIcons) {
   }
 }
 
-function title(params: Params) {
+function title(params: OrgParams) {
   return <h3 className="mb-2 flex items-center flex-wrap">
     <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">{params.name}</span>
-   
+    {params.tags && <div className="flex flex-wrap">
+      {params.tags.map(tag => <TagDot key={tag} tag={tag} className="mr-1" />)}
+    </div>}
   </h3>
 }
 
-export default function Organization(params: Params) {
+export default function Organization(params: OrgParams) {
   const instagramHandle = params.instagram?.split('instagram.com/')[1].replace('/', '')
 
   return <>
-    <section className="text-base sm:flex mb-16 px-6">
+    <section className="text-base sm:flex mb-16">
       {params.image && <div className="sm:w-72 sm:pr-4 mb-2">
         <Image
           className="rounded [filter:drop-shadow(0_4px_6px_rgba(0,0,0,0.2))]"
@@ -82,7 +87,7 @@ export default function Organization(params: Params) {
             : params.description
           }
         </div>
-        
+
         <div>
           {link(params, 'website')}
           {link(params, 'instagram')}

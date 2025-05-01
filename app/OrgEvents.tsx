@@ -12,7 +12,7 @@ function renderEvent(events: CalEvent[]) {
     dateText += ` (and ${events.length - 1} more)`;
   }
   return (<>
-    <a href={event['Source URL']} className="">{event['Title']}</a>
+    <a href={event['Source URL']} aria-label={`${event['Title']} - event details`}>{event['Title']}</a>
     {" "}
     <time dateTime={event.startTimestamp.toISOString()} className="block text-xs text-gray-500 whitespace-nowrap">
       {dateText}

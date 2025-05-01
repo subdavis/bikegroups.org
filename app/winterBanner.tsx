@@ -1,8 +1,8 @@
 export default function WinterBanner() {
   return (
-    <div className="relative overflow-hidden bg-blue-50 border-2 border-blue-200 rounded-xl p-4 mb-8">
+    <div className="relative overflow-hidden bg-blue-50 border-2 border-blue-200 rounded-xl p-4 mb-8" role="alert" aria-live="polite">
       {/* Snowflake decorations */}
-      <div className="absolute inset-0 opacity-30 text-blue-400">
+      <div className="absolute inset-0 opacity-30 text-blue-400" aria-hidden="true">
         <span className="absolute text-4xl top-2 left-4">❄️</span>
         <span className="absolute text-3xl top-1 right-8">❄️</span>
         <span className="absolute text-2xl bottom-2 left-1/4">❄️</span>
@@ -12,7 +12,7 @@ export default function WinterBanner() {
       {/* Content */}
       <div className="relative z-10">
         <h2 className="text-lg font-semibold mb-2 flex items-center">
-          <span className="text-2xl mr-2">⚠️</span>
+          <span className="text-2xl mr-2" aria-hidden="true">⚠️</span>
           Winter 2025 Notice
         </h2>
         <p className="text-base">

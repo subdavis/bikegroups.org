@@ -2,30 +2,30 @@ import Image from "next/image";
 
 export default function Footer() {
   const buildTime = new Date(process.env.BUILD_TIME || '');
-  return <footer className="bg-stone-950">
+  return <footer className="bg-stone-950" role="contentinfo">
     <div className="flex flex-row mx-auto max-w-screen-md justify-between py-6 px-4">
       <div className="text-stone-100 text-left text-sm font-mono">
         <p className="mb-3">
           bikegroups.org 2025
         </p>
         <p className="mb-3">
-          last updated on <time dateTime={buildTime.toISOString()}>{buildTime.toLocaleDateString()}</time>
+          last updated on <time dateTime={buildTime.toISOString()} aria-label={`Last updated on ${buildTime.toLocaleDateString()}`}>{buildTime.toLocaleDateString()}</time>
         </p>
         <p className="mb-3">
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScPW7ebBicE7QIR-66SfbchiL86r2XT9wR6vVHKMatNmB-eUg/viewform" aria-label="Submit an update form">
             submit an update
           </a>
         </p>
         <p>
-          <a href="https://github.com/subdavis/bikegroups.org" className="text-stone-100">
+          <a href="https://github.com/subdavis/bikegroups.org" className="text-stone-100" aria-label="View source code on GitHub">
             edit the code
           </a>
         </p> 
       </div>
-      <div className="w-[148px]">
+      <div className="w-[148px]" aria-hidden="true">
         <Image
           src="/rainbow_bike.png"
-          alt="A rainbow bike"
+          alt=""
           width={48}
           height={48}
           layout="responsive"

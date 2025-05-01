@@ -42,6 +42,9 @@ export function TagDot(params: { tag: OrgTags, className?: string }) {
             params.className,
         )} 
         href={linkTarget}
+        role="button"
+        aria-label={`Filter by ${params.tag} tag`}
+        aria-pressed={params.tag === OrgTags.Everything ? undefined : "false"}
     >
         <span className="
             absolute bottom-full left-1/2 -translate-x-1/2 mb-2
@@ -51,7 +54,7 @@ export function TagDot(params: { tag: OrgTags, className?: string }) {
             transition-opacity duration-75
             whitespace-nowrap
             pointer-events-none
-        ">
+        " aria-hidden="true">
             {params.tag}
         </span>
     </a>
@@ -61,23 +64,28 @@ export function Tag(params: { tag: OrgTags, active: boolean, className?: string 
     const linkTarget = params.tag === OrgTags.Everything ? '/' : `/tags/${params.tag}`;
 
     return (
-        <a href={linkTarget} className={clsx(
-            'rounded-md px-2 text-xl',
-            'border-2 no-underline font-bold',
-            tagColors[params.tag],
-            tagSoftBgColors[params.tag],
-            !params.active && [
-                'bg-[var(--tag-soft-bg)]',
-                'text-stone-900',
-                'border-[var(--tag-bg)]'
-            ],
-            params.active && [
-                'bg-[var(--tag-bg)]',
-                'text-white',
-                'border-transparent',
-            ],
-            params.className,
-        )} >
+        <a href={linkTarget} 
+            className={clsx(
+                'rounded-md px-2 text-xl',
+                'border-2 no-underline font-bold',
+                tagColors[params.tag],
+                tagSoftBgColors[params.tag],
+                !params.active && [
+                    'bg-[var(--tag-soft-bg)]',
+                    'text-stone-900',
+                    'border-[var(--tag-bg)]'
+                ],
+                params.active && [
+                    'bg-[var(--tag-bg)]',
+                    'text-white',
+                    'border-transparent',
+                ],
+                params.className,
+            )}
+            role="button"
+            aria-label={`Filter by ${params.tag} tag`}
+            aria-pressed={params.active ? "true" : "false"}
+        >
             <span>{params.tag}</span>
         </a>
     )
@@ -86,9 +94,12 @@ export function Tag(params: { tag: OrgTags, active: boolean, className?: string 
 export function TagNavigator(params: { activeTag?: OrgTags, className?: string }) {
     const allTags = Object.values(OrgTags);
     const activeTag = params.activeTag ?? OrgTags.Everything;
-    return <div className={clsx('flex flex-wrap', params.className)}>
+    return <nav 
+        className={clsx('flex flex-wrap', params.className)}
+        aria-label="Filter organizations by tag"
+    >
         {allTags.map(tag => <Tag key={tag} tag={tag} active={tag === activeTag} className="mr-2 mb-2" />)}
-    </div>
+    </nav>
 }
 
 export function TagPageHeader(params: { tag: OrgTags }) {

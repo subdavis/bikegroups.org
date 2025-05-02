@@ -64,7 +64,7 @@ function title(params: OrgParams) {
         {params.name}
       </span>
       {params.tags && (
-        <div className="flex flex-wrap" role="list" aria-label={`${params.name} tags`}>
+        <div className="flex flex-wrap my-1" role="list" aria-label={`${params.name} tags`}>
           {params.tags.map((tag) => (
             <TagDot key={tag} tag={tag} className="mr-1" />
           ))}

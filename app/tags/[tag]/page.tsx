@@ -5,11 +5,11 @@ import { TagNavigator, TagPageHeader } from '@/app/tags';
 
 export async function generateStaticParams() {
   const allTags = Object.values(OrgTags);
-  return allTags.map((tag) => ({ tag: encodeURIComponent(tag) }));
+  return allTags.map((tag) => ({ tag }));
 }
 
 export default async function Page({ params }: { params: Promise<{ tag: string }> }) {
-  const tag = decodeURIComponent((await params).tag);
+  const { tag } = await params;
   const matching = OrgList().filter(
     (org) => org.tags?.includes(tag as OrgTags) || tag === OrgTags.Everything
   );
@@ -20,9 +20,11 @@ export default async function Page({ params }: { params: Promise<{ tag: string }
         <TagNavigator activeTag={tag as OrgTags} className="mb-2" />
         <TagPageHeader tag={tag as OrgTags} />
       </div>
-      {matching.map((org) => (
-        <Organization key={org.name} {...org} />
-      ))}
+      <main>
+        {matching.map((org) => (
+          <Organization key={org.name} {...org} />
+        ))}
+      </main>
     </div>
   );
 }

@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { OrgTags } from './orgTags';
+import { OrgTags, TagName } from './orgTags';
 
 export const TagDescriptions: Record<OrgTags, string> = {
   [OrgTags.Everything]: 'All groups',
@@ -62,7 +62,7 @@ export function TagDot(params: { tag: OrgTags; className?: string }) {
         "
         aria-hidden="true"
       >
-        {params.tag}
+        {TagName[params.tag]}
       </span>
     </a>
   );
@@ -87,7 +87,7 @@ export function Tag(params: { tag: OrgTags; active: boolean; className?: string 
       aria-label={`Filter by ${params.tag} tag`}
       aria-pressed={params.active ? 'true' : 'false'}
     >
-      <span>{params.tag}</span>
+      <span>{TagName[params.tag]}</span>
     </a>
   );
 }

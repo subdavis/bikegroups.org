@@ -6,7 +6,7 @@ export default function OrgList(): OrgParams[] {
   return [
     {
       name: 'Angry Catfish Group Rides',
-      days: ['M', 'W', 'Th'],
+      days: ['M', 'W'],
       tags: [OrgTags.TRAINING, OrgTags.SOCIAL],
       quote:
         "Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we're left with when we get home. We hope you feel the same way.",
@@ -38,7 +38,7 @@ export default function OrgList(): OrgParams[] {
           on instagram.
         </p>
       ),
-      image: 'images/Behind_Bars_Ambassador_Solstice.jpg',
+      image: '/images/Behind_Bars_Ambassador_Solstice.jpg',
       facebook: 'https://www.facebook.com/BehindBarsBicycleShopMN/events',
       instagram: 'https://www.instagram.com/behindbarsbicycleshop/',
       location: '13th Ave Northeast',
@@ -46,7 +46,7 @@ export default function OrgList(): OrgParams[] {
     {
       name: 'Biking with Baddies',
       tags: [OrgTags.SOCIAL, OrgTags.FTW, OrgTags.FAMILY, OrgTags.MEMBERS_ONLY],
-      days: ['F'],
+      days: ['Su'],
       quote:
         'Our mission is to empower women in cycling, harnessing the strength of nature and the bonds of community to pave the way for change. We believe that by embracing the beauty of diversity we can achieve unity on open road. Our wheels turn not only to conquer miles, but also to break down barriers.',
       description: (
@@ -337,10 +337,11 @@ export default function OrgList(): OrgParams[] {
     {
       name: 'Unruly Women',
       tags: [OrgTags.FTW, OrgTags.SOCIAL, OrgTags.MOUNTAIN, OrgTags.TRAINING],
+	  days: ['W'],
       quote:
         'My dream for Unruly Women is to create an inclusive and accessible community that empowers all female identifying and femme-leaning non-binary persons to reclaim their voice by unearthing their inner wild, outdoors.',
       description:
-        "By participating in different adventures you'll learn a variety of wilderness and sport specific skills in an environment where you can feel safe to discover your most authentic self and embrace all of it.",
+        "2025 Group Rides will generally be WEDNESDAYS this year at various single track locations, with the occasional trail work day at Theodore Wirth Single Track with MORC instead of group ride. ",
       image: '/images/Unruly.jpeg',
       website: 'https://www.unrulywomen.org/',
       instagram: 'https://www.instagram.com/unruly.women/',

@@ -94,13 +94,12 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         </div>
         <Footer />
         {/* Only show the umami script if the user is not on localhost */}
-        {process.env.NODE_ENV === 'production' && (
-          <script
-            defer
-            src="https://umami.subdavis.com/script.js"
-            data-website-id="2bae8950-19d8-4090-8302-af54ae4e3a6b"
-          />
-        )}
+        <script
+          defer
+          src="https://umami.subdavis.com/script.js"
+          data-website-id="2bae8950-19d8-4090-8302-af54ae4e3a6b"
+          data-domains="bikegroups.org"
+        />
       </body>
     </html>
   );

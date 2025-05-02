@@ -168,6 +168,16 @@ export default function OrgList(): OrgParams[] {
       image: '/images/Freewheel.jpg',
     },
     {
+      name: 'Hiawatha Bicycling Club',
+      tags: [OrgTags.MEMBERS_ONLY, OrgTags.TRAINING, OrgTags.SOCIAL],
+      quote:
+        'The mission of the Hiawatha Bicycling Club is to: Lead safe, friendly, and fun bicycle rides for adults. Make and distribute maps of bicycle routes to the public. Educate the public about bicycling.',
+      image: '/images/Hiawatha_Group.jpg',
+      website: 'https://www.hiawathabike.org/',
+      calendar: 'https://hbc.hiawathabike.org/stats/pages/calendar.xhtml',
+      facebook: 'https://www.facebook.com/groups/248219539274/',
+    },
+    {
       name: 'Joyful Riders Club',
       description: (
         <span>
@@ -192,10 +202,23 @@ export default function OrgList(): OrgParams[] {
       tags: [OrgTags.SOCIAL, OrgTags.TRAINING],
       quote:
         'As the premier African-American bicycling club in the state of Minnesota and the Upper Midwest, we have brought diversity to the bicycling community of the Twin Cities since 1999. We invite you to learn more about our Club and our namesake - the legendary Major Taylor - the first Black world champion cyclist in 1899.',
+      description: 'Rides are open to anyone, but membership is available.',
       image: '/images/Major_Taylor_Cycling_Club.jpg',
       website: 'https://major-taylor-minnesota.squarespace.com/',
       instagram: 'https://www.instagram.com/majortaylorminnesota/',
-      calendar: 'https://major-taylor-minnesota.squarespace.com/ride-schedule',
+    },
+    {
+      name: 'Midtown Cycling',
+      tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
+      days: ['Su', 'T', 'F'],
+      quote:
+        'The Midtown Cycling Club’s mission is to encourage cycling in the Twin Cities Metro area and by doing so, create new friendships, stay healthy, and have lots of fun.',
+      description:
+        'We are a cycling club in the Metro area.  We are registered with USAC for those in the club who wish to do some road racing.',
+      image: '/images/Midtown_Cycling.png',
+      website: 'https://rmcg.midtowncycling.com/',
+      calendar: 'https://rmcg.midtowncycling.com/stats/pages/calendar.xhtml',
+      facebook: 'https://www.facebook.com/MidtownCycling/',
     },
     {
       name: 'Midwest Dirt Legion',
@@ -320,12 +343,26 @@ export default function OrgList(): OrgParams[] {
       name: 'Team Recess',
       quote:
         'The Team Recess approach to racing and riding bikes is supportive, well-stocked with snacks, and fun. We love inviting our friends to play bikes. Recess is the time of day–no matter where you are in life–when you join with folx outside of boundaries set for you by work, school, and other obligations to play and work together and–of course–get the endorphins and the thrill going!',
-      description: <p>2025 calendar is not yet announced.</p>,
+      description:
+        'Team Recess is a small FTWNB cycling team based in Minneapolis. We are dedicated to supporting FTWNB cyclists in all disciplines.',
       tags: [OrgTags.MEMBERS_ONLY, OrgTags.FTW],
       image: '/images/Team_Recess.jpg',
-      website: 'https://www.teamrecessmpls.com/',
+      website:
+        'https://padlet.com/teamrecessmpls/welcome-to-team-recess-racing-4icat5qtx3xh57pe?fbclid=PAZXh0bgNhZW0CMTEAAac_yD0jW2iyaCR4SNX77CmkGooDJDoxArliAlFcXR_7QBEGNhI1g20Y3S23UA_aem_xhX1OIHLi4b2btkAyuYq_w',
       instagram: 'https://www.instagram.com/team_recess/',
       facebook: 'https://www.facebook.com/teamrecess/',
+    },
+    {
+      name: 'Tuesday Night Rides',
+      tags: [OrgTags.SOCIAL, OrgTags.TRAINING],
+      days: ['T'],
+      quote:
+        'The goal is to push the pedals and have social time at the restaurant. Please note, not all riders have dinner, and some choose to roll on when we stop. This is a ride you can join for as much or as little as you like.',
+      description: 'Rides leave from Headflyer Brewing at 6PM. See the Facebook group for details.',
+      location: 'Headflyer Brewing (861 E Hennepin Ave, Minneapolis, MN 55414)',
+      image: '/images/Tuesday_Night_Rides.jpg',
+      website: 'https://www.facebook.com/groups/TuesdayNightRides/',
+      instagram: 'https://www.instagram.com/tuesdaynightrides/',
     },
     {
       name: 'Twin Cities Cycling Coalition (T3C)',
@@ -337,11 +374,11 @@ export default function OrgList(): OrgParams[] {
     {
       name: 'Unruly Women',
       tags: [OrgTags.FTW, OrgTags.SOCIAL, OrgTags.MOUNTAIN, OrgTags.TRAINING],
-	  days: ['W'],
+      days: ['W'],
       quote:
         'My dream for Unruly Women is to create an inclusive and accessible community that empowers all female identifying and femme-leaning non-binary persons to reclaim their voice by unearthing their inner wild, outdoors.',
       description:
-        "2025 Group Rides will generally be WEDNESDAYS this year at various single track locations, with the occasional trail work day at Theodore Wirth Single Track with MORC instead of group ride. ",
+        '2025 Group Rides will generally be WEDNESDAYS this year at various single track locations, with the occasional trail work day at Theodore Wirth Single Track with MORC instead of group ride. ',
       image: '/images/Unruly.jpeg',
       website: 'https://www.unrulywomen.org/',
       instagram: 'https://www.instagram.com/unruly.women/',

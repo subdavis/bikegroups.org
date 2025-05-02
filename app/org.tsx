@@ -59,7 +59,7 @@ function link(params: OrgParams, prop: keyof typeof linkIcons) {
 
 function title(params: OrgParams) {
   return (
-    <h3 className="mb-2 flex items-center flex-wrap">
+    <h2 className="mb-2 flex items-center flex-wrap">
       <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">
         {params.name}
       </span>
@@ -70,7 +70,7 @@ function title(params: OrgParams) {
           ))}
         </div>
       )}
-    </h3>
+    </h2>
   );
 }
 
@@ -88,6 +88,7 @@ export default function Organization(params: OrgParams) {
             width={600}
             height={400}
             loading={params.eager ? 'eager' : 'lazy'}
+            fetchPriority={params.eager ? 'high' : 'low'}
           />
         </div>
       )}

@@ -36,9 +36,8 @@ const tagSoftBgColors = {
 };
 
 export function TagDot(params: { tag: OrgTags; className?: string }) {
-  const linkTarget = params.tag === OrgTags.Everything ? '/' : `/tags/${params.tag}`;
   return (
-    <a
+    <div
       className={clsx(
         'rounded-full w-5 h-5',
         'group relative',
@@ -46,9 +45,7 @@ export function TagDot(params: { tag: OrgTags; className?: string }) {
         'bg-[var(--tag-bg)]',
         params.className
       )}
-      href={linkTarget}
-      role="button"
-      aria-hidden={true}
+      aria-hidden="true"
     >
       <span
         className="
@@ -60,11 +57,10 @@ export function TagDot(params: { tag: OrgTags; className?: string }) {
             whitespace-nowrap
             pointer-events-none
         "
-        aria-hidden="true"
       >
         {TagName[params.tag]}
       </span>
-    </a>
+    </div>
   );
 }
 
@@ -75,11 +71,11 @@ export function Tag(params: { tag: OrgTags; active: boolean; className?: string 
     <a
       href={linkTarget}
       className={clsx(
-        'rounded-md px-2 text-xl',
+        'rounded-full px-2 text-xl',
         'border-2 no-underline font-bold',
         tagColors[params.tag],
         tagSoftBgColors[params.tag],
-        !params.active && ['bg-[var(--tag-soft-bg)]', 'text-stone-900', 'border-[var(--tag-bg)]'],
+        !params.active && ['bg-[var(--tag-soft-bg)]', 'text-stone-700', 'border-[var(--tag-bg)]'],
         params.active && ['bg-[var(--tag-bg)]', 'text-white', 'border-transparent'],
         params.className
       )}

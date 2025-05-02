@@ -1,4 +1,5 @@
 import type { JSX } from 'react';
+import Image from 'next/image';
 
 function inlineBlockWord(word: string) {
   return (
@@ -16,11 +17,17 @@ function bigwheel() {
     sm:ml-0 sm:mt-0 sm:relative
     "
     >
-      <div
-        className="
-      -z-10 bg-[url('/wheel.small.webp')] bg-contain bg-no-repeat w-[512px] h-[512px] min-w-[512px] min-h-[512px]
-      sm:absolute animate-spin-slow sm:-top-[286px] sm:-right-16"
-      />
+      <div className="-z-10 w-[512px] h-[512px] min-w-[512px] min-h-[512px] sm:absolute sm:-top-[286px] sm:-right-16">
+        <Image
+          src="/wheel.small.webp"
+          alt=""
+          width={512}
+          height={512}
+          priority
+          fetchPriority="high"
+          aria-hidden="true"
+        />
+      </div>
     </div>
   );
 }

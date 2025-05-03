@@ -23,7 +23,7 @@ export default function Footer() {
           </p>
         </div>
         <div className="w-[148px]" aria-hidden="true">
-          <Image src="/rainbow_bike.png" alt="" width={48} height={48} layout="responsive" />
+          <Image src="/rainbow_bike.png" alt="" width={48} height={48} className="w-full" />
         </div>
       </div>
     </footer>

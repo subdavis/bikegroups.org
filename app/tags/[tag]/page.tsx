@@ -9,11 +9,7 @@ export async function generateStaticParams() {
   return allTags.map((tag) => ({ tag }));
 }
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { tag: OrgTags };
-}): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ tag: OrgTags }> }) {
   const { tag } = await params;
   return {
     title: `${TagName[tag]} | 2025 Minneapolis Bike Clubs`,

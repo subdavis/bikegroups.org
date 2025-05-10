@@ -81,14 +81,13 @@ export default function Organization(params: OrgParams) {
     <article className="text-base sm:flex mb-16">
       {params.image && (
         <div className="sm:w-72 sm:pr-4 mb-2">
-          <Image
+          <img
             className="rounded [filter:drop-shadow(0_4px_6px_rgba(0,0,0,0.2))]"
             src={params.image + '.webp'}
             alt={`${params.name} organization logo`}
             width={600}
             height={400}
             loading={params.eager ? 'eager' : 'lazy'}
-            fetchPriority={params.eager ? 'high' : 'low'}
           />
         </div>
       )}

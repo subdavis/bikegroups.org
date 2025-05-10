@@ -25,6 +25,7 @@ jobs:
         run: |
           pnpm install --frozen-lockfile
           pnpm build
+          pnpm clean-html
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v4
         with:

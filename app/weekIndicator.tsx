@@ -3,6 +3,16 @@ import clsx from 'clsx';
 export type Day = 'M' | 'T' | 'W' | 'Th' | 'F' | 'Sa' | 'Su';
 const allDays: Day[] = ['M', 'T', 'W', 'Th', 'F', 'Sa', 'Su'];
 
+const dayLabels: Record<Day, string> = {
+  M: 'Monday',
+  T: 'Tuesday',
+  W: 'Wednesday',
+  Th: 'Thursday',
+  F: 'Friday',
+  Sa: 'Saturday',
+  Su: 'Sunday',
+};
+
 const activeClasses = 'bg-stone-300 text-stone-950 border-2 border-stone-800 font-bold';
 const inactiveClasses = 'bg-stone-100 text-stone-700';
 
@@ -20,6 +30,7 @@ export default function WeekIndicator(params: { days: Day[] }) {
               'w-7 h-7 rounded-full inline-flex items-center justify-center mr-1',
               active ? activeClasses : inactiveClasses
             )}
+            aria-label={dayLabels[day]}
             aria-hidden={!active}
           >
             {day}

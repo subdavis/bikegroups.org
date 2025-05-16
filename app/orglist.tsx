@@ -9,7 +9,7 @@ export default function OrgList(): OrgParams[] {
       days: ['M', 'W'],
       tags: [OrgTags.TRAINING, OrgTags.SOCIAL],
       quote:
-        "Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strave Club page. Riding bikes is about the fun, the adventure, and the stories we're left with when we get home. We hope you feel the same way.",
+        "Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strava Club page. Riding bikes is about the fun, the adventure, and the stories we're left with when we get home. We hope you feel the same way.",
       description:
         'ACF hosts a Monday speedy training ride, a wednesday social open ride, and a thursday FTW social ride. Check their website for the details.',
       image: '/images/Angry_Catfish_Group.jpg',
@@ -272,7 +272,7 @@ export default function OrgList(): OrgParams[] {
       location: 'South Uptown',
     },
     {
-      name: 'PieCyle Club',
+      name: 'PieCycle Club',
       tags: [OrgTags.SOCIAL, OrgTags.FAMILY],
       quote:
         'MPLS Piecycle Club is a Minneapolis based cycling club focused on building fun and inviting biking experiences for riders of all levels. We organize chill (Pastry Pace), family-friendly group rides around Minneapolis that start and/or end with delicious baked goods.',

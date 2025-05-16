@@ -25,6 +25,7 @@ function bigwheel() {
           height={512}
           aria-hidden="true"
           loading="eager"
+          fetchPriority="high"
         />
       </div>
     </div>

@@ -19,6 +19,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'All Bodies on Bikes Minneapolis',
+      days: ['Su'],
       tags: [OrgTags.SOCIAL],
       quote:
         'A cycling community in the twin cities that celebrates cycling diversity and inclusivity with joyful rides for all bodies.',
@@ -28,6 +29,18 @@ export default function OrgList(): OrgParams[] {
       eager: true,
       website: 'https://www.allbodiesonbikes.com/',
       instagram: 'https://www.instagram.com/abob_mpls/',
+    },
+    {
+      name: 'Balance Cycling Club',
+      days: ['M', 'T', 'W', 'Th', 'Sa', 'Su'],
+      tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY, OrgTags.FTW],
+      quote:
+        'Our mission is to support a cycling club that builds bonds between members, helps them achieve their cycling goals, enriches their personal and professional lives, and contributes to the greater cycling community through positive leadership.',
+      description:
+        'Wide variety of pace groups for dues-paying members. Rides meet at Bryant Ave S & W 29th St (near the Midtown Greenway). Check their website for details.',
+      website: 'https://balancempls.com/balance-cycling-membership',
+      calendar: 'https://balancempls.com/ride-schedule',
+      image: '/images/balance-cycling-minneapolis-bike-club.jpg',
     },
     {
       name: 'Behind Bars Social Rides',

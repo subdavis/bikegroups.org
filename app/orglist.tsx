@@ -93,7 +93,7 @@ export default function OrgList(): OrgParams[] {
     {
       name: 'Corpse Whale Racing',
       quote:
-        'MPLS made cycling team. We race track, road, criteriums, cyclocross and endurance, party on bikes, and give back to our community.',
+        'MPLS made cycling team. We race track, road, crit, cyclocross and endurance, party on bikes, and give back to our community.',
       description: (
         <p>
           Keep an eye out for the{' '}
@@ -263,9 +263,9 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Perennial Cycle Shop Rides',
-      tags: [OrgTags.SOCIAL, OrgTags.FAMILY],
+      tags: [OrgTags.SOCIAL, OrgTags.FAMILY, OrgTags.FTW],
       description:
-        'Perennial hosts and/or promotes all sorts of events.  Family fun rides, FTW rides, and 30 Days of Biking pastry rides.  Follow their instagram for event updates.',
+        'Perennial hosts and/or promotes all sorts of events. Family fun rides, FTW rides, and 30 Days of Biking pastry rides. Follow their instagram for event updates.',
       instagram: 'https://www.instagram.com/perennialcycle/',
       facebook: 'https://www.facebook.com/perennialcycle/events',
       image: '/images/Perennial_Queer_History_Ride.jpeg',

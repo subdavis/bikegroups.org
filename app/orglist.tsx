@@ -6,8 +6,8 @@ export default function OrgList(): OrgParams[] {
   return [
     {
       name: 'Angry Catfish Group Rides',
-      days: ['M', 'W'],
-      tags: [OrgTags.TRAINING, OrgTags.SOCIAL],
+      days: ['M', 'W', 'Th'],
+      tags: [OrgTags.TRAINING, OrgTags.SOCIAL, OrgTags.FTW],
       quote:
         "Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strava Club page. Riding bikes is about the fun, the adventure, and the stories we're left with when we get home. We hope you feel the same way.",
       description:

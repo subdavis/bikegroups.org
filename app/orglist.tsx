@@ -58,16 +58,16 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Biking with Baddies',
-      tags: [OrgTags.SOCIAL, OrgTags.FTW, OrgTags.FAMILY, OrgTags.MEMBERS_ONLY],
+      tags: [OrgTags.SOCIAL, OrgTags.FTW, OrgTags.MEMBERS_ONLY],
       days: ['Su'],
       quote:
         'Our mission is to empower women in cycling, harnessing the strength of nature and the bonds of community to pave the way for change. We believe that by embracing the beauty of diversity we can achieve unity on open road. Our wheels turn not only to conquer miles, but also to break down barriers.',
       description: (
         <p>
-          All kinds of events, from rides to workshops and even violence prevention training with
+          Many types of events, from rides to workshops and even violence prevention training with
           collaborators.{' '}
-          <a href="https://www.instagram.com/p/DJHYNPsRQtW">
-            Serene Spins on Sundays for women & children only
+          <a href="https://www.instagram.com/p/DJ6m_iBxWHD">
+            Serene Spins is a women&apos;s ride on the last Sunday of the month.
           </a>
           .
         </p>

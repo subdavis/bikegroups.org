@@ -44,11 +44,14 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Behind Bars Social Rides',
-      tags: [OrgTags.SOCIAL],
+      tags: [OrgTags.SOCIAL, OrgTags.FTW],
       description: (
         <p>
           Rides lead by Behind Bars Bicycle Shop ambassadors leave from the shop and are announced
-          on instagram.
+          on instagram.{' '}
+          <a href="https://www.facebook.com/BehindBarsBicycleShopMN/posts/pfbid0QZvEadT9yATTrC7x1gb9W9zdjfARN1pj5ZSgu35V9N6HTKbG8eyVu1u4SWSjrRTLl">
+            Check out the FTW summer rides!
+          </a>
         </p>
       ),
       image: '/images/Behind_Bars_Ambassador_Solstice.jpg',

@@ -9,13 +9,17 @@
     "lint": "next lint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "clean-html": "tsx scripts/clean-html.ts"
+    "clean-html": "tsx scripts/clean-html.ts",
+    "test:calendar": "tsx --tsconfig tsconfig.node.json scripts/test-cal-events.ts --jsx=automatic"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "@googleapis/calendar": "^9.8.0",
     "@next/third-parties": "15.3.1",
     "@types/node-fetch": "^2.6.12",
     "clsx": "^2.1.0",
     "csv-parse": "^5.6.0",
+    "googleapis": "^149.0.0",
     "next": "15.3.1",
     "node-fetch": "^3.3.2",
     "react": "19.1.0",

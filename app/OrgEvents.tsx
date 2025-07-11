@@ -124,7 +124,14 @@ function renderEvent(events: DisplayCalEvent[]) {
   }
   return (
     <>
-      <a href={event['Source URL']}>{event['Title']}</a>{' '}
+      <a
+        data-umami-event="click event"
+        data-umami-event-href={event['Source URL']}
+        data-umami-event-name={event['Title']}
+        href={event['Source URL']}
+      >
+        {event['Title']}
+      </a>{' '}
       <time
         dateTime={event.startTimestamp.toISOString()}
         className="block text-xs text-gray-500 whitespace-nowrap"

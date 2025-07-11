@@ -1,0 +1,58 @@
+name: Update Calendar Data
+
+on:
+  schedule:
+    # Run every night at 7 AM UTC
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a personal access token to ensure commits trigger other workflows
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.8.0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Create Google Calendar credentials file
+        run: echo '${{ secrets.GOOGLE_CALENDAR_CREDENTIALS }}' > cal-creds.json
+
+      - name: Update calendar data
+        run: pnpm update-calendar
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .cache/
+          git commit -m "🤖 Update calendar data
+
+          Generated with GitHub Actions
+
+          Co-Authored-By: GitHub Actions <action@github.com>"
+          git push

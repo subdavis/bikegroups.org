@@ -8,6 +8,7 @@ import { TagDot } from './tags';
 
 export interface OrgParams {
   name: string;
+  orgKey: string;
   quote?: string | JSX.Element | React.ReactNode;
   description?: string | JSX.Element | React.ReactNode;
   image?: string;
@@ -75,8 +76,6 @@ function title(params: OrgParams) {
 }
 
 export default function Organization(params: OrgParams) {
-  const instagramHandle = params.instagram?.split('instagram.com/')[1].replace('/', '');
-
   return (
     <article className="text-base sm:flex mb-16">
       {params.image && (
@@ -95,7 +94,7 @@ export default function Organization(params: OrgParams) {
       <div className="flex-1">
         {title(params)}
         {params.days && <WeekIndicator days={params.days} />}
-        <OrgEvents instagramHandle={instagramHandle} />
+        <OrgEvents orgKey={params.orgKey} />
         {params.quote && <Quote>{params.quote}</Quote>}
         <div className="my-4">
           {(typeof params.description) in ['string', 'number', 'boolean'] ? (

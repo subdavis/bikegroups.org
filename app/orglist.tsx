@@ -1,3 +1,4 @@
+import React from 'react';
 import { OrgParams } from './org';
 import { OrgTags } from './orgTags';
 import Quote from './quote';
@@ -6,6 +7,7 @@ export default function OrgList(): OrgParams[] {
   return [
     {
       name: 'Angry Catfish Group Rides',
+      orgKey: 'angry-catfish',
       days: ['M', 'W', 'Th'],
       tags: [OrgTags.TRAINING, OrgTags.SOCIAL, OrgTags.FTW],
       quote:
@@ -19,6 +21,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'All Bodies on Bikes Minneapolis',
+      orgKey: 'all-bodies-on-bikes',
       days: ['Su'],
       tags: [OrgTags.SOCIAL],
       quote:
@@ -32,6 +35,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Balance Cycling Club',
+      orgKey: 'balance-cycling',
       days: ['M', 'T', 'W', 'Th', 'Sa', 'Su'],
       tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY, OrgTags.FTW],
       quote:
@@ -44,6 +48,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Behind Bars Social Rides',
+      orgKey: 'behind-bars',
       tags: [OrgTags.SOCIAL, OrgTags.FTW],
       description: (
         <p>
@@ -61,6 +66,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Biking with Baddies',
+      orgKey: 'biking-with-baddies',
       tags: [OrgTags.SOCIAL, OrgTags.FTW, OrgTags.MEMBERS_ONLY],
       days: ['Su'],
       quote:
@@ -82,6 +88,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Bone Saw Cycling Collective',
+      orgKey: 'bonesaw',
       days: ['T'],
       tags: [OrgTags.SOCIAL],
       quote:
@@ -95,6 +102,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Corpse Whale Racing',
+      orgKey: 'corpse-whale',
       quote:
         'MPLS made cycling team. We race track, road, crit, cyclocross and endurance, party on bikes, and give back to our community.',
       description: (
@@ -110,6 +118,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'EZ Bike Club',
+      orgKey: 'ez-bike-club',
       days: ['T'],
       tags: [OrgTags.SOCIAL],
       quote:
@@ -129,6 +138,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Handup Social Series',
+      orgKey: 'handup',
       tags: [OrgTags.SOCIAL],
       quote:
         'twin cities bike team that supports dirt-focused racers, hosts community rides, and shows up to events with heckles, handups, and cheers 🍻',
@@ -147,6 +157,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Geno Summer Mondays',
+      orgKey: 'geno',
       tags: [OrgTags.SOCIAL],
       days: ['M'],
       quote:
@@ -162,6 +173,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Grease Rag',
+      orgKey: 'grease-rag',
       tags: [OrgTags.FTW, OrgTags.SOCIAL],
       quote:
         'Grease Rag encourages and empowers FTW (Femme/Trans/Women, Non-binary, Two-spirit) cyclists in a collaborative and fun learning environment through rides, discussions, shop nights and educational seminars in a safer space.',
@@ -173,7 +185,18 @@ export default function OrgList(): OrgParams[] {
       image: '/images/Grease_Rag_Group.jpg',
     },
     {
+      name: 'Fast Casual',
+      orgKey: 'fast-casual',
+      tags: [OrgTags.SOCIAL],
+      instagram: 'https://www.instagram.com/fastcasualmpls/',
+      image: '/images/Fast_Casual.jpg',
+      calendar:
+        'https://l.instagram.com/?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA%2Fedit%3Fusp%3Ddrivesdk&e=AT0q0UhexKryzNFCaOxq4RkQh3WqUGnDP13Hen6g3IvjH6WByZ1I2HKRTdRU3JeIXFb_3O5tDRdy9v4lavph9jmBLeZEb1bX',
+      quote: 'Racing, riding, and goofing around. Home of the Fast Casual Ride & more!',
+    },
+    {
       name: 'Freewheel Shop Rides',
+      orgKey: 'freewheel',
       days: ['M', 'W'],
       tags: [OrgTags.SOCIAL, OrgTags.TRAINING, OrgTags.MOUNTAIN],
       description:
@@ -185,6 +208,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Hiawatha Bicycling Club',
+      orgKey: 'hiawatha',
       tags: [OrgTags.MEMBERS_ONLY, OrgTags.TRAINING, OrgTags.SOCIAL],
       quote:
         'The mission of the Hiawatha Bicycling Club is to: Lead safe, friendly, and fun bicycle rides for adults. Make and distribute maps of bicycle routes to the public. Educate the public about bicycling.',
@@ -195,6 +219,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Joyful Riders Club',
+      orgKey: 'joyful-riders',
       description: (
         <span>
           Meets year-round for family-friendly social rides at a casual (7–9mph) pace. Also hosts{' '}
@@ -214,6 +239,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Major Taylor Bicycling Club',
+      orgKey: 'major-taylor',
       days: ['M', 'W', 'Sa'],
       tags: [OrgTags.SOCIAL, OrgTags.TRAINING],
       quote:
@@ -225,6 +251,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Midtown Cycling',
+      orgKey: 'midtown',
       tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
       days: ['Su', 'T', 'F'],
       quote:
@@ -238,6 +265,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Midwest Dirt Legion',
+      orgKey: 'midwest-dirt-legion',
       tags: [OrgTags.MOUNTAIN, OrgTags.FTW, OrgTags.TRAINING],
       quote:
         'MIDWEST DIRT LEGION STRIVES TO CREATE AUTHENTIC AND INCLUSIVE SPACES FOR CISGENDER WOMEN, TRANSGENDER, NON-BINARY AND GENDER NON-CONFORMING FOLKS IN THE CYCLING COMMUNITY.  Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program.',
@@ -255,6 +283,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'NOW Bikes',
+      orgKey: 'now-bikes',
       tags: [OrgTags.TRAINING, OrgTags.MOUNTAIN],
       days: ['Sa', 'Su', 'T', 'Th'],
       quote:
@@ -266,6 +295,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Perennial Cycle Shop Rides',
+      orgKey: 'perennial',
       tags: [OrgTags.SOCIAL, OrgTags.FAMILY, OrgTags.FTW],
       description:
         'Perennial hosts and/or promotes all sorts of events. Family fun rides, FTW rides, and 30 Days of Biking pastry rides. Follow their instagram for event updates.',
@@ -276,6 +306,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'PieCycle Club',
+      orgKey: 'piecycle',
       tags: [OrgTags.SOCIAL, OrgTags.FAMILY],
       quote:
         'MPLS Piecycle Club is a Minneapolis based cycling club focused on building fun and inviting biking experiences for riders of all levels. We organize chill (Pastry Pace), family-friendly group rides around Minneapolis that start and/or end with delicious baked goods.',
@@ -285,6 +316,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Recovery Bike Shop',
+      orgKey: 'recovery',
       description: (
         <>
           <h3 className="text-xl mb-2">Coffee (Outside)</h3>
@@ -306,6 +338,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Slow Roll Twin Cities',
+      orgKey: 'slow-roll',
       tags: [OrgTags.SOCIAL],
       description:
         'Slow Roll Twin Cities aims to challenge negative perceptions of the city and foster economic revitalization.',
@@ -315,6 +348,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Sociable Cider Werks Group Rides',
+      orgKey: 'sociable',
       quote:
         'Sociable Group Rides will take place every Wednesday until the snow sticks. Wheels roll at 6pm. Keep an eye on our social media pages for any announcements regarding weather cancellations.',
       description: (
@@ -332,6 +366,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Stamina Racing Collective',
+      orgKey: 'stamina',
       tags: [OrgTags.FTW, OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
       quote:
         'Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.',
@@ -347,6 +382,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Stöke MTB',
+      orgKey: 'stoke',
       quote:
         'Stöke MTB empowers you to discover the joy of mountain biking in a fun, safe, and inclusive environment. Learn fundamental skills and level up your riding under the guidance of certified and insured instructors.',
       description: 'Paid skills clinics for all levels of mountain bikers.',
@@ -357,6 +393,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Team Recess',
+      orgKey: 'team-recess',
       quote:
         'The Team Recess approach to racing and riding bikes is supportive, well-stocked with snacks, and fun. We love inviting our friends to play bikes. Recess is the time of day–no matter where you are in life–when you join with folx outside of boundaries set for you by work, school, and other obligations to play and work together and–of course–get the endorphins and the thrill going!',
       description:
@@ -370,6 +407,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Tuesday Night Rides',
+      orgKey: 'tuesday-night-rides',
       tags: [OrgTags.SOCIAL, OrgTags.TRAINING],
       days: ['T'],
       quote:
@@ -382,6 +420,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Twin Cities Cycling Coalition (T3C)',
+      orgKey: 't3c',
       quote:
         'Connection and coordination amongst the cycling community at large in the Twin Cities to link rides, events, volunteers, and resources.',
       image: '/images/Twin_Cities_Cycling_Coalition.jpg',
@@ -389,6 +428,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'Unruly Women',
+      orgKey: 'unruly-women',
       tags: [OrgTags.FTW, OrgTags.SOCIAL, OrgTags.MOUNTAIN, OrgTags.TRAINING],
       days: ['W'],
       quote:
@@ -401,7 +441,19 @@ export default function OrgList(): OrgParams[] {
       facebook: 'https://www.facebook.com/unruly.women.outdoors',
     },
     {
+      name: 'Unsanctioned Ride Group',
+      tags: [OrgTags.SOCIAL],
+      orgKey: 'unsanctioned',
+      image: '/images/Unsanctioned_Ride_Group.jpg',
+      quote:
+        'We are Unsanctioned Ride Group. We ride to ride. Est 2023 MPLS STP. All you have to do is pedal.',
+      description: 'Meets @ Angry Catfish',
+      instagram: 'https://www.instagram.com/unsanctioned.rides/',
+      location: 'Angry Catfish',
+    },
+    {
       name: 'Utepils Cycling',
+      orgKey: 'uteplis',
       tags: [OrgTags.SOCIAL, OrgTags.MOUNTAIN, OrgTags.TRAINING, OrgTags.FTW],
       days: ['W', 'Su'],
       quote:
@@ -425,6 +477,7 @@ export default function OrgList(): OrgParams[] {
     },
     {
       name: 'West River Racing Club',
+      orgKey: 'west-river-racing',
       tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY, OrgTags.SOCIAL, OrgTags.FTW],
       days: ['Su'],
       quote:

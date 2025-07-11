@@ -183,11 +183,6 @@ Do not include any other text in your response. Only an organization key or NONE
 
     return responseText;
   } catch (error) {
-    // Handle rate limiting by returning null
-    if (error.status === 429) {
-      console.warn(`Rate limited when matching "${event.title}", skipping association...`);
-      return null;
-    }
     console.error(`Error matching "${event.title}":`, error);
     return null;
   }

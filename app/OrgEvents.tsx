@@ -64,10 +64,10 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
       associationCache = JSON.parse(fs.readFileSync(associationCacheFile, 'utf-8'));
     }
 
-    // Filter events for this organization that are yesterday or later
-    const yesterday = new Date();
-    yesterday.setDate(yesterday.getDate() - 1);
-    yesterday.setHours(0, 0, 0, 0);
+    // Filter events for this organization that are 1 week ago or later
+    const oneWeekAgo = new Date();
+    oneWeekAgo.setTime(oneWeekAgo.getTime() - 7 * 24 * 60 * 60 * 1000);
+    oneWeekAgo.setHours(0, 0, 0, 0);
 
     const orgEvents: DisplayCalEvent[] = [];
 
@@ -76,8 +76,8 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
       const eventDate = new Date(event.start?.dateTime || event.start?.date || '');
       const timeZone = event.start?.timeZone;
 
-      // Skip events that are too old
-      if (eventDate < yesterday) {
+      // Skip events that are too old (older than 1 week)
+      if (eventDate < oneWeekAgo) {
         continue;
       }
 

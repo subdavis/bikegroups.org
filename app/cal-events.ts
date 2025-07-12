@@ -283,16 +283,20 @@ async function fetchCalEvents(forceRefresh: boolean = false): Promise<CalEvent[]
     console.log('Fetching fresh response from Google Calendar API');
     const client = await initializeCalendarClient();
     const now = new Date();
-    const oneMonthFromNow = new Date();
-    oneMonthFromNow.setMonth(now.getMonth() + 2);
+
+    // Start 1 week ago to capture recent events
+    const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
+    // End 2 months from now (approximately 60 days)
+    const twoMonthsFromNow = new Date(now.getTime() + 60 * 24 * 60 * 60 * 1000);
 
     response = (
       await client.events.list({
         calendarId: CalendarId,
-        timeMin: now.toISOString(),
-        timeMax: oneMonthFromNow.toISOString(),
+        timeMin: oneWeekAgo.toISOString(),
+        timeMax: twoMonthsFromNow.toISOString(),
         singleEvents: true, // This expands recurring events
-        maxResults: 100,
+        maxResults: 200,
       })
     ).data;
 

@@ -284,7 +284,7 @@ async function fetchCalEvents(forceRefresh: boolean = false): Promise<CalEvent[]
     const client = await initializeCalendarClient();
     const now = new Date();
     const oneMonthFromNow = new Date();
-    oneMonthFromNow.setMonth(now.getMonth() + 1);
+    oneMonthFromNow.setMonth(now.getMonth() + 2);
 
     response = (
       await client.events.list({

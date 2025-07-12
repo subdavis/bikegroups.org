@@ -1,5 +1,6 @@
 import LinkPile from './linkPile';
-import Org from './org';
+import Org, { OrgTitle } from './org';
+import OrgEvents from './OrgEvents';
 import OrgList from './orglist';
 import { TagNavigator } from './tags';
 

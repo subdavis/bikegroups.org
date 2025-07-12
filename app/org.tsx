@@ -58,7 +58,7 @@ function link(params: OrgParams, prop: keyof typeof linkIcons) {
   }
 }
 
-function title(params: OrgParams) {
+export function OrgTitle(params: OrgParams) {
   return (
     <h2 className="mb-2 flex items-center flex-wrap">
       <span className="text-xl font-semibold px-2 bg-stone-900 text-white rounded mr-2">
@@ -92,7 +92,7 @@ export default function Organization(params: OrgParams) {
         </div>
       )}
       <div className="flex-1">
-        {title(params)}
+        {OrgTitle(params)}
         {params.days && <WeekIndicator days={params.days} />}
         <OrgEvents orgKey={params.orgKey} />
         {params.quote && <Quote>{params.quote}</Quote>}

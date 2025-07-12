@@ -10,6 +10,7 @@ interface OrgEventsProps {
 interface DisplayCalEvent {
   Title: string;
   startTimestamp: Date;
+  timeZone?: string | null;
   'Source URL': string;
   description: string;
   location: string;
@@ -73,6 +74,7 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
     for (const event of events) {
       const eventId = event.recurringEventId || event.id || '';
       const eventDate = new Date(event.start?.dateTime || event.start?.date || '');
+      const timeZone = event.start?.timeZone;
 
       // Skip events that are too old
       if (eventDate < yesterday) {
@@ -91,6 +93,7 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
       orgEvents.push({
         Title: event.summary || '',
         startTimestamp: eventDate,
+        timeZone,
         'Source URL': primaryUrl,
         description: event.description || '',
         location: event.location || '',
@@ -116,9 +119,14 @@ function renderEvent(events: DisplayCalEvent[]) {
       weekday: 'long',
       month: 'long',
       day: 'numeric',
+      timeZone: event.timeZone || 'America/Chicago',
     }) +
     ' at ' +
-    event.startTimestamp.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+    event.startTimestamp.toLocaleTimeString('en-US', {
+      hour: 'numeric',
+      minute: '2-digit',
+      timeZone: event.timeZone || 'America/Chicago',
+    });
   if (events.length > 1) {
     dateText += ` (and ${events.length - 1} more)`;
   }
@@ -143,7 +151,6 @@ function renderEvent(events: DisplayCalEvent[]) {
 }
 
 export default async function OrgEvents({ orgKey }: OrgEventsProps) {
-  if (!orgKey) return null;
   const upcomingEvents = await getUpcomingEvents(orgKey);
   const groupedEvents = Object.values(
     upcomingEvents.reduce(

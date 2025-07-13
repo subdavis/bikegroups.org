@@ -65,9 +65,11 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
     }
 
     // Filter events for this organization that are 1 week ago or later
-    const oneWeekAgo = new Date();
-    oneWeekAgo.setTime(oneWeekAgo.getTime() - 7 * 24 * 60 * 60 * 1000);
-    oneWeekAgo.setHours(0, 0, 0, 0);
+    const yesterday = new Date();
+    yesterday.setTime(yesterday.getTime() - 24 * 60 * 60 * 1000);
+    yesterday.setHours(0, 0, 0, 0);
+
+    console.log(yesterday);
 
     const orgEvents: DisplayCalEvent[] = [];
 
@@ -77,7 +79,7 @@ async function getUpcomingEvents(orgKey: string): Promise<DisplayCalEvent[]> {
       const timeZone = event.start?.timeZone;
 
       // Skip events that are too old (older than 1 week)
-      if (eventDate < oneWeekAgo) {
+      if (eventDate < yesterday) {
         continue;
       }
 

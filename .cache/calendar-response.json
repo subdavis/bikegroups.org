@@ -1,15 +1,15 @@
 {
-  "timestamp": 1752908779412,
+  "timestamp": 1752995159925,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vojm59rj0os0o\"",
+    "etag": "\"p32fo504utf4os0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-07-16T15:44:37.901Z",
+    "updated": "2025-07-19T21:12:37.828Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-J2KncwY4DEL-J2KncwY4DGAEgqYSa9QIoqYSa9QI=",
+    "nextSyncToken": "CJ-CgJ7ryY4DEJ-CgJ7ryY4DGAEgqYSa9QIoqYSa9QI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -743,6 +743,45 @@
         "recurringEventId": "4aorej03dlvlvdsvlvjfrdq2hf",
         "originalStartTime": {
           "dateTime": "2025-09-10T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3484031190778526\"",
+        "id": "4aorej03dlvlvdsvlvjfrdq2hf_20250917T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGFvcmVqMDNkbHZsdmRzdmx2amZyZHEyaGZfMjAyNTA5MTdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-03-15T05:13:15.389Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesday</span> <span>Mar 19, 2025 6:00 PM</span><span>. Every Wednesday during warm weather months.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-17T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-17T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4aorej03dlvlvdsvlvjfrdq2hf",
+        "originalStartTime": {
+          "dateTime": "2025-09-17T18:00:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
@@ -2189,6 +2228,45 @@
         "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
         "originalStartTime": {
           "dateTime": "2025-09-10T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3490664818311518\"",
+        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250917T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTA5MTdUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:28:22.000Z",
+        "updated": "2025-04-22T14:33:29.155Z",
+        "summary": "ACF social ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-17T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-17T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
+        "originalStartTime": {
+          "dateTime": "2025-09-17T18:30:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
@@ -4071,40 +4149,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3502775758498174\"",
-        "id": "6barcegj1fd3hqvuiqa6g1fe4g",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmJhcmNlZ2oxZmQzaHF2dWlxYTZnMWZlNGcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-01T16:37:59.000Z",
-        "updated": "2025-07-01T16:37:59.249Z",
-        "summary": "Smart Cycling class (BWBxBike MN)",
-        "description": "<p dir=\"ltr\"><span>Class/Seminar</span> <span><b>Smart Cycling class (BWBxBike MN). </b></span><a href=\"https://www.eventbrite.com/e/smart-cycling-course-at-bikemn-tickets-1403868361059?utm_experiment=test_share_listing&amp;aff=ebdsshios&amp;sg=47d659f2b2b5ba10987fd5adead627b7b8766268d5c3216b18affb16fa1d80af1140748c62d8a0f8a48c51d97e1dbe89da5b25969734144ac2f6fc639712caf68dc6f4733eee33774040d9b53f66\"><span><u>Eventbrite</u></span></a><span>. </span><a href=\"https://www.instagram.com/p/DLjg06OMKYW/?img_index=1\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Jul 12, 2025 10:00 AM</span><span>. 10 am - 3 pm.</span></p><p dir=\"ltr\"><span><b>Start</b>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p dir=\"ltr\"><span><b>Cost</b>: Sliding scale, pay what you can (see the “Donate” field on the eventbrite registration)</span></p><p dir=\"ltr\"><span>Class is hosted by Bike MN and led by Sierra from Biking with Baddies. Topics covered:</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>Traffic Safety &amp; Laws – How to ride confidently and legally on streets, follow traffic rules, and communicate with drivers.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Bike Handling Skills – Starting, stopping, turning, scanning, and signaling to stay in control and aware of surroundings.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Basic Maintenance – How to do a pre-ride safety check and fix a flat tire.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Crash Avoidance – How to spot and respond to common road hazards or dangerous situations.</span></p></li></ul><br><p dir=\"ltr\"><span>“With these skills you can ride smart, feel safer, and have a great time with your friends. Cycling trauma is real and can keep you off the bike rather by choice or physically due to an accident. We want you on your bike taking up space! Let’s do it the smart way.</span></p><br><span>Registration on </span><a href=\"https://www.eventbrite.com/e/smart-cycling-course-at-bikemn-tickets-1403868361059?utm_experiment=test_share_listing&amp;aff=ebdsshios&amp;sg=47d659f2b2b5ba10987fd5adead627b7b8766268d5c3216b18affb16fa1d80af1140748c62d8a0f8a48c51d97e1dbe89da5b25969734144ac2f6fc639712caf68dc6f4733eee33774040d9b53f66\"><span><u>Eventbrite</u></span></a><span> (note, dates are incorrect on Eventbrite). Pay what you can. If you don’t have it right now but want to get the knowledge, come through. This space is for you too. We need the knowledge to share with others. Making the communities a safe place to bike one cycle at a time. Collectively making good choices.”</span>",
-        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-12T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-12T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6barcegj1fd3hqvuiqa6g1fe4g@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3502802320625182\"",
         "id": "5a6ecmi61hvs551vpbbhks5k22",
         "status": "confirmed",
@@ -4277,40 +4321,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5s2frqtt7mirk1vr0dvvco5n2u@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3503279142628382\"",
-        "id": "5r5g1qrh0rh2menu1hlbb6762r",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXI1ZzFxcmgwcmgybWVudTFobGJiNjc2MnIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-04T14:32:51.000Z",
-        "updated": "2025-07-04T14:32:51.314Z",
-        "summary": "Bonesaw Behind Bars Donut ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Behind Bars Donut ride. </b></span><a href=\"https://www.instagram.com/p/DLqf45zxD4p/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Jul 12, 2025 10:30 AM</span><span>. Roll at 11am.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: 15 miles. Pace: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Chill-paced group ride to coffee and donuts (mid-ride stop at Baker’s wife)! As always, these are no-drop rides, meaning we never leave anyone behind. We will have collective members staffed to handle any flats and basic technicals on the ride. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-12T10:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-12T12:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5r5g1qrh0rh2menu1hlbb6762r@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4788,73 +4798,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2nb3lni8sacco1l2fu4i0ser96@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504413677234334\"",
-        "id": "2d50sc9lk7gpl8g8lv2v5aut2g",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmQ1MHNjOWxrN2dwbDhnOGx2MnY1YXV0MmcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-30T23:30:17.000Z",
-        "updated": "2025-07-11T04:07:18.617Z",
-        "summary": "Grease Rag FTW 16th Bday ride",
-        "description": "Group ride (no-drop) Grease Rag FTW 16th Bday ride. Instagram. Website.\nFriday Jul 18, 2025 6:00 PM. 6:30 pm roll-out.\nStart: Dogwood Coffee - East Lake (4021 E Lake St)\nFinish: Cedar Lake South Beach around 8:30 pm.\nDistance: 13.5 miles, mostly on bike paths. Stops every ~3 miles. Pace: ~10 mph.\nWho is this for: This ride is for FTW (Femme/Trans/Women, Non-binary, Two-spirit) bike riders\nWe will be celebrating Grease Rag's 16th birthday w/ the full moon ride (it's the Buck Moon!). \nWhen we stop at Minnehaha Falls, we will be getting reg & non-diary (coconut cream) DQ dilly bars for the group.\nItems to consider bringing: Bike lights, $ (if you want additional DQ items), Snacks, Water, Lock, Spare tube, Beach towel/items",
-        "location": "Dogwood Coffee - East Lake, 4021 E Lake St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-18T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-18T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2d50sc9lk7gpl8g8lv2v5aut2g@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504687260471678\"",
-        "id": "1lb1ns45tic967c4ka8kc93vtc",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWxiMW5zNDV0aWM5NjdjNGthOGtjOTN2dGMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-12T18:07:09.000Z",
-        "updated": "2025-07-12T18:07:10.235Z",
-        "summary": "POSTPONED: MBMA Jimmy cat",
-        "description": "Due to poor air quality, Jimmy cat has been postponed to Aug 23.",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-12T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-12T15:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1lb1ns45tic967c4ka8kc93vtc@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -5665,6 +5608,40 @@
         },
         "iCalUID": "0q8ei9d9jho5pgpe7oaa9qisak@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3505919115657790\"",
+        "id": "2d50sc9lk7gpl8g8lv2v5aut2g",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmQ1MHNjOWxrN2dwbDhnOGx2MnY1YXV0MmcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-06-30T23:30:17.000Z",
+        "updated": "2025-07-19T21:12:37.828Z",
+        "summary": "Grease Rag FTW 16th Bday ride",
+        "description": "Group ride (no-drop) Grease Rag FTW 16th Bday ride.\n\nhttps://www.instagram.com/p/DMSxXtRM7kN/?igsh=NzNuMWFwczRvejNi\n\n\nRescheduled. 11:30 am roll-out.\nStart: Dogwood Coffee - East Lake (4021 E Lake St)\nFinish: Cedar Lake South Beach around 2:30 pm.\nDistance: 13.5 miles, mostly on bike paths. Stops every ~3 miles. Pace: ~10 mph.\nWho is this for: This ride is for FTW (Femme/Trans/Women, Non-binary, Two-spirit) bike riders\nWe will be celebrating Grease Rag's 16th birthday w/ the full moon ride (it's the Buck Moon!). \nWhen we stop at Minnehaha Falls, we will be getting reg & non-diary (coconut cream) DQ dilly bars for the group.\nItems to consider bringing: Bike lights, $ (if you want additional DQ items), Snacks, Water, Lock, Spare tube, Beach towel/items",
+        "location": "Dogwood Coffee - East Lake, 4021 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-07-20T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-07-20T14:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2d50sc9lk7gpl8g8lv2v5aut2g@google.com",
+        "sequence": 2,
         "reminders": {
           "useDefault": true
         },

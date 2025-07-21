@@ -1,55 +1,16 @@
 {
-  "timestamp": 1752995159925,
+  "timestamp": 1753081852178,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32fo504utf4os0o\"",
+    "etag": "\"p327qp0vejr6os0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-07-19T21:12:37.828Z",
+    "updated": "2025-07-21T05:41:35.078Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ-CgJ7ryY4DEJ-CgJ7ryY4DGAEgqYSa9QIoqYSa9QI=",
+    "nextSyncToken": "CI-sg-6ezY4DEI-sg-6ezY4DGAEgqYSa9QIoqYSa9QI=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20250713T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTA3MTNUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-07-13T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3482907699087198\"",
@@ -1110,44 +1071,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0o8l2au8kgb5ogoqdh8bi22pnp@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20250713T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTA3MTNUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-07-13T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2707,6 +2630,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3493963834915966\"",
+        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250918T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA5MThUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-05-11T16:36:29.000Z",
+        "updated": "2025-05-11T16:45:17.457Z",
+        "summary": "ACF FTW social ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-18T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-18T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
+        "originalStartTime": {
+          "dateTime": "2025-09-18T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3495372213186558\"",
         "id": "0e40ipptntkno287gp87si6fao_20250714T220000Z",
         "status": "confirmed",
@@ -3420,40 +3382,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3499837640113694\"",
-        "id": "0sf97vhk7431bbvmphdlmffue1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MHNmOTd2aGs3NDMxYmJ2bXBoZGxtZmZ1ZTEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-14T16:33:39.000Z",
-        "updated": "2025-06-14T16:33:40.056Z",
-        "summary": "MDL - FTW Monarch brunch XC ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Midwest Dirt Legion, FTW Monarch brunch XC ride </b></span><a href=\"https://www.dirtlegion.com/events/sunday-brunch-group-ride\"><span><u>Ride Details</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Date: </b></span><span>Sunday </span><span>Jul 13, 2025 10:00 AM</span><span> - 12 PM.</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Monarch+Singletrack+Trailhead/data=!4m2!3m1!19sChIJ2VaoSh0B9ocRg8uWKZGdtq4\"><span><u>Monarch Singletrack Trailhead</u></span></a><span> (6920 Springview Road Waconia, MN)</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: “MDL hosts events specifically for marginalized genders. FTW / anyone but cis-men are welcome at our rides! Here’s a</span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"> <span><u>great resource</u></span></a><span> defining FTW from our friends at GreaseRag.”</span></p><span><b>OPEN GROUP RIDE:</b></span><span> We will be riding the XC trails so meet at the south trail head.  All skill levels welcome and we will break into groups as necessary so we all have a fun ride! This is a no drop ride so plan for plenty of time to stop and chat, scope out features, and generally bring the stoke!</span>",
-        "location": "Monarch Singletrack Trailhead, 6920 Springview Rd, Waconia, MN 55387, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0sf97vhk7431bbvmphdlmffue1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3499838412545694\"",
         "id": "0ehels3f7h9nb6ut02o1g86imr",
         "status": "confirmed",
@@ -4149,40 +4077,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3502802320625182\"",
-        "id": "5a6ecmi61hvs551vpbbhks5k22",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NWE2ZWNtaTYxaHZzNTUxdnBiYmhrczVrMjIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-01T20:19:20.000Z",
-        "updated": "2025-07-01T20:19:20.312Z",
-        "summary": "No name #224 alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Jul 13, 2025</span><span>. Manifests at 12:45 pm, race at 1 pm, finish at 3:30pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/White+Sands+Beach/data=!4m2!3m1!19sChIJS4r1stcp9ocRGQM-FL_AmL8\"><span><u>White Sands Beach</u></span></a><span> (near 28th St and W River parkway).</span></p><p dir=\"ltr\"><span>#224. “Spin That Wheel”. Prizes and snacks at the finish.</span></p>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T12:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5a6ecmi61hvs551vpbbhks5k22@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3502802338559294\"",
         "id": "4no79kmntsjc8l17t90430vi16_20250803T174500Z",
         "status": "confirmed",
@@ -4253,40 +4147,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3503120097956670\"",
-        "id": "2so69a0vf365h4d0gjimmcpbnc",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MnNvNjlhMHZmMzY1aDRkMGdqaW1tY3BibmMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-03T16:27:28.000Z",
-        "updated": "2025-07-03T16:27:28.978Z",
-        "summary": "T3C Field Day",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>T3C Field Day </b></span><a href=\"https://www.instagram.com/p/DLnlJn6x3M8/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Sunday </span><span>Jul 13, 2025 1:00 PM</span><span>. 1-4pm.</span></p><p dir=\"ltr\"><span>Location: </span><a href=\"https://www.google.com/maps/place/The+Trailhead/data=!4m2!3m1!19sChIJ--h0JjAzs1IR2QyFX-Y3zFM\"><span><u>The Trailhead</u></span></a><span> (Theo Wirth) </span></p><p dir=\"ltr\"><span>Join</span><a href=\"https://www.instagram.com/bikingwithbaddies/\"> <span><u>@bikingwithbaddies</u></span></a><a href=\"https://www.instagram.com/geno_atb/\"> <span><u>@geno_atb</u></span></a><a href=\"https://www.instagram.com/bicyclealliancemn/\"> <span><u>@bicyclealliancemn</u></span></a><span> and</span><a href=\"https://www.instagram.com/bonesawcyclingcollective/\"> <span><u>@bonesawcyclingcollective</u></span></a><span> for a field day!!</span></p><p dir=\"ltr\"><span>We’re going to be set up at the</span><a href=\"https://www.instagram.com/loppetfoundation/\"> <span><u>@loppetfoundation</u></span></a><span> Trailhead building in Theo Wirth hosting games, raffling off prizes and hanging out!</span></p><p dir=\"ltr\"><span>Swing through and try your hand at the field games and get a chance to chat with what all these amazing folks are up to this summer</span></p>",
-        "location": "The Trailhead, 1221 Theodore Wirth Pkwy, Minneapolis, MN 55422, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2so69a0vf365h4d0gjimmcpbnc@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4553,74 +4413,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3504351456815390\"",
-        "id": "016de8ajl0f3cpe7q9s2un0a6o",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDE2ZGU4YWpsMGYzY3BlN3E5czJ1bjBhNm8gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-10T19:28:48.000Z",
-        "updated": "2025-07-10T19:28:48.407Z",
-        "summary": "Joyful Riders x Perennial DJ Dance Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders x Perennial DJ Dance Rides </b></span><a href=\"https://www.instagram.com/p/DHONlrPsWUB/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://thejoyfulriders.club/\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span>Sunday </span><span>Jul 13, 2025 1:00 PM</span><span>. Roll-out at 1:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Eat+Street+Crossing/data=!4m2!3m1!19sChIJkZ8qcmkn9ocRJzXRk-FHFvY\"><span><u>Eat Street Crossing</u></span></a><span> (Day Funk)</span></p><p dir=\"ltr\"><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride with a DJ.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "016de8ajl0f3cpe7q9s2un0a6o@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504352478764222\"",
-        "id": "22uun116mkknj7er2115ngb16v",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MjJ1dW4xMTZta2tuajdlcjIxMTVuZ2IxNnYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-10T19:37:19.000Z",
-        "updated": "2025-07-10T19:37:19.382Z",
-        "summary": "Team Recess Harry Wild Jones architecture ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Harry Wild Jones architecture ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DL0hKcIyYMS/?img_index=1\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Jul 13, 2025 10:00 AM</span><span>. Roll at 10 am.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/310+W+15th+St/data=!4m2!3m1!19sChIJBzMVvsEys1IRPxPsNgapZx4\"><span><u>310 W 15th St</u></span></a><span> (William Berry House in Loring Park)</span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/Lake+Harriet/data=!4m2!3m1!19sChIJP1euTAQn9ocRmU08cPsPN3E\"><span><u>Lake Harriet</u></span></a></p><p dir=\"ltr\"><span>Distance: 20 miles. Pace: Chill pace (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>There will be 8 stops, 20 miles of riding (a few hills!) We will stop at each magnificent structure for 15 mins</span></p><p dir=\"ltr\"><span>There will be short commentary about each piece. We will end at Lake Harriet with option for swimming!</span></p>",
-        "location": "310 W 15th St, Minneapolis, MN 55403, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-13T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-13T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "22uun116mkknj7er2115ngb16v@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3504353545390142\"",
         "id": "2044ccndiqki594t21jno6sqob_20250806T230000Z",
         "status": "confirmed",
@@ -4727,6 +4519,45 @@
         "recurringEventId": "3a36mi569jp3c72dnh79dg0k6e",
         "originalStartTime": {
           "dateTime": "2025-08-21T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3504353606179934\"",
+        "id": "3a36mi569jp3c72dnh79dg0k6e_20250918T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2EzNm1pNTY5anAzYzcyZG5oNzlkZzBrNmVfMjAyNTA5MThUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-10T19:45:51.000Z",
+        "updated": "2025-07-10T19:46:43.089Z",
+        "summary": "Grease Rag FTW Open shop",
+        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
+        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-18T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-18T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3a36mi569jp3c72dnh79dg0k6e",
+        "originalStartTime": {
+          "dateTime": "2025-09-18T18:00:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1753081852178,
+  "timestamp": 1753168125156,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p327qp0vejr6os0o\"",
+    "etag": "\"p32fpt374m378s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-07-21T05:41:35.078Z",
+    "updated": "2025-07-21T16:34:25.829Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CI-sg-6ezY4DEI-sg-6ezY4DGAEgqYSa9QIoqYSa9QI=",
+    "nextSyncToken": "CJ-ejOSwzo4DEJ-ejOSwzo4DGAEgqYSa9QIoqYSa9QI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1422,45 +1422,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3490664779362622\"",
-        "id": "43lb85meeku31ed4j6cnajls1s_20250714T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA3MTRUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-22T14:30:03.000Z",
-        "updated": "2025-04-22T14:33:09.681Z",
-        "summary": "ACF training drop ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-14T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-14T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "43lb85meeku31ed4j6cnajls1s",
-        "originalStartTime": {
-          "dateTime": "2025-07-14T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3490664779362622\"",
         "id": "43lb85meeku31ed4j6cnajls1s_20250721T233000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA3MjFUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2670,45 +2631,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3495372213186558\"",
-        "id": "0e40ipptntkno287gp87si6fao_20250714T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGU0MGlwcHRudGtubzI4N2dwODdzaTZmYW9fMjAyNTA3MTRUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-19T20:21:30.000Z",
-        "updated": "2025-05-19T20:21:46.593Z",
-        "summary": "Bike Polo New Player Mondays",
-        "description": "<p dir=\"ltr\"><span>Bike Polo (pick-up game)</span> <span><b>Bike Polo New Player Mondays. </b></span><a href=\"https://www.facebook.com/share/p/18Y9Mk752U/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Monday’s 5pm - dark all summer long (weather permitting).</span></p><p dir=\"ltr\"><span>Location: </span><a href=\"https://www.google.com/maps/place/Minneapolis+Bike+Polo+Court/data=!4m2!3m1!19sChIJoQKSCewn9ocRDb6HYYJREas\"><span><u>Minneapolis Bike Polo Court</u></span></a><span> (E 35th St and 3rd Ave S)</span></p><p dir=\"ltr\"><span>Looking to try out bike polo? Bring your bike, helmet (light gloves are nice). All skill levels welcome! </span></p><p dir=\"ltr\"><span>We will have some mallets and balls for you to practice shooting the ball around and other skills.</span></p>",
-        "location": "Minneapolis Bike Polo Court, 3429 3rd Ave S, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-14T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-14T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0e40ipptntkno287gp87si6fao",
-        "originalStartTime": {
-          "dateTime": "2025-07-14T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0e40ipptntkno287gp87si6fao@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3495372213186558\"",
         "id": "0e40ipptntkno287gp87si6fao_20250721T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGU0MGlwcHRudGtubzI4N2dwODdzaTZmYW9fMjAyNTA3MjFUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -3571,38 +3493,6 @@
         },
         "transparency": "transparent",
         "iCalUID": "4b10rlrr92c7t08t9snnqndof2@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3500378369675198\"",
-        "id": "2npvjjr44as06cg771fa1cujqu",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5wdmpqcjQ0YXMwNmNnNzcxZmExY3VqcXUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:39:44.000Z",
-        "updated": "2025-06-17T19:39:44.837Z",
-        "summary": "MBMA Christmas in July alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Christmas in July alleycat. </b></span><a href=\"https://www.instagram.com/p/DLAgr8TtixX/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Jul 25, 2025</span><span>. Start: TBA</span></p><p dir=\"ltr\"><span>More details TBA. Follow the MBMA instagram page for updates.</span></p>",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-07-25"
-        },
-        "end": {
-          "date": "2025-07-26"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2npvjjr44as06cg771fa1cujqu@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": false
@@ -5473,6 +5363,75 @@
         },
         "iCalUID": "2d50sc9lk7gpl8g8lv2v5aut2g@google.com",
         "sequence": 2,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3506230715987934\"",
+        "id": "2npvjjr44as06cg771fa1cujqu",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5wdmpqcjQ0YXMwNmNnNzcxZmExY3VqcXUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-06-17T19:39:44.000Z",
+        "updated": "2025-07-21T16:29:17.993Z",
+        "summary": "MBMA Christmas in July alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Christmas in July alleycat. </b></span><a href=\"https://www.instagram.com/p/DMVoosWg2Tk/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Jul 25, 2025 4:30 PM</span><span>. Reg. 4:30-6 pm, race roll-out at 6:15pm. Cut-off at 9pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\"><span><u>Venture Bikes Midtown</u></span></a></p><p dir=\"ltr\"><span>🎁 Gift Opening &amp; Social: 9:30–10:30PM</span></p><p dir=\"ltr\"><span>🎁 Entry = a wrapped gift ($10–$15 value — wrap it however you’d like!)</span></p><p dir=\"ltr\"><span>🎉 Everyone who turns in a completed manifest by 9PM gets a gift!</span></p><p dir=\"ltr\"><span>👕 Christmas attire highly encouraged but not necessary (think festive, funky, or full-on Santa)</span></p><p dir=\"ltr\"><span>✨ You don’t have to be fast to win a prize — show up, ride, and have fun!</span></p><p dir=\"ltr\"><span>**Note: This race is not based on the Religious Holiday. It is more so focused on the idea of everyone being able to leave the race with a prize. ☺️</span></p>",
+        "location": "Venture Bikes Midtown, 1000 Midtown Greenway, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-07-25T16:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-07-25T22:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "transparency": "transparent",
+        "iCalUID": "2npvjjr44as06cg771fa1cujqu@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3506231331659326\"",
+        "id": "2if4f8mh3fl8ggf540hcpbnj0a",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmlmNGY4bWgzZmw4Z2dmNTQwaGNwYm5qMGEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-07-21T16:34:25.000Z",
+        "updated": "2025-07-21T16:34:25.829Z",
+        "summary": "Behind Bars “Saturday afternoon date” ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars “Saturday afternoon date” ride. </b></span><a href=\"https://www.instagram.com/p/DMTuM9kpVjl/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 2, 2025 11:00 AM</span><span>. Roll at 11:15am. Return to Behind bars around 3-3:30pm.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Mid-ride stop: </span><a href=\"https://www.google.com/maps/place/Cream+%26+Amber/data=!4m2!3m1!19sChIJtSixGYcf9ocRl1ro3-p0sSA\"><span><u>Cream &amp; Amber</u></span></a><span> (Hopkins)</span></p><p dir=\"ltr\"><span>Distance: 23 miles round trip. Pace: ~10-12 mph. </span></p><span>How does a Saturday afternoon lunch date sound? Join us</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"> <span><u>@behindbarsbicycleshop</u></span></a><span> on a ride to the</span><a href=\"https://www.instagram.com/creamandamber/\"> <span><u>@creamandamber</u></span></a><span> bookstore cafe in Hopkins. Shop ambassador Andy</span><a href=\"https://www.instagram.com/andyanastigmat/\"> <span><u>@andyanastigmat</u></span></a><span> will lead an easy 1 hr. ride (11miles) out to enjoy a patio lunch, shop for books and enjoy a coffee or beer at this very special shop. Invite your sweetie, best friends and bike pals! Everyone is welcome. </span>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-02T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-02T15:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2if4f8mh3fl8ggf540hcpbnj0a@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

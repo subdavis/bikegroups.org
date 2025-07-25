@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753340926058,
+  "timestamp": 1753427319005,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vqtdkcr39os0o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP-utozY044DEP-utozY044DGAEgqYSa9QIoqYSa9QI=",
+    "nextSyncToken": "CP-utozY044DEP-utozY044DGAEg8LCY9gIo8LCY9gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1810,6 +1810,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664779362622\"",
+        "id": "43lb85meeku31ed4j6cnajls1s_20250922T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA5MjJUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:30:03.000Z",
+        "updated": "2025-04-22T14:33:09.681Z",
+        "summary": "ACF training drop ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-22T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-22T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "43lb85meeku31ed4j6cnajls1s",
+        "originalStartTime": {
+          "dateTime": "2025-09-22T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3490664818311518\"",
         "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250723T233000Z",
         "status": "confirmed",
@@ -2231,45 +2270,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250717T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA3MTdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3583,45 +3583,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3502028687236862\"",
-        "id": "6jquh1jaqgfajrps61d8atumlr_20250717T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA3MTdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-30T16:32:07.000Z",
-        "updated": "2025-06-27T08:52:23.618Z",
-        "summary": "Handup Social Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Handup Social Rides</b></span><span>. </span><a href=\"https://www.instagram.com/p/DH1F_WEOsQZ/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Meet at 6pm, </span><span>roll out shortly after. </span></p><p dir=\"ltr\"><span>Every Thursday April through August. </span><span>Apr 10, 2025</span><span>, </span><span>Apr 17, 2025</span><span>, </span><span>Apr 24, 2025</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a><span>, end around 8pm. <br></span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Social, typically 12-14 mph. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6jquh1jaqgfajrps61d8atumlr",
-        "originalStartTime": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6jquh1jaqgfajrps61d8atumlr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502028687236862\"",
         "id": "6jquh1jaqgfajrps61d8atumlr_20250724T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA3MjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -4009,40 +3970,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3503120533769054\"",
-        "id": "5s2frqtt7mirk1vr0dvvco5n2u",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXMyZnJxdHQ3bWlyazF2cjBkdnZjbzVuMnUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-03T16:31:06.000Z",
-        "updated": "2025-07-03T16:31:06.884Z",
-        "summary": "Perennial Disco Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Disco Ride</b></span> <a href=\"https://www.instagram.com/p/DLlmtphsxJ0/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday </span><span>Jul 17, 2025 7:00 PM</span><span>. Roll at 7:30pm.</span></p><p dir=\"ltr\"><span><b>Start and finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 8-10 miles round trip. </span><span><b>Pace</b></span><span>: casual, likely 8-10 mph. </span></p><p dir=\"ltr\"><span>With all your favorite disco hits spun on the back of the bike trailer by the amazing disco DJ</span><a href=\"https://www.instagram.com/kernco.disco/\"> <span><u>@kernco.disco</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Themed outfits definitely encouraged 😎. We'll have some fun disco themed surprises as well!</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5s2frqtt7mirk1vr0dvvco5n2u@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3503280772993726\"",
         "id": "60n0rg0jhdf7te1avam7q616no_20250718T214500Z",
         "status": "confirmed",
@@ -4192,40 +4119,6 @@
         },
         "iCalUID": "4g11jbeurtptadp3i8g8148h7b@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3503806661411518\"",
-        "id": "3ldhj66vkkp62ik36c8643ieef",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2xkaGo2NnZra3A2MmlrMzZjODY0M2llZWYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-07T15:48:50.000Z",
-        "updated": "2025-07-07T15:48:50.705Z",
-        "summary": "Biking with Baddies Rondo ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Biking with Baddies Rondo ride </b></span><a href=\"https://www.instagram.com/p/DLxKRtJOzuv/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://bikingwithbaddies.com/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Jul 17, 2025 6:00 PM</span><span>. 6-8pm. </span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/457+Central+Ave+W/data=!4m2!3m1!19sChIJXYU4J58q9ocRABgwfqAcLno\"><span><u>457 Central Ave W</u></span></a><span> (Central Village Park)</span></p><p dir=\"ltr\"><span>Distance: ~15 miles. Pace: Likely ~10mph.</span></p><p dir=\"ltr\"><span>An exclusive ride through RONDO! We’re starting at the historic Central Village Park with an ice cream social to cool you down before we roll out.</span></p><p dir=\"ltr\"><span>Come learn the history of RONDO — what it was, what it is, and where we’re going together.</span><a href=\"https://www.instagram.com/explore/tags/yokidzfavoriteteacher/\"> <span><u>#YoKidzFavoriteTeacher</u></span></a><a href=\"https://www.instagram.com/mizz_mercedez/\"> <span><u>@mizz_mercedez</u></span></a><span> will be your special tour guide — you KNOW she’s gonna keep it real and fun!</span></p><span>Bring your bike, bring your crew, and bring that good energy. Let’s ride, vibe, and jump with</span><a href=\"https://www.instagram.com/rondo_doubledutch/\"> <span><u>@rondo_doubledutch</u></span></a><span> together. </span>",
-        "location": "Central Village Park, 457 Central Ave W, St Paul, MN 55103, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3ldhj66vkkp62ik36c8643ieef@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -4457,40 +4350,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3504926501849982\"",
-        "id": "6kdvusb3dt36i45ro3obecin8j",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmtkdnVzYjNkdDM2aTQ1cm8zb2JlY2luOGogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-14T03:20:50.000Z",
-        "updated": "2025-07-14T03:20:50.924Z",
-        "summary": "Team Recess Bar of Their Own ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Bar of Their Own ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DMDqYT7MIaz/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Jul 17, 2025 6:15 PM</span><span>. Roll at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Farmstead+Bike+Shop/data=!4m2!3m1!19sChIJmYsgcqMn9ocRQBEMxriS3cs\"><span><u>Farmstead Bike Shop</u></span></a></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/A+Bar+of+Their+Own/data=!4m2!3m1!19sChIJg2NLdQAts1IRmdxCmz6ZI7c\"><span><u>A Bar of Their Own</u></span></a><span> (E Franklin and 21st Ave S)</span></p><p dir=\"ltr\"><span>Distance: 12 miles. Pace: Chill pace (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>We will take the Creek to Minnehaha Ave and then head north to the bar for brews, snacks, TRIVIA, and sports! Bring IDs and money, a bike lock, and lights for your ride home!</span></p>",
-        "location": "Farmstead Bike Shop, 4001 Bryant Ave S #1, Minneapolis, MN 55409, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T18:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6kdvusb3dt36i45ro3obecin8j@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3504927007481918\"",
         "id": "1ddqrqi4hjb5odv356nkmjhv76",
         "status": "confirmed",
@@ -4553,40 +4412,6 @@
         },
         "iCalUID": "4mmr338h60uplmnemtj3raje49@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505024008652734\"",
-        "id": "0c4vlkpbq0kic7l86gge5mhufu",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGM0dmxrcGJxMGtpYzdsODZnZ2U1bWh1ZnUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-14T16:53:24.000Z",
-        "updated": "2025-07-14T16:53:24.326Z",
-        "summary": "Unruly Women WoW course pre-ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span>. Unruly Women WoW course pre-ride </span><a href=\"https://www.instagram.com/p/DMDuOjBpAVS/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Jul 17, 2025 6:00 PM</span><span>. </span></p><p dir=\"ltr\"><span>Location: </span><a href=\"https://www.google.com/maps/place/The+Trailhead/data=!4m2!3m1!19sChIJ--h0JjAzs1IR2QyFX-Y3zFM\"><span><u>The Trailhead</u></span></a><span> (Theo Wirth park)</span></p><p dir=\"ltr\"><span>Please join</span><a href=\"https://www.instagram.com/unruly.women/\"> <span><u>@unruly.women</u></span></a><span> at the Trailhead for a pre-ride of the Wirth on Wednesdays mountain bike race course this Thursday, July 17th!</span></p><p dir=\"ltr\"><span>The Pre-Ride will gather in front of the Trailhead Building at Theodore Wirth Park, followed by a Q+A behind the Trailhead building on the patio.</span></p><p dir=\"ltr\"><span>All ages and gender identities are welcome!</span></p><span>Register here: </span><a href=\"http://unrulywomen.org/upcoming-events/racing-101-preride-theodorewirthpark\"><span><u>unrulywomen.org/upcoming-events/racing-101-preride-theodorewirthpark</u></span></a>",
-        "location": "The Trailhead, 1221 Theodore Wirth Pkwy, Minneapolis, MN 55422, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-17T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0c4vlkpbq0kic7l86gge5mhufu@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

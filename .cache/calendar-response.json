@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753772972990,
+  "timestamp": 1753859386420,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337tr0ukovg8s0o\"",
@@ -1006,6 +1006,40 @@
         },
         "iCalUID": "38c7mcfn6qfoofsut0gb6sd79v@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3487580401091902\"",
+        "id": "2r9f1i6uol3e92o7s9s3m8h69m",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnI5ZjFpNnVvbDNlOTJvN3M5czNtOGg2OW0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-03-09T15:49:57.000Z",
+        "updated": "2025-04-04T18:10:00.545Z",
+        "summary": "Fulton Gran Fondo",
+        "description": "<p><span>Organized ride</span> <span><b>Fulton Gran Fondo</b></span><span>. </span><a href=\"https://www.fultongranfondo.com/\" target=\"_blank\"><span><u>https://www.fultongranfondo.com/</u></span></a></p><p><span>Saturday Sept. 27</span><span>, 2025</span><span>. Roll at 9 am, 10am, 11am. </span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Fulton+Production+Brewery/data=!4m2!3m1!19sChIJuU34kQkys1IRBWEYybXRiu8\" target=\"_blank\"><span><u>Fulton Production Brewery</u></span></a></p><p><span>Distance: 20, 50, or 100 miles</span></p><p><span>Cost: $60+</span></p>",
+        "location": "Fulton Production Brewery, 2540 NE 2nd St, Minneapolis, MN 55418, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-27T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-27T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2r9f1i6uol3e92o7s9s3m8h69m@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -4337,45 +4371,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0lv8imsn1rel25fuceunjm5mil@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505216046474622\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250722T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA3MjJUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-07-15T19:33:43.237Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-22T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-22T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
-        "originalStartTime": {
-          "dateTime": "2025-07-22T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

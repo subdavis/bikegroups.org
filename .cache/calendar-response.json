@@ -1,15 +1,15 @@
 {
-  "timestamp": 1753945753838,
+  "timestamp": 1754032230363,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vr5s6qvji8s0o\"",
+    "etag": "\"p33fon7uno7k8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-07-30T16:12:41.837Z",
+    "updated": "2025-08-01T01:59:15.475Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-y8Nr85I4DEL-y8Nr85I4DGAEg1JTf9wIo1JTf9wI=",
+    "nextSyncToken": "CN-Ln9fB6I4DEN-Ln9fB6I4DGAEgpY7q9wIopY7q9wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1778,6 +1778,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664779362622\"",
+        "id": "43lb85meeku31ed4j6cnajls1s_20250929T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA5MjlUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:30:03.000Z",
+        "updated": "2025-04-22T14:33:09.681Z",
+        "summary": "ACF training drop ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-29T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-29T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "43lb85meeku31ed4j6cnajls1s",
+        "originalStartTime": {
+          "dateTime": "2025-09-29T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3490664818311518\"",
         "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250730T233000Z",
         "status": "confirmed",
@@ -2199,45 +2238,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250724T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA3MjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-24T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3203,40 +3203,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3499838412545694\"",
-        "id": "0ehels3f7h9nb6ut02o1g86imr",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGVoZWxzM2Y3aDluYjZ1dDAybzFnODZpbXIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-14T16:40:05.000Z",
-        "updated": "2025-06-14T16:40:06.272Z",
-        "summary": "MDL - FTW Battle Creek Enduro Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Midwest Dirt Legion, FTW Battle Creek Enduro Ride </b></span><a href=\"https://www.dirtlegion.com/events/thursday-happy-hour-ride-1\"><span><u>Ride Details</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Date: </b></span><span>Thursday </span><span>Jul 24, 2025 6:00 PM</span><span> - 8 PM.</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"http://maps.google.com/?q=44.935151,%20-93.028772\"><span><u>44.935151, -93.028772</u></span></a><span> Battle Creek lower parking lot</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: “MDL hosts events specifically for marginalized genders. FTW / anyone but cis-men are welcome at our rides! Here’s a</span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"> <span><u>great resource</u></span></a><span> defining FTW from our friends at GreaseRag.”</span></p><br><span>We'll be checking out the trails at Battle Creek, meet at the lower parking lot (Check the address) to learn names and get started! </span><span><b>ENDURO RIDE:</b></span><span> Battle Creek is known for it's awesome gravity trails which require a comfort on black trails with steep grades.  We will be climbing together and then staggering as we drop into these gravity trails before we regroup at the bottom.  Come get shreddy with us!</span>",
-        "location": "44.935151, -93.028772",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-24T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0ehels3f7h9nb6ut02o1g86imr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3499839497173214\"",
         "id": "6ao00384ckgo1o4stjav3g19oj",
         "status": "confirmed",
@@ -3368,38 +3334,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3500378315803998\"",
-        "id": "4b10rlrr92c7t08t9snnqndof2",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGIxMHJscnI5MmM3dDA4dDlzbm5xbmRvZjIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:39:17.000Z",
-        "updated": "2025-06-17T19:39:17.901Z",
-        "summary": "MBMA Kiss of Death II alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Kiss of Death II alleycat. </b></span><a href=\"https://www.instagram.com/p/DLAgr8TtixX/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 8, 2025</span><span>. Start: TBA</span></p><p dir=\"ltr\"><span>More details TBA. Follow the MBMA instagram page for updates.</span></p>",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-08-08"
-        },
-        "end": {
-          "date": "2025-08-09"
-        },
-        "transparency": "transparent",
-        "iCalUID": "4b10rlrr92c7t08t9snnqndof2@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3501758199820670\"",
         "id": "2imf804mh1ict2l9raesi4to37_20250806T211500Z",
         "status": "confirmed",
@@ -3471,45 +3405,6 @@
         },
         "iCalUID": "2imf804mh1ict2l9raesi4to37_R20250625T211500@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502028687236862\"",
-        "id": "6jquh1jaqgfajrps61d8atumlr_20250724T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA3MjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-30T16:32:07.000Z",
-        "updated": "2025-06-27T08:52:23.618Z",
-        "summary": "Handup Social Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Handup Social Rides</b></span><span>. </span><a href=\"https://www.instagram.com/p/DH1F_WEOsQZ/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Meet at 6pm, </span><span>roll out shortly after. </span></p><p dir=\"ltr\"><span>Every Thursday April through August. </span><span>Apr 10, 2025</span><span>, </span><span>Apr 17, 2025</span><span>, </span><span>Apr 24, 2025</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a><span>, end around 8pm. <br></span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Social, typically 12-14 mph. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-24T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6jquh1jaqgfajrps61d8atumlr",
-        "originalStartTime": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6jquh1jaqgfajrps61d8atumlr@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -4235,40 +4130,6 @@
         "transparency": "transparent",
         "iCalUID": "1ddqrqi4hjb5odv356nkmjhv76@google.com",
         "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505063506614302\"",
-        "id": "67br63gicda16ce6nlqq8nghpl",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjdicjYzZ2ljZGExNmNlNm5scXE4bmdocGwgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-14T22:22:33.000Z",
-        "updated": "2025-07-14T22:22:33.307Z",
-        "summary": "Day across Minnesota gravel clinic",
-        "description": "<p dir=\"ltr\"><span>Class/Seminar</span> <span><b>Day across Minnesota gravel clinic. </b></span><a href=\"https://www.instagram.com/p/DMGUNwFRiYx/?utm_source=ig_web_copy_link\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Jul 24, 2025 6:00 PM</span><span> 6-8pm</span></p><p dir=\"ltr\"><span>Location: </span><a href=\"https://www.google.com/maps/place/The+Trailhead/data=!4m2!3m1!19sChIJ--h0JjAzs1IR2QyFX-Y3zFM\"><span><u>The Trailhead</u></span></a><span> (Theo Wirth Park, meet at the back patio of the Loppet trailhead building).</span></p><p dir=\"ltr\"><span>Are you riding or supporting a rider(s) on</span><a href=\"https://www.instagram.com/thedayacrossminnesota/\"> <span><u>@thedayacrossminnesota</u></span></a><span>?? Curious about this DAMn thing people sometimes talk about it?</span></p><p dir=\"ltr\"><span>Well it’s your time! Join members of</span><a href=\"https://www.instagram.com/bonesawcyclingcollective/\"> <span><u>@bonesawcyclingcollective</u></span></a><span> and</span><a href=\"https://www.instagram.com/versusraceteam/\"> <span><u>@versusraceteam</u></span></a><span> as they host a panel style clinic on tips and tricks for riding and supporting the Day Across Minnesota!</span></p><p dir=\"ltr\"><span>This is open to anyone who would like to attend and is free! You do not need to registered or signed up for the DAMn to attend, we welcome the veterans of the event, newbies, and those curios all the same!</span></p>",
-        "location": "The Trailhead, 1221 Theodore Wirth Pkwy, Minneapolis, MN 55422, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-24T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "67br63gicda16ce6nlqq8nghpl@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -5073,6 +4934,109 @@
         },
         "iCalUID": "0o8l2au8kgb5ogoqdh8bi22pnp@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3507960800844414\"",
+        "id": "4b10rlrr92c7t08t9snnqndof2",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGIxMHJscnI5MmM3dDA4dDlzbm5xbmRvZjIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-06-17T19:39:17.000Z",
+        "updated": "2025-07-31T16:46:40.422Z",
+        "summary": "MBMA Kiss of Death II alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Kiss of Death II alleycat. </b></span><a href=\"https://www.instagram.com/p/DMvfRDIxj9pdnsJgUJb1TlgsFcnZnxd9EpP0Kg0/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 8, 2025 5:00 PM</span><span>. Meet at 5pm, race at 5:45 pm. </span></p><p dir=\"ltr\"><span>Start: North end of lake of the isles.</span></p><p dir=\"ltr\"><span>“💋💋death dash bike race💋💋 The rush hour sequel you’ve been waiting for. Hot, quick and dirty. Come wearing a helmet.</span></p><p dir=\"ltr\"><span>Everyone welcome. Free. Absolutely no transphobic, racist or colonizer behavior allowed.💋💋”</span></p>",
+        "location": "44.96285, -93.30403",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-08T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-08T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "transparency": "transparent",
+        "iCalUID": "4b10rlrr92c7t08t9snnqndof2@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3507961769904318\"",
+        "id": "242gj8mgk82ouckv2e5s6684do",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjQyZ2o4bWdrODJvdWNrdjJlNXM2Njg0ZG8gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-07-31T16:54:44.000Z",
+        "updated": "2025-07-31T16:54:44.952Z",
+        "summary": "SSCXWC Q&A Happy Hour for FTW",
+        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Q&amp;A Happy Hour for FTW</b></span><span>. </span><a href=\"https://www.instagram.com/p/DMxkW3GOtVG/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Aug 5, 2025 6:30 PM</span><span>. </span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Matthew%E2%80%99s+Park/data=!4m2!3m1!19sChIJ_2gI0jMts1IRird8mg9W2jY\"><span><u>Matthew’s Park</u></span></a><span> Sledding hill (south of the tennis courts)</span></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: Women, trans, and non-binary riders</span></p><p dir=\"ltr\"><span>Come hang out with us in the park and learn more about Single Speed Cyclocross World Champtionship (SSCXWC!</span></p><p dir=\"ltr\"><span>Just bring yourself! We’ll bring beer, NA bevs, snacks, camp chairs and blankets</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>meet other locals who are already reg’d for SSCXWC in the women’s and gender expansive categories</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>not reg’d yet? Come hang out for a chance to win a free registration</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Organizers will give an overview of the event, tell stories from previous years, and answer any questions you have</span></p></li></ul>",
+        "location": "Matthews Park, 2318 29th Ave S, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-05T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-05T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "242gj8mgk82ouckv2e5s6684do@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3508027110951870\"",
+        "id": "6nigsqcektsr4ddekiqnov589a",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nm5pZ3NxY2VrdHNyNGRkZWtpcW5vdjU4OWEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-01T01:59:15.000Z",
+        "updated": "2025-08-01T01:59:15.475Z",
+        "summary": "Garfield group ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Garfield group ride</b></span> <a href=\"https://www.instagram.com/p/DMyZJLBRpZ90wWZHY91dMgHPn6BXej6UYkXJZk0/\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Aug 24, 2025 6:00 PM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Gold+Medal+Park/data=!4m2!3m1!19sChIJtaby02Uts1IRWnisw09Vshk\"><span><u>Gold Medal Park</u></span></a></p><p dir=\"ltr\"><span>“Costumes expected for maximum enjoyment”. Please join me in cat fashion on a group ride to possible lasagna dressed as your favorite garfield character &lt;3</span></p>",
+        "location": "Gold Medal Park, Second Street and 11th Avenue South, Minneapolis, MN 55415, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-24T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-24T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6nigsqcektsr4ddekiqnov589a@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

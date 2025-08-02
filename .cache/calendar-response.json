@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754032230363,
+  "timestamp": 1754118393229,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fon7uno7k8s0o\"",
+    "etag": "\"p337vrpkgr3l8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-01T01:59:15.475Z",
+    "updated": "2025-08-01T22:45:01.248Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN-Ln9fB6I4DEN-Ln9fB6I4DGAEgpY7q9wIopY7q9wI=",
+    "nextSyncToken": "CM_95pDY6o4DEM_95pDY6o4DGAEgpY7q9wIopY7q9wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -912,15 +912,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3487244419994590\"",
-        "id": "2tjt0mjijhsk0tonf5ujremdq3",
+        "etag": "\"3487243290747230\"",
+        "id": "6rif8qj1717av0sgvkv11gpalp_20250930T234500Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MnRqdDBtamlqaHNrMHRvbmY1dWpyZW1kcTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-04-02T19:30:09.000Z",
-        "updated": "2025-04-02T19:30:09.997Z",
-        "summary": "Bonesaw Cycling Collective x Behind Bars group ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective x Behind Bars group ride. </b></span><a href=\"https://www.instagram.com/bonesawcyclingcollective/?hl=en\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 1, 2025 6:00 PM</span><span>. Meet at 6:00 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start:.</span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: typically 10-15 miles. Pace: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Please bring all necessary supplies recommended for riding - layers, helmet, lock, emergency tools, tubes, snacks, etc. in case of emergency.</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnJpZjhxajE3MTdhdjBzZ3ZrdjExZ3BhbHBfMjAyNTA5MzBUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:16:15.000Z",
+        "updated": "2025-04-02T19:20:45.373Z",
+        "summary": "Bonesaw Cycling Collective group ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective group ride. </b></span><a href=\"https://www.instagram.com/bonesawcyclingcollective/?hl=en\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Last Tuesday of every month</span><span>. Meet at 6:45 pm, roll at 7 pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\" target=\"_blank\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. Finish: Sabo Bridge</span></p><p><span>Distance: typically 10-15 miles. Pace: typically 10 mph. </span></p><p></p><p>This is a no-drop ride with a good mix between party pace and whistling pace and we will stay together with a dedicated leader and sweep.</p><p>Please bring all necessary supplies recommended for riding - layers, helmet, lock, emergency tools, tubes, snacks, etc. in case of emergency.</p>    <p><span> </span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
         "creator": {
           "email": "jmbangsund@gmail.com"
         },
@@ -930,14 +930,19 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-08-01T18:00:00-05:00",
+          "dateTime": "2025-09-30T18:45:00-05:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-08-01T20:00:00-05:00",
+          "dateTime": "2025-09-30T20:45:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
+        "recurringEventId": "6rif8qj1717av0sgvkv11gpalp_R20250429T234500",
+        "originalStartTime": {
+          "dateTime": "2025-09-30T18:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6rif8qj1717av0sgvkv11gpalp_R20250429T234500@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3761,45 +3766,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3503280772993726\"",
-        "id": "60n0rg0jhdf7te1avam7q616no_20250725T214500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjBuMHJnMGpoZGY3dGUxYXZhbTdxNjE2bm9fMjAyNTA3MjVUMjE0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-04T14:44:53.000Z",
-        "updated": "2025-07-04T14:46:26.496Z",
-        "summary": "Behind Bars FTW summer rides",
-        "description": "<p><span>Group ride (drop)</span> <span><b>Behind Bars FTW summer rides. </b></span><a href=\"https://www.instagram.com/p/DLqMaYxJJd3/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Friday </span><span>Jul 18, 2025 4:45 PM</span><span>. </span><span>Jul 25, 2025</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. Finish: Varies by week.</span></p><p><span><b>Distance</b></span><span>: 15-30 miles. Pace: 15+ mph. </span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Join us</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\" target=\"_blank\"> <span><u>@behindbarsbicycleshop</u></span></a><span> for the rest of summer with FTW (femme, trans, women, gnc) group rides! Veronica</span><a href=\"https://www.instagram.com/duck.emoji/\" target=\"_blank\"> <span><u>@duck.emoji</u></span></a><span> leading.</span></p><p><span>These are drop rides (sans mechanicals), and faster paced, averaging at 15mph. So if you're looking for something a bit more intensive, this is for you! Routes will be announced beforehand so be on the lookout.</span></p><p><span dir=\"auto\"><span>Bring helmets, water, snacks, and a good attitude!</span></span><span> </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-25T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-25T19:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "60n0rg0jhdf7te1avam7q616no",
-        "originalStartTime": {
-          "dateTime": "2025-07-25T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "60n0rg0jhdf7te1avam7q616no@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3503280941010142\"",
         "id": "4g11jbeurtptadp3i8g8148h7b_20250809T214500Z",
         "status": "confirmed",
@@ -4629,6 +4595,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3505216046474622\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250930T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA5MzBUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-07-15T19:33:43.237Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-30T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-30T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
+        "originalStartTime": {
+          "dateTime": "2025-09-30T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3505222463176446\"",
         "id": "0q8ei9d9jho5pgpe7oaa9qisak",
         "status": "confirmed",
@@ -4690,41 +4695,6 @@
         },
         "iCalUID": "2if4f8mh3fl8ggf540hcpbnj0a@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3506429501488446\"",
-        "id": "2npvjjr44as06cg771fa1cujqu",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5wdmpqcjQ0YXMwNmNnNzcxZmExY3VqcXUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:39:44.000Z",
-        "updated": "2025-07-22T20:05:50.744Z",
-        "summary": "MBMA Christmas in July alleycat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>MBMA Christmas in July alleycat. </b></span><a href=\"https://www.instagram.com/p/DMVoosWg2Tk/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeFMamaD0GqYIEbMF3S7vYaTcI9qnhsqsPYgNhoGXaAp9yUJA/viewform?fbclid=PAQ0xDSwLsdBVleHRuA2FlbQIxMQABp69stiMSxSIb4FyAFud3oLEuhIQPJuXlMf-t4zaFHLoSS45yEoLfYhI4Bz0Q_aem_oiCsQSWeg_xfRjvGhqTzdA\"><span><u>Volunteer sign-up link</u></span></a><span>.</span></p><p><span>Friday </span><span>Jul 25, 2025 4:30 PM</span><span>. Reg. 4:30-6 pm, race roll-out at 6:15pm. Cut-off at 9pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\" target=\"_blank\"><span><u>Venture Bikes Midtown</u></span></a></p><p><span>🎁 Gift Opening &amp; Social: 9:30–10:30PM</span></p><p><span>🎁 Entry = a wrapped gift ($10–$15 value — wrap it however you’d like!)</span></p><p><span>🎉 Everyone who turns in a completed manifest by 9PM gets a gift!</span></p><p><span>👕 Christmas attire highly encouraged but not necessary (think festive, funky, or full-on Santa)</span></p><p><span>✨ You don’t have to be fast to win a prize — show up, ride, and have fun!</span></p><p><span>**Note: This race is not based on the Religious Holiday. It is more so focused on the idea of everyone being able to leave the race with a prize. ☺️</span></p>",
-        "location": "Venture Bikes Midtown, 1000 Midtown Greenway, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-25T16:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-25T22:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2npvjjr44as06cg771fa1cujqu@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -5037,6 +5007,40 @@
         },
         "iCalUID": "6nigsqcektsr4ddekiqnov589a@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3508176602496414\"",
+        "id": "2tjt0mjijhsk0tonf5ujremdq3",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnRqdDBtamlqaHNrMHRvbmY1dWpyZW1kcTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-04-02T19:30:09.000Z",
+        "updated": "2025-08-01T22:45:01.248Z",
+        "summary": "Bonesaw Cycling Collective x Behind Bars group ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective x Behind Bars group ride. </b></span><a href=\"https://www.instagram.com/bonesawcyclingcollective/?hl=en\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 1, 2025 6:00 PM</span><span>. Meet at 6:00 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start:.</span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: typically 10-15 miles. Pace: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Please bring all necessary supplies recommended for riding - layers, helmet, lock, emergency tools, tubes, snacks, etc. in case of emergency.</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-15T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

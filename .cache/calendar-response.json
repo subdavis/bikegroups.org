@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754118393229,
+  "timestamp": 1754204793705,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337vrpkgr3l8s0o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_95pDY6o4DEM_95pDY6o4DGAEgpY7q9wIopY7q9wI=",
+    "nextSyncToken": "CM_95pDY6o4DEM_95pDY6o4DGAEg7db-9wIo7db-9wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2173,6 +2173,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664818311518\"",
+        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20251001T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTEwMDFUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:28:22.000Z",
+        "updated": "2025-04-22T14:33:29.155Z",
+        "summary": "ACF social ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-01T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-01T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
+        "originalStartTime": {
+          "dateTime": "2025-10-01T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3492054948877374\"",
         "id": "7rub3saevpmgsli9fldk90i3od_20250805T233000Z",
         "status": "confirmed",
@@ -3922,6 +3961,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3504353545390142\"",
+        "id": "2044ccndiqki594t21jno6sqob_20251001T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA0NGNjbmRpcWtpNTk0dDIxam5vNnNxb2JfMjAyNTEwMDFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-10T19:45:04.000Z",
+        "updated": "2025-07-10T19:46:12.695Z",
+        "summary": "Grease Rag FTW Open shop",
+        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
+        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-01T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-01T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2044ccndiqki594t21jno6sqob",
+        "originalStartTime": {
+          "dateTime": "2025-10-01T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2044ccndiqki594t21jno6sqob@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3504353606179934\"",
         "id": "3a36mi569jp3c72dnh79dg0k6e_20250821T230000Z",
         "status": "confirmed",
@@ -3992,40 +4070,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504354462962270\"",
-        "id": "6lhjvog7252gn56qn4f09ghtq2",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmxoanZvZzcyNTJnbjU2cW40ZjA5Z2h0cTIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-10T19:53:51.000Z",
-        "updated": "2025-07-10T19:53:51.481Z",
-        "summary": "Haul it and Huck it",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Haul it and Huck it</b></span><span>. </span><a href=\"https://www.instagram.com/p/DL3dqcOPC8t/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Jul 26, 2025 12:00 PM</span><span>. Meet at 12pm, roll at 1pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Fern+Hill+Park/data=!4m2!3m1!19sChIJyUbHhlUn9ocRKvBfoY9x6R8\"><span><u>Fern Hill Park</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/Powderhorn+Park/data=!4m2!3m1!19sChIJhfNCEQko9ocRMeU-RLEcSFY\"><span><u>Powderhorn Park</u></span></a></p><p dir=\"ltr\"><span>This group ride is about hauling ramps around the city and catching air (or not) at a few spots.</span></p><p dir=\"ltr\"><span>This ride is for all skill levels and no jumping necessary! Ride whatever bike you want and come hang out for some great entertainment. We'll have 4 different ramp sizes if you're jump-curious.</span></p><p dir=\"ltr\"><span>This ride also includes a safe space policy. That means we have a zero tolerance for sexism, racism, homophobia, transphobia, or other hateful and destructive behavior.</span></p>",
-        "location": "Fern Hill Park, 4421 W 28th St, St Louis Park, MN 55416, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-26T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-26T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6lhjvog7252gn56qn4f09ghtq2@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4134,40 +4178,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3c434hut8oidbtfra57mnhkt2r@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505188236005278\"",
-        "id": "1a3l1rf1e792fmame84e72kdph",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWEzbDFyZjFlNzkyZm1hbWU4NGU3MmtkcGggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-15T15:41:57.000Z",
-        "updated": "2025-07-15T15:41:58.002Z",
-        "summary": "Behind Bars “Unsavory origins of the aquatennial” ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars “Unsavory origins of the aquatennial” ride. </b></span><a href=\"https://www.instagram.com/p/DMHSNMTtDDR/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Jul 26, 2025 1:00 PM</span><span>. Roll at 1:15pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Vine+Arts+Center/data=!4m2!3m1!19sChIJWXCQVDMts1IRa9pzY0D1C0w\"><span><u>Vine Arts Center</u></span></a></p><p dir=\"ltr\"><span>Distance: ?, likely ~10 miles. Pace: Casual, likely 10-14 mph.</span></p><span>The sights and sounds of the Aquatennial, by design, overshadow the historical victories and injustices regarding workers rights that took place in the summers before the event’s inception. On the final day of this year’s festivities, join us for a tour through important landmarks that tell the tales of struggles past. The ride will finish at the Vine Arts Center, where a panel will be discussing the hardships of 1930s collective organizing efforts. Ride created and hosted by shop ambassador Matthew</span><a href=\"https://www.instagram.com/m4ttyp4tty/\"> <span><u>@m4ttyp4tty</u></span></a>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-26T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-26T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1a3l1rf1e792fmame84e72kdph@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4663,6 +4673,38 @@
         "sequence": 0,
         "reminders": {
           "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3505361355803006\"",
+        "id": "2rfmhhmjtm3l2ifah5fimjlqcg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnJmbWhobWp0bTNsMmlmYWg1ZmltamxxY2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-03-09T15:56:47.000Z",
+        "updated": "2025-07-16T15:44:37.901Z",
+        "summary": "SSCXWC ",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday-Sunday </span><span>Oct 2, 2025</span><span> - </span><span>Oct 5, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><span>Various sites around Mpls TBA. The main race on Sunday is at </span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. Weekend is full of events, including bandit cross on Thursday, a group ride and packet pick-up party on Friday, “feats of strength” on Saturday, and the main cyclocross race event on Sunday at Buck Hill. See the BikeReg or FAQ page for full details. </span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "date": "2025-10-02"
+        },
+        "end": {
+          "date": "2025-10-05"
+        },
+        "transparency": "transparent",
+        "iCalUID": "2rfmhhmjtm3l2ifah5fimjlqcg@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": false
         },
         "eventType": "default"
       },

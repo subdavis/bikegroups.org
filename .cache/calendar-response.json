@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754204793705,
+  "timestamp": 1754291585972,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337vrpkgr3l8s0o\"",
@@ -11,45 +11,6 @@
     "defaultReminders": [],
     "nextSyncToken": "CM_95pDY6o4DEM_95pDY6o4DGAEg7db-9wIo7db-9wI=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20250727T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTA3MjdUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-27T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-27T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-07-27T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3482907699087198\"",
@@ -1045,44 +1006,6 @@
         },
         "iCalUID": "2r9f1i6uol3e92o7s9s3m8h69m@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20250727T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTA3MjdUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-27T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-27T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-07-27T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2954,45 +2877,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3496189985479102\"",
-        "id": "1ppv8n14n6kiff0lbtsqlhdbiq_20250727T190000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXBwdjhuMTRuNmtpZmYwbGJ0c3FsaGRiaXFfMjAyNTA3MjdUMTkwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-24T13:56:32.000Z",
-        "updated": "2025-05-24T13:56:32.739Z",
-        "summary": "BWB Monthly Sunday rides, Women only",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Biking with Baddies Monthly Sunday rides, Women only </b></span><a href=\"https://www.instagram.com/p/DKA4dp4pYLZ/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://bikingwithbaddies.com/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Last Sunday of every month. </span><span>2:00 PM</span><span> </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Logan+Park/data=!4m2!3m1!19sChIJy67MvZEts1IRRk4WWc7SylM\"><span><u>Logan Park</u></span></a> <a href=\"https://www.google.com/maps/place/690+13th+Ave+NE/data=!4m2!3m1!19sChIJyWahB5Ats1IRvIzYi1ooZWs\"><span><u>690 13th Ave NE</u></span></a></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: Women only</span></p><p dir=\"ltr\"><span>“All levels welcomed, no one left behind. Always refer to the website for updates. Come out with your bike and make new friends. There may be people you know, and/or folks that might want to get to know you on this ride. Even if that’s not the goal, come outside to cycle with us in nature.”</span></p>",
-        "location": "Logan Park, Minneapolis, MN, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-27T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-27T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ppv8n14n6kiff0lbtsqlhdbiq",
-        "originalStartTime": {
-          "dateTime": "2025-07-27T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ppv8n14n6kiff0lbtsqlhdbiq@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3496189985479102\"",
         "id": "1ppv8n14n6kiff0lbtsqlhdbiq_20250831T190000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=MXBwdjhuMTRuNmtpZmYwbGJ0c3FsaGRiaXFfMjAyNTA4MzFUMTkwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -4178,74 +4062,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3c434hut8oidbtfra57mnhkt2r@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505189599604926\"",
-        "id": "57v4rlslo2siq0qi00qeub3fip",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTd2NHJsc2xvMnNpcTBxaTAwcWV1YjNmaXAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-15T15:46:55.000Z",
-        "updated": "2025-07-15T15:53:19.802Z",
-        "summary": "1934 Minneapolis Teamster Strike Bike Tour",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>1934 Minneapolis Teamster Strike Bike Tour. </b></span><a href=\"https://www.facebook.com/events/2140176959827797/?ref_source=SEARCH&_rdr\" target=\"_blank\"><span><u>Facebook</u></span></a><span>.</span></p><p><span>Sunday </span><span>Jul 27, 2025 3:00 PM</span><span>. Tour will run from 3-4:30 pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/1900+Chicago+Avenue/data=!4m2!3m1!19sChIJ6bBXP6Yys1IRvkN2v-lCvco\" target=\"_blank\"><span><u>1900 Chicago Avenue</u></span></a></p><p><span>Distance: 2 miles. Pace: Slow roll, likely 5-10 mph.</span></p><p><span>Cost: Suggested donation of $20-$50 to Socialist Alternative MN</span></p><p><span>Join Socialist Alternative Minnesota for this bike tour and fundraiser, to celebrate the legacy and lessons of the historic 1934 Minneapolis Teamster Strike, one of three major strikes in the US in 1934, which played a key role in building the mass industrial union movement that brought millions of workers into the labor movement during the Great Depression. Join us for a family friendly bike tour, to learn about Minneapolis history, and lessons from the labor movement’s past.</span></p>",
-        "location": "1900 Chicago Ave, Minneapolis, MN 55404, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-27T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-27T16:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "57v4rlslo2siq0qi00qeub3fip@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505190111590558\"",
-        "id": "0lv8imsn1rel25fuceunjm5mil",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGx2OGltc24xcmVsMjVmdWNldW5qbTVtaWwgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-15T15:57:35.000Z",
-        "updated": "2025-07-15T15:57:35.795Z",
-        "summary": "Sustainable business group ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Sustainable business group ride </b></span><a href=\"https://act.sierraclub.org/events/details?formcampaignid=701Po00000tFMGnIAO\"><span><u>Event page</u></span></a></p><p dir=\"ltr\"><span>Sunday </span><span>Jul 27, 2025 10:30 AM</span><span>. Roll-out at 11 am. </span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Curioso+Coffee+Bar:+Uptown/data=!4m2!3m1!19sChIJQ11B2Wwn9ocRF0tBoQDFXgo\"><span><u>Curioso Coffee Bar: Uptown</u></span></a></p><p dir=\"ltr\"><span>Distance: likely ~8 miles. Pace: likely ~10 mph. </span></p><p dir=\"ltr\"><span>Casual bike tour to sustainable businesses in Minneapolis. Organized by Joon Community, Perennial Cycle, Curioso Coffee.</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>Tour starts at the </span><a href=\"https://www.instagram.com/curiosomn/\"><span><u>Curioso Coffee</u></span></a><span> shop in Uptown at 10:30 am, rolling at 11 am. All drinks will be $1 off! </span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>We will then bike to Loring Park and arrive around 11:15 am to check out the </span><a href=\"https://www.loringparkartfestival.com/\"><span><u>Loring Park Art Festival</u></span></a><span>.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>After that, we will arrive at</span><a href=\"https://hermineshop.com/pages/about\"> <span><u>Hermine vintage goods</u></span></a><span> around 11:50 am-noon to stay for around 30-45 minutes for refreshments and discount shopping.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>From there, we will head back to Curioso, or you can leave from Hermine for home. </span></p></li></ul>",
-        "location": "Curioso Coffee Bar: Uptown, 3001 Hennepin Ave S Suite 1100, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-27T10:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-27T12:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0lv8imsn1rel25fuceunjm5mil@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

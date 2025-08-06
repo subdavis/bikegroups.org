@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754377819085,
+  "timestamp": 1754464224386,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337vrpkgr3l8s0o\"",
+    "etag": "\"p32nq90lnq3q8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-01T22:45:01.248Z",
+    "updated": "2025-08-05T21:37:11.287Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_95pDY6o4DEM_95pDY6o4DGAEg7db-9wIo7db-9wI=",
+    "nextSyncToken": "CK-kgrfQ9I4DEK-kgrfQ9I4DGAEg7db-9wIo7db-9wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -788,45 +788,6 @@
         "transparency": "transparent",
         "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3487243290747230\"",
-        "id": "6rif8qj1717av0sgvkv11gpalp_20250729T234500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnJpZjhxajE3MTdhdjBzZ3ZrdjExZ3BhbHBfMjAyNTA3MjlUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:16:15.000Z",
-        "updated": "2025-04-02T19:20:45.373Z",
-        "summary": "Bonesaw Cycling Collective group ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective group ride. </b></span><a href=\"https://www.instagram.com/bonesawcyclingcollective/?hl=en\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Last Tuesday of every month</span><span>. Meet at 6:45 pm, roll at 7 pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\" target=\"_blank\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. Finish: Sabo Bridge</span></p><p><span>Distance: typically 10-15 miles. Pace: typically 10 mph. </span></p><p></p><p>This is a no-drop ride with a good mix between party pace and whistling pace and we will stay together with a dedicated leader and sweep.</p><p>Please bring all necessary supplies recommended for riding - layers, helmet, lock, emergency tools, tubes, snacks, etc. in case of emergency.</p>    <p><span> </span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-29T18:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-29T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6rif8qj1717av0sgvkv11gpalp_R20250429T234500",
-        "originalStartTime": {
-          "dateTime": "2025-07-29T18:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6rif8qj1717av0sgvkv11gpalp_R20250429T234500@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -3993,45 +3954,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3505216046474622\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250729T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA3MjlUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-07-15T19:33:43.237Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-29T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-29T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
-        "originalStartTime": {
-          "dateTime": "2025-07-29T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505216046474622\"",
         "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250805T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA4MDVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -4516,40 +4438,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3506579466131422\"",
-        "id": "6js9vqrp566297j3k34pu2kfqm",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmpzOXZxcnA1NjYyOTdqM2szNHB1MmtmcW0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-23T16:55:32.000Z",
-        "updated": "2025-07-23T16:55:33.065Z",
-        "summary": "Team Recess Foraging ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Foraging ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DMagsnzsc6Q/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Jul 29, 2025 6:15 PM</span><span>. Roll at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Farmstead+Bike+Shop/data=!4m2!3m1!19sChIJmYsgcqMn9ocRQBEMxriS3cs\"><span><u>Farmstead Bike Shop</u></span></a><span> (4001 Bryant Ave S)</span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/Lake+Hiawatha/data=!4m2!3m1!19sChIJCZz8Y14o9ocRqlUxO9-cN9g\"><span><u>Lake Hiawatha</u></span></a></p><p dir=\"ltr\"><span>Distance: 8 miles. Pace: Foraging pace (8-10 mph). </span></p><p dir=\"ltr\"><span>This 8-mile ride will be slower paced as we stop to point out fun things to forage throughout the warmer season! End at Lake Hiawatha where we can hang out and enjoy any goodies gathered along the way! </span></p>",
-        "location": "Farmstead Bike Shop, 4001 Bryant Ave S #1, Minneapolis, MN 55409, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-29T18:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-29T20:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6js9vqrp566297j3k34pu2kfqm@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3506579982648606\"",
         "id": "2tcuv6vat0cem950v1rjn5fvj3",
         "status": "confirmed",
@@ -4821,6 +4709,40 @@
         },
         "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3508859662574686\"",
+        "id": "54a4sjehg6uidvggqnemed6uk6",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTRhNHNqZWhnNnVpZHZnZ3FuZW1lZDZ1azYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-05T21:37:11.000Z",
+        "updated": "2025-08-05T21:37:11.287Z",
+        "summary": "Perennial Farmer’s Markets Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Perennial Farmer’s Markets Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DM5VvJsMgds/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 9, 2025 9:00 AM</span><span>. Roll at 9am.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a></p><p dir=\"ltr\"><span>Distance: 13 miles Pace: Social (likely 8-12 mph)</span></p><p dir=\"ltr\"><span>A group ride to FOUR Farmers Markets of Minneapolis! 🚲🧑‍🌾🥬 Come celebrate National Farmers Market Week. We will be, stopping at each market with time to explore.</span></p><p dir=\"ltr\"><span>Times we will be at each market listed below, if you want to meet along the way:</span></p><p dir=\"ltr\"><span>🥦</span><a href=\"https://www.instagram.com/southwest_farmers_market/\"> <span><u>@southwest_farmers_market</u></span></a><span> 9:30–10 am</span></p><p dir=\"ltr\"><span>🥕</span><a href=\"https://www.instagram.com/midtownfarmmkt/\"> <span><u>@midtownfarmmkt</u></span></a><span> 10:30–11 am</span></p><p dir=\"ltr\"><span>🌽</span><a href=\"https://www.instagram.com/millcityfarmersmarket/\"> <span><u>@millcityfarmersmarket</u></span></a><span> 11:30 am–12 pm</span></p><span>🫛</span><a href=\"https://www.instagram.com/ne_fm/\"> <span><u>@ne_fm</u></span></a><span> 12:15–12:45 pm (with optional ride back to Perennial Cycle) </span>",
+        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-09T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-09T13:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "54a4sjehg6uidvggqnemed6uk6@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

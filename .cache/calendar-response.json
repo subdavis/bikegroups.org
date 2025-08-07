@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754464224386,
+  "timestamp": 1754550615421,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nq90lnq3q8s0o\"",
+    "etag": "\"p33vs3oces7r8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-05T21:37:11.287Z",
+    "updated": "2025-08-06T17:57:09.743Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK-kgrfQ9I4DEK-kgrfQ9I4DGAEg7db-9wIo7db-9wI=",
+    "nextSyncToken": "CP_B4Y7h9o4DEP_B4Y7h9o4DGAEgjfX3-AIojfX3-AI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -364,15 +364,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3484031190778526\"",
-        "id": "4aorej03dlvlvdsvlvjfrdq2hf_20250730T230000Z",
+        "etag": "\"3482907699087198\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20251005T144500Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGFvcmVqMDNkbHZsdmRzdmx2amZyZHEyaGZfMjAyNTA3MzBUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-03-15T05:13:15.389Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesday</span> <span>Mar 19, 2025 6:00 PM</span><span>. Every Wednesday during warm weather months.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTEwMDVUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2025-03-08T17:10:49.543Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
         "creator": {
           "email": "jmbangsund@gmail.com"
         },
@@ -382,19 +382,19 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-07-30T18:00:00-05:00",
+          "dateTime": "2025-10-05T09:45:00-05:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-07-30T19:30:00-05:00",
+          "dateTime": "2025-10-05T12:15:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "4aorej03dlvlvdsvlvjfrdq2hf",
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
         "originalStartTime": {
-          "dateTime": "2025-07-30T18:00:00-05:00",
+          "dateTime": "2025-10-05T09:45:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -1316,6 +1316,44 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3488635157062686\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20251005T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTEwMDVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2025-04-10T20:39:38.531Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-05T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2025-10-05T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3490664779362622\"",
         "id": "43lb85meeku31ed4j6cnajls1s_20250804T233000Z",
         "status": "confirmed",
@@ -1660,45 +1698,6 @@
         },
         "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3490664818311518\"",
-        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250730T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTA3MzBUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-22T14:28:22.000Z",
-        "updated": "2025-04-22T14:33:29.155Z",
-        "summary": "ACF social ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-30T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-30T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
-        "originalStartTime": {
-          "dateTime": "2025-07-30T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2913,40 +2912,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3496548682624798\"",
-        "id": "7g0r3ka6eee6f1vl45feioirig",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N2cwcjNrYTZlZWU2ZjF2bDQ1ZmVpb2lyaWcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-05-26T15:45:41.000Z",
-        "updated": "2025-05-26T15:45:41.312Z",
-        "summary": "Perennial Summer FTW Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Summer FTW Rides</b></span> <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DJiPNcKM6b0/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw092q85lF9rZlETMMf7Nlzc\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.google.com/url?q=https://www.perennialcycle.com/shopcast/events/list/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0WhXutNUYk5gS0FhZbr2A2\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Meet at 6 pm <br></span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Perennial%2BCycle/data%3D!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2fjHM1WHZfJ40EQRgBoetL\" target=\"_blank\"><span><u>Perennial Cycle</u></span></a><span>, behind the shop</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://www.google.com/url?q=https://greaserag.org/safer-spaces/wtf-is-ftw/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw23DKWWN8kXxH5cRcsHRgpU\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 6-12 miles. </span><span><b>Pace</b></span><span>: social, ~10 mph. </span></p><p dir=\"ltr\"><span>All rides will lead to to either breweries or other fun local spots for food/drink. Stay tuned for some bonus Saturday rides along the way!</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-30T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-30T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7g0r3ka6eee6f1vl45feioirig@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3496548714749566\"",
         "id": "19djuqqpicler1361e58lng3ra",
         "status": "confirmed",
@@ -3561,6 +3526,45 @@
         "recurringEventId": "4no79kmntsjc8l17t90430vi16",
         "originalStartTime": {
           "dateTime": "2025-09-07T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3502802338559294\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-07-01T20:19:29.279Z",
+        "summary": "No name alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-05T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T14:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
+        "originalStartTime": {
+          "dateTime": "2025-10-05T12:45:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
@@ -4506,45 +4510,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3506595954395454\"",
-        "id": "2imf804mh1ict2l9raesi4to37_20250723T211500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmltZjgwNG1oMWljdDJsOXJhZXNpNHRvMzdfMjAyNTA3MjNUMjExNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-06-02T16:52:24.000Z",
-        "updated": "2025-07-23T19:12:57.197Z",
-        "summary": "Wirth On Wednesdays (FTW week) MTB race",
-        "description": "Race (MTB) Wirth On Wednesdays MTB race Registration.<br>When: Every other Wednesday through August. Reg from 4:15pm to race start. Races at 5:30pm (2 lap and 1 lap races) and 6:20pm (4 lap and 3 lap races). Kids’ race at 6:00pm.<br>Location: The Trailhead (Theodore Wirth Park)<p dir=\"ltr\"><span><b>Who's this for: </b></span><span> Women &amp; Non-Binary Week hosted by</span><a href=\"https://www.unrulywomen.org/\"> <span><u>Unruly Women</u></span></a></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>Races this week are for those who identify as: Women, Non-Binary, Trans Women &amp; Gender Expansive</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>*The kids races will remain open to all children*</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>ALL are welcome to celebrate, support and volunteer! </span></p></li></ul><p dir=\"ltr\"><span>See website for complete details. 3 mile laps on Theo wirth Area 36 MTB trails. Format for the series is mass start. We will have spacing in the start area and may have multiple waves depending on number of participants. Fat bikes are welcome, though there is no separate category for fat bikes. No e-bikes.</span></p>",
-        "location": "The Trailhead, 1221 Theodore Wirth Pkwy, Minneapolis, MN 55422, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-07-30T16:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-07-30T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2imf804mh1ict2l9raesi4to37_R20250625T211500",
-        "originalStartTime": {
-          "dateTime": "2025-07-23T16:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2imf804mh1ict2l9raesi4to37_R20250625T211500@google.com",
-        "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3507783923675774\"",
         "id": "0o8l2au8kgb5ogoqdh8bi22pnp",
         "status": "confirmed",
@@ -4742,6 +4707,142 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "54a4sjehg6uidvggqnemed6uk6@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509005404446878\"",
+        "id": "7l77cn8nf8hk2ced3gfc0lalc6",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=N2w3N2NuOG5mOGhrMmNlZDNnZmMwbGFsYzYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-06T17:51:42.000Z",
+        "updated": "2025-08-06T17:51:42.223Z",
+        "summary": "Behind Bars - Picnic Potluck ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars - Picnic Potluck ride. </b></span><a href=\"https://www.instagram.com/p/DM_1HL3tC7v/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Wednesday </span><span>Aug 20, 2025 6:15 PM</span><span>. Roll at 6:30pm. Arrive at Bohemian Flats at 7pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Bohemian+Flats+Park/data=!4m2!3m1!19sChIJBUt50xQts1IRfrVYPVm8ygk\"><span><u>Bohemian Flats Park</u></span></a></p><p dir=\"ltr\"><span>Distance: 4 miles. Pace: Casual party pace, ~8-12 mph. </span></p><p dir=\"ltr\"><span>Short ride to Bohemian Flats Park for a potluck picnic. Bring a dish or drinks to share. Consider vegan and/or gluten free foods and NA beverages. Also bring a blanket and bike lights to get home.</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-20T18:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-20T20:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "7l77cn8nf8hk2ced3gfc0lalc6@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509005829818910\"",
+        "id": "2u6mf2v0ma89mk2u0p551ns3se",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnU2bWYydjBtYTg5bWsydTBwNTUxbnMzc2UgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-06T17:55:14.000Z",
+        "updated": "2025-08-06T17:55:14.909Z",
+        "summary": "Behind Bars Adventure rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Adventure rides. </b></span><a href=\"https://www.instagram.com/p/DM-uRDCuzku/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Aug 12, 2025 6:00 PM</span><span>. Roll at 6:10pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: 10-20 miles, mixed terrain. Pace: 10-15 mph. </span></p><p dir=\"ltr\"><span>Join Ambassador Robin at Behind Bars Bicycle Shop for a series of rides exploring the nature, history, and urban oddities of the Twin Cities.</span></p><p dir=\"ltr\"><span>Terrain will vary from dirt trails to back alleys. There may be some obstacles like steep hills and curbs. The pace will be 10 to 15 mph depending on the terrain. These are no-drop rides, meaning we will stay together as a group, and will provide support for minor mechanical issues. </span></p><p dir=\"ltr\"><span>Bring: a capable bike, helmet, lights, lock, a positive mental attitude, and a sense of adventure! </span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-12T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-12T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2u6mf2v0ma89mk2u0p551ns3se@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509005929796062\"",
+        "id": "2oipbsnihpcmkm91s2vufsn0le",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm9pcGJzbmlocGNta205MXMydnVmc24wbGUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-06T17:56:04.000Z",
+        "updated": "2025-08-06T17:56:04.898Z",
+        "summary": "Behind Bars Adventure rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Adventure rides. </b></span><a href=\"https://www.instagram.com/p/DM-uRDCuzku/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Aug 17, 2025 4:00 PM</span><span>. Roll at 4:10pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: 10-20 miles, mixed terrain. Pace: 10-15 mph. </span></p><p dir=\"ltr\"><span>Join Ambassador Robin at Behind Bars Bicycle Shop for a series of rides exploring the nature, history, and urban oddities of the Twin Cities.</span></p><p dir=\"ltr\"><span>Terrain will vary from dirt trails to back alleys. There may be some obstacles like steep hills and curbs. The pace will be 10 to 15 mph depending on the terrain. These are no-drop rides, meaning we will stay together as a group, and will provide support for minor mechanical issues. </span></p><p dir=\"ltr\"><span>Bring: a capable bike, helmet, lights, lock, a positive mental attitude, and a sense of adventure! </span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-17T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-17T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2oipbsnihpcmkm91s2vufsn0le@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509006059487742\"",
+        "id": "1sl80af889erpl0o5fnolnjtbm",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXNsODBhZjg4OWVycGwwbzVmbm9sbmp0Ym0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-06T17:57:09.000Z",
+        "updated": "2025-08-06T17:57:09.743Z",
+        "summary": "Behind Bars Adventure rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Adventure rides. </b></span><a href=\"https://www.instagram.com/p/DM-uRDCuzku/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Aug 26, 2025 6:00 PM</span><span>. Roll at 6:10pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: 10-20 miles, mixed terrain. Pace: 10-15 mph. </span></p><p dir=\"ltr\"><span>Join Ambassador Robin at Behind Bars Bicycle Shop for a series of rides exploring the nature, history, and urban oddities of the Twin Cities.</span></p><p dir=\"ltr\"><span>Terrain will vary from dirt trails to back alleys. There may be some obstacles like steep hills and curbs. The pace will be 10 to 15 mph depending on the terrain. These are no-drop rides, meaning we will stay together as a group, and will provide support for minor mechanical issues. </span></p><p dir=\"ltr\"><span>Bring: a capable bike, helmet, lights, lock, a positive mental attitude, and a sense of adventure! </span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-26T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-26T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1sl80af889erpl0o5fnolnjtbm@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754637023017,
+  "timestamp": 1754723163845,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33vs3oces7r8s0o\"",
+    "etag": "\"p32vu3mc4tfu8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-06T17:57:09.743Z",
+    "updated": "2025-08-09T03:57:31.430Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP_B4Y7h9o4DEP_B4Y7h9o4DGAEgjfX3-AIojfX3-AI=",
+    "nextSyncToken": "CL_h2YTr_I4DEL_h2YTr_I4DGAEgjfX3-AIojfX3-AI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2173,6 +2173,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3492054948877374\"",
+        "id": "7rub3saevpmgsli9fldk90i3od_20251007T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=N3J1YjNzYWV2cG1nc2xpOWZsZGs5MGkzb2RfMjAyNTEwMDdUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-30T15:37:18.000Z",
+        "updated": "2025-04-30T15:37:54.438Z",
+        "summary": "EZ Bike Club Monthly Ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>EZ Bike Club Monthly Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJEtdhkOkvc/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>6:30 pm social meet, 7:15pm roll out.</span></p><p><span>First Tuesday of every month through October.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/1301+Theodore+Wirth+Parkway/data=!4m2!3m1!19sChIJx8oQ36Ezs1IRqZ8_OXx-qOo\" target=\"_blank\"><span><u>1301 Theodore Wirth Parkway</u></span></a></p><p><span>Distance: Typically 10-15 miles. Pace: Chill pace, nobody left behind (likely 10-12 mph). </span></p><p><span>Open to all. Bring lights. This ride is all about unity and movement, celebrating people of color on bikes, community connection, and the power of the outdoors in connection to our physical and mental well-being. </span></p>",
+        "location": "1301 Theodore Wirth Pkwy, Golden Valley, MN 55422, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-07T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-07T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "7rub3saevpmgsli9fldk90i3od",
+        "originalStartTime": {
+          "dateTime": "2025-10-07T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3493963834915966\"",
         "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250807T230000Z",
         "status": "confirmed",
@@ -3810,40 +3849,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3504356234026174\"",
-        "id": "2nb3lni8sacco1l2fu4i0ser96",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5iM2xuaThzYWNjbzFsMmZ1NGkwc2VyOTYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-10T20:08:36.000Z",
-        "updated": "2025-07-10T20:08:37.013Z",
-        "summary": "Fast Casual Quest Cat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Fast Casual Quest Cat. </b></span><a href=\"https://www.instagram.com/p/DLschBbsMCp/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 9, 2025 11:30 AM</span><span>. Manifests at 11:45am, roll at 12pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a></p><p dir=\"ltr\"><span>Calling all adventurers! Mount your steed and embark on a quest with dungeons, dragons, wizards and sorcery! A DND themed alleycat.</span></p>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-09T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-09T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2nb3lni8sacco1l2fu4i0ser96@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3504927007481918\"",
         "id": "1ddqrqi4hjb5odv356nkmjhv76",
         "status": "confirmed",
@@ -4269,6 +4274,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3505216046474622\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251007T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEwMDdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-07-15T19:33:43.237Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-07T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-07T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
+        "originalStartTime": {
+          "dateTime": "2025-10-07T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3505222463176446\"",
         "id": "0q8ei9d9jho5pgpe7oaa9qisak",
         "status": "confirmed",
@@ -4608,40 +4652,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3508176602496414\"",
-        "id": "2tjt0mjijhsk0tonf5ujremdq3",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MnRqdDBtamlqaHNrMHRvbmY1dWpyZW1kcTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-04-02T19:30:09.000Z",
-        "updated": "2025-08-01T22:45:01.248Z",
-        "summary": "Bonesaw Cycling Collective x Behind Bars group ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective x Behind Bars group ride. </b></span><a href=\"https://www.instagram.com/bonesawcyclingcollective/?hl=en\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 1, 2025 6:00 PM</span><span>. Meet at 6:00 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start:.</span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: typically 10-15 miles. Pace: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Please bring all necessary supplies recommended for riding - layers, helmet, lock, emergency tools, tubes, snacks, etc. in case of emergency.</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-15T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-15T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3508859662574686\"",
         "id": "54a4sjehg6uidvggqnemed6uk6",
         "status": "confirmed",
@@ -4804,6 +4814,346 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1sl80af889erpl0o5fnolnjtbm@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509418547570046\"",
+        "id": "2nb3lni8sacco1l2fu4i0ser96",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5iM2xuaThzYWNjbzFsMmZ1NGkwc2VyOTYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-07-10T20:08:36.000Z",
+        "updated": "2025-08-09T03:14:33.785Z",
+        "summary": "Fast Casual Quest Cat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>Fast Casual Quest Cat. </b></span><a href=\"https://www.instagram.com/p/DLschBbsMCp/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Saturday </span><span>Aug 9, 2025 11:30 AM</span><span>. Manifests at 11:45am, roll at 12pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span><u>  </u></span></p><p><span>Finish: Hidden Beach Cedar Lake </span></p><p><span>Calling all adventurers! Mount your steed and embark on a quest with dungeons, dragons, wizards and sorcery! A DND themed alleycat.</span></p>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-09T11:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-09T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2nb3lni8sacco1l2fu4i0ser96@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509419523208894\"",
+        "id": "37imku15921j61cp2j03sl828b",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MzdpbWt1MTU5MjFqNjFjcDJqMDNzbDgyOGIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:22:41.000Z",
+        "updated": "2025-08-09T03:22:41.604Z",
+        "summary": "Team Recess Harry Wild Jones architecture ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Harry Wild Jones architecture ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNELt-HybLq/?img_index=1\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Sep 14, 2025 10:00 AM</span><span>. Roll at 10 am.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/310+W+15th+St/data=!4m2!3m1!19sChIJBzMVvsEys1IRPxPsNgapZx4\"><span><u>310 W 15th St</u></span></a><span> (William Berry House / Superintendent's Cottage in Loring Park)</span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/Lake+Harriet/data=!4m2!3m1!19sChIJP1euTAQn9ocRmU08cPsPN3E\"><span><u>Lake Harriet</u></span></a></p><p dir=\"ltr\"><span>Distance: 20 miles. Pace: Chill pace (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>There will be 8 stops, 20 miles of riding (a few hills!) We will stop at each magnificent structure for 15 mins</span></p><p dir=\"ltr\"><span>There will be short commentary about each piece. We will end at Lake Harriet with option for swimming!</span></p>",
+        "location": "310 W 15th St, Minneapolis, MN 55403, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-14T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-14T14:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "37imku15921j61cp2j03sl828b@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509419822845438\"",
+        "id": "2tjt0mjijhsk0tonf5ujremdq3",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnRqdDBtamlqaHNrMHRvbmY1dWpyZW1kcTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-04-02T19:30:09.000Z",
+        "updated": "2025-08-09T03:25:11.422Z",
+        "summary": "Bonesaw Cycling Collective x Behind Bars Theo dirt ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective x Behind Bars Theo ride. </b></span><a href=\"https://www.instagram.com/p/DNEQEYORqwA/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Aug 15, 2025 6:00 PM</span><span>. Meet at 6:00 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start:.</span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: ~13 miles. Pace: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Going to Theo Wirth park to hit singletrack trails. Bring a dirt-capable bike.</span></p><p dir=\"ltr\"><span>Please bring all necessary supplies recommended for riding - layers, helmet, lights, lock, emergency tools, tubes, snacks, etc. in case of emergency.</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-15T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509420457545278\"",
+        "id": "089kq20ccebgksl3757qkrgkf9",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MDg5a3EyMGNjZWJna3NsMzc1N3FrcmdrZjkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:30:28.000Z",
+        "updated": "2025-08-09T03:30:28.772Z",
+        "summary": "Team Recess Sea Salt ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Sea Salt ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNENJkLuQMo/?img_index=1\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Aug 12, 2025 6:00 PM</span><span>. Roll at 6:15pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Farmstead+Bike+Shop/data=!4m2!3m1!19sChIJmYsgcqMn9ocRQBEMxriS3cs\"><span><u>Farmstead Bike Shop</u></span></a><span> (4001 Bryant Ave) Finish: </span><a href=\"https://www.google.com/maps/place/Sea+Salt/data=!4m2!3m1!19sChIJe1KszQ8p9ocRGU32a3jajkg\"><span><u>Sea Salt</u></span></a></p><p dir=\"ltr\"><span>Distance: 11.5 miles. Pace: Chill pace (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>Everyone is welcome! We’ll start at Farmstead, make our way down Bryant Ave to Loring Park, jaunt through the downtown area, and connect with the West River Parkway, which will take us all the way to Seasalt.</span></p><p dir=\"ltr\"><span>✨✨Bring lights for your ride home and money for snacks if you’re planning to eat at Sea Salt.</span></p>",
+        "location": "Farmstead Bike Shop, 4001 Bryant Ave S #1, Minneapolis, MN 55409, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-12T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-12T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "089kq20ccebgksl3757qkrgkf9@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509422297969342\"",
+        "id": "27qos7rk79hnjvlj19cnr8h5o6",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mjdxb3M3cms3OWhuanZsajE5Y25yOGg1bzYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:45:48.000Z",
+        "updated": "2025-08-09T03:45:48.984Z",
+        "summary": "EZ Bike Club Black State Fair ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>EZ Bike Club Black State Fair ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DM5T8u8uBzG/?utm_source=ig_web_copy_link&amp;igsh=dWh2bzloZTZyMmRx\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Aug 10, 2025 12:30 PM</span><span>. 12:30pm meet, 1pm roll out.</span></p><p dir=\"ltr\"><span>Start: George Floyd Square (38th St and Chicago Ave)</span></p><p dir=\"ltr\"><span>End: The Black State Fair at Midtown Global Market</span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Chill pace, nobody left behind (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>Roll with us to the 6th Annual Black Entrepreneur State Fair! Riding around Bde Maka Ska and ending at </span><a href=\"https://www.instagram.com/blackstatefair/\"><span><u>@blackstatefair</u></span></a><span>.</span></p><p dir=\"ltr\"><span>EZ Cycle Club is pulling up in style for a community ride celebrating Black excellence, culture, and entrepreneurship.</span></p><p dir=\"ltr\"><span>Want extra miles before the lake loop? Tap in with the EZ Group Chat for pre-ride details!</span></p>",
+        "location": "3736 Chicago Ave, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-10T12:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-10T14:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "27qos7rk79hnjvlj19cnr8h5o6@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509422844431230\"",
+        "id": "71vgt9hvuv2i07p0mudb3s6djc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzF2Z3Q5aHZ1djJpMDdwMG11ZGIzczZkamMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:50:21.000Z",
+        "updated": "2025-08-09T03:50:22.215Z",
+        "summary": "EZ Bike Club x Brick by Brick ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>EZ Bike Club x Brick by Brick ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DMyySwsuo5b/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Aug 12, 2025 6:00 PM</span><span>. 6-7pm social hour at Brick by Brick, 7pm roll out.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Brick+By+Brick+MN/data=!4m2!3m1!19sChIJ8ZYr198r9ocR5d-PD06u3Ls\"><span><u>Brick By Brick MN</u></span></a><span> (839 University Ave Ste 107, St. Paul)</span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Chill pace, nobody left behind (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>We’re teaming up with @brickbybrickmn for the 2nd annual SNEAKER GIVEAWAY! 2 pairs of sneakers will be given away to the person who pulls up to our ride with the best fit, and the person with the best shoes on bike.</span></p><p dir=\"ltr\"><span>Originality is key when it comes to the giveaway! Throw on your flyest fit, favorite sneakers in your closet. Pop out to the ride! Brick by Brick and EZ Bike Club will be judging the sneakers and fits and deciding on the winners.</span></p><p dir=\"ltr\"><span>Light snacks and drinks will be provided! Please bring your lights!</span></p>",
+        "location": "Brick By Brick MN, 839 University Ave W #107, St Paul, MN 55104, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-12T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-12T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "71vgt9hvuv2i07p0mudb3s6djc@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509423235287454\"",
+        "id": "3ng0043liep6dqtjvqt3qgo731",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M25nMDA0M2xpZXA2ZHF0anZxdDNxZ283MzEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:53:37.000Z",
+        "updated": "2025-08-09T03:53:37.643Z",
+        "summary": "EZ Bike Club Motion on the Mississippi ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>EZ Bike Club Motion on the Mississippi ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNDmdsgu2DA/?utm_source=ig_web_copy_link&amp;igsh=MTFsam9kM2h3OWp4MA==\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Wednesday </span><span>Aug 20, 2025 6:30 PM</span><span>. 6:30pm meet-up, 7pm roll out.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Mears+Park/data=!4m2!3m1!19sChIJvaS7BlDV94cRh_ZvG-yyjt8\"><span><u>Mears Park</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Chill pace, nobody left behind (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>Bring lights.</span></p>",
+        "location": "Mears Park, 221 5th St E, St Paul, MN 55101, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-20T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-20T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ng0043liep6dqtjvqt3qgo731@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509423642597214\"",
+        "id": "0jij5b2eopb6kt9rsiagoepnl0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGppajViMmVvcGI2a3Q5cnNpYWdvZXBubDAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:57:01.000Z",
+        "updated": "2025-08-09T03:57:01.298Z",
+        "summary": "Versus Cross is Coming CX skills clinic",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>Versus Cross is Coming CX skills clinic. </b></span><a href=\"https://www.instagram.com/p/DNCZ_mOM69P/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sundays 9am-12pm. </span><span>Aug 17, 2025</span><span>, </span><span>Aug 24, 2025</span><span>, </span><span>Sep 7, 2025</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Lake+Hiawatha+Park/data=!4m2!3m1!19sChIJZzfYeVwo9ocR38jaPjsY2c0\"><span><u>Lake Hiawatha Park</u></span></a></p><p dir=\"ltr\"><span>Cyclocross-curious?  Experienced, but rusty?</span></p><p dir=\"ltr\"><span>Versus is hosting three free cyclocross skills clinics for newcomers and veterans alike. Come ride your bike in the grass and learn the foundations of cornering, dismounting/remounting, and barriers. All bikes are welcome.</span></p>",
+        "location": "Lake Hiawatha Park, 2701 E 44th St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-17T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-17T12:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0jij5b2eopb6kt9rsiagoepnl0@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509423679849630\"",
+        "id": "6cuqbbdfh1hmchu5pgq649ln2g",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NmN1cWJiZGZoMWhtY2h1NXBncTY0OWxuMmcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:57:19.000Z",
+        "updated": "2025-08-09T03:57:19.924Z",
+        "summary": "Versus Cross is Coming CX skills clinic",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>Versus Cross is Coming CX skills clinic. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DNCZ_mOM69P/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2vpDvAvZgU9-UA9vqabTDi\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sundays 9am-12pm. </span><span>Aug 17, 2025</span><span>, </span><span>Aug 24, 2025</span><span>, </span><span>Sep 7, 2025</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Lake%2BHiawatha%2BPark/data%3D!4m2!3m1!19sChIJZzfYeVwo9ocR38jaPjsY2c0&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0Z18G5U5v5VgzwcmxCqlbt\" target=\"_blank\"><span><u>Lake Hiawatha Park</u></span></a></p><p dir=\"ltr\"><span>Cyclocross-curious?  Experienced, but rusty?</span></p><p dir=\"ltr\"><span>Versus is hosting three free cyclocross skills clinics for newcomers and veterans alike. Come ride your bike in the grass and learn the foundations of cornering, dismounting/remounting, and barriers. All bikes are welcome.</span></p>",
+        "location": "Lake Hiawatha Park, 2701 E 44th St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-24T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-24T12:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6cuqbbdfh1hmchu5pgq649ln2g@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509423702860158\"",
+        "id": "0n254vcpf8kll072d9ogqafpok",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MG4yNTR2Y3BmOGtsbDA3MmQ5b2dxYWZwb2sgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-09T03:57:31.000Z",
+        "updated": "2025-08-09T03:57:31.430Z",
+        "summary": "Versus Cross is Coming CX skills clinic",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>Versus Cross is Coming CX skills clinic. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DNCZ_mOM69P/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2vpDvAvZgU9-UA9vqabTDi\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sundays 9am-12pm. </span><span>Aug 17, 2025</span><span>, </span><span>Aug 24, 2025</span><span>, </span><span>Sep 7, 2025</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Lake%2BHiawatha%2BPark/data%3D!4m2!3m1!19sChIJZzfYeVwo9ocR38jaPjsY2c0&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0Z18G5U5v5VgzwcmxCqlbt\" target=\"_blank\"><span><u>Lake Hiawatha Park</u></span></a></p><p dir=\"ltr\"><span>Cyclocross-curious?  Experienced, but rusty?</span></p><p dir=\"ltr\"><span>Versus is hosting three free cyclocross skills clinics for newcomers and veterans alike. Come ride your bike in the grass and learn the foundations of cornering, dismounting/remounting, and barriers. All bikes are welcome.</span></p>",
+        "location": "Lake Hiawatha Park, 2701 E 44th St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-07T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-07T12:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0n254vcpf8kll072d9ogqafpok@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

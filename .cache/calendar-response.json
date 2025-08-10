@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754723163845,
+  "timestamp": 1754809560776,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vu3mc4tfu8s0o\"",
+    "etag": "\"p33nt7kuhtbv8s0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-09T03:57:31.430Z",
+    "updated": "2025-08-09T23:01:03.852Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL_h2YTr_I4DEL_h2YTr_I4DGAEgjfX3-AIojfX3-AI=",
+    "nextSyncToken": "CO_T09Hq_o4DEO_T09Hq_o4DGAEgjfX3-AIojfX3-AI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2095,6 +2095,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664818311518\"",
+        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20251008T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTEwMDhUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:28:22.000Z",
+        "updated": "2025-04-22T14:33:29.155Z",
+        "summary": "ACF social ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-08T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-08T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
+        "originalStartTime": {
+          "dateTime": "2025-10-08T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3492054948877374\"",
         "id": "7rub3saevpmgsli9fldk90i3od_20250805T233000Z",
         "status": "confirmed",
@@ -3109,38 +3148,6 @@
         },
         "transparency": "transparent",
         "iCalUID": "1j754hjrcm7up8o00c0bgg1jsi@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3500378271234942\"",
-        "id": "0evjs22ie1jvr7tftejdjl25qh",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGV2anMyMmllMWp2cjd0ZnRlamRqbDI1cWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:38:55.000Z",
-        "updated": "2025-06-17T19:38:55.617Z",
-        "summary": "MBMA Ramsey Rampage alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Ramsey Rampage alleycat. </b></span><a href=\"https://www.instagram.com/p/DLAgr8TtixX/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 16, 2025</span><span>. Start: TBA, but likely </span><a href=\"https://www.google.com/maps/place/Summit+Lookout+Park/data=!4m2!3m1!19sChIJL-chMr4q9ocRg-8ErB-A98o\"><span><u>Summit Lookout Park</u></span></a><span> (Ramsey and Summit Ave in St. Paul)</span></p><p dir=\"ltr\"><span>More details TBA. Follow the MBMA instagram page for updates.</span></p>",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-08-16"
-        },
-        "end": {
-          "date": "2025-08-17"
-        },
-        "transparency": "transparent",
-        "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": false
@@ -4379,40 +4386,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3506231331659326\"",
-        "id": "2if4f8mh3fl8ggf540hcpbnj0a",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmlmNGY4bWgzZmw4Z2dmNTQwaGNwYm5qMGEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-21T16:34:25.000Z",
-        "updated": "2025-07-21T16:34:25.829Z",
-        "summary": "Behind Bars “Saturday afternoon date” ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars “Saturday afternoon date” ride. </b></span><a href=\"https://www.instagram.com/p/DMTuM9kpVjl/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 2, 2025 11:00 AM</span><span>. Roll at 11:15am. Return to Behind bars around 3-3:30pm.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Mid-ride stop: </span><a href=\"https://www.google.com/maps/place/Cream+%26+Amber/data=!4m2!3m1!19sChIJtSixGYcf9ocRl1ro3-p0sSA\"><span><u>Cream &amp; Amber</u></span></a><span> (Hopkins)</span></p><p dir=\"ltr\"><span>Distance: 23 miles round trip. Pace: ~10-12 mph. </span></p><span>How does a Saturday afternoon lunch date sound? Join us</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"> <span><u>@behindbarsbicycleshop</u></span></a><span> on a ride to the</span><a href=\"https://www.instagram.com/creamandamber/\"> <span><u>@creamandamber</u></span></a><span> bookstore cafe in Hopkins. Shop ambassador Andy</span><a href=\"https://www.instagram.com/andyanastigmat/\"> <span><u>@andyanastigmat</u></span></a><span> will lead an easy 1 hr. ride (11miles) out to enjoy a patio lunch, shop for books and enjoy a coffee or beer at this very special shop. Invite your sweetie, best friends and bike pals! Everyone is welcome. </span>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-02T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-02T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2if4f8mh3fl8ggf540hcpbnj0a@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3506429995960318\"",
         "id": "1deobvmeh7hvsv6gfdvo3o5ase",
         "status": "confirmed",
@@ -5155,6 +5128,40 @@
         },
         "iCalUID": "0n254vcpf8kll072d9ogqafpok@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3509560927704030\"",
+        "id": "0evjs22ie1jvr7tftejdjl25qh",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGV2anMyMmllMWp2cjd0ZnRlamRqbDI1cWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-06-17T19:38:55.000Z",
+        "updated": "2025-08-09T23:01:03.852Z",
+        "summary": "MBMA Ramsey Rampage alleycat",
+        "description": "Race (alleycat) MBMA Ramsey Rampage alleycat. Instagram.\nSaturday Aug 16, 2025. Pre-reg 10:30-11:30am. Race start at 12pm. \nStart: Summit Lookout Park (Ramsey and Summit Ave in St. Paul)\nClimb. Score. Dominate. 3 courses. Push your limits. Rack up points. See instagram post for course routes. \nGo solo or line up head-to-head - the choice is yours.\nHow it works:\n• 3 unique courses with climbs, flats, and grit.\n• Each one scores you points based on your finish time.\n• The racers with the highest total points at the end win!\n• Tied at the top? X You'll battle it out on the main course. First across the line takes the win!",
+        "location": "Summit Lookout Park, 418 Summit Ave, St Paul, MN 55102, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-16T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-16T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

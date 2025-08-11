@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754809560776,
+  "timestamp": 1754896185471,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33nt7kuhtbv8s0o\"",
@@ -11,45 +11,6 @@
     "defaultReminders": [],
     "nextSyncToken": "CO_T09Hq_o4DEO_T09Hq_o4DGAEgjfX3-AIojfX3-AI=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20250803T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTA4MDNUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-03T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-03T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-08-03T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3482907699087198\"",
@@ -795,6 +756,46 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3484100333511230\"",
+        "id": "2gllle8uet9h6uckcgmvb4iics_20251009T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNTEwMDlUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-15T14:46:58.000Z",
+        "updated": "2025-03-15T14:49:26.755Z",
+        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
+        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-09T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-09T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
+        "originalStartTime": {
+          "dateTime": "2025-10-09T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "transparency": "transparent",
+        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3487243290747230\"",
         "id": "6rif8qj1717av0sgvkv11gpalp_20250826T234500Z",
         "status": "confirmed",
@@ -967,44 +968,6 @@
         },
         "iCalUID": "2r9f1i6uol3e92o7s9s3m8h69m@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20250803T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTA4MDNUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-03T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-03T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-08-03T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -3024,72 +2987,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3499659783033118\"",
-        "id": "04rf5r13ij52uvi3r8sasj1c38",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDRyZjVyMTNpajUydXZpM3I4c2FzajFjMzggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-13T15:48:56.000Z",
-        "updated": "2025-06-13T15:51:31.516Z",
-        "summary": "Grease Rag FTW Beginner Bike Camping Retreat",
-        "description": "<p><span>Bike camping</span><span> - Grease Rag FTW Beginner Bike Camping Retreat</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DK0ZKT1MKFb/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span><a href=\"https://greaserag.org/camp-with-grease-rag/\"><span><u>Website</u></span></a></p><p><span><b>When: </b></span><span>Saturday </span><span>Aug 2, 2025</span><span> - Aug 3, 2025. Meet at 10:30 am.</span></p><p><span><b>Where: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\" target=\"_blank\"><span><u>Venture Bikes Midtown</u></span></a><span>, out and back to </span><a href=\"https://www.google.com/maps/place/Carver+Park+Reserve/data=!4m2!3m1!19sChIJj2GGgT8B9ocRjifipx3YTwI\" target=\"_blank\"><span><u>Carver Park Reserve</u></span></a></p><p><span><b>Distance: </b></span><span>~22 miles one way.</span></p><p><span><b>Who is this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span><b>Price: </b></span><span>Sliding scale, $6-$30</span></p><span>This year, the FTW trip is Sat to Sun, August 2nd to 3rd, with an optional Sun to Mon (3rd to the 4th) stay at Carver Park. Check out this </span><a href=\"https://greaserag.org/camp-with-grease-rag/\" target=\"_blank\"><span><u>post</u></span></a><span> with trip details and how to sign up for this fun, community filled event. Note: must attend mandatory planning meeting on Saturday July 19.</span>",
-        "location": "Venture Bikes Midtown, 1000 Midtown Greenway, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-08-02"
-        },
-        "end": {
-          "date": "2025-08-04"
-        },
-        "transparency": "transparent",
-        "iCalUID": "04rf5r13ij52uvi3r8sasj1c38@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3499839497173214\"",
-        "id": "6ao00384ckgo1o4stjav3g19oj",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmFvMDAzODRja2dvMW80c3RqYXYzZzE5b2ogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-14T16:49:08.000Z",
-        "updated": "2025-06-14T16:49:08.586Z",
-        "summary": "MDL - FTW Dirt Church Cuyuna weekend",
-        "description": "<p dir=\"ltr\"><span>Organized ride</span> <span><b>Midwest Dirt Legion Dirt Church </b></span><a href=\"https://www.dirtlegion.com/events/dirt-church-2025\"><span><u>Event details</u></span></a><span>. </span><a href=\"https://www.dirtlegion.com/tickets/p/dirt-church-2025-ticket\"><span><u>Tickets</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Date: </b></span><span>Friday </span><span>Aug 1, 2025</span><span> - Sunday Aug 3</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Cuyuna+Country+State+Recreation+Area/data=!4m2!3m1!19sChIJd-gLL1HKtlIR9b46sVzlZKg\"><span><u>Cuyuna Country State Recreation Area</u></span></a></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: “MDL hosts events specifically for marginalized genders. FTW / anyone but cis-men are welcome at our rides! Here’s a</span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"> <span><u>great resource</u></span></a><span> defining FTW from our friends at GreaseRag.”</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>$50 (includes 2 nights camping + breakfast and more)</span></p><p dir=\"ltr\"><span><b>It’s time—our 4th annual </b></span><span><b><i>Dirt Church</i></b></span><span><b> is back and bigger than ever! (See </b></span><a href=\"https://www.dirtlegion.com/events/dirt-church-2025\"><span><b><u>website </u></b></span></a><span><b>for full details)</b></span><span><b><br></b></span><span> This year, we’re heading to an </span><span><i>all-new location</i></span><span>: the stunning red dirt trails of </span><span><b>Cuyuna Country State Recreation Area</b></span><span>! Pack your gear, grab your riding crew, and join us for a weekend of camping, community, and seriously fun singletrack.</span><span><br></span><span><b>What is Dirt Church?</b></span><span><b><br></b></span><span> Hosted by </span><span><b>MWDL</b></span><span>, this weekend is all about creating joyful, welcoming riding spaces for </span><span><i>marginalized genders</i></span><span>—meaning this event is for </span><span><i>anyone but cis-men</i></span><span>. Whether you’re rolling solo or bringing the whole crew, you’ll find new friends, epic trails, and the kind of campfire vibes that keep you warm all year.</span></p><span>✨ </span><span><b>Reduced-price tickets available for BIPOC riders</b></span><span>.</span>",
-        "location": "Cuyuna Country State Recreation Area, 307 3rd St, Ironton, MN 56455, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-08-01"
-        },
-        "end": {
-          "date": "2025-08-04"
-        },
-        "transparency": "transparent",
-        "iCalUID": "6ao00384ckgo1o4stjav3g19oj@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3499840123579198\"",
         "id": "7arvjh0lgc7obttte6846f7r1e",
         "status": "confirmed",
@@ -3391,44 +3288,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3502586407865150\"",
-        "id": "6mapo4am5f68edsrrkdruvlgkv_20250803T200000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nm1hcG80YW01ZjY4ZWRzcnJrZHJ1dmxna3ZfMjAyNTA4MDNUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:21:54.000Z",
-        "updated": "2025-06-30T14:20:03.932Z",
-        "summary": "All Bodies on Bikes MPLS monthly ride.",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>All Bodies on Bikes MPLS monthly ride</b></span><span>. </span><a href=\"https://www.instagram.com/abob_mpls/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.allbodiesonbikes.com/events\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Meet at </span><span>3pm, 3:30pm roll-out.</span></p><p><span>Varying start locations. Check website or instagram for start and finish locations.</span></p><p><span>Distance: TBA (usually &lt;10 miles). Helmet required.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-03T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-03T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6mapo4am5f68edsrrkdruvlgkv_R20250706T200000",
-        "originalStartTime": {
-          "dateTime": "2025-08-03T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6mapo4am5f68edsrrkdruvlgkv_R20250706T200000@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502586407865150\"",
         "id": "6mapo4am5f68edsrrkdruvlgkv_20250907T200000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=Nm1hcG80YW01ZjY4ZWRzcnJrZHJ1dmxna3ZfMjAyNTA5MDdUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -3458,45 +3317,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6mapo4am5f68edsrrkdruvlgkv_R20250706T200000@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502802338559294\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20250803T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTA4MDNUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-07-01T20:19:29.279Z",
-        "summary": "No name alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-03T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-03T14:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-08-03T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1754982445402,
+  "timestamp": 1755068866993,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33nt7kuhtbv8s0o\"",
+    "etag": "\"p337tni4kre2ou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-09T23:01:03.852Z",
+    "updated": "2025-08-12T16:40:27.383Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO_T09Hq_o4DEO_T09Hq_o4DGAEgoqbm-QIooqbm-QI=",
+    "nextSyncToken": "CM_byJTbhY8DEM_byJTbhY8DGAEgn7yo-gIon7yo-gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2059,45 +2059,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3492054948877374\"",
-        "id": "7rub3saevpmgsli9fldk90i3od_20250805T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N3J1YjNzYWV2cG1nc2xpOWZsZGs5MGkzb2RfMjAyNTA4MDVUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-30T15:37:18.000Z",
-        "updated": "2025-04-30T15:37:54.438Z",
-        "summary": "EZ Bike Club Monthly Ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>EZ Bike Club Monthly Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJEtdhkOkvc/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>6:30 pm social meet, 7:15pm roll out.</span></p><p><span>First Tuesday of every month through October.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/1301+Theodore+Wirth+Parkway/data=!4m2!3m1!19sChIJx8oQ36Ezs1IRqZ8_OXx-qOo\" target=\"_blank\"><span><u>1301 Theodore Wirth Parkway</u></span></a></p><p><span>Distance: Typically 10-15 miles. Pace: Chill pace, nobody left behind (likely 10-12 mph). </span></p><p><span>Open to all. Bring lights. This ride is all about unity and movement, celebrating people of color on bikes, community connection, and the power of the outdoors in connection to our physical and mental well-being. </span></p>",
-        "location": "1301 Theodore Wirth Pkwy, Golden Valley, MN 55422, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-05T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-05T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "7rub3saevpmgsli9fldk90i3od",
-        "originalStartTime": {
-          "dateTime": "2025-08-05T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3492054948877374\"",
         "id": "7rub3saevpmgsli9fldk90i3od_20250902T233000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=N3J1YjNzYWV2cG1nc2xpOWZsZGs5MGkzb2RfMjAyNTA5MDJUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -3673,45 +3634,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3505216046474622\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250805T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA4MDVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-07-15T19:33:43.237Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-05T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-05T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
-        "originalStartTime": {
-          "dateTime": "2025-08-05T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505216046474622\"",
         "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250812T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA4MTJUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -4258,40 +4180,6 @@
         "transparency": "transparent",
         "iCalUID": "4b10rlrr92c7t08t9snnqndof2@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3507961769904318\"",
-        "id": "242gj8mgk82ouckv2e5s6684do",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MjQyZ2o4bWdrODJvdWNrdjJlNXM2Njg0ZG8gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-31T16:54:44.000Z",
-        "updated": "2025-07-31T16:54:44.952Z",
-        "summary": "SSCXWC Q&A Happy Hour for FTW",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Q&amp;A Happy Hour for FTW</b></span><span>. </span><a href=\"https://www.instagram.com/p/DMxkW3GOtVG/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Aug 5, 2025 6:30 PM</span><span>. </span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Matthew%E2%80%99s+Park/data=!4m2!3m1!19sChIJ_2gI0jMts1IRird8mg9W2jY\"><span><u>Matthew’s Park</u></span></a><span> Sledding hill (south of the tennis courts)</span></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: Women, trans, and non-binary riders</span></p><p dir=\"ltr\"><span>Come hang out with us in the park and learn more about Single Speed Cyclocross World Champtionship (SSCXWC!</span></p><p dir=\"ltr\"><span>Just bring yourself! We’ll bring beer, NA bevs, snacks, camp chairs and blankets</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>meet other locals who are already reg’d for SSCXWC in the women’s and gender expansive categories</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>not reg’d yet? Come hang out for a chance to win a free registration</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Organizers will give an overview of the event, tell stories from previous years, and answer any questions you have</span></p></li></ul>",
-        "location": "Matthews Park, 2318 29th Ave S, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-05T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-05T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "242gj8mgk82ouckv2e5s6684do@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -4870,6 +4758,74 @@
         },
         "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510028511603038\"",
+        "id": "5cugqd63b6io4ajft16i6b06og",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NWN1Z3FkNjNiNmlvNGFqZnQxNmk2YjA2b2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-12T15:57:35.000Z",
+        "updated": "2025-08-12T15:57:35.801Z",
+        "summary": "URG CX skills clinic",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>URG CX skills clinic. </b></span><a href=\"https://www.instagram.com/p/DNOFuEGRn7q/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday </span><span>Aug 14, 2025 6:00 PM</span><span> and </span><span>Aug 21, 2025</span><span>. Skills clinics at 6pm, informal races at 7 and 7:30pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Minnehaha+Falls/data=!4m2!3m1!19sChIJ7zhgTAYp9ocRedVNQP6GxbA\"><span><u>Minnehaha Falls</u></span></a><span> (Grassy ravine at the lower falls, near the wading area between Godfrey and 46th Ave)</span></p><p dir=\"ltr\"><span><b>What to expect</b></span><span>:</span></p><p dir=\"ltr\"><span>Skills &amp; drills - Mounting, Dismounting, Shouldering, Cornering, Run Ups, Off Cambers, Starting line practice, Hand-ups, etc.</span></p><p dir=\"ltr\"><span>Heats - Two 20 minute hot lap sessions. These will be informal races where we will do a mass start, and then rip around the course until our knees are wobbly or the twenty minutes is up.</span></p><p dir=\"ltr\"><span><b>What to Bring</b></span><span>: Your bike, helmet, water, snacks, a headlight, and a welcoming attitude.</span></p><span><b>Who’s invited</b></span><span>: First timers, veterans, youths, reformed runners, supportive hecklers, your mom.</span>",
+        "location": "44.9174351, -93.2077527",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-14T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-14T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5cugqd63b6io4ajft16i6b06og@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510033654766494\"",
+        "id": "65u8rf096tpm0vgpbf650sg7v8",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjV1OHJmMDk2dHBtMHZncGJmNjUwc2c3djggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-12T16:40:27.000Z",
+        "updated": "2025-08-12T16:40:27.383Z",
+        "summary": "URG CX skills clinic",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>URG CX skills clinic. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DNOFuEGRn7q/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3Qo6Ojh1C2B_NLM8K0Wf_Z\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday </span><span>Aug 14, 2025 6:00 PM</span><span> and </span><span>Aug 21, 2025</span><span>. Skills clinics at 6pm, informal races at 7 and 7:30pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Minnehaha%2BFalls/data%3D!4m2!3m1!19sChIJ7zhgTAYp9ocRedVNQP6GxbA&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0KeWtReXnUYVax9PUT0Rqg\" target=\"_blank\"><span><u>Minnehaha Falls</u></span></a><span> (Grassy ravine at the lower falls, near the wading area between Godfrey and 46th Ave)</span></p><p dir=\"ltr\"><span><b>What to expect</b></span><span>:</span></p><p dir=\"ltr\"><span>Skills &amp; drills - Mounting, Dismounting, Shouldering, Cornering, Run Ups, Off Cambers, Starting line practice, Hand-ups, etc.</span></p><p dir=\"ltr\"><span>Heats - Two 20 minute hot lap sessions. These will be informal races where we will do a mass start, and then rip around the course until our knees are wobbly or the twenty minutes is up.</span></p><p dir=\"ltr\"><span><b>What to Bring</b></span><span>: Your bike, helmet, water, snacks, a headlight, and a welcoming attitude.</span></p><span><b>Who’s invited</b></span><span>: First timers, veterans, youths, reformed runners, supportive hecklers, your mom.</span>",
+        "location": "44.9174351, -93.2077527",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-21T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-21T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "65u8rf096tpm0vgpbf650sg7v8@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

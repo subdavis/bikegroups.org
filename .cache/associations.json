@@ -370,5 +370,37 @@
   "65u8rf096tpm0vgpbf650sg7v8": {
     "organization": "unsanctioned",
     "eventName": "URG CX skills clinic"
+  },
+  "kuc5t5apb37kf84pkhrjr7j8f0": {
+    "organization": "",
+    "eventName": "Test Event 1"
+  },
+  "e4iugnsbcvnivcjr28o74va83k": {
+    "organization": "",
+    "eventName": "Test Event 1"
+  },
+  "2nafhes7k923f95dcb8rrq480f": {
+    "organization": "team-recess",
+    "eventName": "Team Recess Bike and Yin ride"
+  },
+  "54of0sohfjgcu24hrf3rb2spvo": {
+    "organization": "grease-rag",
+    "eventName": "Grease Rag Dilly Dally Alleycat (FTW only)"
+  },
+  "7lgngkuadrhddsuai5hv5msrn1": {
+    "organization": "team-recess",
+    "eventName": "Team Recess Tour de Ceramique Ride"
+  },
+  "69ptbkk63mkqfbgfeu07orn6tj": {
+    "organization": "",
+    "eventName": "Wedge Live Emergency Bike Ride"
+  },
+  "6t20o53153djschhi1tnmmp9k3": {
+    "organization": "",
+    "eventName": "MCF Tu Night CX"
+  },
+  "6gjs7inkgkd7fm9l4pops2acu1": {
+    "organization": "",
+    "eventName": "MCF Tu Night CX"
   }
 }

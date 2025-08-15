@@ -1,15 +1,15 @@
 {
-  "timestamp": 1755155248838,
+  "timestamp": 1755241618669,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32fo14dlsm48u0o\"",
+    "etag": "\"p337qn7t0s258u0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-13T22:04:19.246Z",
+    "updated": "2025-08-14T16:46:32.740Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ-AkbXliI8DEJ-AkbXliI8DGAEgn7yo-gIon7yo-gI=",
+    "nextSyncToken": "CM-rn6Dgio8DEM-rn6Dgio8DGAEg8t61-gIo8t61-gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1770,6 +1770,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664779362622\"",
+        "id": "43lb85meeku31ed4j6cnajls1s_20251013T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTEwMTNUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:30:03.000Z",
+        "updated": "2025-04-22T14:33:09.681Z",
+        "summary": "ACF training drop ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-13T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-13T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "43lb85meeku31ed4j6cnajls1s",
+        "originalStartTime": {
+          "dateTime": "2025-10-13T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3490664818311518\"",
         "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250813T233000Z",
         "status": "confirmed",
@@ -2191,45 +2230,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250807T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA4MDdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-07T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-07T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-08-07T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3031,45 +3031,6 @@
         },
         "iCalUID": "2imf804mh1ict2l9raesi4to37_R20250625T211500@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502028687236862\"",
-        "id": "6jquh1jaqgfajrps61d8atumlr_20250807T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA4MDdUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-30T16:32:07.000Z",
-        "updated": "2025-06-27T08:52:23.618Z",
-        "summary": "Handup Social Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Handup Social Rides</b></span><span>. </span><a href=\"https://www.instagram.com/p/DH1F_WEOsQZ/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Meet at 6pm, </span><span>roll out shortly after. </span></p><p dir=\"ltr\"><span>Every Thursday April through August. </span><span>Apr 10, 2025</span><span>, </span><span>Apr 17, 2025</span><span>, </span><span>Apr 24, 2025</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a><span>, end around 8pm. <br></span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Social, typically 12-14 mph. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-07T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-07T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6jquh1jaqgfajrps61d8atumlr",
-        "originalStartTime": {
-          "dateTime": "2025-08-07T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6jquh1jaqgfajrps61d8atumlr@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -4030,40 +3991,6 @@
         "sequence": 1,
         "reminders": {
           "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3506429995960318\"",
-        "id": "1deobvmeh7hvsv6gfdvo3o5ase",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWRlb2J2bWVoN2h2c3Y2Z2Zkdm8zbzVhc2UgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-22T20:09:57.000Z",
-        "updated": "2025-07-22T20:09:57.980Z",
-        "summary": "Versus bandit cat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Versus bandit cat. </b></span><a href=\"https://www.instagram.com/p/DMY_nGNszJU/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Aug 17, 2025 1:00 PM</span><span>. Reg at 1pm, manifests at 1:30pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Loring+Park/data=!4m2!3m1!19sChIJD46xfsAys1IRtiZYzW2Ejs8\"><span><u>Loring Park</u></span></a></p><p dir=\"ltr\"><span>A dirt themed alley cat. We will have two race options to partake in, a short (possible 20 miles) and a long (20+miles). All stops will be on dirt trails that may take some exploring and curiosity to find. MTB not needed but a gravel or CX bike is highly recommended, road bike/track bike may be a bad idea but you do you. This race is intended for everyone so if you don't ride dirt, here is your chance to dip a toe in.</span></p>",
-        "location": "Loring Park, Minneapolis, MN, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1deobvmeh7hvsv6gfdvo3o5ase@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
         },
         "eventType": "default"
       },
@@ -5198,14 +5125,48 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510244936021470\"",
+        "etag": "\"3510378205205982\"",
+        "id": "1deobvmeh7hvsv6gfdvo3o5ase",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWRlb2J2bWVoN2h2c3Y2Z2Zkdm8zbzVhc2UgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-07-22T20:09:57.000Z",
+        "updated": "2025-08-14T16:31:42.602Z",
+        "summary": "Versus bandit cat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>Versus bandit cat. </b></span><a href=\"https://www.instagram.com/p/DMY_nGNszJU/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Sunday </span><span>Aug 17, 2025 1:00 PM</span><span>. Reg at 1pm, manifests at 1:30pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Loring+Park/data=!4m2!3m1!19sChIJD46xfsAys1IRtiZYzW2Ejs8\" target=\"_blank\"><span><u>Loring Park</u></span></a><span>, meet at Berger Fountain </span><span>(Loring Park between Willow St and the shuffleboard courts). </span></p><p><span>A dirt themed alley cat. We will have two race options to partake in, a short (possible 20 miles) and a long (20+miles). All stops will be on dirt trails that may take some exploring and curiosity to find. MTB not needed but a gravel or CX bike is highly recommended, road bike/track bike may be a bad idea but you do you. This race is intended for everyone so if you don't ride dirt, here is your chance to dip a toe in.</span></p>",
+        "location": "Berger Fountain, Loring Greenway, Minneapolis, MN 55403, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-17T13:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-17T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1deobvmeh7hvsv6gfdvo3o5ase@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510378546288190\"",
         "id": "6t20o53153djschhi1tnmmp9k3_20250826T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA4MjZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-13T22:01:08.010Z",
+        "updated": "2025-08-14T16:34:33.144Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email calendarcoordinator@mncyclingfederation.org!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
         "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5237,14 +5198,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510244936021470\"",
+        "etag": "\"3510378546288190\"",
         "id": "6t20o53153djschhi1tnmmp9k3_20250909T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MDlUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-13T22:01:08.010Z",
+        "updated": "2025-08-14T16:34:33.144Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email calendarcoordinator@mncyclingfederation.org!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
         "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5276,14 +5237,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510244936021470\"",
+        "etag": "\"3510378546288190\"",
         "id": "6t20o53153djschhi1tnmmp9k3_20250923T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MjNUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-13T22:01:08.010Z",
+        "updated": "2025-08-14T16:34:33.144Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email calendarcoordinator@mncyclingfederation.org!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
         "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5315,14 +5276,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510245318492222\"",
+        "etag": "\"3510378568147934\"",
         "id": "6gjs7inkgkd7fm9l4pops2acu1_20250902T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MDJUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-13T22:04:19.246Z",
+        "updated": "2025-08-14T16:34:44.073Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
         "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5354,14 +5315,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510245318492222\"",
+        "etag": "\"3510378568147934\"",
         "id": "6gjs7inkgkd7fm9l4pops2acu1_20250916T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MTZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-13T22:04:19.246Z",
+        "updated": "2025-08-14T16:34:44.073Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
         "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5393,14 +5354,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510245318492222\"",
+        "etag": "\"3510378568147934\"",
         "id": "6gjs7inkgkd7fm9l4pops2acu1_20250930T220000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MzBUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
         "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-13T22:04:19.246Z",
+        "updated": "2025-08-14T16:34:44.073Z",
         "summary": "MCF Tu Night CX",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p dir=\"ltr\"><span>More details TBA. Check MCF instagram or website for details. </span></p><p dir=\"ltr\"><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
         "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
@@ -5425,6 +5386,318 @@
         },
         "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250819T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA4MTlUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-19T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-19T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-08-19T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250826T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA4MjZUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-26T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-26T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-08-26T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250902T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MDJUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-02T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-02T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-09-02T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250909T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MDlUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-09T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-09T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-09-09T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250916T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MTZUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-16T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-16T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-09-16T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250923T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MjNUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-23T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-23T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-09-23T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20250930T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MzBUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-30T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-30T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-09-30T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251007T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEwMDdUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-07T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-07T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-10-07T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1755327934696,
+  "timestamp": 1755414375044,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33vo17trsu6ou0o\"",
+    "etag": "\"p32vp5df9qq7ou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-15T21:56:47.621Z",
+    "updated": "2025-08-16T15:47:40.526Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP-An7vnjY8DEP-An7vnjY8DGAEg1tzb-gIo1tzb-gI=",
+    "nextSyncToken": "CL-StenWj48DEL-StenWj48DGAEg1tzb-gIo1tzb-gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2160,6 +2160,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3490664818311518\"",
+        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20251015T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTEwMTVUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-22T14:28:22.000Z",
+        "updated": "2025-04-22T14:33:29.155Z",
+        "summary": "ACF social ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-15T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-15T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
+        "originalStartTime": {
+          "dateTime": "2025-10-15T18:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3492054948877374\"",
         "id": "7rub3saevpmgsli9fldk90i3od_20250902T233000Z",
         "status": "confirmed",
@@ -2823,82 +2862,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3496547457863326\"",
-        "id": "34r6tvvdkqoa33bejv4msunph7_20250816T143000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA4MTZUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-26T15:34:59.000Z",
-        "updated": "2025-05-26T15:35:28.931Z",
-        "summary": "Perennial Family Fun Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-16T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-16T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
-        "originalStartTime": {
-          "dateTime": "2025-08-16T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3496547457863326\"",
-        "id": "34r6tvvdkqoa33bejv4msunph7_20250920T143000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA5MjBUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-26T15:34:59.000Z",
-        "updated": "2025-05-26T15:35:28.931Z",
-        "summary": "Perennial Family Fun Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
-        "originalStartTime": {
-          "dateTime": "2025-09-20T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3496548714749566\"",
         "id": "19djuqqpicler1361e58lng3ra",
         "status": "confirmed",
@@ -3263,45 +3226,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3503280941010142\"",
-        "id": "4g11jbeurtptadp3i8g8148h7b_20250809T214500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGcxMWpiZXVydHB0YWRwM2k4ZzgxNDhoN2JfMjAyNTA4MDlUMjE0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-04T14:46:57.000Z",
-        "updated": "2025-07-04T14:47:50.505Z",
-        "summary": "Behind Bars FTW summer rides",
-        "description": "<p><span>Group ride (drop)</span> <span><b>Behind Bars FTW summer rides. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DLqMaYxJJd3/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3o-b6uDFXmVFsmcwhSIwWE\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Friday </span><span>Jul 18, 2025 4:45 PM</span><span>. </span><span>Jul 25, 2025</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Behind%2BBars%2BBicycle%2BShop/data%3D!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0oYfeqCYI2A6etTIjG4itx\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. Finish: Varies by week.</span></p><p><span><b>Distance</b></span><span>: 15-30 miles. Pace: 15+ mph. </span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://www.google.com/url?q=https://greaserag.org/safer-spaces/wtf-is-ftw/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1IHA2DPdsnx--E51u4P5aF\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Join us</span><a href=\"https://www.google.com/url?q=https://www.instagram.com/behindbarsbicycleshop/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2UcExxMU42prfhnonLvbkr\" target=\"_blank\"> <span><u>@behindbarsbicycleshop</u></span></a><span> for the rest of summer with FTW (femme, trans, women, gnc) group rides! Veronica</span><a href=\"https://www.google.com/url?q=https://www.instagram.com/duck.emoji/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3y8AVzUZgeVvH0UC9THXvU\" target=\"_blank\"> <span><u>@duck.emoji</u></span></a><span> leading.</span></p><p><span>These are drop rides (sans mechanicals), and faster paced, averaging at 15mph. So if you&#39;re looking for something a bit more intensive, this is for you! Routes will be announced beforehand so be on the lookout.</span></p><p><span><span>Bring helmets, water, snacks, and a good attitude!</span></span><span> </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-09T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-09T19:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4g11jbeurtptadp3i8g8148h7b",
-        "originalStartTime": {
-          "dateTime": "2025-08-09T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4g11jbeurtptadp3i8g8148h7b@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4103,40 +4027,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3508859662574686\"",
-        "id": "54a4sjehg6uidvggqnemed6uk6",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTRhNHNqZWhnNnVpZHZnZ3FuZW1lZDZ1azYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-05T21:37:11.000Z",
-        "updated": "2025-08-05T21:37:11.287Z",
-        "summary": "Perennial Farmer’s Markets Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Perennial Farmer’s Markets Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DM5VvJsMgds/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 9, 2025 9:00 AM</span><span>. Roll at 9am.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a></p><p dir=\"ltr\"><span>Distance: 13 miles Pace: Social (likely 8-12 mph)</span></p><p dir=\"ltr\"><span>A group ride to FOUR Farmers Markets of Minneapolis! 🚲🧑‍🌾🥬 Come celebrate National Farmers Market Week. We will be, stopping at each market with time to explore.</span></p><p dir=\"ltr\"><span>Times we will be at each market listed below, if you want to meet along the way:</span></p><p dir=\"ltr\"><span>🥦</span><a href=\"https://www.instagram.com/southwest_farmers_market/\"> <span><u>@southwest_farmers_market</u></span></a><span> 9:30–10 am</span></p><p dir=\"ltr\"><span>🥕</span><a href=\"https://www.instagram.com/midtownfarmmkt/\"> <span><u>@midtownfarmmkt</u></span></a><span> 10:30–11 am</span></p><p dir=\"ltr\"><span>🌽</span><a href=\"https://www.instagram.com/millcityfarmersmarket/\"> <span><u>@millcityfarmersmarket</u></span></a><span> 11:30 am–12 pm</span></p><span>🫛</span><a href=\"https://www.instagram.com/ne_fm/\"> <span><u>@ne_fm</u></span></a><span> 12:15–12:45 pm (with optional ride back to Perennial Cycle) </span>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-09T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-09T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "54a4sjehg6uidvggqnemed6uk6@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3509005404446878\"",
         "id": "7l77cn8nf8hk2ced3gfc0lalc6",
         "status": "confirmed",
@@ -4265,40 +4155,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1sl80af889erpl0o5fnolnjtbm@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3509418547570046\"",
-        "id": "2nb3lni8sacco1l2fu4i0ser96",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm5iM2xuaThzYWNjbzFsMmZ1NGkwc2VyOTYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-10T20:08:36.000Z",
-        "updated": "2025-08-09T03:14:33.785Z",
-        "summary": "Fast Casual Quest Cat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>Fast Casual Quest Cat. </b></span><a href=\"https://www.instagram.com/p/DLschBbsMCp/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Saturday </span><span>Aug 9, 2025 11:30 AM</span><span>. Manifests at 11:45am, roll at 12pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span><u>  </u></span></p><p><span>Finish: Hidden Beach Cedar Lake </span></p><p><span>Calling all adventurers! Mount your steed and embark on a quest with dungeons, dragons, wizards and sorcery! A DND themed alleycat.</span></p>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-09T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-09T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2nb3lni8sacco1l2fu4i0ser96@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4572,40 +4428,6 @@
         },
         "iCalUID": "0n254vcpf8kll072d9ogqafpok@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3509560927704030\"",
-        "id": "0evjs22ie1jvr7tftejdjl25qh",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGV2anMyMmllMWp2cjd0ZnRlamRqbDI1cWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:38:55.000Z",
-        "updated": "2025-08-09T23:01:03.852Z",
-        "summary": "MBMA Ramsey Rampage alleycat",
-        "description": "Race (alleycat) MBMA Ramsey Rampage alleycat. Instagram.\nSaturday Aug 16, 2025. Pre-reg 10:30-11:30am. Race start at 12pm. \nStart: Summit Lookout Park (Ramsey and Summit Ave in St. Paul)\nClimb. Score. Dominate. 3 courses. Push your limits. Rack up points. See instagram post for course routes. \nGo solo or line up head-to-head - the choice is yours.\nHow it works:\n• 3 unique courses with climbs, flats, and grit.\n• Each one scores you points based on your finish time.\n• The racers with the highest total points at the end win!\n• Tied at the top? X You'll battle it out on the main course. First across the line takes the win!",
-        "location": "Summit Lookout Park, 418 Summit Ave, St Paul, MN 55102, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-16T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-16T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -5774,6 +5596,149 @@
         },
         "iCalUID": "51ueoat9ifckr1rssr75mp6k7s@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510704321536734\"",
+        "id": "34r6tvvdkqoa33bejv4msunph7_20250920T143000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA5MjBUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-05-26T15:34:59.000Z",
+        "updated": "2025-08-16T13:49:20.768Z",
+        "summary": "Perennial Family Fun Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-20T09:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-20T11:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
+        "originalStartTime": {
+          "dateTime": "2025-09-20T09:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510704421648670\"",
+        "id": "kg18ibve61qvp0jhjtb3trjn8s",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=a2cxOGlidmU2MXF2cDBqaGp0YjN0cmpuOHMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-16T13:50:10.000Z",
+        "updated": "2025-08-16T13:50:10.824Z",
+        "summary": "POSTPONED: perennial family fun ride",
+        "description": "Postponed to Aug23 due to rain.",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-16T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-16T09:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "kg18ibve61qvp0jhjtb3trjn8s@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510704517139998\"",
+        "id": "34r6tvvdkqoa33bejv4msunph7_20250816T143000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA4MTZUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-05-26T15:34:59.000Z",
+        "updated": "2025-08-16T13:50:58.569Z",
+        "summary": "Perennial Family Fun Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-23T09:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-23T11:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
+        "originalStartTime": {
+          "dateTime": "2025-08-16T09:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
+        "sequence": 2,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3510718521053822\"",
+        "id": "0evjs22ie1jvr7tftejdjl25qh",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGV2anMyMmllMWp2cjd0ZnRlamRqbDI1cWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-06-17T19:38:55.000Z",
+        "updated": "2025-08-16T15:47:40.526Z",
+        "summary": "MBMA Ramsey Rampage alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Ramsey Rampage alleycat. </b></span><a href=\"https://www.instagram.com/p/DNJnceiyPrX/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Note: delayed start to avoid rain. Reg is now from 12:30 - 2pm, Race starts shortly after 2pm.</b></span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 16, 2025</span><span>. Race starts at 2pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Summit+Lookout+Park/data=!4m2!3m1!19sChIJL-chMr4q9ocRg-8ErB-A98o\"><span><u>Summit Lookout Park</u></span></a><span> (Ramsey and Summit Ave in St. Paul)</span></p><p dir=\"ltr\"><span>Climb. Score. Dominate. 3 courses. Push your limits. Rack up points. See instagram post for course routes. Go solo or line up head-to-head - the choice is yours.</span></p><p dir=\"ltr\"><span>How it works:</span></p><p dir=\"ltr\"><span>• 3 unique courses with climbs, flats, and grit.</span></p><p dir=\"ltr\"><span>• Each one scores you points based on your finish time.</span></p><p dir=\"ltr\"><span>• The racers with the highest total points at the end win!</span></p><p dir=\"ltr\"><span>• Tied at the top? X You'll battle it out on the main course. First across the line takes the win!</span></p>",
+        "location": "Summit Lookout Park, 418 Summit Ave, St Paul, MN 55102, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-16T12:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-16T17:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
+        "sequence": 2,
         "reminders": {
           "useDefault": true
         },

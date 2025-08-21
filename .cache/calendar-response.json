@@ -1,15 +1,15 @@
 {
-  "timestamp": 1755673597817,
+  "timestamp": 1755760117804,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fvrmstsic8u0o\"",
+    "etag": "\"p33npr277rucou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-20T06:41:37.521Z",
+    "updated": "2025-08-20T15:54:28.899Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN_9253kmI8DEN_9253kmI8DGAEg2_-O-wIo2_-O-wI=",
+    "nextSyncToken": "CO-diOffmY8DEO-diOffmY8DGAEgjtDS-wIojtDS-wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -428,15 +428,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3484031190778526\"",
-        "id": "4aorej03dlvlvdsvlvjfrdq2hf_20250813T230000Z",
+        "etag": "\"3482907699087198\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20251019T144500Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGFvcmVqMDNkbHZsdmRzdmx2amZyZHEyaGZfMjAyNTA4MTNUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-03-15T05:13:15.389Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesday</span> <span>Mar 19, 2025 6:00 PM</span><span>. Every Wednesday during warm weather months.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTEwMTlUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2025-03-08T17:10:49.543Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
         "creator": {
           "email": "jmbangsund@gmail.com"
         },
@@ -446,19 +446,19 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-08-13T18:00:00-05:00",
+          "dateTime": "2025-10-19T09:45:00-05:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-08-13T19:30:00-05:00",
+          "dateTime": "2025-10-19T12:15:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "4aorej03dlvlvdsvlvjfrdq2hf",
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
         "originalStartTime": {
-          "dateTime": "2025-08-13T18:00:00-05:00",
+          "dateTime": "2025-10-19T09:45:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -1342,6 +1342,44 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3488635157062686\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20251019T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTEwMTlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2025-04-10T20:39:38.531Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-19T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2025-10-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3490664779362622\"",
         "id": "43lb85meeku31ed4j6cnajls1s_20250818T233000Z",
         "status": "confirmed",
@@ -1686,45 +1724,6 @@
         },
         "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3490664818311518\"",
-        "id": "2hpamcvpc3vav0l1g56mgvq5vn_20250813T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmhwYW1jdnBjM3ZhdjBsMWc1Nm1ndnE1dm5fMjAyNTA4MTNUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-22T14:28:22.000Z",
-        "updated": "2025-04-22T14:33:29.155Z",
-        "summary": "ACF social ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Wednesday at 6:30 pm.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 10-20 miles. Pace: 12-14 mph.</span></p><p><span>The party pace social ride returns, with good hangs and immaculate energy. Led by: Alex &amp; Adam.</span></p><p><span>See Discord link for ride updates. <br></span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-13T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-13T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2hpamcvpc3vav0l1g56mgvq5vn",
-        "originalStartTime": {
-          "dateTime": "2025-08-13T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2hpamcvpc3vav0l1g56mgvq5vn@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2699,40 +2698,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1ppv8n14n6kiff0lbtsqlhdbiq@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3496548714749566\"",
-        "id": "19djuqqpicler1361e58lng3ra",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MTlkanVxcXBpY2xlcjEzNjFlNThsbmczcmEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-05-26T15:45:57.000Z",
-        "updated": "2025-05-26T15:45:57.374Z",
-        "summary": "Perennial Summer FTW Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Summer FTW Rides</b></span> <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DJiPNcKM6b0/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw092q85lF9rZlETMMf7Nlzc\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.google.com/url?q=https://www.perennialcycle.com/shopcast/events/list/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0WhXutNUYk5gS0FhZbr2A2\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Meet at 6 pm <br></span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Perennial%2BCycle/data%3D!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2fjHM1WHZfJ40EQRgBoetL\" target=\"_blank\"><span><u>Perennial Cycle</u></span></a><span>, behind the shop</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://www.google.com/url?q=https://greaserag.org/safer-spaces/wtf-is-ftw/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw23DKWWN8kXxH5cRcsHRgpU\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 6-12 miles. </span><span><b>Pace</b></span><span>: social, ~10 mph. </span></p><p dir=\"ltr\"><span>All rides will lead to to either breweries or other fun local spots for food/drink. Stay tuned for some bonus Saturday rides along the way!</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-13T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-13T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "19djuqqpicler1361e58lng3ra@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4524,15 +4489,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510378546288190\"",
-        "id": "6t20o53153djschhi1tnmmp9k3_20250826T220000Z",
+        "etag": "\"3510244083629918\"",
+        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251020T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA4MjZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-14T16:34:33.144Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
-        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTEwMjBUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T21:51:07.000Z",
+        "updated": "2025-08-13T21:54:01.814Z",
+        "summary": "Wedge Live Emergency Bike Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
+        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
         },
@@ -4542,215 +4507,20 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-08-26T17:00:00-05:00",
+          "dateTime": "2025-10-19T19:00:00-05:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-08-26T21:00:00-05:00",
+          "dateTime": "2025-10-19T21:00:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
+        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
         "originalStartTime": {
-          "dateTime": "2025-08-26T17:00:00-05:00",
+          "dateTime": "2025-10-19T19:00:00-05:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
+        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510378546288190\"",
-        "id": "6t20o53153djschhi1tnmmp9k3_20250909T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MDlUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-14T16:34:33.144Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
-        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-09T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-09T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
-        "originalStartTime": {
-          "dateTime": "2025-09-09T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510378546288190\"",
-        "id": "6t20o53153djschhi1tnmmp9k3_20250923T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MjNUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-14T16:34:33.144Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Aug 26, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email <a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\">calendarcoordinator@mncyclingfederation.org</a>!</span></p>",
-        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-23T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-23T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
-        "originalStartTime": {
-          "dateTime": "2025-09-23T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510378568147934\"",
-        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250902T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MDJUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-14T16:34:44.073Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
-        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-02T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-02T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
-        "originalStartTime": {
-          "dateTime": "2025-09-02T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510378568147934\"",
-        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250916T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MTZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-14T16:34:44.073Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
-        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-16T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-16T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
-        "originalStartTime": {
-          "dateTime": "2025-09-16T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510378568147934\"",
-        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250930T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MzBUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-14T16:34:44.073Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Tuesday </span><span>Sep 2, 2025</span><span>. 5pm-9pm. </span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p><span><b>Cost: </b></span><span>In previous years, racing has been $20 or free if you volunteer for set-up or teardown. </span></p><p><span>More details TBA. Check MCF instagram or website for details. </span><span>These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\" target=\"_blank\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span></p>",
-        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-30T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-30T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
-        "originalStartTime": {
-          "dateTime": "2025-09-30T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -5624,6 +5394,40 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3511087187562622\"",
+        "id": "06anka8666g0693631umnlum9m",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MDZhbmthODY2NmcwNjkzNjMxdW1ubHVtOW0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-18T18:59:53.000Z",
+        "updated": "2025-08-18T18:59:53.781Z",
+        "summary": "Versus Cross III",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Versus cross III. </b></span><a href=\"https://www.instagram.com/p/DNfzJOaun5O/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 19, 2025</span><span>. 9am-4pm</span></p><p dir=\"ltr\"><span><b>Where:</b></span> <a href=\"https://www.google.com/maps/place/Huset+Park/data=!4m2!3m1!19sChIJq0cqlhEus1IR4NCOU_X3Fpg\"><span><u>Huset Park</u></span></a><span>, Columbia Heights. </span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>TBA (reg opens Sept 1), but typically $25-35/race, with a $10 “citizen” race for people new to the sport.</span></p><span>The best cyclocross race in Minnesota is back for its third year! Come race and spectate at Huset Park in Columbia Heights. Get some food from</span><a href=\"https://www.instagram.com/kramarczuks/\"> <span><u>@kramarczuks</u></span></a><span> and</span><a href=\"https://www.instagram.com/nordicdogs612/\"> <span><u>@nordicdogs612</u></span></a><span>, chat all things bike fit, strength programming and PT with</span><a href=\"https://www.instagram.com/go_physio_mn/\"> <span><u>@go_physio_mn</u></span></a><span>, and hang with our other vendors and sponsors! There will be a kids race and face painting—stick around for our signature Tracklocross race and raffle at the end of the day! Registration Opens September 1—stay tuned!</span>",
+        "location": "Huset Park, 3965 Jefferson St NE, Columbia Heights, MN 55421, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-19T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-19T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "06anka8666g0693631umnlum9m@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3511087234764478\"",
         "id": "6pcl50rgln6dmqoir94ccrogne",
         "status": "confirmed",
@@ -5719,6 +5523,240 @@
         },
         "iCalUID": "33rtr4t3st6e8egp6vq1h0kpa1@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410442988318\"",
+        "id": "6t20o53153djschhi1tnmmp9k3_20250826T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA4MjZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:01:07.000Z",
+        "updated": "2025-08-20T15:53:41.494Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-26T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-26T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
+        "originalStartTime": {
+          "dateTime": "2025-08-26T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410442988318\"",
+        "id": "6t20o53153djschhi1tnmmp9k3_20250909T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MDlUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:01:07.000Z",
+        "updated": "2025-08-20T15:53:41.494Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-09T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-09T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
+        "originalStartTime": {
+          "dateTime": "2025-09-09T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410442988318\"",
+        "id": "6t20o53153djschhi1tnmmp9k3_20250923T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MjNUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:01:07.000Z",
+        "updated": "2025-08-20T15:53:41.494Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-23T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-23T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
+        "originalStartTime": {
+          "dateTime": "2025-09-23T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410537799134\"",
+        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250902T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MDJUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:03:57.000Z",
+        "updated": "2025-08-20T15:54:28.899Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-02T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-02T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
+        "originalStartTime": {
+          "dateTime": "2025-09-02T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410537799134\"",
+        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250916T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MTZUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:03:57.000Z",
+        "updated": "2025-08-20T15:54:28.899Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-16T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-16T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
+        "originalStartTime": {
+          "dateTime": "2025-09-16T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511410537799134\"",
+        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250930T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MzBUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:03:57.000Z",
+        "updated": "2025-08-20T15:54:28.899Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-30T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-30T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
+        "originalStartTime": {
+          "dateTime": "2025-09-30T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

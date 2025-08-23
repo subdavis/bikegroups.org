@@ -1,15 +1,15 @@
 {
-  "timestamp": 1755846370909,
+  "timestamp": 1755932745783,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32fujesflmeou0o\"",
+    "etag": "\"p337shrcehefou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-22T02:18:22.376Z",
+    "updated": "2025-08-22T18:51:33.765Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ_pu4-tnY8DEJ_pu4-tnY8DGAEgjtDS-wIojtDS-wI=",
+    "nextSyncToken": "CM_I7Y6Ln48DEM_I7Y6Ln48DGAEgjtDS-wIojtDS-wI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -3624,6 +3624,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3505216046474622\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251021T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEwMjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-07-15T19:33:43.237Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-21T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-21T20:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
+        "originalStartTime": {
+          "dateTime": "2025-10-21T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3505222463176446\"",
         "id": "0q8ei9d9jho5pgpe7oaa9qisak",
         "status": "confirmed",
@@ -4732,6 +4771,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251021T224500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEwMjFUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-21T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-21T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-10-21T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3510589852398206\"",
         "id": "2tjt0mjijhsk0tonf5ujremdq3",
         "status": "confirmed",
@@ -4759,39 +4837,6 @@
         },
         "iCalUID": "2tjt0mjijhsk0tonf5ujremdq3@google.com",
         "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510590015242494\"",
-        "id": "51ueoat9ifckr1rssr75mp6k7s",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTF1ZW9hdDlpZmNrcjFyc3NyNzVtcDZrN3MgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-15T21:56:16.000Z",
-        "updated": "2025-08-15T21:56:47.621Z",
-        "summary": "RESCHEDULED: Bonesaw Behind Bars ride",
-        "description": "Due to the rain, tonight's 8/15 Theo ride has been canceled. Will be rescheduled to Wednesday 8/27.",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-15T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-15T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "51ueoat9ifckr1rssr75mp6k7s@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -5617,15 +5662,14 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511658204752190\"",
+        "etag": "\"3511775155270622\"",
         "id": "6nigsqcektsr4ddekiqnov589a",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=Nm5pZ3NxY2VrdHNyNGRkZWtpcW5vdjU4OWEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
         "created": "2025-08-01T01:59:15.000Z",
-        "updated": "2025-08-22T02:18:22.376Z",
+        "updated": "2025-08-22T18:32:57.635Z",
         "summary": "canceled: Garfield ride",
         "description": "This ride has been canceled (organizer was overbooked)",
-        "location": "Gold Medal Park, Second Street and 11th Avenue South, Minneapolis, MN 55415, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
         },
@@ -5643,6 +5687,142 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6nigsqcektsr4ddekiqnov589a@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511775745694878\"",
+        "id": "28sq85aqarhqkfok4sanivldms",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjhzcTg1YXFhcmhxa2ZvazRzYW5pdmxkbXMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-22T18:36:52.000Z",
+        "updated": "2025-08-22T18:37:52.847Z",
+        "summary": "Northstar Train Ride Bike Ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Northstar Train Ride Bike Ride. </b></span><a href=\"https://ridewithgps.com/routes/52240516\" target=\"_blank\"><span><u>Route link</u></span></a><span>. </span><a href=\"https://www.instagram.com/p/DNbDgZexW5d2XEA4JIbX5dKCNISXlP3YuQqkiE0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Saturday </span><span>Aug 30, 2025</span><span>. Meet at 9:45am, roll at 10am sharp.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\" target=\"_blank\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p><span>Distance: ~45 miles. Pace: 12-15 mph. </span></p><p><span>Ride up W River Rd to catch the 4:45pm Northstar train from Big Lake back to Target field. Bring $6.25 or a Go-To card for train fare.</span></p><p><span>There will be a few stops along the way for snacks and such</span></p><p><span>Ride ends at Lakeside Park in Big Lake. We'll hang there for an hour or so.</span></p><p><span>You could get food/drinks from one of many highly esteemed business establishments in Big Lake.</span></p><p><span>Important Safety Notes: After Brooklyn Park, there are no more bike lanes or trails, and road changes from residential to county highway, with some sections having narrow shoulders and a 55 mph speed limit. We'll ride together as a group, follow traffic rules, and prioritize safety.</span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-30T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-30T17:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "28sq85aqarhqkfok4sanivldms@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511776093218366\"",
+        "id": "3u1kjjdnooe8g6cipttk6hr6iv",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3Uxa2pqZG5vb2U4ZzZjaXB0dGs2aHI2aXYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-22T18:40:46.000Z",
+        "updated": "2025-08-22T18:40:46.609Z",
+        "summary": "CX skills clinic at Sibley",
+        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>CX skills clinic at Sibley. </b></span><a href=\"https://www.facebook.com/events/1817427859200529/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Monday </span><span>Sep 1, 2025 8:00 AM</span><span>. 8am-11am.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Sibley+Park/data=!4m2!3m1!19sChIJS4lYP2wo9ocREd2V4aE_L30\"><span><u>Sibley Park</u></span></a><span> (Longfellow Ave and 39th St)</span></p><p dir=\"ltr\"><span>CLINIC IS OPEN TO EVERYONE. FREE</span></p><p dir=\"ltr\"><span>Clinic will cover: 1. Dismounts 2. Remounts 3. Barriers 4. Cornering 5. Starts 6. Shouldering 7. Bike Setup</span></p><p dir=\"ltr\"><span>Open to everyone and anyone. Bring any bike, doesn't matter if its a cx bike or not. Please bring a bike, helmet, water!</span></p>",
+        "location": "40th Street Park, 1900 E 40th St, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-01T08:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-01T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3u1kjjdnooe8g6cipttk6hr6iv@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511776733880702\"",
+        "id": "6m3qkrhodd9i544i0pj0c4i7kj",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nm0zcWtyaG9kZDlpNTQ0aTBwajBjNGk3a2ogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-22T18:46:06.000Z",
+        "updated": "2025-08-22T18:46:06.940Z",
+        "summary": "Tunes, Tunes & Loons group ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Tunes, Tunes &amp; Loons group ride </b></span><a href=\"https://mnlakesandrivers.org/tunestunesloons/\"><span><u>Event page</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Sep 6, 2025 2:00 PM</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Queermunity+MN/data=!4m2!3m1!19sChIJeVkmCikn9ocRcVcd-IGejSQ\"><span><u>Queermunity MN</u></span></a><span> (3036 Hennepin) </span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/Broken+Clock+Brewing+Cooperative/data=!4m2!3m1!19sChIJVTRddQEys1IR0qRjoxM5EwY\"><span><u>Broken Clock Brewing Cooperative</u></span></a><span> (1712 Marshall St)</span></p><p dir=\"ltr\"><span>Hang out at the finish to see live music, get a bike tune up, drink and enjoy community celebration!</span></p><span>Come find out how to become a</span><a href=\"https://mnlakesandrivers.org/citystewards/\"> <span><u>Minneapolis Lake Steward</u></span></a><span> and connect with amazing partners like Adopt a Drain, neighborhood associations, Bluethumb, and more!</span>",
+        "location": "Queermunity MN, 3036 Hennepin Ave, Minneapolis, MN 55408, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-06T14:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-06T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6m3qkrhodd9i544i0pj0c4i7kj@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3511777387530398\"",
+        "id": "21fo72n7shlmm0qbjss9d6clsh",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjFmbzcybjdzaGxtbTBxYmpzczlkNmNsc2ggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-08-22T18:51:33.000Z",
+        "updated": "2025-08-22T18:51:33.765Z",
+        "summary": "Sea Level Alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Sea Level Alleycat</b></span> <a href=\"https://www.instagram.com/p/DNOn10EJRog/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Sep 27, 2025 1:30 PM</span><span>. Meet 1:30pm, race at 2pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a></p><p dir=\"ltr\"><span>Water, lights, snacks, helmets, and brakes are recommended.</span></p><p dir=\"ltr\"><span>A long-form alley cat for those who want to show off their polka dot jerseys.</span></p><p dir=\"ltr\"><span>Open/womens/gnc winners. Special routing winner for strava as well</span></p><p dir=\"ltr\"><span>Dm me if you want to volunteer or provide prizes :D</span></p>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-27T13:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-27T16:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "21fo72n7shlmm0qbjss9d6clsh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

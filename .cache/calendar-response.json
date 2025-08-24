@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755932745783,
+  "timestamp": 1756019144973,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337shrcehefou0o\"",
@@ -4035,40 +4035,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510243216524670\"",
-        "id": "7lgngkuadrhddsuai5hv5msrn1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N2xnbmdrdWFkcmhkZHN1YWk1aHY1bXNybjEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-13T21:46:48.000Z",
-        "updated": "2025-08-13T21:46:48.262Z",
-        "summary": "Team Recess Tour de Ceramique Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Tour de Ceramique Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNLdEK_RIum/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Aug 16, 2025 10:00 AM</span><span>. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Farmstead+Bike+Shop/data=!4m2!3m1!19sChIJ2cVzDU5T9ocRglhJ-dk8gAw\"><span><u>Farmstead Bike Shop</u></span></a><span> (422 Division St, </span><span><b>Northfield, MN</b></span><span>) </span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. Pace: Chill pace (likely 10-12 mph). </span></p><p dir=\"ltr\"><span>Join us for the</span><a href=\"https://www.instagram.com/cannonriverclaytour/\"> <span><u>@cannonriverclaytour</u></span></a><span> BY BIKE! This year our friends from</span><a href=\"https://www.instagram.com/team_recess/\"> <span><u>@team_recess</u></span></a><span> will be leading the ride. Meet at the shop at 10am or a little earlier to grab a bite and some coffee (20% off at</span><a href=\"https://www.instagram.com/ravensnestcafenfld/\"> <span><u>@ravensnestcafenfld</u></span></a><span> for all riders) and roll to any or all of the stops.</span></p><p dir=\"ltr\"><span>DM if you’re interested in joining. No RSVP required but we would love to know how many to expect.</span></p><p dir=\"ltr\"><span>Any type of bike is welcome! Yes, that means e-bikes too. Yay. It’s mostly road but there is a little bit of gravel. </span></p>",
-        "location": "Farmstead Bike Shop, 422 Division St S, Northfield, MN 55057, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-16T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-16T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7lgngkuadrhddsuai5hv5msrn1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3510244083629918\"",
         "id": "69ptbkk63mkqfbgfeu07orn6tj_20250825T000000Z",
         "status": "confirmed",
@@ -4882,39 +4848,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510704421648670\"",
-        "id": "kg18ibve61qvp0jhjtb3trjn8s",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=a2cxOGlidmU2MXF2cDBqaGp0YjN0cmpuOHMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-16T13:50:10.000Z",
-        "updated": "2025-08-16T13:50:10.824Z",
-        "summary": "POSTPONED: perennial family fun ride",
-        "description": "Postponed to Aug23 due to rain.",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-16T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-16T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "kg18ibve61qvp0jhjtb3trjn8s@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3510704517139998\"",
         "id": "34r6tvvdkqoa33bejv4msunph7_20250816T143000Z",
         "status": "confirmed",
@@ -4945,40 +4878,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
-        "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510718521053822\"",
-        "id": "0evjs22ie1jvr7tftejdjl25qh",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGV2anMyMmllMWp2cjd0ZnRlamRqbDI1cWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:38:55.000Z",
-        "updated": "2025-08-16T15:47:40.526Z",
-        "summary": "MBMA Ramsey Rampage alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>MBMA Ramsey Rampage alleycat. </b></span><a href=\"https://www.instagram.com/p/DNJnceiyPrX/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Note: delayed start to avoid rain. Reg is now from 12:30 - 2pm, Race starts shortly after 2pm.</b></span></p><p dir=\"ltr\"><span>Saturday </span><span>Aug 16, 2025</span><span>. Race starts at 2pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Summit+Lookout+Park/data=!4m2!3m1!19sChIJL-chMr4q9ocRg-8ErB-A98o\"><span><u>Summit Lookout Park</u></span></a><span> (Ramsey and Summit Ave in St. Paul)</span></p><p dir=\"ltr\"><span>Climb. Score. Dominate. 3 courses. Push your limits. Rack up points. See instagram post for course routes. Go solo or line up head-to-head - the choice is yours.</span></p><p dir=\"ltr\"><span>How it works:</span></p><p dir=\"ltr\"><span>• 3 unique courses with climbs, flats, and grit.</span></p><p dir=\"ltr\"><span>• Each one scores you points based on your finish time.</span></p><p dir=\"ltr\"><span>• The racers with the highest total points at the end win!</span></p><p dir=\"ltr\"><span>• Tied at the top? X You'll battle it out on the main course. First across the line takes the win!</span></p>",
-        "location": "Summit Lookout Park, 418 Summit Ave, St Paul, MN 55102, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-16T12:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-16T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0evjs22ie1jvr7tftejdjl25qh@google.com",
         "sequence": 2,
         "reminders": {
           "useDefault": true

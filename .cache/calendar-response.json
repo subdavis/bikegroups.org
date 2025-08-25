@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756019144973,
+  "timestamp": 1756105619482,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337shrcehefou0o\"",
@@ -69,45 +69,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "e4iugnsbcvnivcjr28o74va83k@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20250817T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTA4MTdUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-08-17T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -953,44 +914,6 @@
         },
         "iCalUID": "2r9f1i6uol3e92o7s9s3m8h69m@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20250817T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTA4MTdUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-08-17T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -3797,40 +3720,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3509005929796062\"",
-        "id": "2oipbsnihpcmkm91s2vufsn0le",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm9pcGJzbmlocGNta205MXMydnVmc24wbGUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-06T17:56:04.000Z",
-        "updated": "2025-08-06T17:56:04.898Z",
-        "summary": "Behind Bars Adventure rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Adventure rides. </b></span><a href=\"https://www.instagram.com/p/DM-uRDCuzku/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Aug 17, 2025 4:00 PM</span><span>. Roll at 4:10pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span>Distance: 10-20 miles, mixed terrain. Pace: 10-15 mph. </span></p><p dir=\"ltr\"><span>Join Ambassador Robin at Behind Bars Bicycle Shop for a series of rides exploring the nature, history, and urban oddities of the Twin Cities.</span></p><p dir=\"ltr\"><span>Terrain will vary from dirt trails to back alleys. There may be some obstacles like steep hills and curbs. The pace will be 10 to 15 mph depending on the terrain. These are no-drop rides, meaning we will stay together as a group, and will provide support for minor mechanical issues. </span></p><p dir=\"ltr\"><span>Bring: a capable bike, helmet, lights, lock, a positive mental attitude, and a sense of adventure! </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2oipbsnihpcmkm91s2vufsn0le@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3509006059487742\"",
         "id": "1sl80af889erpl0o5fnolnjtbm",
         "status": "confirmed",
@@ -4920,73 +4809,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510881475975742\"",
-        "id": "5svln8f3t0qkfgnr7rj2es1ff1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXN2bG44ZjN0MHFrZmducjdyajJlczFmZjEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-17T14:25:37.000Z",
-        "updated": "2025-08-17T14:25:37.987Z",
-        "summary": "POSTPONED: Bandit cat",
-        "description": "Due to wet trail conditions, bandit cat has been postponed to Sunday 8/24.",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5svln8f3t0qkfgnr7rj2es1ff1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510882064075966\"",
-        "id": "0nvdr8co8qheh9irm6nas67enc",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MG52ZHI4Y284cWhlaDlpcm02bmFzNjdlbmMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-17T14:30:31.000Z",
-        "updated": "2025-08-17T14:30:32.037Z",
-        "summary": "Perennial Rollapalooza",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Perennial Rollapalooza</b></span> <a href=\"https://www.instagram.com/p/DNYi1wDxFQW/?utm_source=ig_web_copy_link&amp;igsh=Zm1tNTdmMWFkZXh3\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/event/rollapalooza/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Aug 17, 2025</span><span> 3pm-5:30pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a></p><p dir=\"ltr\"><span>Live music at Perennial, followed by a slow group ride to the river where there will be several more live bands.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0nvdr8co8qheh9irm6nas67enc@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3510882512593150\"",
         "id": "3got1ekp06a844g18dlar2042s",
         "status": "confirmed",
@@ -5047,40 +4869,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5klf9kr2623tp2u7pashl3p92s@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510904178772062\"",
-        "id": "0jij5b2eopb6kt9rsiagoepnl0",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGppajViMmVvcGI2a3Q5cnNpYWdvZXBubDAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-09T03:57:01.000Z",
-        "updated": "2025-08-17T17:34:49.386Z",
-        "summary": "Versus Cross is Coming CX skills clinic",
-        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>Versus Cross is Coming CX skills clinic. </b></span><a href=\"https://www.instagram.com/p/DNCZ_mOM69P/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sundays 9am-12pm. </span><span>Aug 17, 2025</span><span>, </span><span>Aug 24, 2025</span><span>, </span><span>Sep 7, 2025</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://maps.app.goo.gl/ZC8mwjuXC4J752HR8\"><span><u>Field</u></span></a><span> to the east of the </span><a href=\"https://www.google.com/maps/place/Minneapolis+Beginner+Bike+Park/data=!4m2!3m1!19sChIJHSkZbB0p9ocRbeou8qrKyKU\"><span><u>Minneapolis Beginner Bike Park</u></span></a><span> </span></p><p dir=\"ltr\"><span>Cyclocross-curious?  Experienced, but rusty?</span></p><p dir=\"ltr\"><span>Versus is hosting three free cyclocross skills clinics for newcomers and veterans alike. Come ride your bike in the grass and learn the foundations of cornering, dismounting/remounting, and barriers. All bikes are welcome.</span></p>",
-        "location": "44°55'00.8\"N 93°14'02.9\"W",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-17T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-17T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0jij5b2eopb6kt9rsiagoepnl0@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

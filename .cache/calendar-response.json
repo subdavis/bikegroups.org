@@ -1,15 +1,15 @@
 {
-  "timestamp": 1756364795831,
+  "timestamp": 1756451197854,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vsf2c5nmlou0o\"",
+    "etag": "\"p33nov8kluimou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-27T17:06:51.885Z",
+    "updated": "2025-08-28T16:18:49.269Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL_HiYW9q48DEL_HiYW9q48DGAEg-PD3_AIo-PD3_AI=",
+    "nextSyncToken": "CO-PopX0rY8DEO-PopX0rY8DGAEg-PD3_AIo-PD3_AI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2042,240 +2042,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250821T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA4MjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-21T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250828T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA4MjhUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-28T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-28T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-08-28T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250904T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA5MDRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-04T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-04T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-09-04T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250911T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA5MTFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-11T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-09-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250918T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA5MThUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-18T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-18T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-09-18T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3493963834915966\"",
-        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250925T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA5MjVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-11T16:36:29.000Z",
-        "updated": "2025-05-11T16:45:17.457Z",
-        "summary": "ACF FTW social ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-25T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-25T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
-        "originalStartTime": {
-          "dateTime": "2025-09-25T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3495372213186558\"",
         "id": "0e40ipptntkno287gp87si6fao_20250825T220000Z",
         "status": "confirmed",
@@ -2582,45 +2348,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3502028687236862\"",
-        "id": "6jquh1jaqgfajrps61d8atumlr_20250821T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA4MjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-30T16:32:07.000Z",
-        "updated": "2025-06-27T08:52:23.618Z",
-        "summary": "Handup Social Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Handup Social Rides</b></span><span>. </span><a href=\"https://www.instagram.com/p/DH1F_WEOsQZ/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Meet at 6pm, </span><span>roll out shortly after. </span></p><p dir=\"ltr\"><span>Every Thursday April through August. </span><span>Apr 10, 2025</span><span>, </span><span>Apr 17, 2025</span><span>, </span><span>Apr 24, 2025</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a><span>, end around 8pm. <br></span></p><p dir=\"ltr\"><span>Distance: Typically 10-15 miles. Pace: Social, typically 12-14 mph. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-21T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6jquh1jaqgfajrps61d8atumlr",
-        "originalStartTime": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6jquh1jaqgfajrps61d8atumlr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502028687236862\"",
         "id": "6jquh1jaqgfajrps61d8atumlr_20250828T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NmpxdWgxamFxZ2ZhanJwczYxZDhhdHVtbHJfMjAyNTA4MjhUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2884,45 +2611,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2044ccndiqki594t21jno6sqob@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504353606179934\"",
-        "id": "3a36mi569jp3c72dnh79dg0k6e_20250821T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2EzNm1pNTY5anAzYzcyZG5oNzlkZzBrNmVfMjAyNTA4MjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-10T19:45:51.000Z",
-        "updated": "2025-07-10T19:46:43.089Z",
-        "summary": "Grease Rag FTW Open shop",
-        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
-        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-21T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "3a36mi569jp3c72dnh79dg0k6e",
-        "originalStartTime": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3429,38 +3117,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3505361355803006\"",
-        "id": "2rfmhhmjtm3l2ifah5fimjlqcg",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MnJmbWhobWp0bTNsMmlmYWg1ZmltamxxY2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-03-09T15:56:47.000Z",
-        "updated": "2025-07-16T15:44:37.901Z",
-        "summary": "SSCXWC ",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday-Sunday </span><span>Oct 2, 2025</span><span> - </span><span>Oct 5, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><span>Various sites around Mpls TBA. The main race on Sunday is at </span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. Weekend is full of events, including bandit cross on Thursday, a group ride and packet pick-up party on Friday, “feats of strength” on Saturday, and the main cyclocross race event on Sunday at Buck Hill. See the BikeReg or FAQ page for full details. </span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-10-02"
-        },
-        "end": {
-          "date": "2025-10-05"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2rfmhhmjtm3l2ifah5fimjlqcg@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3506580593265470\"",
         "id": "00dfookhc8noaimna1o8vt5rlp",
         "status": "confirmed",
@@ -3555,40 +3211,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "37imku15921j61cp2j03sl828b@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510033654766494\"",
-        "id": "65u8rf096tpm0vgpbf650sg7v8",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjV1OHJmMDk2dHBtMHZncGJmNjUwc2c3djggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-12T16:40:27.000Z",
-        "updated": "2025-08-12T16:40:27.383Z",
-        "summary": "URG CX skills clinic",
-        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>URG CX skills clinic. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DNOFuEGRn7q/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3Qo6Ojh1C2B_NLM8K0Wf_Z\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday </span><span>Aug 14, 2025 6:00 PM</span><span> and </span><span>Aug 21, 2025</span><span>. Skills clinics at 6pm, informal races at 7 and 7:30pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Minnehaha%2BFalls/data%3D!4m2!3m1!19sChIJ7zhgTAYp9ocRedVNQP6GxbA&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0KeWtReXnUYVax9PUT0Rqg\" target=\"_blank\"><span><u>Minnehaha Falls</u></span></a><span> (Grassy ravine at the lower falls, near the wading area between Godfrey and 46th Ave)</span></p><p dir=\"ltr\"><span><b>What to expect</b></span><span>:</span></p><p dir=\"ltr\"><span>Skills &amp; drills - Mounting, Dismounting, Shouldering, Cornering, Run Ups, Off Cambers, Starting line practice, Hand-ups, etc.</span></p><p dir=\"ltr\"><span>Heats - Two 20 minute hot lap sessions. These will be informal races where we will do a mass start, and then rip around the course until our knees are wobbly or the twenty minutes is up.</span></p><p dir=\"ltr\"><span><b>What to Bring</b></span><span>: Your bike, helmet, water, snacks, a headlight, and a welcoming attitude.</span></p><span><b>Who’s invited</b></span><span>: First timers, veterans, youths, reformed runners, supportive hecklers, your mom.</span>",
-        "location": "44.9174351, -93.2077527",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-21T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "65u8rf096tpm0vgpbf650sg7v8@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -5405,6 +5027,77 @@
         "sequence": 0,
         "reminders": {
           "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3512785296402686\"",
+        "id": "2n95d4mqj0go3i3vk36fl2j5vh_20250828T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm45NWQ0bXFqMGdvM2kzdmszNmZsMmo1dmhfMjAyNTA4MjhUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-05-11T16:36:29.000Z",
+        "updated": "2025-08-28T14:50:48.201Z",
+        "summary": "ACF FTW social ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish FTW social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DJdIuXspnQh/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Thursday at 6:00 pm. </span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 10-20 miles. Pace: Likely ~12-14 mph.</span></p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a> <br><span>Join</span><a href=\"https://www.instagram.com/allcontent_nocontext/\"><span><u> @allcontent_nocontext</u></span></a><span> and</span><a href=\"https://www.instagram.com/katanatron/\"><span><u> @katanatron</u></span></a><span> Thursdays at 6pm for some fun hangs and rides</span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-08-28T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-08-28T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2n95d4mqj0go3i3vk36fl2j5vh",
+        "originalStartTime": {
+          "dateTime": "2025-08-28T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2n95d4mqj0go3i3vk36fl2j5vh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3512795858538462\"",
+        "id": "2rfmhhmjtm3l2ifah5fimjlqcg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MnJmbWhobWp0bTNsMmlmYWg1ZmltamxxY2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-03-09T15:56:47.000Z",
+        "updated": "2025-08-28T16:18:49.269Z",
+        "summary": "SSCXWC",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday-Sunday </span><span>Oct 2, 2025</span><span> - </span><span>Oct 5, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><span>Various sites around Mpls TBA. The main race on Sunday is at </span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. Weekend is full of events, including bandit cross on Thursday, a group ride and packet pick-up party on Friday, “feats of strength” on Saturday, and the main cyclocross race event on Sunday at Buck Hill. See the BikeReg or FAQ page for full details. </span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "date": "2025-10-02"
+        },
+        "end": {
+          "date": "2025-10-06"
+        },
+        "transparency": "transparent",
+        "iCalUID": "2rfmhhmjtm3l2ifah5fimjlqcg@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": false
         },
         "eventType": "default"
       }

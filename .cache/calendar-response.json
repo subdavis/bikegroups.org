@@ -1,15 +1,15 @@
 {
-  "timestamp": 1756537517279,
+  "timestamp": 1756623941926,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33vtj3lameo8u0o\"",
+    "etag": "\"p32nvnlsto2pou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-29T16:06:43.901Z",
+    "updated": "2025-08-30T21:42:26.715Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP_ZjqqzsI8DEP_ZjqqzsI8DGAEg472E_QIo472E_QI=",
+    "nextSyncToken": "CK_7153As48DEK_7153As48DGAEg472E_QIo472E_QI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2541,45 +2541,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3503280941010142\"",
-        "id": "4g11jbeurtptadp3i8g8148h7b_20250816T214500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGcxMWpiZXVydHB0YWRwM2k4ZzgxNDhoN2JfMjAyNTA4MTZUMjE0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-04T14:46:57.000Z",
-        "updated": "2025-07-04T14:47:50.505Z",
-        "summary": "Behind Bars FTW summer rides",
-        "description": "<p><span>Group ride (drop)</span> <span><b>Behind Bars FTW summer rides. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DLqMaYxJJd3/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3o-b6uDFXmVFsmcwhSIwWE\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Friday </span><span>Jul 18, 2025 4:45 PM</span><span>. </span><span>Jul 25, 2025</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Behind%2BBars%2BBicycle%2BShop/data%3D!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0oYfeqCYI2A6etTIjG4itx\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. Finish: Varies by week.</span></p><p><span><b>Distance</b></span><span>: 15-30 miles. Pace: 15+ mph. </span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://www.google.com/url?q=https://greaserag.org/safer-spaces/wtf-is-ftw/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1IHA2DPdsnx--E51u4P5aF\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Join us</span><a href=\"https://www.google.com/url?q=https://www.instagram.com/behindbarsbicycleshop/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2UcExxMU42prfhnonLvbkr\" target=\"_blank\"> <span><u>@behindbarsbicycleshop</u></span></a><span> for the rest of summer with FTW (femme, trans, women, gnc) group rides! Veronica</span><a href=\"https://www.google.com/url?q=https://www.instagram.com/duck.emoji/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3y8AVzUZgeVvH0UC9THXvU\" target=\"_blank\"> <span><u>@duck.emoji</u></span></a><span> leading.</span></p><p><span>These are drop rides (sans mechanicals), and faster paced, averaging at 15mph. So if you&#39;re looking for something a bit more intensive, this is for you! Routes will be announced beforehand so be on the lookout.</span></p><p><span><span>Bring helmets, water, snacks, and a good attitude!</span></span><span> </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-23T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-23T19:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4g11jbeurtptadp3i8g8148h7b",
-        "originalStartTime": {
-          "dateTime": "2025-08-16T16:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4g11jbeurtptadp3i8g8148h7b@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3504353545390142\"",
         "id": "2044ccndiqki594t21jno6sqob_20250903T230000Z",
         "status": "confirmed",
@@ -2729,41 +2690,6 @@
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504927007481918\"",
-        "id": "1ddqrqi4hjb5odv356nkmjhv76",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWRkcXJxaTRoamI1b2R2MzU2bmttamh2NzYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-06-17T19:40:17.000Z",
-        "updated": "2025-07-14T03:25:03.740Z",
-        "summary": "MBMA Jimmy Cat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>MBMA Jimmy Cat. </b></span><a href=\"https://www.instagram.com/p/DMApKWTuZg-/\" target=\"_blank\"><span><u>Instagram</u></span></a><span><b>. </b></span><a href=\"https://www.instagram.com/p/DLAgr8TtixX/\" target=\"_blank\"><span><u>Summer series post</u></span></a><span>.</span></p><p><span>Saturday </span><span>Aug 23, 2025</span><span>. Reg 2-3pm, start at 3:30pm. Podiums at 6pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span> (near the east end of the stone arch bridge)</span></p><p><span>Cost: $10 suggested</span></p><p><span>Do you have what it takes to be freaky fast? How well do you know the mean streets of Minneapolis?</span></p><p><span>Come risk your life for someone's lunch at this competitive alleycat race with picks, drops, cargo, and bread-based shenanigans. Seasoned vets and rookies alike will be thrown headfirst into the concrete jungle and given a flurry of orders to fulfill. Only the fastest, the smartest, and the messiest riders will prevail.</span></p><p><span>Jimmy Cat is OPEN TO ALL! You do not have to be a current Jimmy John's employee to participate. JJ uniforms encouraged! ***Not associated with Jimmy John’s***</span></p><p><span>Prizes will be awarded, and refreshments will be provided, thanks to our sponsors</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\" target=\"_blank\"> <span><u>@behindbarsbicycleshop</u></span></a><span> and</span><a href=\"https://www.instagram.com/minneapoliscider/\" target=\"_blank\"> <span><u>@minneapoliscider</u></span></a></p><p><span>Categories: Open (Literally Anyone), Women (Cis Women, Trans Women), Trans / Gender Non-Conforming, Fixed Gear </span></p>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-23T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-23T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "1ddqrqi4hjb5odv356nkmjhv76@google.com",
-        "sequence": 2,
         "reminders": {
           "useDefault": true
         },
@@ -4176,44 +4102,6 @@
         },
         "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510704517139998\"",
-        "id": "34r6tvvdkqoa33bejv4msunph7_20250816T143000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA4MTZUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-26T15:34:59.000Z",
-        "updated": "2025-08-16T13:50:58.569Z",
-        "summary": "Perennial Family Fun Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-23T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-23T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
-        "originalStartTime": {
-          "dateTime": "2025-08-16T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
-        "sequence": 2,
         "reminders": {
           "useDefault": true
         },

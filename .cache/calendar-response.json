@@ -1,15 +1,15 @@
 {
-  "timestamp": 1756623941926,
+  "timestamp": 1756710413599,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nvnlsto2pou0o\"",
+    "etag": "\"p33vt946mner8u0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-08-30T21:42:26.715Z",
+    "updated": "2025-09-01T02:00:02.122Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK_7153As48DEK_7153As48DGAEg472E_QIo472E_QI=",
+    "nextSyncToken": "CP_UkNa7to8DEP_UkNa7to8DGAEg472E_QIo472E_QI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -69,45 +69,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "e4iugnsbcvnivcjr28o74va83k@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20250824T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTA4MjRUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-08-24T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -953,44 +914,6 @@
         },
         "iCalUID": "2r9f1i6uol3e92o7s9s3m8h69m@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20250824T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTA4MjRUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-08-24T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2463,84 +2386,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3502802338559294\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20250907T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTA5MDdUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-07-01T20:19:29.279Z",
-        "summary": "No name alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-07T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-07T14:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-09-07T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3502802338559294\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-07-01T20:19:29.279Z",
-        "summary": "No name alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T14:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-10-05T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3504353545390142\"",
         "id": "2044ccndiqki594t21jno6sqob_20250903T230000Z",
         "status": "confirmed",
@@ -3087,40 +2932,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3505222463176446\"",
-        "id": "0q8ei9d9jho5pgpe7oaa9qisak",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MHE4ZWk5ZDlqaG81cGdwZTdvYWE5cWlzYWsgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-15T20:26:33.000Z",
-        "updated": "2025-07-15T20:27:11.588Z",
-        "summary": "Handup Bikepacking trip",
-        "description": "<p dir=\"ltr\"><span>Bike camping</span><span> - Handup Bikepacking trip</span><span><b>. </b></span><a href=\"https://www.eventbrite.com/e/handup-bikepacking-trip-2025-tickets-1492181367639?aff=oddtdtcreator\"><span><u>Eventbrite</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Aug 23, 2025</span><span> - Aug 24, 2025. Meet at 9:30 am, roll at 10 am.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>, riding to Willow River state park</span></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>~40 miles each way. </span><span><b>Pace: </b></span><span>Casual, 8-12 mph.</span></p><p dir=\"ltr\"><span><b>Price: </b></span><span>$20</span></p><p dir=\"ltr\"><span>End-point is the group camping sites at Willow River State Park in Hudson, WI. A group will ride back to Minneapolis on Sunday at 11 AM, but feel free to stay longer and enjoy the MTB trails or waterfalls. See Eventbrite for full details. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-23T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T15:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0q8ei9d9jho5pgpe7oaa9qisak@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3506580593265470\"",
         "id": "00dfookhc8noaimna1o8vt5rlp",
         "status": "confirmed",
@@ -3249,45 +3060,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "54of0sohfjgcu24hrf3rb2spvo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510244083629918\"",
-        "id": "69ptbkk63mkqfbgfeu07orn6tj_20250825T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTA4MjVUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T21:51:07.000Z",
-        "updated": "2025-08-13T21:54:01.814Z",
-        "summary": "Wedge Live Emergency Bike Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
-        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
-        "originalStartTime": {
-          "dateTime": "2025-08-24T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4109,40 +3881,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510881425412094\"",
-        "id": "1deobvmeh7hvsv6gfdvo3o5ase",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWRlb2J2bWVoN2h2c3Y2Z2Zkdm8zbzVhc2UgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-22T20:09:57.000Z",
-        "updated": "2025-08-17T14:25:12.706Z",
-        "summary": "Versus bandit cat (rescheduled)",
-        "description": "<p><span>Race (alleycat)</span> <span><b>Versus bandit cat. </b></span><a href=\"https://www.instagram.com/p/DMY_nGNszJU/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Sunday </span><span>Aug 17, 2025 1:00 PM</span><span>. Reg at 1pm, manifests at 1:30pm.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Loring+Park/data=!4m2!3m1!19sChIJD46xfsAys1IRtiZYzW2Ejs8\" target=\"_blank\"><span><u>Loring Park</u></span></a><span>, meet at Berger Fountain </span><span>(Loring Park between Willow St and the shuffleboard courts). </span></p><p><span>A dirt themed alley cat. We will have two race options to partake in, a short (possible 20 miles) and a long (20+miles). All stops will be on dirt trails that may take some exploring and curiosity to find. MTB not needed but a gravel or CX bike is highly recommended, road bike/track bike may be a bad idea but you do you. This race is intended for everyone so if you don't ride dirt, here is your chance to dip a toe in.</span></p>",
-        "location": "Berger Fountain, Loring Greenway, Minneapolis, MN 55403, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1deobvmeh7hvsv6gfdvo3o5ase@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3510883028622654\"",
         "id": "5klf9kr2623tp2u7pashl3p92s",
         "status": "confirmed",
@@ -4169,40 +3907,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5klf9kr2623tp2u7pashl3p92s@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510904236429886\"",
-        "id": "6p3mal1mttdn48dud41934k58j",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnAzbWFsMW10dGRuNDhkdWQ0MTkzNGs1OGogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-17T17:35:18.000Z",
-        "updated": "2025-08-17T17:35:18.214Z",
-        "summary": "Versus Cross is Coming CX skills clinic",
-        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>Versus Cross is Coming CX skills clinic. </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DNCZ_mOM69P/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1lN10KeizJd8F-qMpgplVK\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sundays 9am-12pm. </span><span>Aug 17, 2025</span><span>, </span><span>Aug 24, 2025</span><span>, </span><span>Sep 7, 2025</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/url?q=https://maps.app.goo.gl/ZC8mwjuXC4J752HR8&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1PtiIcpdtCU3cH2czseSot\" target=\"_blank\"><span><u>Field</u></span></a><span> to the east of the </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Minneapolis%2BBeginner%2BBike%2BPark/data%3D!4m2!3m1!19sChIJHSkZbB0p9ocRbeou8qrKyKU&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0P3iBqR2o56TGlTXczZtf8\" target=\"_blank\"><span><u>Minneapolis Beginner Bike Park</u></span></a><span> </span></p><p dir=\"ltr\"><span>Cyclocross-curious?  Experienced, but rusty?</span></p><p dir=\"ltr\"><span>Versus is hosting three free cyclocross skills clinics for newcomers and veterans alike. Come ride your bike in the grass and learn the foundations of cornering, dismounting/remounting, and barriers. All bikes are welcome.</span></p>",
-        "location": "44°55'00.8\"N 93°14'02.9\"W",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6p3mal1mttdn48dud41934k58j@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4608,39 +4312,6 @@
         },
         "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3511775155270622\"",
-        "id": "6nigsqcektsr4ddekiqnov589a",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nm5pZ3NxY2VrdHNyNGRkZWtpcW5vdjU4OWEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-01T01:59:15.000Z",
-        "updated": "2025-08-22T18:32:57.635Z",
-        "summary": "canceled: Garfield ride",
-        "description": "This ride has been canceled (organizer was overbooked)",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-24T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6nigsqcektsr4ddekiqnov589a@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -5103,6 +4774,186 @@
         "sequence": 1,
         "reminders": {
           "useDefault": false
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513381381544894\"",
+        "id": "4e2rbtqpgss4v19uq2l5s46hgj",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGUycmJ0cXBnc3M0djE5dXEybDVzNDZoZ2ogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-01T01:38:10.000Z",
+        "updated": "2025-09-01T01:38:10.772Z",
+        "summary": "Gearing Up Together - Downtown bike event",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Gearing Up Together - Downtown bike event</b></span><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Wednesday </span><span>Sep 3, 2025 4:30 PM</span><span>. 4:30pm - dusk.</span></p><p dir=\"ltr\"><span><b>Where</b></span><span>: </span><a href=\"https://maps.app.goo.gl/M9MKbmz1RikKxsSi6\"><span><u>S 2nd St footpath between Hennepin and Marquette</u></span></a></p><p dir=\"ltr\"><span>A community bike clinic on 2nd Street's footpath organized by residents! Bring your bike for a tune-up, try out e-bikes and trikes, and connect with neighbors who love to ride. There will also be a bike donation drive, bring any unused bike to declutter our storage areas while supporting a local nonprofit or school.</span></p>",
+        "location": "60 S 2nd St, Minneapolis, MN 55401, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-03T16:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-03T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4e2rbtqpgss4v19uq2l5s46hgj@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513382470599646\"",
+        "id": "2o2it871e2q600s5mufeanj0sm",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm8yaXQ4NzFlMnE2MDBzNW11ZmVhbmowc20gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-01T01:47:15.000Z",
+        "updated": "2025-09-01T01:47:15.299Z",
+        "summary": "Twin Cities Bike Tour",
+        "description": "<p dir=\"ltr\"><span>Organized ride</span> <span><b>Twin Cities Bike Tour</b></span><span>. </span><a href=\"https://www.bikemn.org/all-events/tcbt/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Sep 14, 2025</span><span>. Check-in 7:30-8:30am for longer routes, 8:30-9:30 for 20 mile route.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Wabun+Picnic+Area/data=!4m2!3m1!19sChIJPepAygkp9ocRvAqfXcMrcbs\"><span><u>Wabun Picnic Area</u></span></a><span> (4655 46th Ave S, Minneapolis, MN 55406)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>$15-$60 depending on route and age</span></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>20, 34, or 41 miles</span></p><p dir=\"ltr\"><span>Starting near Minnehaha Falls you will wind your way through Minneapolis, St Paul, St Louis Park, Hopkins, and Minnetonka (depending on your route) stopping at 3 – 4 rest stops for yummy snacks, music, and guaranteed fun!  We provide worry free riding by providing ride marshals, SAG vehicles, bike mechanics, and ROTC way finders to keep you on the trail.</span></p>",
+        "location": "4655 46th Ave S, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-14T07:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-14T12:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2o2it871e2q600s5mufeanj0sm@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513383018512222\"",
+        "id": "5l5rm81th0m823ai81mefbb3s7",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NWw1cm04MXRoMG04MjNhaTgxbWVmYmIzczcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-01T01:51:48.000Z",
+        "updated": "2025-09-01T01:51:49.256Z",
+        "summary": "Loons Loop ride (BikeMN)",
+        "description": "<p dir=\"ltr\"><span>Organized ride</span> <span><b>Loons Loop ride (BikeMN)</b></span><span>. </span><a href=\"https://www.bikemn.org/all-events/loons-loop/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Sep 13, 2025</span><span>. Meet at 8:30am, roll at 9am..</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Brackett+Park/data=!4m2!3m1!19sChIJBZIBJtUp9ocRf6VSNE8Uok0\"><span><u>Brackett Park</u></span></a></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>4.5 miles</span></p><p dir=\"ltr\"><span>BikeMN-organized group ride marshalled by Joyful riders with a stop at Loons coffee. Capped at 150 riders, registration required.</span></p>",
+        "location": "Brackett Park, 2728 S 39th Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-13T08:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-13T10:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5l5rm81th0m823ai81mefbb3s7@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513384004244734\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-01T02:00:02.122Z",
+        "summary": "No name alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-05T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T14:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
+        "originalStartTime": {
+          "dateTime": "2025-10-05T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513384004244734\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20250907T174500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTA5MDdUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-01T02:00:02.122Z",
+        "summary": "No name alleycat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-14T13:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-14T15:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
+        "originalStartTime": {
+          "dateTime": "2025-09-07T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
         },
         "eventType": "default"
       }

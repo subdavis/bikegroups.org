@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757142332017,
+  "timestamp": 1757228754899,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32vp3hmbhmuou0o\"",
@@ -2236,6 +2236,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3504353545390142\"",
+        "id": "2044ccndiqki594t21jno6sqob_20251106T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MjA0NGNjbmRpcWtpNTk0dDIxam5vNnNxb2JfMjAyNTExMDZUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-10T19:45:04.000Z",
+        "updated": "2025-07-10T19:46:12.695Z",
+        "summary": "Grease Rag FTW Open shop",
+        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
+        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-05T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-05T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2044ccndiqki594t21jno6sqob",
+        "originalStartTime": {
+          "dateTime": "2025-11-05T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2044ccndiqki594t21jno6sqob@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3504353606179934\"",
         "id": "3a36mi569jp3c72dnh79dg0k6e_20250918T230000Z",
         "status": "confirmed",
@@ -3989,40 +4028,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511775745694878\"",
-        "id": "28sq85aqarhqkfok4sanivldms",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MjhzcTg1YXFhcmhxa2ZvazRzYW5pdmxkbXMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-22T18:36:52.000Z",
-        "updated": "2025-08-22T18:37:52.847Z",
-        "summary": "Northstar Train Ride Bike Ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Northstar Train Ride Bike Ride. </b></span><a href=\"https://ridewithgps.com/routes/52240516\" target=\"_blank\"><span><u>Route link</u></span></a><span>. </span><a href=\"https://www.instagram.com/p/DNbDgZexW5d2XEA4JIbX5dKCNISXlP3YuQqkiE0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Saturday </span><span>Aug 30, 2025</span><span>. Meet at 9:45am, roll at 10am sharp.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\" target=\"_blank\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p><span>Distance: ~45 miles. Pace: 12-15 mph. </span></p><p><span>Ride up W River Rd to catch the 4:45pm Northstar train from Big Lake back to Target field. Bring $6.25 or a Go-To card for train fare.</span></p><p><span>There will be a few stops along the way for snacks and such</span></p><p><span>Ride ends at Lakeside Park in Big Lake. We'll hang there for an hour or so.</span></p><p><span>You could get food/drinks from one of many highly esteemed business establishments in Big Lake.</span></p><p><span>Important Safety Notes: After Brooklyn Park, there are no more bike lanes or trails, and road changes from residential to county highway, with some sections having narrow shoulders and a 55 mph speed limit. We'll ride together as a group, follow traffic rules, and prioritize safety.</span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-30T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-30T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "28sq85aqarhqkfok4sanivldms@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3511776093218366\"",
         "id": "3u1kjjdnooe8g6cipttk6hr6iv",
         "status": "confirmed",
@@ -4117,40 +4122,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "21fo72n7shlmm0qbjss9d6clsh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3512626095534462\"",
-        "id": "6ldqv0umpq6jviojj8kqjo65lp",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmxkcXYwdW1wcTZqdmlvamo4a3FqbzY1bHAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-27T16:44:07.000Z",
-        "updated": "2025-08-27T16:44:07.767Z",
-        "summary": "Geno x MNIW Direct Aid ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Geno x MN Ice Watch Direct Aid bike ride and meet-up</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNvloRxWohc/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b>Saturday </span><span>Aug 30, 2025 2:00 PM</span><span>. Meet at 2pm, roll at 3pm.</span></p><p dir=\"ltr\"><span><b>Start and Finish</b>: </span><a href=\"https://www.google.com/maps/place/Cepro+Site/data=!4m2!3m1!19sChIJl_sBwg8n9ocROeuQ2e_CMdg\"><span><u>Cepro Site</u></span></a><span> 2828 11th Ave S (Near Venture Bikes on the greenway).</span></p><p dir=\"ltr\"><span><b>Distance</b>: 5 miles. <b>Pace</b>: Casual, likely 8-12 mph. </span></p><p dir=\"ltr\"><span>“MN Ice Watch and Geno are collaborating on a mutual aid bike ride series this month and likely into the fall! rides will be organized to make training and abolitionist praxis more accessible to the cycling and non cycling community alike” See post for more details.</span></p>",
-        "location": "Cepro Site, 2828 11th Ave S, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-08-30T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-08-30T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6ldqv0umpq6jviojj8kqjo65lp@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1757574410508,
+  "timestamp": 1757660789165,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33nufil0hf7ou0o\"",
+    "etag": "\"p32fs3efrr38ou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-10T20:59:58.386Z",
+    "updated": "2025-09-11T21:52:57.950Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO_nyqCLz48DEO_nyqCLz48DGAEg6qvg_gIo6qvg_gI=",
+    "nextSyncToken": "CJ_BufvY0Y8DEJ_BufvY0Y8DGAEg6qvg_gIo6qvg_gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -4064,45 +4064,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3513384004244734\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20250907T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTA5MDdUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-09-01T02:00:02.122Z",
-        "summary": "No name alleycat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-14T13:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-14T15:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-09-07T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3513527335577118\"",
         "id": "26u9k0rt3fr9l9md3c0v0hptso",
         "status": "confirmed",
@@ -4547,6 +4508,45 @@
         },
         "iCalUID": "6p3ti2hgab3guqh81f6ssornj6@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515255155900734\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20250907T174500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTA5MDdUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-11T21:52:57.950Z",
+        "summary": "No name alleycat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-14T12:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-14T14:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
+        "originalStartTime": {
+          "dateTime": "2025-09-07T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
+        "sequence": 2,
         "reminders": {
           "useDefault": true
         },

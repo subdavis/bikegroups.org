@@ -1,15 +1,15 @@
 {
-  "timestamp": 1757660789165,
+  "timestamp": 1757747117755,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32fs3efrr38ou0o\"",
+    "etag": "\"p327tpdu2kra8u0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-11T21:52:57.950Z",
+    "updated": "2025-09-12T22:45:15.825Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ_BufvY0Y8DEJ_BufvY0Y8DGAEg6qvg_gIo6qvg_gI=",
+    "nextSyncToken": "CI_ct8Km1I8DEI_ct8Km1I8DGAEg6qvg_gIo6qvg_gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2431,6 +2431,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3505216046474622\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251112T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTExMTJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-07-15T19:33:43.237Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-11T20:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
+        "originalStartTime": {
+          "dateTime": "2025-11-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3506580593265470\"",
         "id": "00dfookhc8noaimna1o8vt5rlp",
         "status": "confirmed",
@@ -3235,6 +3274,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251111T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTExMTFUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-11T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-11T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-11-11T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3510704321536734\"",
         "id": "34r6tvvdkqoa33bejv4msunph7_20250920T143000Z",
         "status": "confirmed",
@@ -3761,123 +3839,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0nnrh3t25pel55hhlvvk8joso7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3512628823771006\"",
-        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250913T161500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MTNUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-27T17:05:00.000Z",
-        "updated": "2025-08-27T17:06:51.885Z",
-        "summary": "Behind Bars Single Speed Saturday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-13T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-13T14:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
-        "originalStartTime": {
-          "dateTime": "2025-09-13T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3512628823771006\"",
-        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250920T161500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjBUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-27T17:05:00.000Z",
-        "updated": "2025-08-27T17:06:51.885Z",
-        "summary": "Behind Bars Single Speed Saturday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T14:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
-        "originalStartTime": {
-          "dateTime": "2025-09-20T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3512628823771006\"",
-        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250927T161500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjdUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-27T17:05:00.000Z",
-        "updated": "2025-08-27T17:06:51.885Z",
-        "summary": "Behind Bars Single Speed Saturday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-27T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-27T14:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
-        "originalStartTime": {
-          "dateTime": "2025-09-27T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -4547,6 +4508,123 @@
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
         "sequence": 2,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515358635810782\"",
+        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250920T161500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjBUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-27T17:05:00.000Z",
+        "updated": "2025-09-12T12:15:17.905Z",
+        "summary": "Behind Bars Single Speed Saturday ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-20T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-20T14:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
+        "originalStartTime": {
+          "dateTime": "2025-09-20T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515358635810782\"",
+        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250927T161500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjdUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-27T17:05:00.000Z",
+        "updated": "2025-09-12T12:15:17.905Z",
+        "summary": "Behind Bars Single Speed Saturday ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-27T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-27T14:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
+        "originalStartTime": {
+          "dateTime": "2025-09-27T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515358681072510\"",
+        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250913T161500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MTNUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-27T17:05:00.000Z",
+        "updated": "2025-09-12T12:15:40.536Z",
+        "summary": "Canceled: Behind Bars Single Speed Saturday ride",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-13T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-13T11:40:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
+        "originalStartTime": {
+          "dateTime": "2025-09-13T11:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1757747117755,
+  "timestamp": 1757833530784,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p327tpdu2kra8u0o\"",
+    "etag": "\"p33nur8u5snb8u0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-12T22:45:15.825Z",
+    "updated": "2025-09-13T22:32:32.702Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CI_ct8Km1I8DEI_ct8Km1I8DGAEg6qvg_gIo6qvg_gI=",
+    "nextSyncToken": "CO_to8Xl1o8DEO_to8Xl1o8DGAEg6qvg_gIo6qvg_gI=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2470,40 +2470,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3506580593265470\"",
-        "id": "00dfookhc8noaimna1o8vt5rlp",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDBkZm9va2hjOG5vYWltbmExbzh2dDVybHAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-23T17:04:56.000Z",
-        "updated": "2025-07-23T17:04:56.632Z",
-        "summary": "Taco Bell Century",
-        "description": "<p dir=\"ltr\"><span>Self-supported ride</span> <span><b>Taco Bell Century </b></span><a href=\"https://www.instagram.com/p/DMdHnsZMm7X/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Saturday </span><span>Sep 20, 2025 8:00 AM</span><span>. Roll at 8:30 AM.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/1540+Stinson+Boulevard+Northeast/data=!4m2!3m1!19sChIJUak1zLMts1IRi7_N0QucPI8\"><span><u>1540 Stinson Boulevard Northeast</u></span></a><span> (Taco Bell by the Quarry)</span></p><p dir=\"ltr\"><span>Get Baja blasted with your friends again! The third annual Taco Bell Century by Corpsewhale Racing.</span></p><p dir=\"ltr\"><span>A route will be provided when we get closer to the date. I promise more Taco Bells than is reasonable. We'll do a loop and there's plenty of parking spots in the Quarry lots for riders who drive to the start.</span></p><p dir=\"ltr\"><span>Fuel only with Taco Bell, or don't, we're not cops. The goal is fun. Ride at your own pace, we won't stick together as a group. You are responsible for yourself. </span></p>",
-        "location": "Taco Bell, 1540 Stinson Blvd NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T08:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "00dfookhc8noaimna1o8vt5rlp@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3509419523208894\"",
         "id": "37imku15921j61cp2j03sl828b",
         "status": "confirmed",
@@ -3677,40 +3643,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511776733880702\"",
-        "id": "6m3qkrhodd9i544i0pj0c4i7kj",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nm0zcWtyaG9kZDlpNTQ0aTBwajBjNGk3a2ogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-22T18:46:06.000Z",
-        "updated": "2025-08-22T18:46:06.940Z",
-        "summary": "Tunes, Tunes & Loons group ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Tunes, Tunes &amp; Loons group ride </b></span><a href=\"https://mnlakesandrivers.org/tunestunesloons/\"><span><u>Event page</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Sep 6, 2025 2:00 PM</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Queermunity+MN/data=!4m2!3m1!19sChIJeVkmCikn9ocRcVcd-IGejSQ\"><span><u>Queermunity MN</u></span></a><span> (3036 Hennepin) </span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/Broken+Clock+Brewing+Cooperative/data=!4m2!3m1!19sChIJVTRddQEys1IR0qRjoxM5EwY\"><span><u>Broken Clock Brewing Cooperative</u></span></a><span> (1712 Marshall St)</span></p><p dir=\"ltr\"><span>Hang out at the finish to see live music, get a bike tune up, drink and enjoy community celebration!</span></p><span>Come find out how to become a</span><a href=\"https://mnlakesandrivers.org/citystewards/\"> <span><u>Minneapolis Lake Steward</u></span></a><span> and connect with amazing partners like Adopt a Drain, neighborhood associations, Bluethumb, and more!</span>",
-        "location": "Queermunity MN, 3036 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-06T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-06T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6m3qkrhodd9i544i0pj0c4i7kj@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3511777387530398\"",
         "id": "21fo72n7shlmm0qbjss9d6clsh",
         "status": "confirmed",
@@ -4624,6 +4556,108 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515604672337758\"",
+        "id": "10n0rh99t3i4qc01rqg2dg9h10",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MTBuMHJoOTl0M2k0cWMwMXJxZzJkZzloMTAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-13T22:25:35.000Z",
+        "updated": "2025-09-13T22:25:36.168Z",
+        "summary": "Versus Try it before you buy it CX",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Versus Try it before you buy it CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOg-MT0j_L_/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Sep 14, 2025 3:00 PM</span><span>.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Minnehaha+Falls+Lower+Glen+Trail/data=!4m2!3m1!19sChIJXTE2Rycp9ocRQn0ezziVB_E\"><span><u>Minnehaha Falls Lower Glen Trail</u></span></a><span> (Grassy deer run at the lower falls, near the wading area between Godfrey and 46th Ave)</span></p><p dir=\"ltr\"><span>3:00p - open practice with some skills share</span></p><p dir=\"ltr\"><span>3:45p - open races in three-lap format</span></p><p dir=\"ltr\"><span>SPECIAL FEATURE - hand up training zone - for both giving and receiving!</span></p><p dir=\"ltr\"><span>New to cyclocross? Interested in learning what all the hype is about? Wondering why people are running with their bikes instead of riding the dang thing? Come join us for an intro to cyclocross as a precursor to our flagship event, Versus CX. Come try before you buy! Versus CX is but a month away and we want to demystify and hopefully take the edge off any imposter syndrome out there. CX is goofy, fun and sometimes depending on who you are, very serious. We want you to feel welcomed and supported. Come look both ridiculous and pro with us this Sunday.</span></p>",
+        "location": "Minnehaha Falls Lower Glen Trail, Minnehaha Regional Park, 4801 S Minnehaha Dr, Minneapolis, MN 55417, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-14T15:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-14T16:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "10n0rh99t3i4qc01rqg2dg9h10@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515604980067134\"",
+        "id": "00dfookhc8noaimna1o8vt5rlp",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MDBkZm9va2hjOG5vYWltbmExbzh2dDVybHAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-07-23T17:04:56.000Z",
+        "updated": "2025-09-13T22:28:10.033Z",
+        "summary": "Taco Bell Century",
+        "description": "<p><span>Self-supported ride</span> <span><b>Taco Bell Century </b></span><a href=\"https://www.instagram.com/p/DMdHnsZMm7X/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://ridewithgps.com/routes/51703270\"><span><u>Route link</u></span></a><span>.</span></p><p><span>Saturday </span><span>Sep 20, 2025 8:00 AM</span><span>. Roll at 8:30 AM.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/1540+Stinson+Boulevard+Northeast/data=!4m2!3m1!19sChIJUak1zLMts1IRi7_N0QucPI8\" target=\"_blank\"><span><u>1540 Stinson Boulevard Northeast</u></span></a><span> (Taco Bell by the Quarry)</span></p><p><span>Get Baja blasted with your friends again! The third annual Taco Bell Century by Corpsewhale Racing.</span></p><p><span>A route will be provided when we get closer to the date. I promise more Taco Bells than is reasonable. We'll do a loop and there's plenty of parking spots in the Quarry lots for riders who drive to the start.</span></p><p><span>Fuel only with Taco Bell, or don't, we're not cops. The goal is fun. Ride at your own pace, we won't stick together as a group. You are responsible for yourself. </span></p>",
+        "location": "Taco Bell, 1540 Stinson Blvd NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-20T08:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-20T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "00dfookhc8noaimna1o8vt5rlp@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3515605505404382\"",
+        "id": "30rencmft89ilo65v5mflgfvv5",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MzByZW5jbWZ0ODlpbG82NXY1bWZsZ2Z2djUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-13T22:32:32.000Z",
+        "updated": "2025-09-13T22:32:32.702Z",
+        "summary": "Joyful Riders Ride + Film Screening",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders Ride + Film Screening </b></span><a href=\"https://www.instagram.com/p/DOQ0kOdjokx/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Tuesday </span><span>Sep 23, 2025 6:00 PM</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\"><span><u>Fulton Beer Taproom</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/The+Main+Cinema/data=!4m2!3m1!19sChIJnQDmlnsts1IRglaaDrQJ-HY\"><span><u>The Main Cinema</u></span></a></p><p dir=\"ltr\"><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. </span></p><span>Let’s meet up at</span><a href=\"https://www.instagram.com/fultonbeer/\"> <span><u>@fultonbeer</u></span></a><span> on September 23 at 6 p.m., take a slow-paced DJ ride through North Loop and Northeast Minneapolis, then end at</span><a href=\"https://www.instagram.com/themaincinema/\"> <span><u>@themaincinema</u></span></a><span> for the 7:30pm film screening of “Berlin Loop” with writer-director Emily Manthei and producer Jenny Jo Stokka.</span>",
+        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-23T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-23T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "30rencmft89ilo65v5mflgfvv5@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

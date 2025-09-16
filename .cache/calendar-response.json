@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757920031654,
+  "timestamp": 1758006441487,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33nur8u5snb8u0o\"",
@@ -1154,45 +1154,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3490664779362622\"",
-        "id": "43lb85meeku31ed4j6cnajls1s_20250908T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA5MDhUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-22T14:30:03.000Z",
-        "updated": "2025-04-22T14:33:09.681Z",
-        "summary": "ACF training drop ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-08T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-08T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "43lb85meeku31ed4j6cnajls1s",
-        "originalStartTime": {
-          "dateTime": "2025-09-08T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "43lb85meeku31ed4j6cnajls1s@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3490664779362622\"",
         "id": "43lb85meeku31ed4j6cnajls1s_20250915T233000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NDNsYjg1bWVla3UzMWVkNGo2Y25hamxzMXNfMjAyNTA5MTVUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -1692,45 +1653,6 @@
         },
         "iCalUID": "7rub3saevpmgsli9fldk90i3od@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3495372213186558\"",
-        "id": "0e40ipptntkno287gp87si6fao_20250908T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGU0MGlwcHRudGtubzI4N2dwODdzaTZmYW9fMjAyNTA5MDhUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-19T20:21:30.000Z",
-        "updated": "2025-05-19T20:21:46.593Z",
-        "summary": "Bike Polo New Player Mondays",
-        "description": "<p dir=\"ltr\"><span>Bike Polo (pick-up game)</span> <span><b>Bike Polo New Player Mondays. </b></span><a href=\"https://www.facebook.com/share/p/18Y9Mk752U/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Monday’s 5pm - dark all summer long (weather permitting).</span></p><p dir=\"ltr\"><span>Location: </span><a href=\"https://www.google.com/maps/place/Minneapolis+Bike+Polo+Court/data=!4m2!3m1!19sChIJoQKSCewn9ocRDb6HYYJREas\"><span><u>Minneapolis Bike Polo Court</u></span></a><span> (E 35th St and 3rd Ave S)</span></p><p dir=\"ltr\"><span>Looking to try out bike polo? Bring your bike, helmet (light gloves are nice). All skill levels welcome! </span></p><p dir=\"ltr\"><span>We will have some mallets and balls for you to practice shooting the ball around and other skills.</span></p>",
-        "location": "Minneapolis Bike Polo Court, 3429 3rd Ave S, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-08T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-08T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0e40ipptntkno287gp87si6fao",
-        "originalStartTime": {
-          "dateTime": "2025-09-08T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0e40ipptntkno287gp87si6fao@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -3501,40 +3423,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3512627262144350\"",
-        "id": "0bhmq3f8opka0c5a0kgqts5bj7",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGJobXEzZjhvcGthMGM1YTBrZ3F0czViajcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-27T16:53:50.000Z",
-        "updated": "2025-08-27T16:53:51.072Z",
-        "summary": "BWB x MDL MTB skills clinic for BIPOC",
-        "description": "<p dir=\"ltr\"><span>Skills Clinic</span> <span><b>BWB x MDL MTB skills clinic for BIPOC </b></span><a href=\"https://www.instagram.com/p/DN0jTltQGIe/?img_index=2\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://bikingwithbaddies.com/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Monday </span><span>Sep 8, 2025</span><span> or Wednesday </span><span>Sep 10, 2025</span><span>. 5:30-7:30 pm.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/The+Trailhead/data=!4m2!3m1!19sChIJ--h0JjAzs1IR2QyFX-Y3zFM\"><span><u>The Trailhead</u></span></a><span> at Theo Wirth Park</span></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: BIPOC only (Black, Indigenous, or People of Color)</span></p><p dir=\"ltr\"><span><b>Registration links: </b></span><a href=\"https://www.dirtlegion.com/tickets/p/fundamental-skills-1-baddies-sept-8\"><span><u>Sep 8th clinic</u></span></a><span>, </span><a href=\"https://www.dirtlegion.com/tickets/p/fundamental-skills-1-baddies-sept-10\"><span><u>Sept 10th clinic</u></span></a><span> (see MDL website for loaner bike registration, if needed)</span></p><p dir=\"ltr\"><span>Biking with Baddies and Midwest Dirt legion are putting on mountain bike skills clinics and a MTB group ride for people of color. Certified coaches will teach us basic skills of riding our bikes through the woods. They’ll help us get to know our bikes and the fundamental skills for safe, fun and controlled riding. Some things covered will be: bike handling, balance, braking, and confidence in the wooded trails.</span></p><p dir=\"ltr\"><span>LOANER BIKES provided by the Trailhead &amp; Now Bikes if needed!</span></p><p dir=\"ltr\"><span>Helmet required. Attending one of these skills clinics is required if you want to attend the Sept. 13 group ride.</span></p>",
-        "location": "The Trailhead, 1221 Theodore Wirth Pkwy, Minneapolis, MN 55422, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-08T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-08T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0bhmq3f8opka0c5a0kgqts5bj7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3512627290492766\"",
         "id": "7k03qf7leuo7clao4jsmvqqngb",
         "status": "confirmed",
@@ -3884,40 +3772,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2etr976uifvb6n9c86q3ankfpu@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513702641720958\"",
-        "id": "38c7mcfn6qfoofsut0gb6sd79v",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzhjN21jZm42cWZvb2ZzdXQwZ2I2c2Q3OXYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-04-02T22:38:33.000Z",
-        "updated": "2025-09-02T22:15:20.860Z",
-        "summary": "Geno Mondays",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Geno Mondays</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOGt6SSjW0E/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Monday </span><span>Sep 8, 2025 6:30 PM</span><span>. Meet at 6:30 pm, roll at 7 pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Yarborough+Printshop/data=!4m2!3m1!19sChIJt-Z51Asp9ocR93Zow8EYdHE\"><span><u>Yarborough Printshop</u></span></a><span> (900 W 50th St )</span></p><p dir=\"ltr\"><span>Distance: 4.5 miles</span></p><p dir=\"ltr\"><span>Slow pace, bring lights and water.</span></p><p dir=\"ltr\"><span>We’re gonna be grilling (we’ll have vegan dogs) and potlucking in the printshop parking lot along with a bigggg raffle to raise funds to get a friend and native elder and water protector a new truck. Bring a friend, bring cash, bring a snack to share, bring your joy!</span></p>",
-        "location": "Yarborough Printshop, 900 W 50th St, Minneapolis, MN 55419, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-08T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-08T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "38c7mcfn6qfoofsut0gb6sd79v@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

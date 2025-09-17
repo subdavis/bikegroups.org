@@ -1,15 +1,15 @@
 {
-  "timestamp": 1758006441487,
+  "timestamp": 1758092794628,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33nur8u5snb8u0o\"",
+    "etag": "\"p33fpfe7etneou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-13T22:32:32.702Z",
+    "updated": "2025-09-16T17:58:24.670Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO_to8Xl1o8DEO_to8Xl1o8DGAEg6qvg_gIo6qvg_gI=",
+    "nextSyncToken": "CN-XuO7t3Y8DEN-XuO7t3Y8DGAEg2dKngAMo2dKngAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1934,45 +1934,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3505216046474622\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250909T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA5MDlUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-07-15T19:33:43.237Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-09T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-09T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
-        "originalStartTime": {
-          "dateTime": "2025-09-09T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3505216046474622\"",
         "id": "4sbne8gesv26jj2kr5d1bp9ssh_20250916T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTA5MTZUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2670,45 +2631,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3510379985480606\"",
-        "id": "532qn9vei3uq8068fp4okambgd_20250909T224500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MDlUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-14T16:46:11.000Z",
-        "updated": "2025-08-14T16:46:32.740Z",
-        "summary": "Tuesday Night Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
-        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-09T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-09T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
-        "originalStartTime": {
-          "dateTime": "2025-09-09T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510379985480606\"",
         "id": "532qn9vei3uq8068fp4okambgd_20250916T224500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MTZUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -3225,45 +3147,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "33rtr4t3st6e8egp6vq1h0kpa1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3511410442988318\"",
-        "id": "6t20o53153djschhi1tnmmp9k3_20250909T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MDlUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-20T15:53:41.494Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
-        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-09T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-09T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
-        "originalStartTime": {
-          "dateTime": "2025-09-09T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

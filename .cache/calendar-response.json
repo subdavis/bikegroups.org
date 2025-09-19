@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758179215202,
+  "timestamp": 1758265614212,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p327trncsirg8u0o\"",
@@ -538,46 +538,6 @@
         },
         "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3484100333511230\"",
-        "id": "2gllle8uet9h6uckcgmvb4iics_20250911T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNTA5MTFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-15T14:46:58.000Z",
-        "updated": "2025-03-15T14:49:26.755Z",
-        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
-        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-11T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
-        "originalStartTime": {
-          "dateTime": "2025-09-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -3433,40 +3393,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3515071481506878\"",
-        "id": "5sdi5d50vs9hoimgpelrmkv5fr",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXNkaTVkNTB2czlob2ltZ3BlbHJta3Y1ZnIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-10T20:22:20.000Z",
-        "updated": "2025-09-10T20:22:20.753Z",
-        "summary": "EZ Bike Club Motion on the Mississippi ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>EZ Bike Club Motion on the Mississippi ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOXJetiANkE/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Sep 11, 2025 6:30 PM</span><span>. 6:30pm meet-up, 7pm roll out.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Mears+Park/data=!4m2!3m1!19sChIJvaS7BlDV94cRh_ZvG-yyjt8\"><span><u>Mears Park</u></span></a><span> (221 Fifth St E, St. Paul)</span></p><p dir=\"ltr\"><span>Distance: ~20 miles. Pace: Spicy pace (likely ~15-18mph)</span></p><p dir=\"ltr\"><span>Bring lights.</span></p>",
-        "location": "Mears Park, 221 5th St E, St Paul, MN 55101, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-11T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-11T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5sdi5d50vs9hoimgpelrmkv5fr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3515071931285054\"",
         "id": "5epse7ib1ngouf7ko3vden38t8",
         "status": "confirmed",
@@ -3493,40 +3419,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5epse7ib1ngouf7ko3vden38t8@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515072534454270\"",
-        "id": "2oqlal9go2unqktmck1k3qql5t",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mm9xbGFsOWdvMnVucWt0bWNrMWszcXFsNXQgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-10T20:31:06.000Z",
-        "updated": "2025-09-10T20:31:07.227Z",
-        "summary": "MIA Bike Night",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>MIA Bike Night</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOXNWAMkSEz/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Sep 11, 2025 5:00 PM</span><span>. 5-8pm.</span></p><p dir=\"ltr\"><span><b>Location: </b></span><a href=\"https://www.google.com/maps/place/Minneapolis+Institute+of+Art/data=!4m2!3m1!19sChIJT0k6WbEys1IRpnx9LgDjLMU\"><span><u>Minneapolis Institute of Art</u></span></a><span> (2400 3rd Ave S)</span></p><span>Roll into the courtyard for Bike Night on Thursday evening! Connect with the Twin Cities cycling community through bike rides, bike safety checks, and bike bingo. Take a photo with your fixie in Mia’s photo booth. Free bike safety checks by </span><a href=\"https://www.instagram.com/p/DOXNWAMkSEz/\"><span><u>Bonesaw Cycling Collective</u></span></a><span>. Enjoy giveaways from partner</span><a href=\"https://www.instagram.com/perennialcycle/\"><span><u> @perennialcycle</u></span></a><span>.</span><a href=\"https://www.instagram.com/aspireartisanstudiosfolkschool/\"><span><u> @aspireartisanstudiosfolkschool</u></span></a><span> highlights a new exhibition with wooden wall art making. All free, no tickets required.</span><span><br></span><span>🪵 Create with Aspire Artisan Folk School</span><span><br></span><span>🍕 Snacks from</span><a href=\"https://www.instagram.com/pizzakarmamn/\"><span><u> @pizzakarmamn</u></span></a><span> food truck</span><span><br></span><span>🖼️ Check out “Timber! Art and Woodwork at the Fall of the Austro-Hungarian Empire”</span>",
-        "location": "Minneapolis Institute of Art, 2400 3rd Ave S, Minneapolis, MN 55404, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-11T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-11T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2oqlal9go2unqktmck1k3qql5t@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3629,40 +3521,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3d8qgqo596p1io28vm7ejs5pbj@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515075996772318\"",
-        "id": "6p3ti2hgab3guqh81f6ssornj6",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnAzdGkyaGdhYjNndXFoODFmNnNzb3JuajYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-10T20:59:58.000Z",
-        "updated": "2025-09-10T20:59:58.386Z",
-        "summary": "Handup California Street Farm Pizza Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Handup California Street Farm Pizza Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DORtVjuj_kM/?img_index=1\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf_FCeJ3-IaVSPp8Uu3MaggOpuw0cXIoAzfGjDhNmGDKNofeg/viewform\"><span><u>RSVP Link</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursday </span><span>Sep 11, 2025 6:00 PM</span><span>. Roll out shortly after 6pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> </span></p><p dir=\"ltr\"><span>Finish: </span><a href=\"https://www.google.com/maps/place/California+Street+Farm/data=!4m2!3m1!19sChIJNfV0MAsys1IReZShbohZcs8\"><span><u>California Street Farm</u></span></a><span> (72 22nd Ave NE) </span><a href=\"https://www.instagram.com/californiastreetfarm/\"><span><u>@californiastreetfarm</u></span></a></p><p dir=\"ltr\"><span>Distance: 10 miles. Pace: Social, typically 12-14 mph. </span></p><span>Updated RSVP link in bio, please RSVP so we can plan on number of pizzas. The social ride will leave</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"><span><u> @behindbarsbicycleshop</u></span></a><span> at 6 PM. You do not need to order/eat pizza to join the group ride and fun at the farm. Pizza - 7 PM till dark. We will take pizza orders at the farm and cook on-site.</span>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-11T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6p3ti2hgab3guqh81f6ssornj6@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

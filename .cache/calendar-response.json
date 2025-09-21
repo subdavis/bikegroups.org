@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758351937915,
+  "timestamp": 1758438327829,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p327trncsirg8u0o\"",
@@ -3114,40 +3114,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3512627850169886\"",
-        "id": "0nnrh3t25pel55hhlvvk8joso7",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MG5ucmgzdDI1cGVsNTVoaGx2dms4am9zbzcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-27T16:58:44.000Z",
-        "updated": "2025-08-27T16:58:45.084Z",
-        "summary": "BWB x MDL MTB group ride for BIPOC",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>BWB x MDL MTB group ride for BIPOC </b></span><a href=\"https://www.instagram.com/p/DN0jTltQGIe/?img_index=2\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://bikingwithbaddies.com/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Sep 13, 2025 10:00 AM</span><span> - 12pm.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Carver+lake+bike+Park/data=!4m2!3m1!19sChIJW_0SmQjX94cRzuWcBMIgDyI\"><span><u>Carver lake bike Park</u></span></a><span> (Woodbury)</span></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: BIPOC only (Black, Indigenous, or People of Color)</span></p><p dir=\"ltr\"><span><b>Registration links: </b></span><a href=\"https://www.dirtlegion.com/tickets/p/fundamental-skills-1-baddies-sept-8\"><span><u>Sep 8th clinic</u></span></a><span>, </span><a href=\"https://www.dirtlegion.com/tickets/p/fundamental-skills-1-baddies-sept-10\"><span><u>Sept 10th clinic</u></span></a><span> (see MDL website for loaner bike registration, if needed)</span></p><p dir=\"ltr\"><span>Biking with Baddies and Midwest Dirt legion are putting on mountain bike skills clinics and a MTB group ride for people of color. This group ride is open to everyone who attended the Sep 8th or Sep 10th clinic.</span></p><p dir=\"ltr\"><span>Helmet required</span></p>",
-        "location": "Carver lake bike Park, Carver Lake Park and Beach, 3175 Century Ave S, Woodbury, MN 55125, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-13T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-13T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0nnrh3t25pel55hhlvvk8joso7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3512795858538462\"",
         "id": "2rfmhhmjtm3l2ifah5fimjlqcg",
         "status": "confirmed",
@@ -3206,40 +3172,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2o2it871e2q600s5mufeanj0sm@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513383018512222\"",
-        "id": "5l5rm81th0m823ai81mefbb3s7",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NWw1cm04MXRoMG04MjNhaTgxbWVmYmIzczcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-01T01:51:48.000Z",
-        "updated": "2025-09-01T01:51:49.256Z",
-        "summary": "Loons Loop ride (BikeMN)",
-        "description": "<p dir=\"ltr\"><span>Organized ride</span> <span><b>Loons Loop ride (BikeMN)</b></span><span>. </span><a href=\"https://www.bikemn.org/all-events/loons-loop/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Sep 13, 2025</span><span>. Meet at 8:30am, roll at 9am..</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Brackett+Park/data=!4m2!3m1!19sChIJBZIBJtUp9ocRf6VSNE8Uok0\"><span><u>Brackett Park</u></span></a></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>4.5 miles</span></p><p dir=\"ltr\"><span>BikeMN-organized group ride marshalled by Joyful riders with a stop at Loons coffee. Capped at 150 riders, registration required.</span></p>",
-        "location": "Brackett Park, 2728 S 39th Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-13T08:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-13T10:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5l5rm81th0m823ai81mefbb3s7@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3510,40 +3442,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3515071931285054\"",
-        "id": "5epse7ib1ngouf7ko3vden38t8",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NWVwc2U3aWIxbmdvdWY3a28zdmRlbjM4dDggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-10T20:26:05.000Z",
-        "updated": "2025-09-10T20:26:05.642Z",
-        "summary": "Perennial FTW Stillwater ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial FTW Stillwater ride</b></span> <a href=\"https://www.instagram.com/p/DOWNV9xjdXo/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Sep 13, 2025 9:00 AM</span><span>. Meet at 9am, return by 5pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Matthews+Park/data=!4m2!3m1!19sChIJ_2gI0jMts1IRird8mg9W2jY\"><span><u>Matthews Park</u></span></a><span> (2318 29th Ave S)</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 55 miles. </span><span><b>Pace</b></span><span>:10-12 mph. </span></p><p dir=\"ltr\"><span>Join us for a day-long adventure riding to Stillwater. This is a destination (almost entirely on the beautiful Gateway State Trail) that we hope can be made more accessible through a social, no-drop, femme/trans/women/non-binary group ride.</span></p><p dir=\"ltr\"><span>Be sure to bring water and a lunch or snack for our picnic stop in Stillwater. We will have a cargo bike with a cooler for you to put any food in, plus some additional treats to share. </span></p>",
-        "location": "Matthews Park, 2318 29th Ave S, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-13T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-13T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5epse7ib1ngouf7ko3vden38t8@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3515072931891518\"",
         "id": "6ag7mg1b5a6tsjr6qbpf19qelg",
         "status": "confirmed",
@@ -3752,45 +3650,6 @@
         "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
         "originalStartTime": {
           "dateTime": "2025-09-27T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515358681072510\"",
-        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250913T161500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MTNUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-27T17:05:00.000Z",
-        "updated": "2025-09-12T12:15:40.536Z",
-        "summary": "Canceled: Behind Bars Single Speed Saturday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-13T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-13T11:40:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
-        "originalStartTime": {
-          "dateTime": "2025-09-13T11:15:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1758956715274,
+  "timestamp": 1759043127487,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337vbn7evbr8u0o\"",
+    "etag": "\"p32ftf4vajbsou0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-26T17:33:08.392Z",
+    "updated": "2025-09-27T15:01:28.215Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_13O769o8DEM_13O769o8DGAEgtdHQgQMotdHQgQM=",
+    "nextSyncToken": "CJ_Xk-qa-Y8DEJ_Xk-qa-Y8DGAEgtdHQgQMotdHQgQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1872,44 +1872,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510704321536734\"",
-        "id": "34r6tvvdkqoa33bejv4msunph7_20250920T143000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzRyNnR2dmRrcW9hMzNiZWp2NG1zdW5waDdfMjAyNTA5MjBUMTQzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-05-26T15:34:59.000Z",
-        "updated": "2025-08-16T13:49:20.768Z",
-        "summary": "Perennial Family Fun Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span> Perennial Family Fun Rides </span><a href=\"https://www.instagram.com/p/DJw1oLsxyU-/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Third Saturday in June, July, August, and September</span></p><p dir=\"ltr\"><span>Jun 21, 2025</span><span>, </span><span>Jul 19, 2025</span><span>, </span><span>Aug 16, 2025</span><span>, </span><span>Sep 20, 2025</span></p><p dir=\"ltr\"><span>All rides will </span><span><b>meet at 9:30am</b></span><span> and </span><span><b>roll out at 10am</b></span><span>. </span><span><u>NOT ALL</u></span><span> rides will meet at Perennial Cycle so watch out on our socials for more info leading up to each ride.</span></p><p dir=\"ltr\"><span>Come enjoy morning rides accompanied by singalongs, story-time, face-painting, treats, and more!</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "34r6tvvdkqoa33bejv4msunph7",
-        "originalStartTime": {
-          "dateTime": "2025-09-20T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "34r6tvvdkqoa33bejv4msunph7@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3511087187562622\"",
         "id": "06anka8666g0693631umnlum9m",
         "status": "confirmed",
@@ -2448,45 +2410,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3515358635810782\"",
-        "id": "0gl68amvo0i58ki47tu1q5ap9n_20250920T161500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjBUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-27T17:05:00.000Z",
-        "updated": "2025-09-12T12:15:17.905Z",
-        "summary": "Behind Bars Single Speed Saturday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind Bars Single Speed Saturday ride </b></span><a href=\"https://www.instagram.com/p/DNriGEu2L2e/\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span><b>When: </b></span><span>Meet at 11:15 AM</span><span>. Roll at 11:30am. </span></p><p><span>This ride is running on</span> <span><span>Saturday </span><span>Sep 13,</span></span><span> </span><span>Sep 20, and</span><span> </span><span>Sep 27, 2025</span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p><span><b>Distance: </b></span><span>~30 miles. </span><span><b>Pace: </b></span><span>“Spicy but not too spicy” (likely ~15mph). </span></p><p><span>Single Speed Bikes Only! Leave your gears at home! No Drop Ride.</span></p><p><span>Things to bring: helmet, flat repair kit, water, and a positive attitude.</span></p><p><span>9/13 - Route follows the Mississippi River</span></p><p><span>9/20 - Route follows the Luce Line </span></p><p><span>9/27 - Route goes into Theodore Wirth</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T14:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "0gl68amvo0i58ki47tu1q5ap9n",
-        "originalStartTime": {
-          "dateTime": "2025-09-20T11:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515358635810782\"",
         "id": "0gl68amvo0i58ki47tu1q5ap9n_20250927T161500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=MGdsNjhhbXZvMGk1OGtpNDd0dTFxNWFwOW5fMjAyNTA5MjdUMTYxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2517,40 +2440,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515604980067134\"",
-        "id": "00dfookhc8noaimna1o8vt5rlp",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDBkZm9va2hjOG5vYWltbmExbzh2dDVybHAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-07-23T17:04:56.000Z",
-        "updated": "2025-09-13T22:28:10.033Z",
-        "summary": "Taco Bell Century",
-        "description": "<p><span>Self-supported ride</span> <span><b>Taco Bell Century </b></span><a href=\"https://www.instagram.com/p/DMdHnsZMm7X/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://ridewithgps.com/routes/51703270\"><span><u>Route link</u></span></a><span>.</span></p><p><span>Saturday </span><span>Sep 20, 2025 8:00 AM</span><span>. Roll at 8:30 AM.</span></p><p><span>Start: </span><a href=\"https://www.google.com/maps/place/1540+Stinson+Boulevard+Northeast/data=!4m2!3m1!19sChIJUak1zLMts1IRi7_N0QucPI8\" target=\"_blank\"><span><u>1540 Stinson Boulevard Northeast</u></span></a><span> (Taco Bell by the Quarry)</span></p><p><span>Get Baja blasted with your friends again! The third annual Taco Bell Century by Corpsewhale Racing.</span></p><p><span>A route will be provided when we get closer to the date. I promise more Taco Bells than is reasonable. We'll do a loop and there's plenty of parking spots in the Quarry lots for riders who drive to the start.</span></p><p><span>Fuel only with Taco Bell, or don't, we're not cops. The goal is fun. Ride at your own pace, we won't stick together as a group. You are responsible for yourself. </span></p>",
-        "location": "Taco Bell, 1540 Stinson Blvd NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T08:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "00dfookhc8noaimna1o8vt5rlp@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2658,40 +2547,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "36urh3ev8sfobg0tdn8cll0k5f@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3516250117299486\"",
-        "id": "1uo9a2t5948rlh8up34c9f576k",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVvOWEydDU5NDhybGg4dXAzNGM5ZjU3NmsgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-17T16:04:18.000Z",
-        "updated": "2025-09-17T16:04:18.649Z",
-        "summary": "MDL FTW Whitetail season closer ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Midwest Dirt Legion FTW Whitetail season closer ride </b></span><a href=\"https://www.dirtlegion.com/events/whitetail-season-closer\"><span><u>Ride Details</u></span></a><span>. </span><a href=\"https://www.instagram.com/p/DOd1o9akQRc/?utm_source=ig_web_copy_link&amp;igsh=YTJmODV3cHR1NHNn\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Date: </b></span><span>Saturday </span><span>Sep 20, 2025 12:00 PM</span><span> - 4 PM.</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: Whitetail trailhead, Riverfalls, WI. </span><a href=\"https://maps.app.goo.gl/7JHEMoA4vXPJnNJs7\"><span><u>Map link</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: “MDL hosts events specifically for marginalized genders. FTW / anyone but cis-men are welcome at our rides! Here’s a</span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"> <span><u>great resource</u></span></a><span> defining FTW from our friends at GreaseRag.”</span></p><p dir=\"ltr\"><span>Come closeout the season with us at Whitetail!  Sure to see some amazing fall colors meet at the trailhead to learn names and get started. </span></p><p dir=\"ltr\"><span><b>OPEN GROUP RIDES:</b></span><span> All skill levels welcome and we will break into groups as necessary so we all have a fun ride! </span></p><p dir=\"ltr\"><span>This is a no drop ride so plan for plenty of time to stop and chat, scope out features, and generally bring the stoke!  We will head over to the nearby brewery for after ride snacks and pals!</span></p>",
-        "location": "V9P7+XV, River Falls, WI 54022, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-20T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-20T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1uo9a2t5948rlh8up34c9f576k@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1759129634580,
+  "timestamp": 1759216036604,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32ftf4vajbsou0o\"",
+    "etag": "\"p33nr3849nnv8u0o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-27T15:01:28.215Z",
+    "updated": "2025-09-29T17:17:58.932Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ_Xk-qa-Y8DEJ_Xk-qa-Y8DGAEgtdHQgQMotdHQgQM=",
+    "nextSyncToken": "CO-xoIm9_o8DEO-xoIm9_o8DGAEgodi6ggMoodi6ggM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -356,45 +356,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3484031190778526\"",
-        "id": "4aorej03dlvlvdsvlvjfrdq2hf_20250924T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGFvcmVqMDNkbHZsdmRzdmx2amZyZHEyaGZfMjAyNTA5MjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-03-15T05:13:15.389Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesday</span> <span>Mar 19, 2025 6:00 PM</span><span>. Every Wednesday during warm weather months.</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-24T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4aorej03dlvlvdsvlvjfrdq2hf",
-        "originalStartTime": {
-          "dateTime": "2025-09-24T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4aorej03dlvlvdsvlvjfrdq2hf@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -1931,45 +1892,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511410537799134\"",
-        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250930T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MzBUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:03:57.000Z",
-        "updated": "2025-08-20T15:54:28.899Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\" target=\"_blank\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
-        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-30T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-30T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
-        "originalStartTime": {
-          "dateTime": "2025-09-30T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3511777387530398\"",
         "id": "21fo72n7shlmm0qbjss9d6clsh",
         "status": "confirmed",
@@ -2031,84 +1953,6 @@
         "sequence": 1,
         "reminders": {
           "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513384004244734\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-09-01T02:00:02.122Z",
-        "summary": "No name alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T14:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-10-05T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513384004244734\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20251102T184500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTExMDJUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-09-01T02:00:02.122Z",
-        "summary": "No name alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Apr 6, 2025</span><span>. Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-02T12:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-02T14:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-11-02T12:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
         },
         "eventType": "default"
       },
@@ -2432,45 +2276,6 @@
         },
         "iCalUID": "36urh3ev8sfobg0tdn8cll0k5f@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3517009707954398\"",
-        "id": "no3ad2gap0fh4ticn9spv268de_20250922T233000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bm8zYWQyZ2FwMGZoNHRpY245c3B2MjY4ZGVfMjAyNTA5MjJUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-22T14:30:03.000Z",
-        "updated": "2025-09-22T01:34:13.977Z",
-        "summary": "ACF training drop ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Angry Catfish Monday training ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Monday at 6:30 pm.</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 20-40 miles. Pace: 19-22 mph.</span></p><p dir=\"ltr\"><span>*This is a drop ride*. We’re spending the first few weeks dialing in fundamentals: pacelining, crosswinds, and smooth group flow. June we’ll split into an A &amp; B group to accommodate everyone! More details at first group ride. Led by: Josh &amp; Park</span></p><p><span>See Discord link for ride updates. <br></span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-22T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-22T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "no3ad2gap0fh4ticn9spv268de",
-        "originalStartTime": {
-          "dateTime": "2025-09-22T18:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "no3ad2gap0fh4ticn9spv268de@google.com",
-        "sequence": 2,
         "reminders": {
           "useDefault": true
         },
@@ -3226,6 +3031,785 @@
         },
         "iCalUID": "7td9i0n38p7j9q9po7vmavafoe@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518326454229662\"",
+        "id": "0uja7tups74tfcdh355tfnq85j",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MHVqYTd0dXBzNzR0ZmNkaDM1NXRmbnE4NWogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:27:06.000Z",
+        "updated": "2025-09-29T16:27:07.114Z",
+        "summary": "SSCXWC - Bandit Cross by Bike Jerks",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC - Bandit Cross by Bike Jerks</b></span> <a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=3\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday </span><span>Oct 2, 2025 5:30 PM</span><span> Roll at 6pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Free, open to everyone (you don’t have to be registered for SSCXWC</span></p><p dir=\"ltr\"><span><b>Location: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Race on bandit trails. Bring lights and your own beverages. </span></p>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-02T17:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-02T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0uja7tups74tfcdh355tfnq85j@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518326938430718\"",
+        "id": "7o78883or6bhjv931og0ke1mcr",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=N283ODg4M29yNmJoanY5MzFvZzBrZTFtY3IgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:30:41.000Z",
+        "updated": "2025-09-29T16:31:09.215Z",
+        "summary": "SSCXWC Welcome Group Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>SSCXWC Welcome Group Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=2\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Oct 3, 2025 3:00 PM</span><span> Roll at 4pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be registered for SSCXWC</span></p><p dir=\"ltr\"><span><b>Location:</b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 12 miles. </span><span><b>Pace:</b></span><span> Casual, likely 10-12mph.</span></p><p dir=\"ltr\"><span>Mixed terrain ride with some single track and mid-ride stop in the woods. </span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-03T15:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-03T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "7o78883or6bhjv931og0ke1mcr@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518327316933950\"",
+        "id": "76t8chh8s46h6k53lrh3grfdg9",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzZ0OGNoaDhzNDZoNms1M2xyaDNncmZkZzkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:34:18.000Z",
+        "updated": "2025-09-29T16:34:18.466Z",
+        "summary": "SSCXWC Welcome Party and Packet pick-up",
+        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Welcome Party and Packet pick-up</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=3\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Oct 3, 2025 6:00 PM</span><span> 6-10pm+.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Free and open to the public. (you don’t have to be registered for SSCXWC, bring your friends!)</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Arbeiter+Brewing+Company/data=!4m2!3m1!19sChIJ-74_cycp9ocRtteAzcOfGIU\"><span><u>Arbeiter Brewing Company</u></span></a></p><p dir=\"ltr\"><span>6:00pm Packet pick up opens</span></p><p dir=\"ltr\"><span>7:00pm Betty Won't</span></p><p dir=\"ltr\"><span>7:45pm 2026 host comp #1</span></p><p dir=\"ltr\"><span>8:15pm Cowboy Thoughts</span></p><p dir=\"ltr\"><span>9:30pm Packet pick up closes</span></p><p dir=\"ltr\"><span>10:00pm Group roll-out to secret afterparty spot</span></p><p dir=\"ltr\"><span>Locals, this is your only chance for packet pickup, so be there! All registered racers get a free SSCXWC x Wilde Bikes musette bag filled with goodies including your Wolf Tooth commemorative top cap. Live music, dancing, burgers from Francis, and beer!</span></p>",
+        "location": "Arbeiter Brewing Company, 3038 Minnehaha Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-03T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-03T22:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "76t8chh8s46h6k53lrh3grfdg9@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518328635358718\"",
+        "id": "3p2r9jo4ejo9stun3ekb8gpqot",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3AycjlqbzRlam85c3R1bjNla2I4Z3Bxb3QgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:45:17.000Z",
+        "updated": "2025-09-29T16:45:17.679Z",
+        "summary": "SSCXWC Feats of Strength",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>SSCXWC Feats of Strength</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=4\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 9:00 AM</span><span> Roll at 10am. </span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be registered for SSCXWC</span></p><p dir=\"ltr\"><span><b>Start:</b></span> <a href=\"https://www.google.com/maps/place/Sea+Salt/data=!4m2!3m1!19sChIJe1KszQ8p9ocRGU32a3jajkg\"><span><u>Sea Salt</u></span></a><span> (4825 Minnehaha Ave) <b>Finish: </b>TBA at the start of the ride.</span></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>~30 miles. </span></p><p dir=\"ltr\"><span>9:00am Free Coffee + Breod Pudain</span></p><p dir=\"ltr\"><span>9:45am Announcements</span></p><p dir=\"ltr\"><span>10:00am Feats of Strength roll-out starts. Finish around 4pm.</span></p><p dir=\"ltr\"><span>You'll be placed in a group with other racers and led around town to partake in challenges and chilling. Earn enough pOOchie buxxx and you'll score a start-line advantage at Sunday's race!</span></p><p dir=\"ltr\"><span>In addition to FREE coffee and bread puddin', Sea Salt is selling beermosas, spam musubi or beet musubi you can pack for the day, and more. Each group will stop for a free cookout lunch.</span></p><p dir=\"ltr\"><span>Wear a bathing suit, pack extra water + snacks, and be ready to be on your bike for ~30 miles. Groups will end in various locations around MPLS, not at Sea Salt. This ride is only for registered SSCXWC25 racers.</span></p>",
+        "location": "Sea Salt, 4825 Minnehaha Ave, Minneapolis, MN 55417, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-04T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-04T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3p2r9jo4ejo9stun3ekb8gpqot@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518328807726430\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-29T16:46:43.863Z",
+        "summary": "No name alleycat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Rescheduled to second Sunday to avoid conflict with SSCXWC. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-12T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-12T14:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
+        "originalStartTime": {
+          "dateTime": "2025-10-05T12:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518328807726430\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20251102T184500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTExMDJUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-29T16:46:43.863Z",
+        "summary": "No name alleycat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Usually the first Sunday of the month. Sometimes rescheduled to avoid conflicts with other events</span><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-02T12:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-02T14:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16_R20251102T184500",
+        "originalStartTime": {
+          "dateTime": "2025-11-02T12:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518329528381374\"",
+        "id": "3j4pjf8f3t9o9ul7smh6m7kakn",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2o0cGpmOGYzdDlvOXVsN3NtaDZtN2tha24gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:52:43.000Z",
+        "updated": "2025-09-29T16:52:44.190Z",
+        "summary": "SSCXWC Saturday night party",
+        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Saturday night party</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=5\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 8:00 PM</span><span> 8pm-1am.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Free and open to the public. (you don’t have to be registered for SSCXWC, bring your friends!)</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Southside+Preservation+Society/data=!4m2!3m1!19sChIJW1GcqUYts1IRpYF5EteU1Tg\"><span><u>Southside Preservation Society</u></span></a><span> (2619 28th Ave S)</span></p><p dir=\"ltr\"><span>8:00pm Doors &amp; karaoke sign up</span></p><p dir=\"ltr\"><span>8:30pm 2026 host comp #2</span></p><p dir=\"ltr\"><span>9:00pm Karaoke Crime Scene (punk rock karaoke)</span></p><p dir=\"ltr\"><span>11:00pm DJ Shannon Blowtorch</span></p><p dir=\"ltr\"><span>1:00am You don't have to go home but you can't stay here</span></p><p dir=\"ltr\"><span>Music, DJs, dancing, $3 beers, and $5 cocktails! Experience part of the Southside Battle Train, sing your heart out at live band karaoke, and hit the dance floor. Free and open to the public!</span></p>",
+        "location": "Southside Preservation Society, 2619 28th Ave S, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-04T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T01:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3j4pjf8f3t9o9ul7smh6m7kakn@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518330084148126\"",
+        "id": "1jme6cnpt66jd8p3ib98bh6cf1",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWptZTZjbnB0NjZqZDhwM2liOThiaDZjZjEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T16:57:21.000Z",
+        "updated": "2025-09-29T16:57:22.074Z",
+        "summary": "SSCXWC main race",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC main race</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 5, 2025</span><span> 10am-4pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. </span></p><p dir=\"ltr\"><span>9:30am Party bus meets at Southside Preservation Society (reservation ONLY)</span></p><p dir=\"ltr\"><span>10:00am Race check-in opens</span></p><p dir=\"ltr\"><span>11:00am Course opens for pre-ride</span></p><p dir=\"ltr\"><span>12:15pm Men's Taters race (45 Mins)</span></p><p dir=\"ltr\"><span>1:30pm Non-binary &amp; Gender Expansive race +</span></p><p dir=\"ltr\"><span>Women's Open race (45 Mins)</span></p><p dir=\"ltr\"><span>2:45pm Men's Tots race (45 Mins)</span></p><p dir=\"ltr\"><span>3:30pm 2026 host comp #3</span></p><p dir=\"ltr\"><span>4:30pm Party bus departs from Buck Hill (reservation ONLY)</span></p><br><p dir=\"ltr\"><span>Racers will get a free brat or veggie burger as well as a free special edition SSCXWC beer. Additional drinks can be purchased at a discount with your racer wristband. </span></p><br><p dir=\"ltr\"><span>The races are only for registered SSCXWC25 racers, but we encourage spectators to attend! Dogs are allowed. There will be alcohol and scantily clad bicyclists-bring children at your own discretion.</span></p>",
+        "location": "Buck Hill, Burnsville, MN 55306, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-05T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1jme6cnpt66jd8p3ib98bh6cf1@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518330635302910\"",
+        "id": "5bs76ukqbg5cdnm0dlsj5bc1ab",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NWJzNzZ1a3FiZzVjZG5tMGRsc2o1YmMxYWIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T17:01:57.000Z",
+        "updated": "2025-09-29T17:01:57.651Z",
+        "summary": "SSCXWC Awards party",
+        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Awards party</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=7\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 5, 2025 7:00 PM</span><span> 7pm-10pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be a registered SSCXWC rider.</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Familia+Skateboard+Shop/data=!4m2!3m1!19sChIJz9ySOoAn9ocRKsmm-LGe5eQ\"><span><u>Familia Skateboard Shop</u></span></a></p><br><p dir=\"ltr\"><span>7:00pm Doors</span></p><p dir=\"ltr\"><span>7:30pm Prophets of Mothra</span></p><p dir=\"ltr\"><span>8:30pm Awards</span></p><p dir=\"ltr\"><span>9:00pm 2026 host comp/winner announcement</span></p><br><p dir=\"ltr\"><span>Hug your new friends and cheer for the cities vying to host SSCXWC in 2026. Flash and winners' tattoos by Goons. Portraits of non-binary and transgender cyclists from Erik Mathy's \"We've Always Been Here\" project will be on display. This party is only for registered SSCXWC25 riders.</span></p>",
+        "location": "Familia Skateboard Shop, 835 E Hennepin Ave, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-05T19:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-05T22:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5bs76ukqbg5cdnm0dlsj5bc1ab@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518331556211166\"",
+        "id": "6gjs7inkgkd7fm9l4pops2acu1_20250930T220000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nmdqczdpbmtna2Q3Zm05bDRwb3BzMmFjdTFfMjAyNTA5MzBUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T22:03:57.000Z",
+        "updated": "2025-09-29T17:09:38.105Z",
+        "summary": "MCF Tu Night CX",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOcfvULDQSU/?utm_source=ig_web_copy_link&amp;igsh=MWJ6ZzZuYnBkbDBmdw==\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Sep 30, 2025</span><span>. 5pm-9pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Ainsworth+Park/data=!4m2!3m1!19sChIJNWrSQNQ0s1IRy-kpYWfJCeQ\"><span><u>Ainsworth Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>This week has an </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>FTW</u></span></a><span> category (for anyone but cis-men) at 6:25pm.</span></p><p dir=\"ltr\"><span>5:00 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>5:35 PM - Intermediate &amp; Advanced - (40 minutes)</span></p><p dir=\"ltr\"><span>6:25 PM - FTW race (30 min)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
+        "location": "Ainsworth Park, 7700 W 28th St, St Louis Park, MN 55426, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-30T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-30T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6gjs7inkgkd7fm9l4pops2acu1",
+        "originalStartTime": {
+          "dateTime": "2025-09-30T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6gjs7inkgkd7fm9l4pops2acu1@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332143151998\"",
+        "id": "3i5qukp3elr8rk03b7isg0oief",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2k1cXVrcDNlbHI4cmswM2I3aXNnMG9pZWYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-29T17:14:31.000Z",
+        "updated": "2025-09-29T17:14:31.575Z",
+        "summary": "Lunch Break Brazing Cross",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Lunch Break Brazing Cross. </b></span><a href=\"https://www.bikereg.com/lunch-break-cyclocross\"><span><u>Registration</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday</span> <span>Oct 12, 2025</span><span>. 9am - 5pm. </span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/7050+Meadow+Grass+Avenue+South/data=!4m2!3m1!19sChIJNxhiy1DQ94cRXFN40DW9PXg\"><span><u>7050 Meadow Grass Avenue South</u></span></a><span> (Cottage Grove Bike Park)</span></p><p dir=\"ltr\"><span>Variety of gender and skill races, as well as “klunker”, single speed, and tracklocross races. See registration link for full schedule. Online registration closes Oct 11th. *On-site day of registration is $35. On-site registration opens at 8 a.m. Sunday and closes 30 minutes before each event. We do not require any sort of license to race. This is an unsanctioned race. </span></p><p dir=\"ltr\"><span>Each category will have a podium ceremony approximately 15 minutes after their race.</span></p>",
+        "location": "Cottage Grove Bike Park, 7050 Meadow Grass Ave S, Cottage Grove, MN 55016, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-12T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-12T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3i5qukp3elr8rk03b7isg0oief@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20250924T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTA5MjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-09-24T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-09-24T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-09-24T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251001T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEwMDFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-01T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-01T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-10-01T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251008T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEwMDhUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-08T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-08T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-10-08T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251015T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEwMTVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-15T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-10-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251022T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEwMjJUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-22T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-22T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-10-22T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251029T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEwMjlUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-29T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-29T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-10-29T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251106T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMDZUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-05T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-05T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-11-05T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251113T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMTNUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-12T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-12T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-11-12T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251120T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMjBUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-19T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-19T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-11-19T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251127T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMjdUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-26T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-26T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-11-26T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

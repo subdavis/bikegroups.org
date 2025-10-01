@@ -1,15 +1,15 @@
 {
-  "timestamp": 1759216036604,
+  "timestamp": 1759302411750,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33nr3849nnv8u0o\"",
+    "etag": "\"p337qbr5aou0900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-09-29T17:17:58.932Z",
+    "updated": "2025-09-30T13:09:13.213Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO-xoIm9_o8DEO-xoIm9_o8DGAEgodi6ggMoodi6ggM=",
+    "nextSyncToken": "CM-l7KrHgJADEM-l7KrHgJADGAEggv75ggMogv75ggM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1328,45 +1328,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3510379985480606\"",
-        "id": "532qn9vei3uq8068fp4okambgd_20250923T224500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MjNUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-14T16:46:11.000Z",
-        "updated": "2025-08-14T16:46:32.740Z",
-        "summary": "Tuesday Night Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
-        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-23T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-23T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
-        "originalStartTime": {
-          "dateTime": "2025-09-23T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510379985480606\"",
         "id": "532qn9vei3uq8068fp4okambgd_20250930T224500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTA5MzBUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -1853,45 +1814,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511410442988318\"",
-        "id": "6t20o53153djschhi1tnmmp9k3_20250923T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnQyMG81MzE1M2Rqc2NoaGkxdG5tbXA5azNfMjAyNTA5MjNUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T22:01:07.000Z",
-        "updated": "2025-08-20T15:53:41.494Z",
-        "summary": "MCF Tu Night CX",
-        "description": "<p><span>Race (CX)</span> <span><b>MCF Tu Night CX</b></span><span>. </span><a href=\"https://www.instagram.com/p/DNRpcl-tLpi/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.mncyclingfederation.org/mcf-cyclocross-calendar\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Aquila+Park/data=!4m2!3m1!19sChIJr4h_fHkg9ocRf_KfHcmQOEI\" target=\"_blank\"><span><u>Aquila Park</u></span></a><span> (St. Louis Park)</span></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>All Races are $25, adding a second race is $5. (Some weeks, racing may be free if you volunteer for set-up or teardown. Check with MCF for details) </span></p><p dir=\"ltr\"><span>All categories are self-selected and non gender-specific, so use your best judgement.</span></p><p dir=\"ltr\"><span>5:30 PM - Beginners &amp; Juniors - (30 minutes)</span></p><p dir=\"ltr\"><span>6:10 PM - Intermediate &amp; Masters (40+) - (40 minutes)</span></p><p dir=\"ltr\"><span>7:00 PM - Advanced - (50 minutes)</span></p><p dir=\"ltr\"><span>Check MCF instagram or website for more details. These are unsanctioned races, so you don’t need a racing license. No Gods, No USAC.</span></p><span>CX is a volunteer-intensive sport and we need all of the setup and tear down help we can get. Nights 6 and 7 will only be possible if we have sufficient crew to staff them. If you or your team are interested in volunteering please email </span><a href=\"mailto:calendarcoordinator@mncyclingfederation.org\"><span><u>calendarcoordinator@mncyclingfederation.org</u></span></a><span>!</span>",
-        "location": "Aquila Park, 3110 Xylon Ave S, St Louis Park, MN 55426, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-23T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-23T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6t20o53153djschhi1tnmmp9k3",
-        "originalStartTime": {
-          "dateTime": "2025-09-23T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6t20o53153djschhi1tnmmp9k3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3511777387530398\"",
         "id": "21fo72n7shlmm0qbjss9d6clsh",
         "status": "confirmed",
@@ -2168,40 +2090,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0gl68amvo0i58ki47tu1q5ap9n@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515605505404382\"",
-        "id": "30rencmft89ilo65v5mflgfvv5",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzByZW5jbWZ0ODlpbG82NXY1bWZsZ2Z2djUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-13T22:32:32.000Z",
-        "updated": "2025-09-13T22:32:32.702Z",
-        "summary": "Joyful Riders Ride + Film Screening",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders Ride + Film Screening </b></span><a href=\"https://www.instagram.com/p/DOQ0kOdjokx/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Tuesday </span><span>Sep 23, 2025 6:00 PM</span><span>. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\"><span><u>Fulton Beer Taproom</u></span></a><span> Finish: </span><a href=\"https://www.google.com/maps/place/The+Main+Cinema/data=!4m2!3m1!19sChIJnQDmlnsts1IRglaaDrQJ-HY\"><span><u>The Main Cinema</u></span></a></p><p dir=\"ltr\"><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. </span></p><span>Let’s meet up at</span><a href=\"https://www.instagram.com/fultonbeer/\"> <span><u>@fultonbeer</u></span></a><span> on September 23 at 6 p.m., take a slow-paced DJ ride through North Loop and Northeast Minneapolis, then end at</span><a href=\"https://www.instagram.com/themaincinema/\"> <span><u>@themaincinema</u></span></a><span> for the 7:30pm film screening of “Berlin Loop” with writer-director Emily Manthei and producer Jenny Jo Stokka.</span>",
-        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-23T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-23T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "30rencmft89ilo65v5mflgfvv5@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3810,6 +3698,40 @@
         },
         "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518475506427294\"",
+        "id": "2cnnvblanmb46nopohl135vkaq",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmNubnZibGFubWI0Nm5vcG9obDEzNXZrYXEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-09-30T13:09:12.000Z",
+        "updated": "2025-09-30T13:09:13.213Z",
+        "summary": "Full Cycle Garage Sale",
+        "description": "<p dir=\"ltr\"><span>Sale/Swap</span> <span><b>Full Cycle Garage Sale</b></span><span>. </span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DPMuwOoj5x2/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1ijt1h04p2fiD_QRIB9LXN\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 12:00 PM</span><span> 12pm-4pm.</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Full%2BCycle/data%3D!4m2!3m1!19sChIJXYJgXeEn9ocRCEodJ3mIZww&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1Ltq-YvcGDoPsqTfAaoGkU\" target=\"_blank\"><span><u>Full Cycle</u></span></a><span> (3515 Chicago Ave)</span></p><p dir=\"ltr\"><span>HUGE savings on used bikes of all styles &amp; sizes! E-Bikes, Recumbents, Tandems, Vintage. Sold as-is and priced to sell. </span></p>",
+        "location": "Full Cycle, 3515 Chicago Ave, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-04T12:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-04T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2cnnvblanmb46nopohl135vkaq@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

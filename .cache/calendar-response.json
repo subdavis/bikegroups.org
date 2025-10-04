@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759475190383,
+  "timestamp": 1759561528177,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32vrdalcpu3900o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-2qqzPhpADEL-2qqzPhpADGAEgvpzQgwMovpzQgwM=",
+    "nextSyncToken": "CL-2qqzPhpADEL-2qqzPhpADGAEgwNCIhAMowNCIhAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1794,6 +1794,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251202T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEyMDJUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-02T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-02T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-12-02T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3511087187562622\"",
         "id": "06anka8666g0693631umnlum9m",
         "status": "confirmed",
@@ -2100,40 +2139,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6ag7mg1b5a6tsjr6qbpf19qelg@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3515074917241886\"",
-        "id": "3d8qgqo596p1io28vm7ejs5pbj",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2Q4cWdxbzU5NnAxaW8yOHZtN2VqczVwYmogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-10T20:50:58.000Z",
-        "updated": "2025-09-10T20:50:58.620Z",
-        "summary": "MBMA Podium Party",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>MBMA Podium Party. </b></span><a href=\"https://www.instagram.com/p/DObtzQMEod1/?utm_source=ig_web_copy_link\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Friday </span><span>Sep 26, 2025</span><span>. 5-10pm.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/801+Transfer+Road/data=!4m2!3m1!19sChIJ5b3wnq8ss1IRKAbFcCU1Tfg\"><span><u>801 Transfer Road</u></span></a><span> Bay #9</span></p><p dir=\"ltr\"><span>The Summer Series is wrapped and we’re celebrating big.</span></p><p dir=\"ltr\"><span>🍔 Food + drinks (we’ll do our best to accommodate dietary needs)</span></p><p dir=\"ltr\"><span>🎶 Music + vibes</span></p><p dir=\"ltr\"><span>🚲 $1 mini-games (winner takes the pot)</span></p><p dir=\"ltr\"><span>Huge thank you to our volunteers and sponsors for making this all possible and thank you to everyone who came out and raced — it was a good time all season long.</span></p><p dir=\"ltr\"><span>We’ll also be crowning our Summer Series Champions 🏆 in Open, Trans/GNC, Women, First Fixed, and DFL. This one’s for the whole community — everyone pull up, kick it, and vibe together as we close out the season.</span></p>",
-        "location": "801 Transfer Rd, St Paul, MN 55114, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-09-26T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-09-26T22:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3d8qgqo596p1io28vm7ejs5pbj@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2555,6 +2560,45 @@
         "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
         "originalStartTime": {
           "dateTime": "2025-11-25T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3517311379262846\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251203T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEyMDNUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-09-23T19:28:09.631Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Tuesday Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday at 6:00 pm, roll at 6:15 pm</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride.</span><span>Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-02T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-02T20:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh",
+        "originalStartTime": {
+          "dateTime": "2025-12-02T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh@google.com",

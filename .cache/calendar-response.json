@@ -1,15 +1,15 @@
 {
-  "timestamp": 1759734422834,
+  "timestamp": 1759820832211,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vrdalcpu3900o\"",
+    "etag": "\"p337rt16rga8p00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-02T23:01:02.242Z",
+    "updated": "2025-10-07T02:17:27.779Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-2qqzPhpADEL-2qqzPhpADGAEgwNCIhAMowNCIhAM=",
+    "nextSyncToken": "CM--hNuCkZADEM--hNuCkZADGAEgwNCIhAMowNCIhAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2932,40 +2932,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518332143151998\"",
-        "id": "3i5qukp3elr8rk03b7isg0oief",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2k1cXVrcDNlbHI4cmswM2I3aXNnMG9pZWYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T17:14:31.000Z",
-        "updated": "2025-09-29T17:14:31.575Z",
-        "summary": "Lunch Break Brazing Cross",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Lunch Break Brazing Cross. </b></span><a href=\"https://www.bikereg.com/lunch-break-cyclocross\"><span><u>Registration</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday</span> <span>Oct 12, 2025</span><span>. 9am - 5pm. </span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/7050+Meadow+Grass+Avenue+South/data=!4m2!3m1!19sChIJNxhiy1DQ94cRXFN40DW9PXg\"><span><u>7050 Meadow Grass Avenue South</u></span></a><span> (Cottage Grove Bike Park)</span></p><p dir=\"ltr\"><span>Variety of gender and skill races, as well as “klunker”, single speed, and tracklocross races. See registration link for full schedule. Online registration closes Oct 11th. *On-site day of registration is $35. On-site registration opens at 8 a.m. Sunday and closes 30 minutes before each event. We do not require any sort of license to race. This is an unsanctioned race. </span></p><p dir=\"ltr\"><span>Each category will have a podium ceremony approximately 15 minutes after their race.</span></p>",
-        "location": "Cottage Grove Bike Park, 7050 Meadow Grass Ave S, Cottage Grove, MN 55016, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3i5qukp3elr8rk03b7isg0oief@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3518332557865438\"",
         "id": "akq6he9k0demi7ao18fh45gddk_20251001T230000Z",
         "status": "confirmed",
@@ -3674,6 +3640,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "0uja7tups74tfcdh355tfnq85j@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3519544244430526\"",
+        "id": "1ht1re3mq2ig8r3d28hr6vn4q6",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWh0MXJlM21xMmlnOHIzZDI4aHI2dm40cTYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-06T17:35:22.000Z",
+        "updated": "2025-10-06T17:35:22.215Z",
+        "summary": "La Bicicleta Viviente fundraiser alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>La Bicicleta Viviente fundraiser alleycat. </b></span><a href=\"https://www.instagram.com/p/DPZ28NgEmcS/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnmFD6V1p_rlfJzPMNgTs-MKX7q2WdfBW3eE9elQ1I18geIQ/viewform\"><span><u>Reg form</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When</b></span><span>: Sunday </span><span>Oct 12, 2025 12:30 PM</span><span>. Race begins at 1 pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\"><span><u>Venture Bikes Midtown</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Cost:</b></span><span> Sliding scale $15-$25 (cash or venmo)</span></p><p dir=\"ltr\"><span>La Bicicleta Viviente is a choose-your-own-adventure alleycat celebrating life, friendship and movement—raising funds for Festival de las Calaveras. Expect pan dulce stops, cumbia beats, and a little friendly chaos. Come roll with us and make the city a living altar. Live music from: Sunsets Over Flowers, Manny, and We </span><a href=\"https://www.reddit.com/r/Emoji/comments/102heb4/why_are_there_two_different_red_heart_emoji/\"><span>♥️</span></a><span> Fiesta. Winners receive prizes from local latino artists and more. </span></p><p dir=\"ltr\"><span>Categories: Open, WTF/NB, DFL, Best Costume.</span></p><p dir=\"ltr\"><span>If racing isn’t your thing: take the guided route and experience the alleycat at party pace.</span></p><p dir=\"ltr\"><span>Bring: helmet, lights, lock, phone, water.</span></p><p dir=\"ltr\"><span>Safety: obey traffic laws, ride predictably, respect neighbors.</span></p><p dir=\"ltr\"><span>Costume note: I think this goes without saying, culture is not your costume please do not appropriate.</span></p>",
+        "location": "Venture Bikes Midtown, 2834 10th Ave S, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-12T12:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-12T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ht1re3mq2ig8r3d28hr6vn4q6@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

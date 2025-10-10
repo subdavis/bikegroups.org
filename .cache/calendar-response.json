@@ -1,15 +1,15 @@
 {
-  "timestamp": 1759993599759,
+  "timestamp": 1760080002160,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nt16f8luap00o\"",
+    "etag": "\"p33vq514gi2c900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-08T19:49:53.937Z",
+    "updated": "2025-10-09T22:06:06.754Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK_QmeivlZADEK_QmeivlZADGAEg5sbshAMo5sbshAM=",
+    "nextSyncToken": "CP-ihJCQmJADEP-ihJCQmJADGAEgx7T7hAMox7T7hAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -3145,40 +3145,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518866787062046\"",
-        "id": "0uja7tups74tfcdh355tfnq85j",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MHVqYTd0dXBzNzR0ZmNkaDM1NXRmbnE4NWogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:27:06.000Z",
-        "updated": "2025-10-02T19:29:53.531Z",
-        "summary": "SSCXWC - Bandit Cross by Bike Jerks",
-        "description": "<p><span>Race (CX)</span> <span><b>SSCXWC - Bandit Cross by Bike Jerks</b></span> <a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=3\" target=\"_blank\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\" target=\"_blank\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\" target=\"_blank\"><span><u>FAQs</u></span></a></p><p><span><b>When: </b></span><span>Thursday </span><span>Oct 2, 2025 5:30 PM</span><span> Roll at 6pm.</span></p><p><span><b>Cost</b></span><span>: Free, open to everyone (you don’t have to be registered for SSCXWC</span></p><p><span><b>Location: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Race on bandit trails. Bring lights and your own beverages. </span></p><p><span>Race is near the Minnehaha dog park. After-race hangs at Little Nokomis beach.</span><span> </span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-02T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-02T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0uja7tups74tfcdh355tfnq85j@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3519544244430526\"",
         "id": "1ht1re3mq2ig8r3d28hr6vn4q6",
         "status": "confirmed",
@@ -3686,6 +3652,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5hb2r11p4aip3sam6lto5cag7t@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3520095133508350\"",
+        "id": "5up675t457esec6jr0u2acv6d9",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NXVwNjc1dDQ1N2VzZWM2anIwdTJhY3Y2ZDkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-09T22:05:57.000Z",
+        "updated": "2025-10-09T22:06:06.754Z",
+        "summary": "Behind Bars Reservoir Woods MTB ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Reservoir Woods MTB ride. </b></span><a href=\"https://www.instagram.com/p/DPmZWTukvE9/?utm_source=ig_web_copy_link\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Oct 12, 2025 3:45 PM</span><span>. Roll at 4 pm.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Distance: ~15 miles round trip + miles on the trail. Pace: Social (Likely ~12 mph).</span></p><p dir=\"ltr\"><span>Round trip ride to the single track at Reservoir woods in Roseville. We'll ride the trails then look for a food stop afterwards. Brings your lights. </span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-12T15:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-12T19:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5up675t457esec6jr0u2acv6d9@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

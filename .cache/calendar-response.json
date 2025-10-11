@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760080002160,
+  "timestamp": 1760166347813,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vq514gi2c900o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP-ihJCQmJADEP-ihJCQmJADGAEgx7T7hAMox7T7hAM=",
+    "nextSyncToken": "CP-ihJCQmJADEP-ihJCQmJADGAEgrYSvhQMorYSvhQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1682,6 +1682,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251209T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEyMDlUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-09T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-09T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-12-09T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3511087187562622\"",
         "id": "06anka8666g0693631umnlum9m",
         "status": "confirmed",
@@ -2212,74 +2251,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "7td9i0n38p7j9q9po7vmavafoe@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518326938430718\"",
-        "id": "7o78883or6bhjv931og0ke1mcr",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N283ODg4M29yNmJoanY5MzFvZzBrZTFtY3IgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:30:41.000Z",
-        "updated": "2025-09-29T16:31:09.215Z",
-        "summary": "SSCXWC Welcome Group Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>SSCXWC Welcome Group Ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=2\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Oct 3, 2025 3:00 PM</span><span> Roll at 4pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be registered for SSCXWC</span></p><p dir=\"ltr\"><span><b>Location:</b></span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 12 miles. </span><span><b>Pace:</b></span><span> Casual, likely 10-12mph.</span></p><p dir=\"ltr\"><span>Mixed terrain ride with some single track and mid-ride stop in the woods. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-03T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-03T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7o78883or6bhjv931og0ke1mcr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518327316933950\"",
-        "id": "76t8chh8s46h6k53lrh3grfdg9",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NzZ0OGNoaDhzNDZoNms1M2xyaDNncmZkZzkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:34:18.000Z",
-        "updated": "2025-09-29T16:34:18.466Z",
-        "summary": "SSCXWC Welcome Party and Packet pick-up",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Welcome Party and Packet pick-up</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=3\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Oct 3, 2025 6:00 PM</span><span> 6-10pm+.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Free and open to the public. (you don’t have to be registered for SSCXWC, bring your friends!)</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Arbeiter+Brewing+Company/data=!4m2!3m1!19sChIJ-74_cycp9ocRtteAzcOfGIU\"><span><u>Arbeiter Brewing Company</u></span></a></p><p dir=\"ltr\"><span>6:00pm Packet pick up opens</span></p><p dir=\"ltr\"><span>7:00pm Betty Won't</span></p><p dir=\"ltr\"><span>7:45pm 2026 host comp #1</span></p><p dir=\"ltr\"><span>8:15pm Cowboy Thoughts</span></p><p dir=\"ltr\"><span>9:30pm Packet pick up closes</span></p><p dir=\"ltr\"><span>10:00pm Group roll-out to secret afterparty spot</span></p><p dir=\"ltr\"><span>Locals, this is your only chance for packet pickup, so be there! All registered racers get a free SSCXWC x Wilde Bikes musette bag filled with goodies including your Wolf Tooth commemorative top cap. Live music, dancing, burgers from Francis, and beer!</span></p>",
-        "location": "Arbeiter Brewing Company, 3038 Minnehaha Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-03T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-03T22:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "76t8chh8s46h6k53lrh3grfdg9@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3616,6 +3587,45 @@
         "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000",
         "originalStartTime": {
           "dateTime": "2025-12-02T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3519746972055966\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251210T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEyMTBUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-10-07T21:44:46.027Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Tuesday meet at 5:30 pm, roll at 6:00 pm</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-09T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-09T20:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000",
+        "originalStartTime": {
+          "dateTime": "2025-12-09T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000@google.com",

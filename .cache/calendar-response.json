@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760166347813,
+  "timestamp": 1760252770154,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vq514gi2c900o\"",
@@ -2259,40 +2259,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518328635358718\"",
-        "id": "3p2r9jo4ejo9stun3ekb8gpqot",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M3AycjlqbzRlam85c3R1bjNla2I4Z3Bxb3QgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:45:17.000Z",
-        "updated": "2025-09-29T16:45:17.679Z",
-        "summary": "SSCXWC Feats of Strength",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>SSCXWC Feats of Strength</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=4\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 9:00 AM</span><span> Roll at 10am. </span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be registered for SSCXWC</span></p><p dir=\"ltr\"><span><b>Start:</b></span> <a href=\"https://www.google.com/maps/place/Sea+Salt/data=!4m2!3m1!19sChIJe1KszQ8p9ocRGU32a3jajkg\"><span><u>Sea Salt</u></span></a><span> (4825 Minnehaha Ave) <b>Finish: </b>TBA at the start of the ride.</span></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>~30 miles. </span></p><p dir=\"ltr\"><span>9:00am Free Coffee + Breod Pudain</span></p><p dir=\"ltr\"><span>9:45am Announcements</span></p><p dir=\"ltr\"><span>10:00am Feats of Strength roll-out starts. Finish around 4pm.</span></p><p dir=\"ltr\"><span>You'll be placed in a group with other racers and led around town to partake in challenges and chilling. Earn enough pOOchie buxxx and you'll score a start-line advantage at Sunday's race!</span></p><p dir=\"ltr\"><span>In addition to FREE coffee and bread puddin', Sea Salt is selling beermosas, spam musubi or beet musubi you can pack for the day, and more. Each group will stop for a free cookout lunch.</span></p><p dir=\"ltr\"><span>Wear a bathing suit, pack extra water + snacks, and be ready to be on your bike for ~30 miles. Groups will end in various locations around MPLS, not at Sea Salt. This ride is only for registered SSCXWC25 racers.</span></p>",
-        "location": "Sea Salt, 4825 Minnehaha Ave, Minneapolis, MN 55417, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-04T09:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-04T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3p2r9jo4ejo9stun3ekb8gpqot@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3518328807726430\"",
         "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
         "status": "confirmed",
@@ -2402,40 +2368,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518329528381374\"",
-        "id": "3j4pjf8f3t9o9ul7smh6m7kakn",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2o0cGpmOGYzdDlvOXVsN3NtaDZtN2tha24gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:52:43.000Z",
-        "updated": "2025-09-29T16:52:44.190Z",
-        "summary": "SSCXWC Saturday night party",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Saturday night party</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=5\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 8:00 PM</span><span> 8pm-1am.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Free and open to the public. (you don’t have to be registered for SSCXWC, bring your friends!)</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Southside+Preservation+Society/data=!4m2!3m1!19sChIJW1GcqUYts1IRpYF5EteU1Tg\"><span><u>Southside Preservation Society</u></span></a><span> (2619 28th Ave S)</span></p><p dir=\"ltr\"><span>8:00pm Doors &amp; karaoke sign up</span></p><p dir=\"ltr\"><span>8:30pm 2026 host comp #2</span></p><p dir=\"ltr\"><span>9:00pm Karaoke Crime Scene (punk rock karaoke)</span></p><p dir=\"ltr\"><span>11:00pm DJ Shannon Blowtorch</span></p><p dir=\"ltr\"><span>1:00am You don't have to go home but you can't stay here</span></p><p dir=\"ltr\"><span>Music, DJs, dancing, $3 beers, and $5 cocktails! Experience part of the Southside Battle Train, sing your heart out at live band karaoke, and hit the dance floor. Free and open to the public!</span></p>",
-        "location": "Southside Preservation Society, 2619 28th Ave S, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-04T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T01:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3j4pjf8f3t9o9ul7smh6m7kakn@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2863,17 +2795,17 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518475506427294\"",
-        "id": "2cnnvblanmb46nopohl135vkaq",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251211T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmNubnZibGFubWI0Nm5vcG9obDEzNXZrYXEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-30T13:09:12.000Z",
-        "updated": "2025-09-30T13:09:13.213Z",
-        "summary": "Full Cycle Garage Sale",
-        "description": "<p dir=\"ltr\"><span>Sale/Swap</span> <span><b>Full Cycle Garage Sale</b></span><span>. </span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DPMuwOoj5x2/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1ijt1h04p2fiD_QRIB9LXN\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 12:00 PM</span><span> 12pm-4pm.</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Full%2BCycle/data%3D!4m2!3m1!19sChIJXYJgXeEn9ocRCEodJ3mIZww&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1Ltq-YvcGDoPsqTfAaoGkU\" target=\"_blank\"><span><u>Full Cycle</u></span></a><span> (3515 Chicago Ave)</span></p><p dir=\"ltr\"><span>HUGE savings on used bikes of all styles &amp; sizes! E-Bikes, Recumbents, Tandems, Vintage. Sold as-is and priced to sell. </span></p>",
-        "location": "Full Cycle, 3515 Chicago Ave, Minneapolis, MN 55407, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEyMTFUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
         "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
+          "email": "jmbangsund@gmail.com"
         },
         "organizer": {
           "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
@@ -2881,54 +2813,20 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-10-04T12:00:00-05:00",
+          "dateTime": "2025-12-10T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-10-04T16:00:00-05:00",
+          "dateTime": "2025-12-10T19:30:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "2cnnvblanmb46nopohl135vkaq@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518680068124702\"",
-        "id": "4fl9lhuos4nk3vb0vo2ikh0hvc_20251004T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGZsOWxodW9zNG5rM3ZiMHZvMmlraDBodmNfMjAyNTEwMDRUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-10-01T17:33:45.000Z",
-        "updated": "2025-10-01T17:33:54.062Z",
-        "summary": "Perennial Autumn FTW Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Autumn FTW Rides</b></span> <a href=\"https://www.instagram.com/p/DPRHMzJjbO2/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 10:00 AM</span><span>. Also on </span><span>Oct 11, 2025</span><span> and </span><span>Oct 25, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a><span>, behind the shop</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 6-10 miles. </span><span><b>Pace</b></span><span>: social, ~10 mph. </span></p><p dir=\"ltr\"><span>Ride to a local spot for coffee, tea, or treats with music and time to socialize at the destination.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-04T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-04T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4fl9lhuos4nk3vb0vo2ikh0hvc",
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
         "originalStartTime": {
-          "dateTime": "2025-10-04T10:00:00-05:00",
+          "dateTime": "2025-12-10T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "4fl9lhuos4nk3vb0vo2ikh0hvc@google.com",
-        "sequence": 0,
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

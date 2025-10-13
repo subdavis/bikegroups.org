@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760252770154,
+  "timestamp": 1760339235811,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vq514gi2c900o\"",
@@ -11,45 +11,6 @@
     "defaultReminders": [],
     "nextSyncToken": "CP-ihJCQmJADEP-ihJCQmJADGAEgrYSvhQMorYSvhQM=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20251005T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTEwMDVUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-10-05T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3482907699087198\"",
@@ -483,14 +444,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20251005T150000Z",
+        "etag": "\"3484100333511230\"",
+        "id": "2gllle8uet9h6uckcgmvb4iics_20251212T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTEwMDVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNTEyMTJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-15T14:46:58.000Z",
+        "updated": "2025-03-15T14:49:26.755Z",
+        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
+        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
+        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
         "creator": {
           "email": "jmbangsund@gmail.com"
         },
@@ -500,20 +462,21 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-10-05T10:00:00-05:00",
+          "dateTime": "2025-12-11T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-10-05T11:00:00-05:00",
+          "dateTime": "2025-12-11T20:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
         "originalStartTime": {
-          "dateTime": "2025-10-05T10:00:00-05:00",
+          "dateTime": "2025-12-11T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
+        "transparency": "transparent",
+        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -1128,45 +1091,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510244083629918\"",
-        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251006T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTEwMDZUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T21:51:07.000Z",
-        "updated": "2025-08-13T21:54:01.814Z",
-        "summary": "Wedge Live Emergency Bike Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
-        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
-        "originalStartTime": {
-          "dateTime": "2025-10-05T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -1857,38 +1781,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3512795858538462\"",
-        "id": "2rfmhhmjtm3l2ifah5fimjlqcg",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MnJmbWhobWp0bTNsMmlmYWg1ZmltamxxY2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-03-09T15:56:47.000Z",
-        "updated": "2025-08-28T16:18:49.269Z",
-        "summary": "SSCXWC",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Thursday-Sunday </span><span>Oct 2, 2025</span><span> - </span><span>Oct 5, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><span>Various sites around Mpls TBA. The main race on Sunday is at </span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. Weekend is full of events, including bandit cross on Thursday, a group ride and packet pick-up party on Friday, “feats of strength” on Saturday, and the main cyclocross race event on Sunday at Buck Hill. See the BikeReg or FAQ page for full details. </span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2025-10-02"
-        },
-        "end": {
-          "date": "2025-10-06"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2rfmhhmjtm3l2ifah5fimjlqcg@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3513645939035358\"",
         "id": "2etr976uifvb6n9c86q3ankfpu_20251021T231500Z",
         "status": "confirmed",
@@ -2376,74 +2268,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518330084148126\"",
-        "id": "1jme6cnpt66jd8p3ib98bh6cf1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWptZTZjbnB0NjZqZDhwM2liOThiaDZjZjEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T16:57:21.000Z",
-        "updated": "2025-09-29T16:57:22.074Z",
-        "summary": "SSCXWC main race",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>SSCXWC main race</b></span> <a href=\"https://www.instagram.com/sscxwc2025mpls/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 5, 2025</span><span> 10am-4pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: $120 (scholarships available for trans, non-binary, or BIPOC riders) </span></p><p dir=\"ltr\"><span><b>Location: </b></span><a href=\"https://www.google.com/maps/place/Buck+Hill/data=!4m2!3m1!19sChIJH736OI859ocR30w6keuUQSU\"><span><u>Buck Hill</u></span></a></p><p dir=\"ltr\"><span>Single-speed cyclocross world championship. </span></p><p dir=\"ltr\"><span>9:30am Party bus meets at Southside Preservation Society (reservation ONLY)</span></p><p dir=\"ltr\"><span>10:00am Race check-in opens</span></p><p dir=\"ltr\"><span>11:00am Course opens for pre-ride</span></p><p dir=\"ltr\"><span>12:15pm Men's Taters race (45 Mins)</span></p><p dir=\"ltr\"><span>1:30pm Non-binary &amp; Gender Expansive race +</span></p><p dir=\"ltr\"><span>Women's Open race (45 Mins)</span></p><p dir=\"ltr\"><span>2:45pm Men's Tots race (45 Mins)</span></p><p dir=\"ltr\"><span>3:30pm 2026 host comp #3</span></p><p dir=\"ltr\"><span>4:30pm Party bus departs from Buck Hill (reservation ONLY)</span></p><br><p dir=\"ltr\"><span>Racers will get a free brat or veggie burger as well as a free special edition SSCXWC beer. Additional drinks can be purchased at a discount with your racer wristband. </span></p><br><p dir=\"ltr\"><span>The races are only for registered SSCXWC25 racers, but we encourage spectators to attend! Dogs are allowed. There will be alcohol and scantily clad bicyclists-bring children at your own discretion.</span></p>",
-        "location": "Buck Hill, Burnsville, MN 55306, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1jme6cnpt66jd8p3ib98bh6cf1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518330635302910\"",
-        "id": "5bs76ukqbg5cdnm0dlsj5bc1ab",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NWJzNzZ1a3FiZzVjZG5tMGRsc2o1YmMxYWIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-29T17:01:57.000Z",
-        "updated": "2025-09-29T17:01:57.651Z",
-        "summary": "SSCXWC Awards party",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>SSCXWC Awards party</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPIEQztDG_z/?img_index=7\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://www.bikereg.com/69847\"><span><u>Registration</u></span></a><span>, </span><a href=\"https://sscxwc.bike/contact.html\"><span><u>FAQs</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 5, 2025 7:00 PM</span><span> 7pm-10pm.</span></p><p dir=\"ltr\"><span><b>Cost</b></span><span>: Must be a registered SSCXWC rider.</span></p><p dir=\"ltr\"><span><b>Location:</b></span> <a href=\"https://www.google.com/maps/place/Familia+Skateboard+Shop/data=!4m2!3m1!19sChIJz9ySOoAn9ocRKsmm-LGe5eQ\"><span><u>Familia Skateboard Shop</u></span></a></p><br><p dir=\"ltr\"><span>7:00pm Doors</span></p><p dir=\"ltr\"><span>7:30pm Prophets of Mothra</span></p><p dir=\"ltr\"><span>8:30pm Awards</span></p><p dir=\"ltr\"><span>9:00pm 2026 host comp/winner announcement</span></p><br><p dir=\"ltr\"><span>Hug your new friends and cheer for the cities vying to host SSCXWC in 2026. Flash and winners' tattoos by Goons. Portraits of non-binary and transgender cyclists from Erik Mathy's \"We've Always Been Here\" project will be on display. This party is only for registered SSCXWC25 riders.</span></p>",
-        "location": "Familia Skateboard Shop, 835 E Hennepin Ave, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T22:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5bs76ukqbg5cdnm0dlsj5bc1ab@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3518332557865438\"",
         "id": "akq6he9k0demi7ao18fh45gddk_20251008T230000Z",
         "status": "confirmed",
@@ -2904,40 +2728,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4fl9lhuos4nk3vb0vo2ikh0hvc@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518863120592798\"",
-        "id": "097vevt217ribk8qaubbd1brht",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDk3dmV2dDIxN3JpYms4cWF1YmJkMWJyaHQgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-02T18:59:19.000Z",
-        "updated": "2025-10-02T18:59:20.296Z",
-        "summary": "Team Recess Leaf ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Leaf ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPRT4OhDcf7/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Oct 5, 2025 10:00 AM</span><span>. Roll at 10:15 am.</span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Big+Rivers+Trailhead/data=!4m2!3m1!19sChIJ02uoSgor9ocRQhoxFgxFS_E\"><span><u>Big Rivers Trailhead</u></span></a></p><p dir=\"ltr\"><span>Distance: 10 miles (out an dback). Pace: Family friendly, chill pace (likely 8-12 mph). </span></p><p dir=\"ltr\"><span>We'll start at Big Rivers Trailhead in Mendota Heights, make our way down the Big Rivers Regional Trail to Lilydale Regional Park. We will have a pit spot at the confluence overlook of the MN &amp; Mississippi Rivers. Snacks and leaf printing supplies provided. </span></p>",
-        "location": "Big Rivers Regional Trail, 1498 Mendota Heights Rd, Mendota Heights, MN 55120, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-05T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-05T12:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "097vevt217ribk8qaubbd1brht@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

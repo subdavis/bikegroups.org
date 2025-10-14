@@ -1,15 +1,15 @@
 {
-  "timestamp": 1760339235811,
+  "timestamp": 1760425622381,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33vq514gi2c900o\"",
+    "etag": "\"p33nu30vbsagp00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-09T22:06:06.754Z",
+    "updated": "2025-10-13T18:10:06.939Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP-ihJCQmJADEP-ihJCQmJADGAEgrYSvhQMorYSvhQM=",
+    "nextSyncToken": "CO_hg-vioZADEO_hg-vioZADGAEgrYSvhQMorYSvhQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2049,40 +2049,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3517814919723838\"",
-        "id": "6255apl9k1gq95llmavtv851d3",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjI1NWFwbDlrMWdxOTVsbG1hdnR2ODUxZDMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-26T17:20:54.000Z",
-        "updated": "2025-09-26T17:24:19.861Z",
-        "summary": "Grease Rag FTW Full Moon ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Grease Rag FTW Full Moon ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPCxPiADpCY/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://greaserag.org/events/\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Monday </span><span>Oct 6, 2025 5:45 PM</span><span>. 6 pm roll-out.</span></p><p><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/2845+Garfield+Avenue/data=!4m2!3m1!19sChIJW257UYgn9ocRvijzZIaiHM8\" target=\"_blank\"><span><u>2845 Garfield Avenue</u></span></a><span> (Soo line community garden on the greenway) </span></p><p><span>Mid-ride stops at </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\" target=\"_blank\"><span><u>Utepils Brewing</u></span></a><span> and </span><a href=\"https://www.google.com/maps/place/Cedar+Lake+Point+Beach/data=!4m2!3m1!19sChIJp0qMD0gzs1IRSkgyTPRkhXw\" target=\"_blank\"><span><u>Cedar Lake Point Beach</u></span></a></p><p><span><b>Distance</b></span><span>: 8-10 miles, mostly on bike paths. Pace: Casual 10-12 mph.</span></p><p><span><b>Who’s this for: </b></span><span>This ride is open to all FTW (Femme/Trans/Women, Non-binary, Two-spirit) bike riders! </span></p><p><span>October Full Moon Ride – Harvest Moon / Supermoon. Bring lights.</span></p>",
-        "location": "Soo Line Community Garden, 2845 Garfield Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-06T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-06T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6255apl9k1gq95llmavtv851d3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3517815294630078\"",
         "id": "647qlft0rn8d155ikebe5l7nit",
         "status": "confirmed",
@@ -3384,6 +3350,108 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5up675t457esec6jr0u2acv6d9@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3520756681767038\"",
+        "id": "3qdfiictq0rq5u3k2tbfd58s35",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3FkZmlpY3RxMHJxNXUzazJ0YmZkNThzMzUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-13T17:59:00.000Z",
+        "updated": "2025-10-13T17:59:00.883Z",
+        "summary": "DJ ride and Secure bike parking Q&A",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> DJ ride and Secure bike parking Q&amp;A</b></span> <a href=\"https://www.instagram.com/p/DPweU3EESSjwGt7SSflLrqkw2N72T75aitFoAI0/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Wednesday </span><span>Oct 22, 2025 5:30 PM</span><span>. Roll at 6pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a> <span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\"><span><u>Fulton Beer Taproom</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 4 miles. </span><span><b>Pace</b></span><span>: social, ~8-10 mph. </span></p><p dir=\"ltr\"><span>DJ ride with London based jam bike DJ Anthony Lau. 4 mile chill ride to Fulton Tap Room with jam bikes. </span></p><p dir=\"ltr\"><span>At Fulton Tap Room, please join Oonee and Cyclehoop to learn about the secure cycle parking system coming to Minneapolis in the spring which will be free to users. Ride, bevs, vendors, presentation, Q+A, socialize. Shabazz Stuart (Oonee) and Anthony Lau (cyclehoop) will be presenting.</span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-22T17:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-22T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3qdfiictq0rq5u3k2tbfd58s35@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3520757384847934\"",
+        "id": "70vbjqhobl3fpd7s4tcoi71lg8",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzB2YmpxaG9ibDNmcGQ3czR0Y29pNzFsZzggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-13T18:04:52.000Z",
+        "updated": "2025-10-13T18:04:52.423Z",
+        "summary": "Joyful Riders Leftovers Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders Leftovers Ride </b></span><a href=\"https://www.instagram.com/p/DPvDx1IkULO/\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://thejoyfulriders.club/\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span><b>When</b></span><span>: Friday </span><span>Nov 28, 2025 4:00 PM</span><span>. Roll at 4:30 pm. </span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\"><span><u>Fulton Beer Taproom</u></span></a> <span><b>Mid-ride stop</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Bohemian+Flats+Park/data=!4m2!3m1!19sChIJBUt50xQts1IRfrVYPVm8ygk\"><span><u>Bohemian Flats Park</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~5 miles round trip. Pace: 8-10 mph. Family friendly, slow-paced party ride with a DJ.</span></p><p dir=\"ltr\"><span>🧺 Stop: Bohemian Flats Park for fires and feasting</span></p><p dir=\"ltr\"><span>🔥 Bring your own: Leftovers, drinks, utensils, and plates — we’ll provide the table (to burn!) and the firewood</span></p><p dir=\"ltr\"><span>🍻 Return: Fulton Beer, where every rider gets a free drink (beer, THC beverage, or NA option)</span></p>",
+        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-28T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-28T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "70vbjqhobl3fpd7s4tcoi71lg8@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3520758013878750\"",
+        "id": "159tk76b46f3bsnd5ii6s9l18i",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MTU5dGs3NmI0NmYzYnNuZDVpaTZzOWwxOGkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-13T18:10:06.000Z",
+        "updated": "2025-10-13T18:10:06.939Z",
+        "summary": "Festival de las Calaveras",
+        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>Festival de las Calaveras</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPpDmH2kSuT/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 3:00 PM</span><span>. 3-10pm.</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Hook+%26+Ladder+Theater/data=!4m2!3m1!19sChIJA7wImCMo9ocRlFgkDAcSR3Y\"><span><u>Hook &amp; Ladder Theater</u></span></a></p><span>Not strictly a bike event, but there will be a free block party on Minnehaha Ave just south of Lake street, which will include West St. Paul Low Riders, bike puppets (</span><a href=\"https://www.instagram.com/bikealebrijesmn/\"><span><u>Bici Alebrijes</u></span></a><span>), and much more! Tickets for the live music at Hook and Ladder are $17 ($12 advance). </span>",
+        "location": "Hook & Ladder Theater, 3010 Minnehaha Ave, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-01T15:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-01T22:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "159tk76b46f3bsnd5ii6s9l18i@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

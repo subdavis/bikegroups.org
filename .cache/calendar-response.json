@@ -1,15 +1,15 @@
 {
-  "timestamp": 1760598416151,
+  "timestamp": 1760684820953,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33ftvofmvqi900o\"",
+    "etag": "\"p337u7r4smekp00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-15T00:53:46.955Z",
+    "updated": "2025-10-16T18:58:24.425Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN_f4fb-pJADEN_f4fb-pJADGAEg59mdhgMo59mdhgM=",
+    "nextSyncToken": "CM_j7JyzqZADEM_j7JyzqZADGAEg59mdhgMo59mdhgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -396,46 +396,6 @@
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3484100333511230\"",
-        "id": "2gllle8uet9h6uckcgmvb4iics_20251009T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNTEwMDlUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-15T14:46:58.000Z",
-        "updated": "2025-03-15T14:49:26.755Z",
-        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
-        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-09T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-09T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
-        "originalStartTime": {
-          "dateTime": "2025-10-09T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

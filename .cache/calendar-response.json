@@ -1,15 +1,15 @@
 {
-  "timestamp": 1760684820953,
+  "timestamp": 1760771126452,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337u7r4smekp00o\"",
+    "etag": "\"p33vst8kuvelp00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-16T18:58:24.425Z",
+    "updated": "2025-10-17T19:25:54.234Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_j7JyzqZADEM_j7JyzqZADGAEg59mdhgMo59mdhgM=",
+    "nextSyncToken": "CP_Oop77q5ADEP_Oop77q5ADGAEgjNTwhgMojNTwhgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1604,6 +1604,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251216T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEyMTZUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-16T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-16T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-12-16T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3511087187562622\"",
         "id": "06anka8666g0693631umnlum9m",
         "status": "confirmed",
@@ -1807,6 +1846,45 @@
         "recurringEventId": "2etr976uifvb6n9c86q3ankfpu",
         "originalStartTime": {
           "dateTime": "2025-11-18T18:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2etr976uifvb6n9c86q3ankfpu@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3513645939035358\"",
+        "id": "2etr976uifvb6n9c86q3ankfpu_20251217T001500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmV0cjk3NnVpZnZiNm45Yzg2cTNhbmtmcHVfMjAyNTEyMTdUMDAxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-09-02T14:22:49.000Z",
+        "updated": "2025-09-02T14:22:49.517Z",
+        "summary": "Fast Casual x Francis Burger ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Fast Casual x Francis Burger ride. </b></span><a href=\"https://www.instagram.com/fastcasualmpls/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Sep 16, 2025 6:15 PM</span><span>. Meet at 6:15 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/Francis+Burger+Joint/data=!4m2!3m1!19sChIJMVsa4LQp9ocRAkUcwuZ42Fg\"><span><u>Francis Burger Joint</u></span></a><span> (Lake Street)</span></p><p dir=\"ltr\"><span>Distance: ~15 miles. Pace: 14-16 mph.</span></p><p dir=\"ltr\"><span>Free Hamm’s or NA beverage for every rider. </span></p><p dir=\"ltr\"><span>This is a welcoming intermediate group bike ride, rolling at a moderately spicy pace. Bring your pals, your helmet and lights! </span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-16T18:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-16T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "2etr976uifvb6n9c86q3ankfpu",
+        "originalStartTime": {
+          "dateTime": "2025-12-16T18:15:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2etr976uifvb6n9c86q3ankfpu@google.com",
@@ -2690,40 +2768,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3519731177181054\"",
-        "id": "6lpbb1phe4n0dle6rg0ukf3j4v",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmxwYmIxcGhlNG4wZGxlNnJnMHVrZjNqNHYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-07T19:33:08.000Z",
-        "updated": "2025-10-07T19:33:08.590Z",
-        "summary": "Joyful Riders Glow and Groove DJ Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders Glow and Groove DJ Ride </b></span><a href=\"https://www.instagram.com/p/DPgszo_jjM5/\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://thejoyfulriders.club/\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span>Friday </span><span>Oct 10, 2025 6:00 PM</span><span>. Roll-out at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Union+Depot/data=!4m2!3m1!19sChIJS3m1QUXV94cRPiE52XBOJC8\"><span><u>Union Depot</u></span></a><span> (214 4th St, St. Paul, MN)</span></p><p dir=\"ltr\"><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride with a DJ.</span></p><p dir=\"ltr\"><span>Join Move Minnesota, Lowertown Bike Shop and the Joyful Riders Club for a fun, casual-paced group bike ride in downtown Saint Paul! Meet us at Union Depot ready to light up the night and we’ll add to the joyful gathering with colorful glow sticks. We’ll roll out at 6:30 PM to cruise along the river path and meander back through downtown — making several dance stops to get our groove on to the sounds of DJ Dev.</span></p>",
-        "location": "Union Depot, 214 4th St E UNIT 120, St Paul, MN 55101, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-10T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-10T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6lpbb1phe4n0dle6rg0ukf3j4v@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3519731259953054\"",
         "id": "6th01p34djaqmooi2rsbj5cbch",
         "status": "confirmed",
@@ -3143,6 +3187,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3519746972055966\"",
+        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251217T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEyMTdUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-10-07T21:44:46.027Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Tuesday meet at 5:30 pm, roll at 6:00 pm</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-16T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-16T20:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000",
+        "originalStartTime": {
+          "dateTime": "2025-12-16T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3519905987874910\"",
         "id": "5hb2r11p4aip3sam6lto5cag7t",
         "status": "confirmed",
@@ -3304,6 +3387,73 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3qdfiictq0rq5u3k2tbfd58s35@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3521454160078206\"",
+        "id": "5maka7hvdcmhr5agdvs3u44kcg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NW1ha2E3aHZkY21ocjVhZ2R2czN1NDRrY2cgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-17T18:51:19.000Z",
+        "updated": "2025-10-17T18:51:20.039Z",
+        "summary": "Lunch Break Brazing Cross (rescheduled)",
+        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Lunch Break Brazing Cross (rescheduled). </b></span><a href=\"https://www.bikereg.com/lunch-break-cyclocross\"><span><u>Registration</u></span></a><span><i> </i></span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 26, 2025</span><span>. 9am - 5pm. </span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/7050+Meadow+Grass+Avenue+South/data=!4m2!3m1!19sChIJNxhiy1DQ94cRXFN40DW9PXg\"><span><u>7050 Meadow Grass Avenue South</u></span></a><span> (Cottage Grove Bike Park)</span></p><p dir=\"ltr\"><span>Variety of gender and skill races, as well as “klunker”, single speed, and tracklocross races. See registration link for full schedule. Online registration closes Oct 24th. *On-site day of registration is $35. On-site registration opens at 8 a.m. Sunday and closes 30 minutes before each event. We do not require any sort of license to race. This is an unsanctioned race. </span></p><p dir=\"ltr\"><span>Each category will have a podium ceremony approximately 15 minutes after their race.</span></p>",
+        "location": "Cottage Grove Bike Park, 7050 Meadow Grass Ave S, Cottage Grove, MN 55016, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-26T09:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-26T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5maka7hvdcmhr5agdvs3u44kcg@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3521458308468478\"",
+        "id": "5iqm5tcvu81uh663h6qc0ifhm2",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NWlxbTV0Y3Z1ODF1aDY2M2g2cWMwaWZobTIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-17T18:53:08.000Z",
+        "updated": "2025-10-17T19:25:54.234Z",
+        "summary": "Registration closes for Lunch Break Brazing Cross!",
+        "description": "Register online by 5pm on Friday 10/24! <span><a href=\"https://www.bikereg.com/lunch-break-cyclocross\" target=\"_blank\"><span><u>Registration link</u></span></a><span><i> </i></span></span> <br>On-site registration is $10 more.<br> <p><span><b>Lunch Break Brazing Cross (rescheduled). </b></span></p><p><span><b>When: </b></span><span>Sunday </span><span>Oct 26, 2025</span><span>. 9am - 5pm. </span></p><p><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/7050+Meadow+Grass+Avenue+South/data=!4m2!3m1!19sChIJNxhiy1DQ94cRXFN40DW9PXg\" target=\"_blank\"><span><u>7050 Meadow Grass Avenue South</u></span></a><span> (Cottage Grove Bike Park)</span></p><p><span>Variety of gender and skill races, as well as “klunker”, single speed, and tracklocross races. See registration link for full schedule. Online registration closes Oct 24th. *On-site day of registration is $35. On-site registration opens at 8 a.m. Sunday and closes 30 minutes before each event. We do not require any sort of license to race. This is an unsanctioned race. </span></p><p><span>Each category will have a podium ceremony approximately 15 minutes after their race.</span></p>",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-24T16:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-24T17:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5iqm5tcvu81uh663h6qc0ifhm2@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

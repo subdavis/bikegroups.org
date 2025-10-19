@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760771126452,
+  "timestamp": 1760857558056,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vst8kuvelp00o\"",
@@ -2588,17 +2588,17 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518680068124702\"",
-        "id": "4fl9lhuos4nk3vb0vo2ikh0hvc_20251011T150000Z",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251218T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGZsOWxodW9zNG5rM3ZiMHZvMmlraDBodmNfMjAyNTEwMTFUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-10-01T17:33:45.000Z",
-        "updated": "2025-10-01T17:33:54.062Z",
-        "summary": "Perennial Autumn FTW Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Autumn FTW Rides</b></span> <a href=\"https://www.instagram.com/p/DPRHMzJjbO2/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 10:00 AM</span><span>. Also on </span><span>Oct 11, 2025</span><span> and </span><span>Oct 25, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a><span>, behind the shop</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 6-10 miles. </span><span><b>Pace</b></span><span>: social, ~10 mph. </span></p><p dir=\"ltr\"><span>Ride to a local spot for coffee, tea, or treats with music and time to socialize at the destination.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEyMThUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
         "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
+          "email": "jmbangsund@gmail.com"
         },
         "organizer": {
           "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
@@ -2606,20 +2606,20 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-10-11T10:00:00-05:00",
+          "dateTime": "2025-12-17T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-10-11T12:00:00-05:00",
+          "dateTime": "2025-12-17T19:30:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "4fl9lhuos4nk3vb0vo2ikh0hvc",
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
         "originalStartTime": {
-          "dateTime": "2025-10-11T10:00:00-05:00",
+          "dateTime": "2025-12-17T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "4fl9lhuos4nk3vb0vo2ikh0hvc@google.com",
-        "sequence": 0,
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -2760,74 +2760,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1ht1re3mq2ig8r3d28hr6vn4q6@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3519731259953054\"",
-        "id": "6th01p34djaqmooi2rsbj5cbch",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnRoMDFwMzRkamFxbW9vaTJyc2JqNWNiY2ggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-07T19:33:49.000Z",
-        "updated": "2025-10-07T19:33:49.976Z",
-        "summary": "Joyful Riders x Perennial DJ Dance Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Joyful Riders x Perennial DJ Dance Rides </b></span><a href=\"https://www.instagram.com/p/DPgszo_jjM5/\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://thejoyfulriders.club/\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Oct 11, 2025 6:00 PM</span><span>. Roll-out at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a></p><p dir=\"ltr\"><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride with a DJ.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-11T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-11T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6th01p34djaqmooi2rsbj5cbch@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3519731338161822\"",
-        "id": "34dat8r84e2faq3rok432nqgh8",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzRkYXQ4cjg0ZTJmYXEzcm9rNDMybnFnaDggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-07T19:34:28.000Z",
-        "updated": "2025-10-07T19:34:29.080Z",
-        "summary": "Behind Bars FTW Wood-Rill ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars FTW Wood-Rill ride. </b></span><a href=\"https://www.instagram.com/p/DO__m95CY1N/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 11, 2025 11:00 AM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 30 miles round trip. </span><span><b>Pace</b></span><span>: ?, likely 12-15 mph. </span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span>Join</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"> <span><u>@behindbarsbicycleshop</u></span></a><span> ambassador Veronica</span><a href=\"https://www.instagram.com/duck.emoji/\"> <span><u>@duck.emoji</u></span></a><span> on Saturday October 11th at 11am for a ~30 mile round trip for FTW (no cis-men!) riders to explore and hike Wood-Rill SNA! The park is a quiet big woods forest conveniently located on the Luce Line. The area is full of gorgeous trees over 200 years old, mushrooms, tree frogs (!) And a changing fall scenery.</span></p><p dir=\"ltr\"><span>The trails are overgrown at some points so long socks/pants are recommended, and a pair of shoes for hiking! </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-11T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-11T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "34dat8r84e2faq3rok432nqgh8@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

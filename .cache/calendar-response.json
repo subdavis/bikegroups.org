@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760857558056,
+  "timestamp": 1760944039067,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33vst8kuvelp00o\"",
@@ -11,45 +11,6 @@
     "defaultReminders": [],
     "nextSyncToken": "CP_Oop77q5ADEP_Oop77q5ADGAEgjNTwhgMojNTwhgM=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20251012T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNTEwMTJUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2025-10-12T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3482907699087198\"",
@@ -476,44 +437,6 @@
         "transparency": "transparent",
         "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20251012T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNTEwMTJUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2025-10-12T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -1097,15 +1020,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3510244083629918\"",
-        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251013T000000Z",
+        "etag": "\"3504353606179934\"",
+        "id": "3a36mi569jp3c72dnh79dg0k6e_20251219T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTEwMTNUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T21:51:07.000Z",
-        "updated": "2025-08-13T21:54:01.814Z",
-        "summary": "Wedge Live Emergency Bike Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
-        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2EzNm1pNTY5anAzYzcyZG5oNzlkZzBrNmVfMjAyNTEyMTlUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-10T19:45:51.000Z",
+        "updated": "2025-07-10T19:46:43.089Z",
+        "summary": "Grease Rag FTW Open shop",
+        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
+        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
         "creator": {
           "email": "minneapoliscyclingcalendar@gmail.com"
         },
@@ -1115,19 +1038,19 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-10-12T19:00:00-05:00",
+          "dateTime": "2025-12-18T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-10-12T21:00:00-05:00",
+          "dateTime": "2025-12-18T20:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
+        "recurringEventId": "3a36mi569jp3c72dnh79dg0k6e",
         "originalStartTime": {
-          "dateTime": "2025-10-12T19:00:00-05:00",
+          "dateTime": "2025-12-18T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
+        "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2121,45 +2044,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3518328807726430\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20251005T174500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTEwMDVUMTc0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2025-09-29T16:46:43.863Z",
-        "summary": "No name alleycat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Rescheduled to second Sunday to avoid conflict with SSCXWC. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T14:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16",
-        "originalStartTime": {
-          "dateTime": "2025-10-05T12:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518328807726430\"",
         "id": "4no79kmntsjc8l17t90430vi16_20251102T184500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNTExMDJUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2734,40 +2618,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3519544244430526\"",
-        "id": "1ht1re3mq2ig8r3d28hr6vn4q6",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWh0MXJlM21xMmlnOHIzZDI4aHI2dm40cTYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-06T17:35:22.000Z",
-        "updated": "2025-10-06T17:35:22.215Z",
-        "summary": "La Bicicleta Viviente fundraiser alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>La Bicicleta Viviente fundraiser alleycat. </b></span><a href=\"https://www.instagram.com/p/DPZ28NgEmcS/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnmFD6V1p_rlfJzPMNgTs-MKX7q2WdfBW3eE9elQ1I18geIQ/viewform\"><span><u>Reg form</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When</b></span><span>: Sunday </span><span>Oct 12, 2025 12:30 PM</span><span>. Race begins at 1 pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\"><span><u>Venture Bikes Midtown</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Cost:</b></span><span> Sliding scale $15-$25 (cash or venmo)</span></p><p dir=\"ltr\"><span>La Bicicleta Viviente is a choose-your-own-adventure alleycat celebrating life, friendship and movement—raising funds for Festival de las Calaveras. Expect pan dulce stops, cumbia beats, and a little friendly chaos. Come roll with us and make the city a living altar. Live music from: Sunsets Over Flowers, Manny, and We </span><a href=\"https://www.reddit.com/r/Emoji/comments/102heb4/why_are_there_two_different_red_heart_emoji/\"><span>♥️</span></a><span> Fiesta. Winners receive prizes from local latino artists and more. </span></p><p dir=\"ltr\"><span>Categories: Open, WTF/NB, DFL, Best Costume.</span></p><p dir=\"ltr\"><span>If racing isn’t your thing: take the guided route and experience the alleycat at party pace.</span></p><p dir=\"ltr\"><span>Bring: helmet, lights, lock, phone, water.</span></p><p dir=\"ltr\"><span>Safety: obey traffic laws, ride predictably, respect neighbors.</span></p><p dir=\"ltr\"><span>Costume note: I think this goes without saying, culture is not your costume please do not appropriate.</span></p>",
-        "location": "Venture Bikes Midtown, 2834 10th Ave S, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T12:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ht1re3mq2ig8r3d28hr6vn4q6@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3519746972055966\"",
         "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251014T230000Z",
         "status": "confirmed",
@@ -3183,40 +3033,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5hb2r11p4aip3sam6lto5cag7t@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3520095133508350\"",
-        "id": "5up675t457esec6jr0u2acv6d9",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXVwNjc1dDQ1N2VzZWM2anIwdTJhY3Y2ZDkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-09T22:05:57.000Z",
-        "updated": "2025-10-09T22:06:06.754Z",
-        "summary": "Behind Bars Reservoir Woods MTB ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Reservoir Woods MTB ride. </b></span><a href=\"https://www.instagram.com/p/DPmZWTukvE9/?utm_source=ig_web_copy_link\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Sunday </span><span>Oct 12, 2025 3:45 PM</span><span>. Roll at 4 pm.</span></p><p dir=\"ltr\"><span>Start and finish: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Distance: ~15 miles round trip + miles on the trail. Pace: Social (Likely ~12 mph).</span></p><p dir=\"ltr\"><span>Round trip ride to the single track at Reservoir woods in Roseville. We'll ride the trails then look for a food stop afterwards. Brings your lights. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-12T15:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-12T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5up675t457esec6jr0u2acv6d9@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

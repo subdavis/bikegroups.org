@@ -1,15 +1,15 @@
 {
-  "timestamp": 1761030429092,
+  "timestamp": 1761116828090,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33vst8kuvelp00o\"",
+    "etag": "\"p33vs3oujsar900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-17T19:25:54.234Z",
+    "updated": "2025-10-22T02:35:12.682Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CP_Oop77q5ADEP_Oop77q5ADGAEgjNTwhgMojNTwhgM=",
+    "nextSyncToken": "CP_B49PitpADEP_B49PitpADGAEgxqWQhwMoxqWQhwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1168,45 +1168,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510379985480606\"",
-        "id": "532qn9vei3uq8068fp4okambgd_20251014T224500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEwMTRUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-14T16:46:11.000Z",
-        "updated": "2025-08-14T16:46:32.740Z",
-        "summary": "Tuesday Night Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
-        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-14T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-14T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
-        "originalStartTime": {
-          "dateTime": "2025-10-14T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2619,45 +2580,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3519746972055966\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251014T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEwMTRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-10-07T21:44:46.027Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Tuesday meet at 5:30 pm, roll at 6:00 pm</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-14T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-14T20:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000",
-        "originalStartTime": {
-          "dateTime": "2025-10-14T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3519746972055966\"",
         "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251021T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEwMjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -3202,6 +3124,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5iqm5tcvu81uh663h6qc0ifhm2@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3522161471906302\"",
+        "id": "2k8lu6646g305j82rqohnf04sh",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mms4bHU2NjQ2ZzMwNWo4MnJxb2huZjA0c2ggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-21T21:05:35.000Z",
+        "updated": "2025-10-21T21:05:35.953Z",
+        "summary": "Team Recess Dirt N’ Donuts ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Team Recess Dirt N’ Donuts ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DQFaQzFkllG/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Oct 26, 2025 11:00 AM</span><span>.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Sibley+Historic+Site/data=!4m2!3m1!19sChIJzdF1afEr9ocRdh1nnuslYlo\"><span><u>Sibley Historic Site</u></span></a><span> (1357 Sibley Memorial Highway)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 10 miles round trip. Pace: Chill pace (likely ~8-10 mph). </span></p><p dir=\"ltr\"><span>We’ll meet at Sibley Historic site at 11am and then hit the trails for a 5 mile out and back (10 miles total) ride- full of donuts, cider, and candy corn.</span></p><p dir=\"ltr\"><span>Bike recs- This ride will be 100% on unpaved surfaces, so wider tires are recommended (plus rumor has it there will be some sand and mud😋). There won’t be any obstacles you can’t hop off your bike and walk over, so ride whatever bike you feel comfortable handling some dirt with!</span></p>",
+        "location": "Sibley Historic Site, 1357 Sibley Memorial Hwy, Mendota, MN 55150, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-26T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-26T13:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2k8lu6646g305j82rqohnf04sh@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

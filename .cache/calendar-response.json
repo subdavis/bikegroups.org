@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761289611586,
+  "timestamp": 1761375943440,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32vrn47rietp00o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-7kPuTu5ADEL-7kPuTu5ADGAEg4_PWhwMo4_PWhwM=",
+    "nextSyncToken": "CL-7kPuTu5ADEL-7kPuTu5ADGAEgnZ7lhwMonZ7lhwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1565,6 +1565,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3510379985480606\"",
+        "id": "532qn9vei3uq8068fp4okambgd_20251223T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEyMjNUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-14T16:46:11.000Z",
+        "updated": "2025-08-14T16:46:32.740Z",
+        "summary": "Tuesday Night Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
+        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-23T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-23T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
+        "originalStartTime": {
+          "dateTime": "2025-12-23T17:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3511087187562622\"",
         "id": "06anka8666g0693631umnlum9m",
         "status": "confirmed",
@@ -1659,40 +1698,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6bdeg8266o2bdugugdm9mt05ah@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3511087316762334\"",
-        "id": "33rtr4t3st6e8egp6vq1h0kpa1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzNydHI0dDNzdDZlOGVncDZ2cTFoMGtwYTEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-18T19:00:58.000Z",
-        "updated": "2025-08-18T19:00:58.381Z",
-        "summary": "Versus Bandit CX - River Bottoms",
-        "description": "<p dir=\"ltr\"><span>Race (CX)</span> <span><b>Versus Bandit CX - River Bottoms. </b></span><a href=\"https://www.instagram.com/p/DNfzJOaun5O/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Oct 17, 2025 5:30 PM</span><span>. Roll at 6pm.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span><b>Cost: </b></span><span>FREE</span></p><p dir=\"ltr\"><span>Roll out as a group to the start (Low Road, 10 miles), then dash to the Sibley side and Mendota VFW (9 miles). You are responsible for you. Bring lights.</span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-17T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-17T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "33rtr4t3st6e8egp6vq1h0kpa1@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -3077,6 +3082,45 @@
         "recurringEventId": "o1vrqia5bahssb756dble7grns",
         "originalStartTime": {
           "dateTime": "2025-12-16T17:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3522296077207134\"",
+        "id": "o1vrqia5bahssb756dble7grns_20251223T233000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bzF2cnFpYTViYWhzc2I3NTZkYmxlN2dybnNfMjAyNTEyMjNUMjMzMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-10-22T15:47:18.603Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Tuesday meet at 5:30 pm, roll at 6:00 pm</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-23T17:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-23T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "o1vrqia5bahssb756dble7grns",
+        "originalStartTime": {
+          "dateTime": "2025-12-23T17:30:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",

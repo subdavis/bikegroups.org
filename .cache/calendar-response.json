@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761375943440,
+  "timestamp": 1761462367175,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32vrn47rietp00o\"",
@@ -1638,74 +1638,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3511087234764478\"",
-        "id": "6pcl50rgln6dmqoir94ccrogne",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NnBjbDUwcmdsbjZkbXFvaXI5NGNjcm9nbmUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-18T19:00:17.000Z",
-        "updated": "2025-08-18T19:00:17.382Z",
-        "summary": "Versus CX-Eve pre-reg party",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>Versus CX-Eve pre-reg party. </b></span><a href=\"https://www.instagram.com/p/DNfzJOaun5O/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 18, 2025 4:00 PM</span><span>. 4-8pm</span></p><p dir=\"ltr\"><span><b>Where: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a><span>. </span><span><b>Cost: </b></span><span>FREE</span></p><p dir=\"ltr\"><span>Get stoked for VSCXIII at Angry Catfish and pick up your pre-reg packets. We’ll have beverages and a food truck. Stick around for tiny-bike races!</span></p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-18T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-18T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6pcl50rgln6dmqoir94ccrogne@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3511087278475838\"",
-        "id": "6bdeg8266o2bdugugdm9mt05ah",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NmJkZWc4MjY2bzJiZHVndWdkbTltdDA1YWggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-08-18T19:00:39.000Z",
-        "updated": "2025-08-18T19:00:39.237Z",
-        "summary": "Versus Weekend Alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Versus Weekend Alleycat. </b></span><a href=\"https://www.instagram.com/p/DNfzJOaun5O/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 18, 2025 2:00 PM</span><span>. Roll at 2:30pm.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><span>Meet at </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a><span>. Race ends at ACF for our pre-reg party and packet pick up</span></p><span><b>Cost: </b></span><span>FREE</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-18T14:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-18T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6bdeg8266o2bdugugdm9mt05ah@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3513645939035358\"",
         "id": "2etr976uifvb6n9c86q3ankfpu_20251021T231500Z",
         "status": "confirmed",
@@ -1927,40 +1859,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "647qlft0rn8d155ikebe5l7nit@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3517815976785310\"",
-        "id": "7td9i0n38p7j9q9po7vmavafoe",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N3RkOWkwbjM4cDdqOXE5cG83dm1hdmFmb2UgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-26T17:33:08.000Z",
-        "updated": "2025-09-26T17:33:08.392Z",
-        "summary": "Chainlink ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Chainlink ride </b></span><a href=\"https://www.instagram.com/p/DPEfDPwALJp/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 18, 2025 1:00 PM</span><span>. 1:45 pm roll-out.</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: Likely 8-10 miles. Pace: Casual 8-12 mph.</span></p><p dir=\"ltr\"><span>Organized by </span><a href=\"https://www.instagram.com/bonesawcyclingcollective/\"><span><u>@bonesawcyclingcollective</u></span></a><span>, </span><a href=\"https://www.instagram.com/ez.bikeclub/\"><span><u>@ez.bikeclub</u></span></a><span>, </span><a href=\"https://www.instagram.com/andstillweride/\"><span><u>@andstillweride</u></span></a><span>, </span><a href=\"https://www.instagram.com/bikingwithbaddies/\"><span><u>@bikingwithbaddies</u></span></a></p><p dir=\"ltr\"><span>Bringing the whole community together for a ride you don’t want to miss! Expect music, a photobooth, a videographer to capture the vibes, and a pit stop at Surly Brewing. This will be a casual ride. Think sexy pace, chill pace, a ride where you can feel the laughs. We will have Marshall’s and Mechanics on hand for safety. Pull up on whatever bike you have! Road bike, BMX bike, gravel, cruiser, whatever you got on two wheels hell even tricycles are welcomed. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-18T13:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-18T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7td9i0n38p7j9q9po7vmavafoe@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2387,6 +2285,45 @@
         "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
         "originalStartTime": {
           "dateTime": "2025-12-17T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20251225T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTEyMjVUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-24T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-24T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2025-12-24T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",

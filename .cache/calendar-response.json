@@ -1,15 +1,15 @@
 {
-  "timestamp": 1761548852835,
+  "timestamp": 1761635213997,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vrn47rietp00o\"",
+    "etag": "\"p327obp5et72900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-23T20:26:27.498Z",
+    "updated": "2025-10-27T16:42:30.481Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-7kPuTu5ADEL-7kPuTu5ADGAEgnZ7lhwMonZ7lhwM=",
+    "nextSyncToken": "CI-F5K7pxJADEI-F5K7pxJADGAEg15ujiAMo15ujiAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2984,6 +2984,74 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3dp63meq10gbhhjqsaldnq3tqq@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3523165881139326\"",
+        "id": "781b7utg713hvul6h6qleognoq",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzgxYjd1dGc3MTNodnVsNmg2cWxlb2dub3EgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-27T16:35:40.000Z",
+        "updated": "2025-10-27T16:35:40.569Z",
+        "summary": "Grease Rag FTW Full Moon ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Grease Rag FTW Full Moon ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DQMldQHDlgP/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://greaserag.org/events/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Monday </span><span>Nov 5, 2025 6:30 PM</span><span>. 6:40 pm roll-out.</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Gold+Medal+Park/data=!4m2!3m1!19sChIJtaby02Uts1IRWnisw09Vshk\"><span><u>Gold Medal Park</u></span></a><span> near the intersection of 10th Ave. S and S 2nd St. </span></p><p dir=\"ltr\"><span>Mid-ride stops at </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a><span> and </span><a href=\"https://www.google.com/maps/place/Cedar+Lake+Point+Beach/data=!4m2!3m1!19sChIJp0qMD0gzs1IRSkgyTPRkhXw\"><span><u>Cedar Lake Point Beach</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 8 miles, mostly on bike paths. </span><span><b>Pace</b></span><span>: Casual 10-12 mph.</span></p><p dir=\"ltr\"><span><b>Who’s this for: </b></span><span>This ride is open to all FTW (Femme/Trans/Women, Non-binary, Two-spirit) bike riders! </span></p><p dir=\"ltr\"><span>If most people want to, we can stop at a coffee shop and warm up about ¾ of the way through the ride. We'll then return to our starting point. We will mostly be on bike paths, with a few stretches of low-traffic side streets.</span></p>",
+        "location": "Gold Medal Park, Second Street and 11th Avenue South, Minneapolis, MN 55415, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-05T18:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-05T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "781b7utg713hvul6h6qleognoq@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3523166700963102\"",
+        "id": "1srbnr83ot5v5kurm8ga8kbbp0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXNyYm5yODNvdDV2NWt1cm04Z2E4a2JicDAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-10-27T16:42:30.000Z",
+        "updated": "2025-10-27T16:42:30.481Z",
+        "summary": "Behind Bars 26” Tuesday",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars 26” Tuesday. </b></span><a href=\"https://www.instagram.com/p/DQM1KsXjhiM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Nov 11, 2025 6:00 PM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. </span><span><b>Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Fair+State+Brewing+Cooperative/data=!4m2!3m1!19sChIJMdybyests1IR_CDX6SXgKNs\"><span><u>Fair State Brewing Cooperative</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: up to 10 miles. </span><span><b>Pace</b></span><span>: 10-12 mph. </span></p><p dir=\"ltr\"><span>Bring out your vintage 26” mountain bike for a 26er group ride. Show off your classic builds, talk vintage bikes and go share a local adventure ride with the 559 Club.</span></p><br><p dir=\"ltr\"><span>27.5\" can come, 26\" Fat Bikes are fine, just NO 29s! 😆 26\" is the theme but everyone is welcome who's interested in vintage mountain bikes. Ride what you have. Bring lights and a lock.</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-11T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1srbnr83ot5v5kurm8ga8kbbp0@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

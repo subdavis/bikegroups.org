@@ -1,15 +1,15 @@
 {
-  "timestamp": 1761808010265,
+  "timestamp": 1761894411206,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337vdb44vr4p00o\"",
+    "etag": "\"p32nprtd2kv6p00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-29T17:58:17.334Z",
+    "updated": "2025-10-31T01:40:46.502Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_2rIT-yZADEM_2rIT-yZADGAEgtrC_iAMotrC_iAM=",
+    "nextSyncToken": "CK-d9aKnzZADEK-d9aKnzZADGAEgtrC_iAMotrC_iAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1128,84 +1128,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510244083629918\"",
-        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251027T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTEwMjdUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T21:51:07.000Z",
-        "updated": "2025-08-13T21:54:01.814Z",
-        "summary": "Wedge Live Emergency Bike Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
-        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-26T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-26T21:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
-        "originalStartTime": {
-          "dateTime": "2025-10-26T19:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510244083629918\"",
-        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251103T010000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTExMDNUMDEwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-13T21:51:07.000Z",
-        "updated": "2025-08-13T21:54:01.814Z",
-        "summary": "Wedge Live Emergency Bike Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
-        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-02T19:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-02T21:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
-        "originalStartTime": {
-          "dateTime": "2025-11-02T19:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2839,45 +2761,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3523369447687742\"",
-        "id": "4sbne8gesv26jj2kr5d1bp9ssh_20251021T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NHNibmU4Z2VzdjI2amoya3I1ZDFicDlzc2hfMjAyNTEwMjFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-10-28T20:52:03.843Z",
-        "summary": "ACF Zesty Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Thursdays, meet at 5:30 pm, roll at 6:00 pm. </span><span>Oct 23, 2025</span><span>, </span><span>Oct 30, 2025</span></p><p dir=\"ltr\"><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><p dir=\"ltr\"><span>These are normally on Tuesdays, but will be held on Thursdays in October.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails.</span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-23T17:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-23T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000",
-        "originalStartTime": {
-          "dateTime": "2025-10-21T18:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4sbne8gesv26jj2kr5d1bp9ssh_R20251014T230000@google.com",
-        "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3523369829377662\"",
         "id": "4dpv1eoqjf89i1otvd3dgv7f76_20251028T220000Z",
         "status": "confirmed",
@@ -3222,6 +3105,84 @@
         },
         "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",
         "sequence": 2,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3523749693005150\"",
+        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251027T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTEwMjdUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T21:51:07.000Z",
+        "updated": "2025-10-31T01:40:46.502Z",
+        "summary": "Wedge Live Emergency Bike Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
+        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-10-26T19:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-10-26T21:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
+        "originalStartTime": {
+          "dateTime": "2025-10-26T19:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3523749693005150\"",
+        "id": "69ptbkk63mkqfbgfeu07orn6tj_20251103T010000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjlwdGJrazYzbWtxZmJnZmV1MDdvcm42dGpfMjAyNTExMDNUMDEwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-08-13T21:51:07.000Z",
+        "updated": "2025-10-31T01:40:46.502Z",
+        "summary": "Wedge Live Emergency Bike Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Wedge Live Emergency Bike Ride</b></span><span>. </span><a href=\"https://events.humanitix.com/wedge-live-emergency-bike-ride-2025\"><span><u>Event page</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Every Sunday at 7pm. Roll at 7:30pm. </span><span>Aug 24, 2025</span><span>, </span><span>Aug 31, 2025</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Mueller+Park/data=!4m2!3m1!19sChIJVQTvLNIys1IRJqprk7xHii0\"><span><u>Mueller Park</u></span></a><span> (Colfax and W 25th St)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ?. </span><span><b>Pace</b></span><span>: Conversational, likely 8-12 mph.</span></p><p dir=\"ltr\"><span>What is an emergency bike ride? It's an immediate, systematic, coordinated response among partners at all levels, to the community's need for more bike rides.</span></p><p dir=\"ltr\"><span>Who can participate? Anyone of any skill level who feels an urgent need to ride your bike at a leisurely conversational pace in a group setting.</span></p><p dir=\"ltr\"><span>Are scooters ok? Yes.</span></p>",
+        "location": "Mueller Park, 2509 Colfax Ave South, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-02T19:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-02T21:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "69ptbkk63mkqfbgfeu07orn6tj",
+        "originalStartTime": {
+          "dateTime": "2025-11-02T19:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "69ptbkk63mkqfbgfeu07orn6tj@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

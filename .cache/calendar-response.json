@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761980762261,
+  "timestamp": 1762067177058,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p327s3ceaif7p00o\"",
@@ -2145,17 +2145,17 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518680068124702\"",
-        "id": "4fl9lhuos4nk3vb0vo2ikh0hvc_20251025T150000Z",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260101T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGZsOWxodW9zNG5rM3ZiMHZvMmlraDBodmNfMjAyNTEwMjVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-10-01T17:33:45.000Z",
-        "updated": "2025-10-01T17:33:54.062Z",
-        "summary": "Perennial Autumn FTW Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Perennial Autumn FTW Rides</b></span> <a href=\"https://www.instagram.com/p/DPRHMzJjbO2/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://www.perennialcycle.com/shopcast/events/list/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 4, 2025 10:00 AM</span><span>. Also on </span><span>Oct 11, 2025</span><span> and </span><span>Oct 25, 2025</span><span>.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Perennial+Cycle/data=!4m2!3m1!19sChIJg-DyYp0n9ocRi4DCprojmWM\"><span><u>Perennial Cycle</u></span></a><span>, behind the shop</span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 6-10 miles. </span><span><b>Pace</b></span><span>: social, ~10 mph. </span></p><p dir=\"ltr\"><span>Ride to a local spot for coffee, tea, or treats with music and time to socialize at the destination.</span></p>",
-        "location": "Perennial Cycle, 3342 Hennepin Ave, Minneapolis, MN 55408, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAxMDFUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
         "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
+          "email": "jmbangsund@gmail.com"
         },
         "organizer": {
           "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
@@ -2163,20 +2163,20 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-10-25T10:00:00-05:00",
+          "dateTime": "2025-12-31T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-10-25T12:00:00-05:00",
+          "dateTime": "2025-12-31T19:30:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "4fl9lhuos4nk3vb0vo2ikh0hvc",
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
         "originalStartTime": {
-          "dateTime": "2025-10-25T10:00:00-05:00",
+          "dateTime": "2025-12-31T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "4fl9lhuos4nk3vb0vo2ikh0hvc@google.com",
-        "sequence": 0,
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -2211,40 +2211,6 @@
         },
         "iCalUID": "3emlkq209cv0esg4gnktntlvo1@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518866642204894\"",
-        "id": "26u9k0rt3fr9l9md3c0v0hptso",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MjZ1OWswcnQzZnI5bDltZDNjMHYwaHB0c28gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-01T21:54:27.000Z",
-        "updated": "2025-10-02T19:28:41.102Z",
-        "summary": "Scaredy Cat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Scaredy Cat. </b></span><a href=\"https://www.instagram.com/p/DOEi4wFEUOU/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 25, 2025 11:00 AM</span><span>. Reg opens at 11am, roll at 1pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Camden+Cycles/data=!4m2!3m1!19sChIJLaRjA24xs1IRjRJnQnKy3rY\"><span><u>Camden Cycles</u></span></a><span> (1420 N Dowling Ave)</span></p><p dir=\"ltr\"><span>A Halloween themed alley cat- costumes, spooky stops around town, prizes, after party, and who knows what else! 👻</span></p><p dir=\"ltr\"><span>This is a perfect alley cat for beginners! Race it or slow roll with friends, just come out and join the party. </span></p>",
-        "location": "Camden Cycles, 1420 N Dowling Ave, Minneapolis, MN 55412, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-25T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-25T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "26u9k0rt3fr9l9md3c0v0hptso@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -2458,40 +2424,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6rif8qj1717av0sgvkv11gpalp_R20250429T234500@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3522318660759742\"",
-        "id": "3dp63meq10gbhhjqsaldnq3tqq",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2RwNjNtZXExMGdiaGhqcXNhbGRucTN0cXEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-22T18:55:30.000Z",
-        "updated": "2025-10-22T18:55:30.379Z",
-        "summary": "ATB Meetings group ride ",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> ATB Meetings group ride</b></span><span> </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Oct 25, 2025 8:00 AM</span><span>. Roll 8:15am. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/9551+Old+Cedar+Avenue+South/data=!4m2!3m1!19sChIJj8H2wZAv9ocRbPEYKU7Qphs\"><span><u>9551 Old Cedar Avenue South</u></span></a><span> (Old Cedar Ave Trailhead)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 15+ miles</span></p><span>Let's gooo off rooooad. Saturday morning 8am link. All terrain group ride in the river bottoms. </span><a href=\"https://www.instagram.com/800horsesimagine/\"><span><u>Organizer instagram</u></span></a><span>. </span>",
-        "location": "9551 Old Cedar Ave S, Bloomington, MN 55425, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-25T08:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-25T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3dp63meq10gbhhjqsaldnq3tqq@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

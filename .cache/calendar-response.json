@@ -1,15 +1,15 @@
 {
-  "timestamp": 1762153636874,
+  "timestamp": 1762240029741,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p327s3ceaif7p00o\"",
+    "etag": "\"p32ephe7envbp00o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-10-31T19:18:00.046Z",
+    "updated": "2025-11-04T02:57:24.720Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CI_BscqTz5ADEI_BscqTz5ADGAEgtrC_iAMotrC_iAM=",
+    "nextSyncToken": "CJ2YuO6_15ADEJ2YuO6_15ADGAEgtrC_iAMotrC_iAM=",
     "items": [
       {
         "kind": "calendar#event",

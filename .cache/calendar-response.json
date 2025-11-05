@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762240029741,
+  "timestamp": 1762326425750,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32ephe7envbp00o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CJ2YuO6_15ADEJ2YuO6_15ADGAEgtrC_iAMotrC_iAM=",
+    "nextSyncToken": "CJ2YuO6_15ADEJ2YuO6_15ADGAEgmKz1iQMomKz1iQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1012,45 +1012,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3510379985480606\"",
-        "id": "532qn9vei3uq8068fp4okambgd_20251028T224500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTMycW45dmVpM3VxODA2OGZwNG9rYW1iZ2RfMjAyNTEwMjhUMjI0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-08-14T16:46:11.000Z",
-        "updated": "2025-08-14T16:46:32.740Z",
-        "summary": "Tuesday Night Rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (drop)</span> <span><b>Tuesday Night Rides. </b></span><a href=\"https://www.facebook.com/groups/tuesdaynightrides/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesdays. Meet at 5:45 pm, roll at 6:00 pm. </span><span>Aug 19, 2025</span><span>, </span><span>Aug 26, 2025</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/HeadFlyer+Brewing/data=!4m2!3m1!19sChIJR-OI5p8ts1IRFU33-isC2kk\"><span><u>HeadFlyer Brewing</u></span></a></p><p dir=\"ltr\"><span>Two pace groups. Spicy: 14-16 mph pace for 20-25 miles Mild: 11-13 mph pace for 15-20 miles.</span></p><p dir=\"ltr\"><span>Routes published on Monday in the FB group. Rides feature a mid-ride restaurant stop and have the option to end back at Headflyer for a pint. There are no sweeps, so this can be a drop ride. Bring lights, lock, helmet, flat-fixing kit, anything you need to get yourself home. </span></p>",
-        "location": "HeadFlyer Brewing, 861 E Hennepin Ave #100, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-28T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-28T20:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "532qn9vei3uq8068fp4okambgd",
-        "originalStartTime": {
-          "dateTime": "2025-10-28T17:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2513,45 +2474,6 @@
         },
         "iCalUID": "5vjqcoop2t5hea12pd12e3ptfa@google.com",
         "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523369829377662\"",
-        "id": "4dpv1eoqjf89i1otvd3dgv7f76_20251028T220000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGRwdjFlb3FqZjg5aTFvdHZkM2RndjdmNzZfMjAyNTEwMjhUMjIwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-10-28T20:55:14.688Z",
-        "summary": "ACF Zesty Rides",
-        "description": "<p><span>Group ride - Drop ride - </span>but they’ll wait at the tops of the few climbs.</p><p> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Meet at 5:00 pm, roll at 5:15 pm. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><p>Led by <a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><u>@nickwithabike</u></a>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails.</p>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-10-28T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-10-28T19:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4dpv1eoqjf89i1otvd3dgv7f76",
-        "originalStartTime": {
-          "dateTime": "2025-10-28T17:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4dpv1eoqjf89i1otvd3dgv7f76@google.com",
-        "sequence": 4,
         "reminders": {
           "useDefault": true
         },

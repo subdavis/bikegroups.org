@@ -1,15 +1,15 @@
 {
-  "timestamp": 1762412816793,
+  "timestamp": 1762499219849,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fp5nuhnre900o\"",
+    "etag": "\"p327vnavuo3f900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-11-06T02:35:14.797Z",
+    "updated": "2025-11-06T21:51:04.678Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN-S39G-3JADEN-S39G-3JADGAEgwti6igMowti6igM=",
+    "nextSyncToken": "CI_7q_7A3pADEI_7q_7A3pADGAEgwti6igMowti6igM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -3080,6 +3080,49 @@
         "reminders": {
           "useDefault": true
         },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3524895717114014\"",
+        "id": "1b5m0m0scenbhtk19q55pg7d66",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWI1bTBtMHNjZW5iaHRrMTlxNTVwZzdkNjYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-11-06T16:48:27.000Z",
+        "updated": "2025-11-06T16:50:58.557Z",
+        "summary": "Donut Pursuit Ride",
+        "description": "<p><span>Group ride (drop)</span><span> and </span><span>Gathering</span> <span><b>Donut Pursuit Ride. </b></span><a href=\"https://www.instagram.com/p/DQuOKVFjhOd/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://ridewithgps.com/routes/53225582\" target=\"_blank\"><span><u>Route link</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Saturday </span><span>Nov 8, 2025 8:45 AM</span><span>. Roll at 9am.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/East+Twin+Pond/data=!4m2!3m1!19sChIJfdapZegn9ocR-_1Zp3Ndcj4\" target=\"_blank\"><span><u>East Twin Pond</u></span></a><span>. </span><span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Matthew%E2%80%99s+Park/data=!4m2!3m1!19sChIJ_2gI0jMts1IRird8mg9W2jY\" target=\"_blank\"><span><u>Matthew’s Park</u></span></a></p><p><span><b>Distance</b></span><span>: 13 miles. </span><span><b>Pace</b></span><span>: ~15 mph. </span></p><p><span>Come earn your donut in a distributed-start group ride and hang. Meet us at the start, catch us along the route, or find us at one of the stops. Fuel up before Cranksgiving!</span></p><p><span>Between stops, we'll be rolling at ~15mph. No sweep. Bring your own hot beverage, and we'll provide donuts as well as vegan and GF options while supplies last. </span></p><p><span><b>Stops</b></span><span>:</span></p><p><span>9:30 – 9:45am, </span><a href=\"https://www.google.com/maps/place/Coldwater+Spring/data=!4m2!3m1!19sChIJZRPdgmop9ocRrO5ddJWoY6I\" target=\"_blank\"><span><u>Coldwater Spring</u></span></a><span>, by the pond</span></p><p><span>10:10  – 10:20am, </span><a href=\"https://www.google.com/maps/place/Seven+Oaks+Oval/data=!4m2!3m1!19sChIJSeR4fMYp9ocRAMMRM6ZOctA\" target=\"_blank\"><span><u>Seven Oaks Oval</u></span></a></p><br><span>10:45am, </span><a href=\"https://www.google.com/maps/place/Matthew%E2%80%99s+Park/data=!4m2!3m1!19sChIJ_2gI0jMts1IRird8mg9W2jY\" target=\"_blank\"><span><u>Matthew’s Park</u></span></a><span>, on top of the Sledding Hill</span><br><span> </span><br><span> </span>",
+        "location": "East Twin Pond, 4320 Columbus Ave., Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-08T08:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-08T10:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1b5m0m0scenbhtk19q55pg7d66@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "attachments": [
+          {
+            "fileUrl": "https://drive.google.com/open?id=1POuDjj7Z1PjfTDsQDhaFFfXejL9KMErd",
+            "title": "Donut-pursuit-251108-1.png",
+            "mimeType": "image/png",
+            "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/png",
+            "fileId": "1POuDjj7Z1PjfTDsQDhaFFfXejL9KMErd"
+          }
+        ],
         "eventType": "default"
       }
     ]

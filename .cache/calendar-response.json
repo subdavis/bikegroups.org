@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762585555758,
+  "timestamp": 1762671970424,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33fr1msglfg900o\"",
@@ -1643,17 +1643,17 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3517815294630078\"",
-        "id": "647qlft0rn8d155ikebe5l7nit",
+        "etag": "\"3517311057671038\"",
+        "id": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4_20260108T000000Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjQ3cWxmdDBybjhkMTU1aWtlYmU1bDduaXQgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-09-26T17:27:27.000Z",
-        "updated": "2025-09-26T17:27:27.315Z",
-        "summary": "Grease Rag FTW Winter Skills Share",
-        "description": "<p dir=\"ltr\"><span>Gathering</span> <span><b>Grease Rag FTW Winter Skills Share</b></span><span>. </span><a href=\"https://www.instagram.com/p/DOyeimPDv-U/?img_index=1\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://greaserag.org/events/\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 9:00 AM</span><span>. 9-5pm.</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Minneapolis+Central+Library/data=!4m2!3m1!19sChIJ64ilwZoys1IR2LAO_Ylm7Hg\"><span><u>Minneapolis Central Library</u></span></a></p><p dir=\"ltr\"><span><b>Who’s this for: </b></span><span>This ride is open to all FTW (Femme/Trans/Women, Non-binary, Two-spirit) bike riders! </span></p><p dir=\"ltr\"><span>Gear swap and skills share for winter riding. More details to follow, check Grease Rag instagram or discord for updates. </span></p>",
-        "location": "Minneapolis Central Library, 300 Nicollet Mall, Minneapolis, MN 55401, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjVpajhkcG02cGk2YWJiM2M0czMwYjlrNjhyNjhiOXA2c3FqNGJiMzY1aGppYzFtNzFpajhwMWhjNF8yMDI2MDEwOFQwMDAwMDBaIDZhMjU2ZTI1ZTMxNmNjNjc3NzFiOTliZDQ5OWRmYTU3ZDI3ODBkNTFmNmViNWY5ZGYxYTlkODQyOTlhMWIzYzJAZw",
+        "created": "2025-09-23T00:35:16.000Z",
+        "updated": "2025-09-23T19:25:28.835Z",
+        "summary": "ACF Winter social ride",
+        "description": "<span><p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When:</b></span><span> Wednesday </span><span>Oct 1, 2025</span><span> rolling at 6:00 pm. First Wednesday of each month during cold weather months.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a> <span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Venn+Brewing+Company/data=!4m2!3m1!19sChIJ1YWA41Qo9ocRX3VQObwGo00\" target=\"_blank\"><span><u>Venn Brewing Company</u></span></a></p><p><span><b>Distance</b></span><span>: ~15 miles. </span><span><b>Pace</b></span><span>: 12-13 mph.</span></p><p><span>Bring lights, dress for the weather. Led by: Alex &amp; Adam</span></p></span>Some additional considerations as weather gets colder:<br>- Dress for the weather, we will ride even when the temperature gets real low. Layers, pogies, and toe warmers are your friends. Ask friends how they layer, experiment and enjoy the thrill of winter riding.<br>- Ride based on your comfort level - rides will be in the dark and can be icy/snowy. Studded and/or fat tires encouraged in the depths of winter. Lights required.<br><br>Led by: Alex &amp; Adam.<br><br>See Discord link for ride updates.",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
         "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
+          "email": "apourbakhsh@gmail.com"
         },
         "organizer": {
           "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
@@ -1661,14 +1661,19 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-11-01T09:00:00-05:00",
+          "dateTime": "2026-01-07T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-11-01T17:00:00-05:00",
+          "dateTime": "2026-01-07T20:00:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "647qlft0rn8d155ikebe5l7nit@google.com",
+        "recurringEventId": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4",
+        "originalStartTime": {
+          "dateTime": "2026-01-07T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2145,6 +2150,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260108T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAxMDhUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-07T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-07T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-01-07T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3518865967644542\"",
         "id": "3emlkq209cv0esg4gnktntlvo1",
         "status": "confirmed",
@@ -2359,40 +2403,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3523324748584766\"",
-        "id": "159tk76b46f3bsnd5ii6s9l18i",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MTU5dGs3NmI0NmYzYnNuZDVpaTZzOWwxOGkgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-13T18:10:06.000Z",
-        "updated": "2025-10-28T14:39:34.292Z",
-        "summary": "Festival de las Calaveras",
-        "description": "<p><span>Gathering</span> <span><b>Festival de las Calaveras</b></span><span>. </span><a href=\"https://www.instagram.com/p/DPpDmH2kSuT/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 3:00 PM</span><span>. 3-10pm.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Hook+%26+Ladder+Theater/data=!4m2!3m1!19sChIJA7wImCMo9ocRlFgkDAcSR3Y\" target=\"_blank\"><span><u>Hook &amp; Ladder Theater</u></span></a></p><span>Not strictly a bike event, but there will be a free block party on Minnehaha Ave just south of Lake street, which will include bike puppets (</span><a href=\"https://www.instagram.com/bikealebrijesmn/\" target=\"_blank\"><span><u>Bici Alebrijes</u></span></a><span>), and much more! Tickets for the live music at Hook and Ladder are $17 ($12 advance). </span>",
-        "location": "Hook & Ladder Theater, 3010 Minnehaha Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-01T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-01T22:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "159tk76b46f3bsnd5ii6s9l18i@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3523324977216734\"",
         "id": "4q1bmn5moe44top250so9rlcq4",
         "status": "confirmed",
@@ -2454,108 +2464,6 @@
         },
         "iCalUID": "61vrfhiv8r21manlkimnkfdism@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523327047639646\"",
-        "id": "3go2mvqq1hqauum9radead6qua",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2dvMm12cXExaHFhdXVtOXJhZGVhZDZxdWEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-28T14:58:43.000Z",
-        "updated": "2025-10-28T14:58:43.819Z",
-        "summary": "Geno ATB Meetings group ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span><span><b> Geno ATB Meetings group ride</b></span> <a href=\"https://www.instagram.com/p/DQVGLVKieeD/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 9:30 AM</span><span>. Roll 10 am. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/1313+Hidden+Falls+Drive/data=!4m2!3m1!19sChIJX0W-K2kp9ocRr0HuWTgiMeA\"><span><u>1313 Hidden Falls Drive</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 10-15 miles</span></p><p dir=\"ltr\"><span>Riding in Crosby Farms on paths and single track.</span></p>",
-        "location": "1313 Hidden Falls Dr, St Paul, MN 55116, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-01T09:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-01T11:30:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3go2mvqq1hqauum9radead6qua@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523327533026046\"",
-        "id": "5cu4q16jbti468mipgvfrg2emr",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NWN1NHExNmpidGk0NjhtaXBndmZyZzJlbXIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-28T15:02:46.000Z",
-        "updated": "2025-10-28T15:02:46.513Z",
-        "summary": "Geno Bike Tune-up volunteering",
-        "description": "<p dir=\"ltr\"><span>Gathering</span><span><b> Geno Bike Tune-up volunteering</b></span> <a href=\"https://www.instagram.com/p/DQVGLVKieeD/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 3:00 PM</span><span>. 3-6pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Yarborough+Printshop/data=!4m2!3m1!19sChIJt-Z51Asp9ocR93Zow8EYdHE\"><span><u>Yarborough Printshop</u></span></a><span> (900 W 50th St)</span></p><p dir=\"ltr\"><span>Geno is getting ready for a free bike drive, and they want help tuning up bikes. Bring tools + stands if you have them and share your skills. Or, come hang and learn. “Feel free to bring your bike to tune-up and to learn! Can’t promise turn around”. Followed by a movie night at 7pm.</span></p>",
-        "location": "Yarborough Printshop, 900 W 50th St, Minneapolis, MN 55419, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-01T15:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-01T20:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5cu4q16jbti468mipgvfrg2emr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523328213504382\"",
-        "id": "5vjqcoop2t5hea12pd12e3ptfa",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXZqcWNvb3AydDVoZWExMnBkMTJlM3B0ZmEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-28T15:08:00.000Z",
-        "updated": "2025-10-28T15:08:26.752Z",
-        "summary": "Versus Panels @ ACF Expo",
-        "description": "<p dir=\"ltr\"><span>Class/Seminar</span><span><b> Versus Panels @ ACF Expo </b></span><span> </span><a href=\"https://www.instagram.com/p/DQUdXu8Dsa0/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 1, 2025 11:00 AM</span><span>. 11am-6pm. </span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\"><span><u>Angry Catfish Bicycle</u></span></a></p><p dir=\"ltr\"><span>We’ll be at</span><a href=\"https://www.instagram.com/angrycatfish/\"> <span><u>@angrycatfish</u></span></a><span> all day for their annual Fall Open House/Expo! Come learn a thing or two from our incredible teammates 🥰</span></p><p dir=\"ltr\"><span>11 a.m.—Fuel Up (nutrition before and during rides) with</span><a href=\"https://www.instagram.com/_hannahpants_/\"> <span><u>@_hannahpants_</u></span></a><span> and</span><a href=\"https://www.instagram.com/davegiefer/\"> <span><u>@davegiefer</u></span></a></p><p dir=\"ltr\"><span> 1 p.m.—Singletrack and Bikepack with</span><a href=\"https://www.instagram.com/quinlanbock/\"> <span><u>@quinlanbock</u></span></a></p><span>3 p.m.—Winter Commuting in Style with</span><a href=\"https://www.instagram.com/bluemingflower/\"> <span><u>@bluemingflower</u></span></a><span>,</span><a href=\"https://www.instagram.com/thisispatgrady/\"> <span><u>@thisispatgrady</u></span></a><span> and</span><a href=\"https://www.instagram.com/lee.penn/\"> <span><u>@lee.penn</u></span></a>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-01T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-01T16:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5vjqcoop2t5hea12pd12e3ptfa@google.com",
-        "sequence": 2,
         "reminders": {
           "useDefault": true
         },

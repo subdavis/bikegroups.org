@@ -101,6 +101,23 @@ export default function OrgList(): OrgParams[] {
       location: 'Sabo Bridge',
     },
     {
+      name: 'Bryn Mawr Active Transit',
+      orgKey: 'bryn-mawr-nat',
+      tags: [OrgTags.SOCIAL, OrgTags.FAMILY],
+      quote: 'Humanizing Transit. Come with whatever bike you have!',
+      description: (
+        <p>
+          BMNA organizes occasional family-friendly social rides in the Bryn Mawr area.
+          Announcements typically through instagram and the{' '}
+          <a href="https://www.bmna.org/email-signup">BMNA Newsletter</a>.
+        </p>
+      ),
+      location: 'Bryn Mawr',
+      calendar: 'https://www.bmna.org/upcoming-events',
+      instagram: 'https://www.instagram.com/activetransit.brynmawr',
+      image: '/images/Bryn_Mawr_NAT.jpg',
+    },
+    {
       name: 'Corpse Whale Racing',
       orgKey: 'corpse-whale',
       quote:
@@ -409,6 +426,7 @@ export default function OrgList(): OrgParams[] {
       name: 'Tuesday Night Rides',
       orgKey: 'tuesday-night-rides',
       tags: [OrgTags.SOCIAL, OrgTags.TRAINING],
+      hideEvents: true, // Events are done for the year.
       days: ['T'],
       quote:
         'The goal is to push the pedals and have social time at the restaurant. Please note, not all riders have dinner, and some choose to roll on when we stop. This is a ride you can join for as much or as little as you like.',
@@ -456,6 +474,7 @@ export default function OrgList(): OrgParams[] {
       orgKey: 'uteplis',
       tags: [OrgTags.SOCIAL, OrgTags.MOUNTAIN, OrgTags.TRAINING, OrgTags.FTW],
       days: ['W', 'Su'],
+      hideEvents: true, // Events are done for the year.
       quote:
         "Beers. Bikes. Community. That's the goal of Utepils Cycling Friends. Utepils Brewery is steps from over 15 miles of mountain bike trails and hundreds of miles of trails and routes for road cycling. We aim to create a place where cyclists can increase their skill and get out cycling in a relaxing and fun atmosphere.",
       description: (

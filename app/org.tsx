@@ -21,6 +21,8 @@ export interface OrgParams {
   highlight?: boolean;
   verified?: boolean;
   eager?: boolean;
+  // Hide events because the calendar is wrong.
+  hideEvents?: boolean;
   tags?: OrgTags[];
 }
 
@@ -94,7 +96,7 @@ export default function Organization(params: OrgParams) {
       <div className="flex-1">
         {OrgTitle(params)}
         {params.days && <WeekIndicator days={params.days} />}
-        <OrgEvents orgKey={params.orgKey} />
+        {params.hideEvents !== true && <OrgEvents orgKey={params.orgKey} />}
         {params.quote && <Quote>{params.quote}</Quote>}
         <div className="my-4">
           {(typeof params.description) in ['string', 'number', 'boolean'] ? (

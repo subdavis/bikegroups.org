@@ -1,15 +1,15 @@
 {
-  "timestamp": 1762758417901,
+  "timestamp": 1762804500525,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337vj1k6n7j900o\"",
+    "etag": "\"p32fun6k2gjk900o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-11-10T01:36:51.272Z",
+    "updated": "2025-11-10T16:44:55.607Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_5hoa55pADEM_5hoa55pADGAEgwti6igMowti6igM=",
+    "nextSyncToken": "CJ_rmoKE6JADEJ_rmoKE6JADGAEgwti6igMowti6igM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1052,84 +1052,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513645939035358\"",
-        "id": "2etr976uifvb6n9c86q3ankfpu_20251119T001500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmV0cjk3NnVpZnZiNm45Yzg2cTNhbmtmcHVfMjAyNTExMTlUMDAxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-09-02T14:22:49.000Z",
-        "updated": "2025-09-02T14:22:49.517Z",
-        "summary": "Fast Casual x Francis Burger ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Fast Casual x Francis Burger ride. </b></span><a href=\"https://www.instagram.com/fastcasualmpls/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Sep 16, 2025 6:15 PM</span><span>. Meet at 6:15 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/Francis+Burger+Joint/data=!4m2!3m1!19sChIJMVsa4LQp9ocRAkUcwuZ42Fg\"><span><u>Francis Burger Joint</u></span></a><span> (Lake Street)</span></p><p dir=\"ltr\"><span>Distance: ~15 miles. Pace: 14-16 mph.</span></p><p dir=\"ltr\"><span>Free Hamm’s or NA beverage for every rider. </span></p><p dir=\"ltr\"><span>This is a welcoming intermediate group bike ride, rolling at a moderately spicy pace. Bring your pals, your helmet and lights! </span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-18T18:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-18T20:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2etr976uifvb6n9c86q3ankfpu",
-        "originalStartTime": {
-          "dateTime": "2025-11-18T18:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2etr976uifvb6n9c86q3ankfpu@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3513645939035358\"",
-        "id": "2etr976uifvb6n9c86q3ankfpu_20251217T001500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmV0cjk3NnVpZnZiNm45Yzg2cTNhbmtmcHVfMjAyNTEyMTdUMDAxNTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-09-02T14:22:49.000Z",
-        "updated": "2025-09-02T14:22:49.517Z",
-        "summary": "Fast Casual x Francis Burger ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Fast Casual x Francis Burger ride. </b></span><a href=\"https://www.instagram.com/fastcasualmpls/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Tuesday </span><span>Sep 16, 2025 6:15 PM</span><span>. Meet at 6:15 pm, roll at 6:30 pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/Francis+Burger+Joint/data=!4m2!3m1!19sChIJMVsa4LQp9ocRAkUcwuZ42Fg\"><span><u>Francis Burger Joint</u></span></a><span> (Lake Street)</span></p><p dir=\"ltr\"><span>Distance: ~15 miles. Pace: 14-16 mph.</span></p><p dir=\"ltr\"><span>Free Hamm’s or NA beverage for every rider. </span></p><p dir=\"ltr\"><span>This is a welcoming intermediate group bike ride, rolling at a moderately spicy pace. Bring your pals, your helmet and lights! </span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-16T18:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-16T20:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2etr976uifvb6n9c86q3ankfpu",
-        "originalStartTime": {
-          "dateTime": "2025-12-16T18:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2etr976uifvb6n9c86q3ankfpu@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
@@ -2639,6 +2561,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "532qn9vei3uq8068fp4okambgd@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3525586191215422\"",
+        "id": "4f4o8ppbmad5rtqi88g95kf4kq",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGY0bzhwcGJtYWQ1cnRxaTg4Zzk1a2Y0a3EgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-11-10T16:44:55.000Z",
+        "updated": "2025-11-10T16:44:55.607Z",
+        "summary": "Holiday Decor Hauling Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Holiday Decor Hauling Ride </b></span><a href=\"https://www.instagram.com/p/DQw1ixDEfjm/\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://www.bmna.org/upcoming-events/holiday-decor-ride-\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span><b>When</b></span><span>: Saturday </span><span>Dec 6, 2025 9:45 AM</span><span>. Roll at 10am.</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Garden+of+Hope+and+Healing/data=!4m2!3m1!19sChIJHen_cAAzs1IRJAtWv-ShtGY\"><span><u>Garden of Hope and Healing</u></span></a><span> (420 Cedar Lake Rd S)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~3 miles round trip. Pace: 8-10 mph. </span></p><p dir=\"ltr\"><span>Join the Bryn Mawr Active Transportation Committee for a ~3 mile winter bike ride to the Minneapolis Farmers Market to pick up holiday decor. Wreaths, garlands, and even trees will be available for purchase - and we will transport them back to Bryn Mawr in a car-free manner! Bring a trailer (if you have one).</span></p><span>Feel free to reach out on Instagram at @activetransit.brynmawr or send us an email at </span><a href=\"mailto:activetransit-brynmawr@googlegroups.com\"><span><u>activetransit-brynmawr@googlegroups.com</u></span></a><span>.</span>",
+        "location": "Garden of Hope and Healing, Bryn Mawr, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-06T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-06T11:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4f4o8ppbmad5rtqi88g95kf4kq@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

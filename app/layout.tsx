@@ -4,6 +4,7 @@ import './globals.css';
 import Header from './header';
 import Footer from './footer';
 import LinkPile from './linkPile';
+import WinterBanner from './winterBanner';
 
 const inter = Inter({ subsets: ['latin'] });
 const description =

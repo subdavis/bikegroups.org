@@ -1,5 +1,6 @@
 import type { JSX } from 'react';
 import Image from 'next/image';
+import WinterBanner from './winterBanner';
 
 function inlineBlockWord(word: string) {
   return (
@@ -99,6 +100,7 @@ export default function Header() {
             <br />
           </div>
         </div>
+        <WinterBanner />
       </div>
     </header>
   );

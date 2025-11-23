@@ -1,15 +1,15 @@
 {
-  "timestamp": 1763795161215,
+  "timestamp": 1763881578829,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nrlakhv21p20o\"",
+    "etag": "\"p32nvpn59r63920o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-11-21T19:06:18.769Z",
+    "updated": "2025-11-22T21:26:27.644Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK-6qpH4g5EDEK-6qpH4g5EDGAEg1MSwjQMo1MSwjQM=",
+    "nextSyncToken": "CK_83KnZhpEDEK_83KnZhpEDGAEg1MSwjQMo1MSwjQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1565,6 +1565,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260122T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAxMjJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-21T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-21T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-01-21T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3520757384847934\"",
         "id": "70vbjqhobl3fpd7s4tcoi71lg8",
         "status": "confirmed",
@@ -1591,40 +1630,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "70vbjqhobl3fpd7s4tcoi71lg8@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523326461775838\"",
-        "id": "61vrfhiv8r21manlkimnkfdism",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjF2cmZoaXY4cjIxbWFubGtpbW5rZmRpc20gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-28T14:53:50.000Z",
-        "updated": "2025-10-28T14:53:50.887Z",
-        "summary": "Schlöpptoberween Volume 6",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Schlöpptoberween Volume 6. </b></span><a href=\"https://www.facebook.com/events/787763417191248/\"><span><u>Facebook</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 15, 2025 10:00 AM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: 20-30 miles. </span><span><b>Pace</b></span><span>: 10-12 mph. </span></p><p dir=\"ltr\"><span>An annual fundraiser ride hitting bandit trails around the city, with regular stops to hit jumps or fun trail features. Bring a dirt-capable bike (a gravel bike is fine, a mountain bike or fat bike will be more fun). Includes a raffle with great prizes as a fundraiser for Pedal Power MN. </span></p><p dir=\"ltr\"><span>Costumes are encouraged and this year is sports themed. “SPORTS can take many shapes so start making a game-plan for your fit for the day. Any SPORT or SPORTS adjacent theme is probably a good place to start. But DO NOT SHOW UP AS A REF OR UMP OR OFFICIAL OR ZEBRA unless you chat with Comissioner Ders.”</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-15T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-15T16:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "61vrfhiv8r21manlkimnkfdism@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

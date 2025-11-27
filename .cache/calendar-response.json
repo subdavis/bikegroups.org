@@ -1,15 +1,15 @@
 {
-  "timestamp": 1764140812172,
+  "timestamp": 1764227247400,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nvpn59r63920o\"",
+    "etag": "\"p33fr5omkl28920o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-11-22T21:26:27.644Z",
+    "updated": "2025-11-26T17:15:21.957Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK_83KnZhpEDEK_83KnZhpEDGAEg4JHxjQMo4JHxjQM=",
+    "nextSyncToken": "CN-y4tSokJEDEN-y4tSokJEDGAEg9uGdjgMo9uGdjgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -353,6 +353,45 @@
         "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
         "originalStartTime": {
           "dateTime": "2026-01-18T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3482907699087198\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260125T154500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAxMjVUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2025-03-08T17:10:49.543Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-25T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-25T12:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-01-25T09:45:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
@@ -786,6 +825,44 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3488635157062686\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260125T160000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAxMjVUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2025-04-10T20:39:38.531Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-25T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-25T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-01-25T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3496189985479102\"",
         "id": "1ppv8n14n6kiff0lbtsqlhdbiq_20251130T200000Z",
         "status": "confirmed",
@@ -853,6 +930,45 @@
         "recurringEventId": "1ppv8n14n6kiff0lbtsqlhdbiq",
         "originalStartTime": {
           "dateTime": "2025-12-28T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ppv8n14n6kiff0lbtsqlhdbiq@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3496189985479102\"",
+        "id": "1ppv8n14n6kiff0lbtsqlhdbiq_20260125T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXBwdjhuMTRuNmtpZmYwbGJ0c3FsaGRiaXFfMjAyNjAxMjVUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-05-24T13:56:32.000Z",
+        "updated": "2025-05-24T13:56:32.739Z",
+        "summary": "BWB Monthly Sunday rides, Women only",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Biking with Baddies Monthly Sunday rides, Women only </b></span><a href=\"https://www.instagram.com/p/DKA4dp4pYLZ/\"><span><u>Instagram</u></span></a><span>, </span><a href=\"https://bikingwithbaddies.com/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Last Sunday of every month. </span><span>2:00 PM</span><span> </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Logan+Park/data=!4m2!3m1!19sChIJy67MvZEts1IRRk4WWc7SylM\"><span><u>Logan Park</u></span></a> <a href=\"https://www.google.com/maps/place/690+13th+Ave+NE/data=!4m2!3m1!19sChIJyWahB5Ats1IRvIzYi1ooZWs\"><span><u>690 13th Ave NE</u></span></a></p><p dir=\"ltr\"><span><b>Who is this for</b></span><span>: Women only</span></p><p dir=\"ltr\"><span>“All levels welcomed, no one left behind. Always refer to the website for updates. Come out with your bike and make new friends. There may be people you know, and/or folks that might want to get to know you on this ride. Even if that’s not the goal, come outside to cycle with us in nature.”</span></p>",
+        "location": "Logan Park, Minneapolis, MN, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-25T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-25T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ppv8n14n6kiff0lbtsqlhdbiq",
+        "originalStartTime": {
+          "dateTime": "2026-01-25T14:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1ppv8n14n6kiff0lbtsqlhdbiq@google.com",
@@ -1130,45 +1246,6 @@
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518332557865438\"",
-        "id": "akq6he9k0demi7ao18fh45gddk_20251120T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMjBUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-09-29T17:17:58.932Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-19T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-19T19:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
-        "originalStartTime": {
-          "dateTime": "2025-11-19T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -2256,6 +2333,269 @@
         "transparency": "transparent",
         "iCalUID": "080firt9kddt03sd5smr4c7mm2@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528353396999710\"",
+        "id": "52pn36h9tpu87gt6vp73dlvs1p",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NTJwbjM2aDl0cHU4N2d0NnZwNzNkbHZzMXAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-11-26T17:04:58.000Z",
+        "updated": "2025-11-26T17:04:58.499Z",
+        "summary": "Behind Bars FTW River Bottoms ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars FTW River Bottoms ride. </b></span><a href=\"https://www.instagram.com/p/DRW9bP6DTMK/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 29, 2025 11:00 AM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: Expect at least 30 miles round trip. </span><span><b>Pace</b></span><span>: ?, likely 12-15 mph. </span></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span>FTW (no cis-men) river bottoms ride! Slight chance of taking the train to Fort snelling station- we will enter in mendota and head west for a loop. Expect at least 30 miles. If it rains too much friday or at all on saturday- this ride will be canceled! Shop ambassador Veronica</span><a href=\"https://www.instagram.com/duck.emoji/\"> <span><u>@duck.emoji</u></span></a><span> leading.</span></p><p dir=\"ltr\"><span>Please plan accordingly for snacks, flat kits, mud etc.</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-11-29T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-11-29T14:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "52pn36h9tpu87gt6vp73dlvs1p@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528353825482974\"",
+        "id": "0pt8a0piidof7ba28a18saaigt",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MHB0OGEwcGlpZG9mN2JhMjhhMThzYWFpZ3QgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-11-26T17:08:32.000Z",
+        "updated": "2025-11-26T17:08:32.741Z",
+        "summary": "Behind Bars Winter Solstice Light Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Winter Solstice Light Ride. </b></span><a href=\"https://www.instagram.com/p/DQM1KsXjhiM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Dec 20, 2025 5:00 PM</span><span>. Roll at 5:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span>. </span><span><b>Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Modist+Brewing+Co./data=!4m2!3m1!19sChIJdZjxr44ys1IRLpaXP7qJ9DA\"><span><u>Modist Brewing Co.</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: up to 10 miles. </span><span><b>Pace</b></span><span>: casual, 10-12 mph. </span></p><span>Adorn your bike in decorative holiday lights and join us for our 3rd annual Winter Solstice Light Ride</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"> <span><u>@behindbarsbicycleshop</u></span></a><span>. We will follow a festively lit riverfront/downtown route and end</span><a href=\"https://www.instagram.com/modistbrewing/\"> <span><u>@modistbrewing</u></span></a><span> Food can be ordered from a number of nearby restaurants to enjoy. I hear the pizza across the street</span><a href=\"https://www.instagram.com/bricksworthbeer/\"> <span><u>@bricksworthbeer</u></span></a><span> is excellent! A $50 Behind Bars Bicycle Shop merchandise gift card prize will go to the best decorated bike, chosen by shop ambassadors vote. Be bright to chase away the darkness. </span>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-20T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-20T19:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0pt8a0piidof7ba28a18saaigt@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528354643915454\"",
+        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251201T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMDFUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-26T17:15:21.000Z",
+        "updated": "2025-11-26T17:15:21.957Z",
+        "summary": "Bici Xicas Pop-up bike repair Mondays",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
+        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-01T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-01T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
+        "originalStartTime": {
+          "dateTime": "2025-12-01T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528354643915454\"",
+        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251208T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMDhUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-26T17:15:21.000Z",
+        "updated": "2025-11-26T17:15:21.957Z",
+        "summary": "Bici Xicas Pop-up bike repair Mondays",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
+        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-08T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-08T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
+        "originalStartTime": {
+          "dateTime": "2025-12-08T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528354643915454\"",
+        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251215T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMTVUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-26T17:15:21.000Z",
+        "updated": "2025-11-26T17:15:21.957Z",
+        "summary": "Bici Xicas Pop-up bike repair Mondays",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
+        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-15T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-15T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
+        "originalStartTime": {
+          "dateTime": "2025-12-15T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528354643915454\"",
+        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251222T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMjJUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-26T17:15:21.000Z",
+        "updated": "2025-11-26T17:15:21.957Z",
+        "summary": "Bici Xicas Pop-up bike repair Mondays",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
+        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-22T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-22T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
+        "originalStartTime": {
+          "dateTime": "2025-12-22T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3528354643915454\"",
+        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251229T200000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMjlUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-26T17:15:21.000Z",
+        "updated": "2025-11-26T17:15:21.957Z",
+        "summary": "Bici Xicas Pop-up bike repair Mondays",
+        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
+        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-29T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-29T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
+        "originalStartTime": {
+          "dateTime": "2025-12-29T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

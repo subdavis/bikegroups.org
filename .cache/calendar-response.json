@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764399973757,
+  "timestamp": 1764486374817,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33fvru7mki9p20o\"",
@@ -1565,6 +1565,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260129T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAxMjlUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-28T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-28T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-01-28T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3520757384847934\"",
         "id": "70vbjqhobl3fpd7s4tcoi71lg8",
         "status": "confirmed",
@@ -1989,40 +2028,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3523873373301982\"",
-        "id": "38t2jq0cnn0hh7p5eb59l1m4k6",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=Mzh0MmpxMGNubjBoaDdwNWViNTlsMW00azYgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-10-31T18:50:44.000Z",
-        "updated": "2025-10-31T18:51:26.650Z",
-        "summary": "St. Paul Cranksgiving",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>St. Paul Cranksgiving. </b></span><a href=\"https://www.bikemn.org/events/cranksgiving-2025-saint-paul/\"><span><u>Event page</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Saturday </span><span>Nov 22, 2025 12:00 PM</span><span>. Manifests 12:30 pm, 1pm roll-out, 4pm cut-off. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/1697+Lafond+Avenue/data=!4m2!3m1!19sChIJ8UhU2VMrs1IRRfbdabEGS68\"><span><u>1697 Lafond Avenue</u></span></a><span> (Zion Lutheran Church, St. Paul)</span></p><p dir=\"ltr\"><span>This is a food drive where folks ride bicycles to bring food and sundries to donate to Zion Lutheran Church in St. Paul’s Midway neighborhood.</span></p><p dir=\"ltr\"><span>Zion Lutheran Church operates a weekly food ministry that provides food and sundries to the needy. Mr. Michael Recycles Bicycles partners with Zion Lutheran annually to conduct a bicycle powered food drive where people bring their food and sundry donations by bicycle to the event.</span></p><p dir=\"ltr\"><span>People can participate 3 ways:</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span>Carry donations to Zion Lutheran Church by bicycle on November 22 between noon and 4 PM</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Participate in the alley-cat style race to purchase food items at local stores</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span>Call 651-641-1037 to arrange an appointment to have someone pick up food items from their home by bicycle (available only for people living in the Hamline Midway neighborhood)</span></p></li></ul>",
-        "location": "1697 Lafond Ave, St Paul, MN 55104, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-22T12:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-22T16:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "38t2jq0cnn0hh7p5eb59l1m4k6@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3525586191215422\"",
         "id": "4f4o8ppbmad5rtqi88g95kf4kq",
         "status": "confirmed",
@@ -2234,40 +2239,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "32apni0d1str4gjdqd664819um@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3527219939351710\"",
-        "id": "3b7hisre2mklj7vl6e7fquabej",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2I3aGlzcmUybWtsajd2bDZlN2ZxdWFiZWogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-11-20T03:39:29.000Z",
-        "updated": "2025-11-20T03:39:29.675Z",
-        "summary": "Sirbikesalot Bday Theo MTB ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Sirbikesalot Bday Theo MTB ride. </b></span><a href=\"https://www.instagram.com/p/DRQUfEZDoxy/\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Nov 22, 2025 12:00 PM</span><span>. Roll at 12:30 pm.</span></p><p dir=\"ltr\"><span><b>Start:</b></span> <a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~10 miles round trip of pavement + however much singletrack riding. </span><span><b>Pace</b></span><span>: ? </span></p><span>Mountain biking birthday ride organized by SirBikesALot. Rolling out from</span><a href=\"https://www.instagram.com/behindbarsbicycleshop/\"> <span><u>@behindbarsbicycleshop</u></span></a><span> to catch some singletrack at Theo.</span>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-22T12:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-22T14:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3b7hisre2mklj7vl6e7fquabej@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

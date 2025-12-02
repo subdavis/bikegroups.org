@@ -1,15 +1,15 @@
 {
-  "timestamp": 1764572940570,
+  "timestamp": 1764659285764,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vsb4nbqud920o\"",
+    "etag": "\"p33np7g6pjiep20o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-11-30T20:13:02.734Z",
+    "updated": "2025-12-01T20:26:27.255Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL_FkuvXmpEDEL_FkuvXmpEDGAEg9uGdjgMo9uGdjgM=",
+    "nextSyncToken": "CO-TwNmcnZEDEO-TwNmcnZEDGAEg9uGdjgMo9uGdjgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -2087,41 +2087,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3527503948959678\"",
-        "id": "080firt9kddt03sd5smr4c7mm2",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDgwZmlydDlrZGR0MDNzZDVzbXI0YzdtbTIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-11-21T19:05:57.000Z",
-        "updated": "2025-11-21T19:06:14.479Z",
-        "summary": "Global Fat Bike Day: Coffee Outside",
-        "description": "<p dir=\"ltr\"><span>Minneapolis Bike Parks, Angry Catfish, and Bone Saw Cycling Collective will have donuts and coffee from Northern Coffeeworks on the banks of the Minnesota River. Location: old overturned car between the Sibley House and the 494 bridge. It's 2 miles from the Sibley House or 5 miles from the Old Cedar Bridge.</span></p> You can ride on your own. <br> <br>OR<br><br>Join <span>a ride hosted by Unsanctioned Ride Group, leaving Angry Catfish at 9:30am. After stopping for a donut and coffee they will continue their ride following this route:</span><a href=\"https://www.strava.com/routes/3425220758828192232?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExSjI5QVJNV1BDSDFhcHNOQXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4-CgkpiT0jqAefqofIekpor-fWEyfbhFbdOrK_IPWMLzmVXR9AhmKvliqdtQ_aem_b40Z-jrN2DZkyxFmfx-IFQ\"> <span><u>https://www.strava.com/routes/3425220758828192232</u></span></a> <br><br>OR <br><br><span dir=\"auto\">Bone Saw Collective will be rolling from the Sibley House at about 10am, they will be joining up with the Unsanctioned group as they enter the river bottoms.</span>",
-        "location": "Minnesota River Bottoms",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-06T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-06T12:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "080firt9kddt03sd5smr4c7mm2@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3528353396999710\"",
         "id": "52pn36h9tpu87gt6vp73dlvs1p",
         "status": "confirmed",
@@ -2378,6 +2343,143 @@
         },
         "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
         "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3529240707657150\"",
+        "id": "148hvc3j2vk70ui8khvh5puha5",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MTQ4aHZjM2oydms3MHVpOGtodmg1cHVoYTUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-01T20:19:13.000Z",
+        "updated": "2025-12-01T20:19:13.828Z",
+        "summary": "Behind Bars Winter Adventure Rides",
+        "description": "<p dir=\"ltr\"><b>Distance</b>: typically 5-15 miles. <b>Pace</b>: typically 5-15 mph. </p><p dir=\"ltr\">Join shop Ambassador Robin for some winter cycling adventures!</p><p dir=\"ltr\">Due to variable weather, the details of each ride won't be shared until a few days before. The pace and distance of each ride will depend on the conditions.</p><p dir=\"ltr\">\"Adventure\" can take on many forms, from interesting neighborhoods to technical off-road trails, so make sure the next ride is right for you and your bike.</p><p dir=\"ltr\">Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing. Ambassadors will be available for minor repairs, but you should have a backup plan in case of major issues (e.g. public transit).</p><p dir=\"ltr\">Have a sense of adventure! Be ready for obstacles, uneven terrain, and possible route deviations. </p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-11T21:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "148hvc3j2vk70ui8khvh5puha5@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3529240823479838\"",
+        "id": "1omj9t142688dtp1oj34a2vljl",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MW9tajl0MTQyNjg4ZHRwMW9qMzRhMnZsamwgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-01T20:20:11.000Z",
+        "updated": "2025-12-01T20:20:11.739Z",
+        "summary": "Behind Bars Winter Adventure Rides",
+        "description": "<p dir=\"ltr\"><b>Distance</b>: typically 5-15 miles. <b>Pace</b>: typically 5-15 mph. </p><p dir=\"ltr\">Join shop Ambassador Robin for some winter cycling adventures!</p><p dir=\"ltr\">Due to variable weather, the details of each ride won&#39;t be shared until a few days before. The pace and distance of each ride will depend on the conditions.</p><p dir=\"ltr\">&quot;Adventure&quot; can take on many forms, from interesting neighborhoods to technical off-road trails, so make sure the next ride is right for you and your bike.</p><p dir=\"ltr\">Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing. Ambassadors will be available for minor repairs, but you should have a backup plan in case of major issues (e.g. public transit).</p><p dir=\"ltr\">Have a sense of adventure! Be ready for obstacles, uneven terrain, and possible route deviations. </p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-28T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-28T19:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1omj9t142688dtp1oj34a2vljl@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3529240881326430\"",
+        "id": "5simg2g40ttn5t7j929ke8jmr3",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NXNpbWcyZzQwdHRuNXQ3ajkyOWtlOGptcjMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-01T20:20:40.000Z",
+        "updated": "2025-12-01T20:20:40.663Z",
+        "summary": "Behind Bars Winter Adventure Rides",
+        "description": "<p dir=\"ltr\"><b>Distance</b>: typically 5-15 miles. <b>Pace</b>: typically 5-15 mph. </p><p dir=\"ltr\">Join shop Ambassador Robin for some winter cycling adventures!</p><p dir=\"ltr\">Due to variable weather, the details of each ride won&#39;t be shared until a few days before. The pace and distance of each ride will depend on the conditions.</p><p dir=\"ltr\">&quot;Adventure&quot; can take on many forms, from interesting neighborhoods to technical off-road trails, so make sure the next ride is right for you and your bike.</p><p dir=\"ltr\">Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing. Ambassadors will be available for minor repairs, but you should have a backup plan in case of major issues (e.g. public transit).</p><p dir=\"ltr\">Have a sense of adventure! Be ready for obstacles, uneven terrain, and possible route deviations. </p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-01-08T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-01-08T21:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "5simg2g40ttn5t7j929ke8jmr3@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3529241574511582\"",
+        "id": "080firt9kddt03sd5smr4c7mm2",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MDgwZmlydDlrZGR0MDNzZDVzbXI0YzdtbTIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-11-21T19:05:57.000Z",
+        "updated": "2025-12-01T20:26:27.255Z",
+        "summary": "Global Fat Bike Day: Coffee Outside",
+        "description": "<p dir=\"ltr\"><span>Minneapolis Bike Parks, Angry Catfish, and Bone Saw Cycling Collective will have donuts and coffee from Northern Coffeeworks on the banks of the Minnesota River. Location: old overturned car between the Sibley House and the 494 bridge. It's 2 miles from the Sibley House or 5 miles from the Old Cedar Bridge.</span></p> You can ride on your own. <br> <br>OR<br><br>Join <span>a ride hosted by Unsanctioned Ride Group, leaving Angry Catfish at 9:30am. After stopping for a donut and coffee they will continue their ride following this route:</span><a href=\"https://www.strava.com/routes/3425220758828192232?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExSjI5QVJNV1BDSDFhcHNOQXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4-CgkpiT0jqAefqofIekpor-fWEyfbhFbdOrK_IPWMLzmVXR9AhmKvliqdtQ_aem_b40Z-jrN2DZkyxFmfx-IFQ\"> <span><u>https://www.strava.com/routes/3425220758828192232</u></span></a> <br><br>OR <br><br><span dir=\"auto\">Bone Saw Collective will be rolling from the Sibley House at about 10am, they will be joining up with the Unsanctioned group as they enter the river bottoms.</span>",
+        "location": "Minnesota River Bottoms",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-06T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-06T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "transparency": "transparent",
+        "iCalUID": "080firt9kddt03sd5smr4c7mm2@google.com",
+        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

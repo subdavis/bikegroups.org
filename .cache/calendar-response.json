@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764659285764,
+  "timestamp": 1764745692606,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33np7g6pjiep20o\"",
@@ -1445,45 +1445,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3523369847955838\"",
-        "id": "o1vrqia5bahssb756dble7grns_20251125T230000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=bzF2cnFpYTViYWhzc2I3NTZkYmxlN2dybnNfMjAyNTExMjVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-15T19:26:05.000Z",
-        "updated": "2025-10-28T20:55:23.977Z",
-        "summary": "ACF Tuesday Zesty Rides",
-        "description": "<p><span>Group ride (drop rides, but the group will wait at the tops of the climbs)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday meet at 5:00 pm, roll at 5:15 pm (Check Discord for the times. The departure time depends on the season)</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
-        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-25T17:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-25T19:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "o1vrqia5bahssb756dble7grns",
-        "originalStartTime": {
-          "dateTime": "2025-11-25T17:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",
-        "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3523369847955838\"",
         "id": "o1vrqia5bahssb756dble7grns_20251202T230000Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=bzF2cnFpYTViYWhzc2I3NTZkYmxlN2dybnNfMjAyNTEyMDJUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -1869,45 +1830,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3526146375165982\"",
-        "id": "4mdg5e479o3h22tpm8kk04cdi1_20251126T004500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG1kZzVlNDc5bzNoMjJ0cG04a2swNGNkaTFfMjAyNTExMjZUMDA0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-11-13T22:33:07.000Z",
-        "updated": "2025-11-13T22:33:07.582Z",
-        "summary": "Bonesaw Cycling Collective Winter Tuesday rides",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective Winter Tuesday rides. </b></span><a href=\"https://www.instagram.com/p/DQ-Owx8EcVH/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Last Tuesday of each month. Meet at</span><span> 6:45 PM</span><span>. Meet at 6:45 pm, roll at 7 pm. </span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 10-15 miles. </span><span><b>Pace</b></span><span>: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Our winter ride series starts the last week of November and goes through March! Make sure to dress in layers and bring lights!</span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-25T18:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-25T20:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
-        "originalStartTime": {
-          "dateTime": "2025-11-25T18:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3526146375165982\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20251231T004500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NG1kZzVlNDc5bzNoMjJ0cG04a2swNGNkaTFfMjAyNTEyMzFUMDA0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -2011,40 +1933,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5bgdim67krdcjcse7t8k2kdabr@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3527219440311166\"",
-        "id": "32apni0d1str4gjdqd664819um",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzJhcG5pMGQxc3RyNGdqZHFkNjY0ODE5dW0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-11-20T03:35:10.000Z",
-        "updated": "2025-11-20T03:35:20.155Z",
-        "summary": "Northeast caravan to Bonesaw ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Northeast caravan to Bonesaw ride. </b></span><a href=\"https://www.instagram.com/p/DRM4wPFjTFu/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Tuesday </span><span>Nov 25, 2025 6:00 PM</span><span>. Meet at 6:00 pm, roll at 6:15 pm.</span></p><p dir=\"ltr\"><span><b>Start:</b></span> <a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a> <span><b>Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~4 miles. </span><span><b>Pace</b></span><span>: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Calling all Nordeasters and Northsiders, let's ride together down to support the @bonesawcyclingcollective first winter series monthly ride.</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-11-25T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-11-25T18:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "32apni0d1str4gjdqd664819um@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

@@ -1,15 +1,15 @@
 {
-  "timestamp": 1764745692606,
+  "timestamp": 1764832060431,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33np7g6pjiep20o\"",
+    "etag": "\"p33nubd4cgmh920o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-12-01T20:26:27.255Z",
+    "updated": "2025-12-03T18:24:10.265Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO-TwNmcnZEDEO-TwNmcnZEDGAEg9uGdjgMo9uGdjgM=",
+    "nextSyncToken": "CO_ltIyFopEDEO_ltIyFopEDGAEgxOD_jgMoxOD_jgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -353,6 +353,45 @@
         "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
         "originalStartTime": {
           "dateTime": "2026-01-25T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3482907699087198\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260201T154500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMDFUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2025-03-08T17:10:49.543Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-01T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-01T12:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-02-01T09:45:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
@@ -786,6 +825,44 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3488635157062686\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260201T160000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAyMDFUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2025-04-10T20:39:38.531Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-01T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-01T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-02-01T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3504353545390142\"",
         "id": "2044ccndiqki594t21jno6sqob_20251204T000000Z",
         "status": "confirmed",
@@ -1020,15 +1097,15 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3518332557865438\"",
-        "id": "akq6he9k0demi7ao18fh45gddk_20251127T000000Z",
+        "etag": "\"3518328807726430\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20260201T184500Z",
         "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNTExMjdUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-09-29T17:17:58.932Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNjAyMDFUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2025-09-29T16:46:43.863Z",
+        "summary": "No name alleycat",
+        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Usually the first Sunday of the month. Sometimes rescheduled to avoid conflicts with other events</span><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
         "creator": {
           "email": "jmbangsund@gmail.com"
         },
@@ -1038,20 +1115,20 @@
           "self": true
         },
         "start": {
-          "dateTime": "2025-11-26T18:00:00-06:00",
+          "dateTime": "2026-02-01T12:45:00-06:00",
           "timeZone": "America/Chicago"
         },
         "end": {
-          "dateTime": "2025-11-26T19:30:00-06:00",
+          "dateTime": "2026-02-01T14:45:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16_R20251102T184500",
         "originalStartTime": {
-          "dateTime": "2025-11-26T18:00:00-06:00",
+          "dateTime": "2026-02-01T12:45:00-06:00",
           "timeZone": "America/Chicago"
         },
-        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
-        "sequence": 1,
+        "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2368,6 +2445,40 @@
         "transparency": "transparent",
         "iCalUID": "080firt9kddt03sd5smr4c7mm2@google.com",
         "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3529572500530654\"",
+        "id": "1mbu4uot4hcfhlc8cf5mnthj3p",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MW1idTR1b3Q0aGNmaGxjOGNmNW1udGhqM3AgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-03T18:24:09.000Z",
+        "updated": "2025-12-03T18:24:10.265Z",
+        "summary": "Behind Bars Global Fat Bike day ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Global Fat Bike day ride. </b></span><a href=\"https://www.instagram.com/p/DRxsUqlDkoq/\"><span><u>Instagram</u></span></a><span> </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Dec 6, 2025 12:00 PM</span><span>. Roll at 12:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Momo+cafe/data=!4m2!3m1!19sChIJRyMqtTMts1IRi3gd2IfFxI4\"><span><u>Momo cafe</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 5-15 miles. </span><span><b>Pace</b></span><span>: typically 5-15 mph. </span></p><span>Ride around some bandit trails in Northeast and Columbia Heights. We'll finish</span><a href=\"https://www.instagram.com/momocafemn/\"> <span><u>@momocafemn</u></span></a><span> for coffee, treats and warmth. If you don't have a fat bike ride your favorite winter bike. There will be alternative routes you may follow when the fat bikes plow some trails. </span>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-06T12:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-06T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1mbu4uot4hcfhlc8cf5mnthj3p@google.com",
+        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

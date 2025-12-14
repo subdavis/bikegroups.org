@@ -1,15 +1,15 @@
 {
-  "timestamp": 1765609580373,
+  "timestamp": 1765696007469,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32nv144rjipp20o\"",
+    "etag": "\"p33fphinlrmtp20o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-12-10T14:22:50.701Z",
+    "updated": "2025-12-13T23:38:06.596Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK_wkJucs5EDEK_wkJucs5EDGAEgiduvkQMoiduvkQM=",
+    "nextSyncToken": "CN-YyvXdu5EDEN-YyvXdu5EDGAEgiduvkQMoiduvkQM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1448,6 +1448,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260212T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAyMTJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-11T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-02-11T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3523369847955838\"",
         "id": "o1vrqia5bahssb756dble7grns_20251209T230000Z",
         "status": "confirmed",
@@ -1831,40 +1870,6 @@
         },
         "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",
         "sequence": 2,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3525586191215422\"",
-        "id": "4f4o8ppbmad5rtqi88g95kf4kq",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NGY0bzhwcGJtYWQ1cnRxaTg4Zzk1a2Y0a3EgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-11-10T16:44:55.000Z",
-        "updated": "2025-11-10T16:44:55.607Z",
-        "summary": "Holiday Decor Hauling Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Holiday Decor Hauling Ride </b></span><a href=\"https://www.instagram.com/p/DQw1ixDEfjm/\"><span><u>Instagram</u></span></a><span><b>, </b></span><a href=\"https://www.bmna.org/upcoming-events/holiday-decor-ride-\"><span><u>Website</u></span></a></p><p dir=\"ltr\"><span><b>When</b></span><span>: Saturday </span><span>Dec 6, 2025 9:45 AM</span><span>. Roll at 10am.</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Garden+of+Hope+and+Healing/data=!4m2!3m1!19sChIJHen_cAAzs1IRJAtWv-ShtGY\"><span><u>Garden of Hope and Healing</u></span></a><span> (420 Cedar Lake Rd S)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~3 miles round trip. Pace: 8-10 mph. </span></p><p dir=\"ltr\"><span>Join the Bryn Mawr Active Transportation Committee for a ~3 mile winter bike ride to the Minneapolis Farmers Market to pick up holiday decor. Wreaths, garlands, and even trees will be available for purchase - and we will transport them back to Bryn Mawr in a car-free manner! Bring a trailer (if you have one).</span></p><span>Feel free to reach out on Instagram at @activetransit.brynmawr or send us an email at </span><a href=\"mailto:activetransit-brynmawr@googlegroups.com\"><span><u>activetransit-brynmawr@googlegroups.com</u></span></a><span>.</span>",
-        "location": "Garden of Hope and Healing, Bryn Mawr, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-06T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-06T11:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4f4o8ppbmad5rtqi88g95kf4kq@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -2335,75 +2340,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5simg2g40ttn5t7j929ke8jmr3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3529241574511582\"",
-        "id": "080firt9kddt03sd5smr4c7mm2",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MDgwZmlydDlrZGR0MDNzZDVzbXI0YzdtbTIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-11-21T19:05:57.000Z",
-        "updated": "2025-12-01T20:26:27.255Z",
-        "summary": "Global Fat Bike Day: Coffee Outside",
-        "description": "<p dir=\"ltr\"><span>Minneapolis Bike Parks, Angry Catfish, and Bone Saw Cycling Collective will have donuts and coffee from Northern Coffeeworks on the banks of the Minnesota River. Location: old overturned car between the Sibley House and the 494 bridge. It's 2 miles from the Sibley House or 5 miles from the Old Cedar Bridge.</span></p> You can ride on your own. <br> <br>OR<br><br>Join <span>a ride hosted by Unsanctioned Ride Group, leaving Angry Catfish at 9:30am. After stopping for a donut and coffee they will continue their ride following this route:</span><a href=\"https://www.strava.com/routes/3425220758828192232?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExSjI5QVJNV1BDSDFhcHNOQXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4-CgkpiT0jqAefqofIekpor-fWEyfbhFbdOrK_IPWMLzmVXR9AhmKvliqdtQ_aem_b40Z-jrN2DZkyxFmfx-IFQ\"> <span><u>https://www.strava.com/routes/3425220758828192232</u></span></a> <br><br>OR <br><br><span dir=\"auto\">Bone Saw Collective will be rolling from the Sibley House at about 10am, they will be joining up with the Unsanctioned group as they enter the river bottoms.</span>",
-        "location": "Minnesota River Bottoms",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-06T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-06T14:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "080firt9kddt03sd5smr4c7mm2@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3529572500530654\"",
-        "id": "1mbu4uot4hcfhlc8cf5mnthj3p",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MW1idTR1b3Q0aGNmaGxjOGNmNW1udGhqM3AgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-03T18:24:09.000Z",
-        "updated": "2025-12-03T18:24:10.265Z",
-        "summary": "Behind Bars Global Fat Bike day ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Global Fat Bike day ride. </b></span><a href=\"https://www.instagram.com/p/DRxsUqlDkoq/\"><span><u>Instagram</u></span></a><span> </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Dec 6, 2025 12:00 PM</span><span>. Roll at 12:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a></p><p dir=\"ltr\"><span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Momo+cafe/data=!4m2!3m1!19sChIJRyMqtTMts1IRi3gd2IfFxI4\"><span><u>Momo cafe</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 5-15 miles. </span><span><b>Pace</b></span><span>: typically 5-15 mph. </span></p><span>Ride around some bandit trails in Northeast and Columbia Heights. We'll finish</span><a href=\"https://www.instagram.com/momocafemn/\"> <span><u>@momocafemn</u></span></a><span> for coffee, treats and warmth. If you don't have a fat bike ride your favorite winter bike. There will be alternative routes you may follow when the fat bikes plow some trails. </span>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-06T12:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-06T14:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1mbu4uot4hcfhlc8cf5mnthj3p@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

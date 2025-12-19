@@ -1,15 +1,15 @@
 {
-  "timestamp": 1766041714421,
+  "timestamp": 1766128102974,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fphinlrmtp20o\"",
+    "etag": "\"p33vo19tisb3p20o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-12-13T23:38:06.596Z",
+    "updated": "2025-12-18T18:30:04.548Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN-YyvXdu5EDEN-YyvXdu5EDGAEg3PmikgMo3PmikgM=",
+    "nextSyncToken": "CP-Ap7Lix5EDEP-Ap7Lix5EDGAEggMTvkgMogMTvkgM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -396,46 +396,6 @@
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3484100333511230\"",
-        "id": "2gllle8uet9h6uckcgmvb4iics_20251212T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNTEyMTJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-15T14:46:58.000Z",
-        "updated": "2025-03-15T14:49:26.755Z",
-        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
-        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-11T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-11T20:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
-        "originalStartTime": {
-          "dateTime": "2025-12-11T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -2130,40 +2090,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3529240707657150\"",
-        "id": "148hvc3j2vk70ui8khvh5puha5",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MTQ4aHZjM2oydms3MHVpOGtodmg1cHVoYTUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-01T20:19:13.000Z",
-        "updated": "2025-12-01T20:19:13.828Z",
-        "summary": "Behind Bars Winter Adventure Rides",
-        "description": "<p dir=\"ltr\"><b>Distance</b>: typically 5-15 miles. <b>Pace</b>: typically 5-15 mph. </p><p dir=\"ltr\">Join shop Ambassador Robin for some winter cycling adventures!</p><p dir=\"ltr\">Due to variable weather, the details of each ride won't be shared until a few days before. The pace and distance of each ride will depend on the conditions.</p><p dir=\"ltr\">\"Adventure\" can take on many forms, from interesting neighborhoods to technical off-road trails, so make sure the next ride is right for you and your bike.</p><p dir=\"ltr\">Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing. Ambassadors will be available for minor repairs, but you should have a backup plan in case of major issues (e.g. public transit).</p><p dir=\"ltr\">Have a sense of adventure! Be ready for obstacles, uneven terrain, and possible route deviations. </p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-11T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-11T21:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "148hvc3j2vk70ui8khvh5puha5@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3529240823479838\"",
         "id": "1omj9t142688dtp1oj34a2vljl",
         "status": "confirmed",
@@ -2257,6 +2183,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2lbfr1f64lu8m5saih8vu6j8qv@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3532165209096446\"",
+        "id": "19fpjauia91qc6hb6arq8blu22",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MTlmcGphdWlhOTFxYzZoYjZhcnE4Ymx1MjIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-18T18:30:04.000Z",
+        "updated": "2025-12-18T18:30:04.548Z",
+        "summary": "Solstice Sunrise Ride with Fast Casual",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Solstice Sunrise Ride with Fast Casual. </b></span><a href=\"https://www.instagram.com/p/DSQBx_hjhbM/?igsh=MXc3djF1bDV4eHpuYw==\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Dec 21, 2025 7:00 AM</span><span>. Roll at 7:15am.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a><span>. </span><span><b>Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Cedar+Lake/data=!4m2!3m1!19sChIJoRgMREgzs1IRQcv1UpzaSog\"><span><u>Cedar Lake</u></span></a><span> (Point Beach on East side)</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~5 miles. </span><span><b>Pace</b></span><span>: 12-14 mph. </span></p><p dir=\"ltr\"><span>A short ride for the shortest day of the year. Finish at Point Beach in time to catch the sunrise at 7:48 am. </span></p><span>We’ll roll together from sabo bridge to cedar lake for a wintery sunrise beach hang.Bring your friends and a warm beverage ☕️ </span>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-21T07:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-21T09:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "19fpjauia91qc6hb6arq8blu22@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

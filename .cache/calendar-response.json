@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766646499607,
+  "timestamp": 1766732887231,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337o946qif7p20o\"",
@@ -855,45 +855,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3504353606179934\"",
-        "id": "3a36mi569jp3c72dnh79dg0k6e_20251219T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M2EzNm1pNTY5anAzYzcyZG5oNzlkZzBrNmVfMjAyNTEyMTlUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-07-10T19:45:51.000Z",
-        "updated": "2025-07-10T19:46:43.089Z",
-        "summary": "Grease Rag FTW Open shop",
-        "description": "<p><span>Bike maintenance</span> <span><b>Grease Rag FTW Open shop. </b></span><a href=\"https://www.instagram.com/p/DL6Hl2os8c0/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span><b>When</b>: 6-8pm. 1st Wednesdays and 3rd Thursday of each month through December.</span></p><p><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3745+Minnehaha+Avenue/data=!4m2!3m1!19sChIJ3RtGkkko9ocR4T7eFEr67w0\" target=\"_blank\"><span><u>3745 Minnehaha Avenue</u></span></a><span> (Bicycle Alliance of MN)</span></p><p><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\" target=\"_blank\"><span><u>defining FTW.</u></span></a></p><p><span>Fix your bike with the help of a mechanic!</span></p><p><span>*Drop in no sign up required</span></p><p><span>*Some small parts provided</span></p><p><span>*Masks required</span></p><p><span>*Down a flight of stairs</span></p>",
-        "location": "Bicycle Alliance of Minnesota, 3745 Minnehaha Ave, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-18T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-18T20:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "3a36mi569jp3c72dnh79dg0k6e",
-        "originalStartTime": {
-          "dateTime": "2025-12-18T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3a36mi569jp3c72dnh79dg0k6e@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

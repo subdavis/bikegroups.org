@@ -1,15 +1,15 @@
 {
-  "timestamp": 1766732887231,
+  "timestamp": 1766819189405,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337o946qif7p20o\"",
+    "etag": "\"p32nu1et3rbdp20o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2025-12-21T16:59:19.563Z",
+    "updated": "2025-12-26T16:47:00.714Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM-EkNqTz5EDEM-EkNqTz5EDGAEgjeitkwMojeitkwM=",
+    "nextSyncToken": "CK_gu6Pa25EDEK_gu6Pa25EDGAEgjeitkwMojeitkwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1721,6 +1721,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3523369847955838\"",
+        "id": "o1vrqia5bahssb756dble7grns_20260224T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bzF2cnFpYTViYWhzc2I3NTZkYmxlN2dybnNfMjAyNjAyMjRUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-07-15T19:26:05.000Z",
+        "updated": "2025-10-28T20:55:23.977Z",
+        "summary": "ACF Tuesday Zesty Rides",
+        "description": "<p><span>Group ride (drop rides, but the group will wait at the tops of the climbs)</span> <span><b>Angry Catfish Zesty Rides</b></span><span>. </span><a href=\"https://www.instagram.com/reel/DMIz49TSwQZ/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span>Every Tuesday meet at 5:00 pm, roll at 5:15 pm (Check Discord for the times. The departure time depends on the season)</span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a></p><p><span>Distance: Typically 25-40 miles. Pace: 16-18 mph.</span></p><span>Led by </span><a href=\"https://www.instagram.com/nickwithabike/\" target=\"_blank\"><span><u>@nickwithabike</u></span></a><span>, this ride will run every Tuesday all year round at a pace between ACF’s spicy Monday ride and social Wednesday ride. Routes will be all-terrain, mostly paved with some gravel and bandit trails. </span>",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-24T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-24T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "o1vrqia5bahssb756dble7grns",
+        "originalStartTime": {
+          "dateTime": "2026-02-24T17:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "o1vrqia5bahssb756dble7grns@google.com",
+        "sequence": 2,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3526146375165982\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20251231T004500Z",
         "status": "confirmed",
@@ -1788,6 +1827,45 @@
         "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
         "originalStartTime": {
           "dateTime": "2026-01-27T18:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3526146375165982\"",
+        "id": "4mdg5e479o3h22tpm8kk04cdi1_20260225T004500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG1kZzVlNDc5bzNoMjJ0cG04a2swNGNkaTFfMjAyNjAyMjVUMDA0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-13T22:33:07.000Z",
+        "updated": "2025-11-13T22:33:07.582Z",
+        "summary": "Bonesaw Cycling Collective Winter Tuesday rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective Winter Tuesday rides. </b></span><a href=\"https://www.instagram.com/p/DQ-Owx8EcVH/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Last Tuesday of each month. Meet at</span><span> 6:45 PM</span><span>. Meet at 6:45 pm, roll at 7 pm. </span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 10-15 miles. </span><span><b>Pace</b></span><span>: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Our winter ride series starts the last week of November and goes through March! Make sure to dress in layers and bring lights!</span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-24T18:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-24T20:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
+        "originalStartTime": {
+          "dateTime": "2026-02-24T18:45:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",
@@ -2072,6 +2150,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "19fpjauia91qc6hb6arq8blu22@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3533535241429086\"",
+        "id": "7lk8vv08l8lm5sisile6pp4ovt",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=N2xrOHZ2MDhsOGxtNXNpc2lsZTZwcDRvdnQgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-26T16:47:00.000Z",
+        "updated": "2025-12-26T16:47:00.714Z",
+        "summary": "Sovereign of the Segments Alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Sovereign of the Segments Alleycat. </b></span><a href=\"https://www.instagram.com/p/DSsnng5j6wY/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Dec 27, 2025</span><span>. Meet at 12:30 pm, race at 1pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a></p><p dir=\"ltr\"><span>Introducing Sovereign of the Segments™, \"A Strava based enduro style alleycat.\" </span></p><p dir=\"ltr\"><span>Now, what is it? It's an Alleycat.</span></p><p dir=\"ltr\"><span>The race will consist of between 5 and 10 strava segments.</span></p><p dir=\"ltr\"><span>Segments can be completed in any order, only the best attempt at each segment counts.</span></p><p dir=\"ltr\"><span>The time in between segments is not counted.</span></p><p dir=\"ltr\"><span>There will be 30 minutes of route planning time.</span></p><p dir=\"ltr\"><span>The race will possible to be completed in under 15 miles.</span></p><p dir=\"ltr\"><span>There will be a soft 2.5 hour cutoff time.</span></p><p dir=\"ltr\"><span>The race will take place primarily in NE Minneapolis.</span></p><p dir=\"ltr\"><span>Your strava ride MUST be visible to me in order to be scored.</span></p><p dir=\"ltr\"><span>Bring your friends and get crowned Sovereign of the Segments™*!</span></p>",
+        "location": "Bauhaus Brew Labs, 1315 Tyler St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2025-12-27T12:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2025-12-27T15:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "7lk8vv08l8lm5sisile6pp4ovt@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

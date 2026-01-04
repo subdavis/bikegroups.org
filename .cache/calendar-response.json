@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767423984635,
+  "timestamp": 1767510482060,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32nphc63tjj920o\"",
@@ -941,6 +941,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3517311057671038\"",
+        "id": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4_20260305T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjVpajhkcG02cGk2YWJiM2M0czMwYjlrNjhyNjhiOXA2c3FqNGJiMzY1aGppYzFtNzFpajhwMWhjNF8yMDI2MDMwNVQwMDAwMDBaIDZhMjU2ZTI1ZTMxNmNjNjc3NzFiOTliZDQ5OWRmYTU3ZDI3ODBkNTFmNmViNWY5ZGYxYTlkODQyOTlhMWIzYzJAZw",
+        "created": "2025-09-23T00:35:16.000Z",
+        "updated": "2025-09-23T19:25:28.835Z",
+        "summary": "ACF Winter social ride",
+        "description": "<span><p><span>Group ride (no-drop)</span> <span><b>Angry Catfish Wednesday social ride</b></span><span>. </span><a href=\"https://www.instagram.com/p/DIupRm0OUUN/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://discord.gg/EWM93HQhth\" target=\"_blank\"><span><u>Discord</u></span></a><span>. </span><a href=\"https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p><span><b>When:</b></span><span> Wednesday </span><span>Oct 1, 2025</span><span> rolling at 6:00 pm. First Wednesday of each month during cold weather months.</span></p><p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Angry+Catfish+Bicycle/data=!4m2!3m1!19sChIJwZrvskQo9ocRi51uMff-jCM\" target=\"_blank\"><span><u>Angry Catfish Bicycle</u></span></a> <span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Venn+Brewing+Company/data=!4m2!3m1!19sChIJ1YWA41Qo9ocRX3VQObwGo00\" target=\"_blank\"><span><u>Venn Brewing Company</u></span></a></p><p><span><b>Distance</b></span><span>: ~15 miles. </span><span><b>Pace</b></span><span>: 12-13 mph.</span></p><p><span>Bring lights, dress for the weather. Led by: Alex &amp; Adam</span></p></span>Some additional considerations as weather gets colder:<br>- Dress for the weather, we will ride even when the temperature gets real low. Layers, pogies, and toe warmers are your friends. Ask friends how they layer, experiment and enjoy the thrill of winter riding.<br>- Ride based on your comfort level - rides will be in the dark and can be icy/snowy. Studded and/or fat tires encouraged in the depths of winter. Lights required.<br><br>Led by: Alex &amp; Adam.<br><br>See Discord link for ride updates.",
+        "location": "Angry Catfish Bicycle, 2900 E 42nd St, Minneapolis, MN 55406, USA",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-04T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-04T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4",
+        "originalStartTime": {
+          "dateTime": "2026-03-04T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3518328807726430\"",
         "id": "4no79kmntsjc8l17t90430vi16_20260104T184500Z",
         "status": "confirmed",
@@ -1398,6 +1437,45 @@
         "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
         "originalStartTime": {
           "dateTime": "2026-02-25T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260305T000000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAzMDVUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-04T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-04T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-03-04T18:00:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
@@ -2082,40 +2160,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5simg2g40ttn5t7j929ke8jmr3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3533535241429086\"",
-        "id": "7lk8vv08l8lm5sisile6pp4ovt",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=N2xrOHZ2MDhsOGxtNXNpc2lsZTZwcDRvdnQgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-26T16:47:00.000Z",
-        "updated": "2025-12-26T16:47:00.714Z",
-        "summary": "Sovereign of the Segments Alleycat",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>Sovereign of the Segments Alleycat. </b></span><a href=\"https://www.instagram.com/p/DSsnng5j6wY/\"><span><u>Instagram</u></span></a></p><p dir=\"ltr\"><span>Saturday </span><span>Dec 27, 2025</span><span>. Meet at 12:30 pm, race at 1pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Bauhaus+Brew+Labs/data=!4m2!3m1!19sChIJazN1gpcts1IRu7Aae_MI5Xc\"><span><u>Bauhaus Brew Labs</u></span></a></p><p dir=\"ltr\"><span>Introducing Sovereign of the Segments™, \"A Strava based enduro style alleycat.\" </span></p><p dir=\"ltr\"><span>Now, what is it? It's an Alleycat.</span></p><p dir=\"ltr\"><span>The race will consist of between 5 and 10 strava segments.</span></p><p dir=\"ltr\"><span>Segments can be completed in any order, only the best attempt at each segment counts.</span></p><p dir=\"ltr\"><span>The time in between segments is not counted.</span></p><p dir=\"ltr\"><span>There will be 30 minutes of route planning time.</span></p><p dir=\"ltr\"><span>The race will possible to be completed in under 15 miles.</span></p><p dir=\"ltr\"><span>There will be a soft 2.5 hour cutoff time.</span></p><p dir=\"ltr\"><span>The race will take place primarily in NE Minneapolis.</span></p><p dir=\"ltr\"><span>Your strava ride MUST be visible to me in order to be scored.</span></p><p dir=\"ltr\"><span>Bring your friends and get crowned Sovereign of the Segments™*!</span></p>",
-        "location": "Bauhaus Brew Labs, 1315 Tyler St NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-27T12:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-27T15:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "7lk8vv08l8lm5sisile6pp4ovt@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

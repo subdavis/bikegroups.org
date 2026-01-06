@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767597214753,
+  "timestamp": 1767683448232,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32nphc63tjj920o\"",
@@ -1943,45 +1943,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4enurucutq8mjsvepb6mhe1tnu@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3528354643915454\"",
-        "id": "3ufb7pg066kl1udqrg6pqlpcgp_20251229T200000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=M3VmYjdwZzA2NmtsMXVkcXJnNnBxbHBjZ3BfMjAyNTEyMjlUMjAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-11-26T17:15:21.000Z",
-        "updated": "2025-11-26T17:15:21.957Z",
-        "summary": "Bici Xicas Pop-up bike repair Mondays",
-        "description": "<p dir=\"ltr\"><span>Bike maintenance</span> <span><b>Bici Xicas Pop-up bike repair Mondays. </b></span><a href=\"https://www.instagram.com/p/DRSb3hdEkkM/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Mondays 2pm-5pm. </span><span>Dec 1, 2025</span><span>, </span><span>Dec 8, 2025</span><span>, </span><span>Dec 15, 2025</span><span>, </span><span>Dec 22, 2025</span><span>, </span><span>Dec 29, 2025</span></p><p dir=\"ltr\"><span><b>Location</b></span><span>: </span><a href=\"https://www.google.com/maps/place/3010+East+Lake+Street/data=!4m2!3m1!19sChIJq0hjZy8o9ocR1_ChGe3GLqk\"><span><u>3010 East Lake Street</u></span></a><span> (Bici Xicas shop)</span></p><p dir=\"ltr\"><span>Basic repairs only: flat tires, rim brakes, shifting, chains. Questions? Text us at 612-807-1070.</span></p>",
-        "location": "3010 E Lake St, Minneapolis, MN 55406, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2025-12-29T14:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2025-12-29T17:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "3ufb7pg066kl1udqrg6pqlpcgp",
-        "originalStartTime": {
-          "dateTime": "2025-12-29T14:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "3ufb7pg066kl1udqrg6pqlpcgp@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

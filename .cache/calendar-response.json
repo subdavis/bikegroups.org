@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768028792398,
+  "timestamp": 1768115254863,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32nphc63tjj920o\"",
@@ -1448,6 +1448,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260311T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAzMTFUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-11T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-11T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-03-11T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3523369847955838\"",
         "id": "o1vrqia5bahssb756dble7grns_20260106T230000Z",
         "status": "confirmed",
@@ -1975,40 +2014,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "5simg2g40ttn5t7j929ke8jmr3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3534300953188446\"",
-        "id": "1k15qfkudi1ccjl5sii96jk7um",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWsxNXFma3VkaTFjY2psNXNpaTk2ams3dW0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-31T03:07:56.000Z",
-        "updated": "2025-12-31T03:07:56.594Z",
-        "summary": "Behind Bars Ice Skating Ride",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Ice Skating Ride. </b></span><a href=\"https://www.instagram.com/p/DSyt8Crjc27/\"><span><u>Instagram</u></span></a><span> </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Jan 3, 2026 2:00 PM</span><span>. Roll at 2:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a> <span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/Lake+of+the+Isles/data=!4m2!3m1!19sChIJjYthPDIzs1IRlSe0sleXfeQ\"><span><u>Lake of the Isles</u></span></a><span> ice skating rink</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~5 miles. </span><span><b>Pace</b></span><span>: typically ~12 mph. </span></p><p dir=\"ltr\"><span>Ice skating at Lake of the Isles. If you do not have your own ice skates that is okay! There are some available to borrow from the Lake of the Isles warming hut.</span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-03T14:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-03T16:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1k15qfkudi1ccjl5sii96jk7um@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

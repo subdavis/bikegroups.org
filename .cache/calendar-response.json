@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768461006261,
+  "timestamp": 1768547385889,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p32nphc63tjj920o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CK-YsMPs5pEDEK-YsMPs5pEDGAEgx7_WlgMox7_WlgM=",
+    "nextSyncToken": "CK-YsMPs5pEDEK-YsMPs5pEDGAEgw67KlwMow67KlwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -396,46 +396,6 @@
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3484100333511230\"",
-        "id": "2gllle8uet9h6uckcgmvb4iics_20260109T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmdsbGxlOHVldDloNnVja2NnbXZiNGlpY3NfMjAyNjAxMDlUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-15T14:46:58.000Z",
-        "updated": "2025-03-15T14:49:26.755Z",
-        "summary": "Joyful Riders: Monthly Ride @ Fulton Beer",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Joyful Riders Club Monthly Ride at Fulton </b></span><a href=\"https://www.instagram.com/p/DE-GLWFR9Us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a></p><p><span>Second Thursday of every month </span><span>at 6:00 PM</span><span>. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Fulton+Beer+Taproom/data=!4m2!3m1!19sChIJxROQZYwys1IR1cgpYoMgfnk\" target=\"_blank\"><span><u>Fulton Beer Taproom</u></span></a></p><p><span>Distance: typically ~1.5 hr of riding. Pace: 8-10 mph. Family friendly, slow-paced party ride. Free beer or NA beverage from Fulton.</span></p>",
-        "location": "Fulton Beer Taproom, 414 N 6th Ave, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-08T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-08T20:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000",
-        "originalStartTime": {
-          "dateTime": "2026-01-08T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -1867,40 +1827,6 @@
         "sequence": 0,
         "reminders": {
           "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3529240881326430\"",
-        "id": "5simg2g40ttn5t7j929ke8jmr3",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NXNpbWcyZzQwdHRuNXQ3ajkyOWtlOGptcjMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-01T20:20:40.000Z",
-        "updated": "2025-12-01T20:20:40.663Z",
-        "summary": "Behind Bars Winter Adventure Rides",
-        "description": "<p dir=\"ltr\"><b>Distance</b>: typically 5-15 miles. <b>Pace</b>: typically 5-15 mph. </p><p dir=\"ltr\">Join shop Ambassador Robin for some winter cycling adventures!</p><p dir=\"ltr\">Due to variable weather, the details of each ride won&#39;t be shared until a few days before. The pace and distance of each ride will depend on the conditions.</p><p dir=\"ltr\">&quot;Adventure&quot; can take on many forms, from interesting neighborhoods to technical off-road trails, so make sure the next ride is right for you and your bike.</p><p dir=\"ltr\">Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing. Ambassadors will be available for minor repairs, but you should have a backup plan in case of major issues (e.g. public transit).</p><p dir=\"ltr\">Have a sense of adventure! Be ready for obstacles, uneven terrain, and possible route deviations. </p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-08T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-08T21:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "5simg2g40ttn5t7j929ke8jmr3@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
         },
         "eventType": "default"
       }

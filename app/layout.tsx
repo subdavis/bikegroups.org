@@ -5,16 +5,17 @@ import Header from './header';
 import Footer from './footer';
 import LinkPile from './linkPile';
 import WinterBanner from './winterBanner';
+import { Banner } from './Banner';
 
 const inter = Inter({ subsets: ['latin'] });
 const description =
-  'Updated for Spring 2025. This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.';
+  'This is a list of active cycling clubs in minneapolis that host regular bike rides throughout the season.';
 export const metadata: Metadata = {
-  title: '2025 Minneapolis Bike Clubs',
+  title: '2026 Minneapolis Bike Clubs',
   description,
   keywords: 'bicycle, bike, ride, group, minneapolis, minnesota, club, team, social',
   openGraph: {
-    title: '2025 Minneapolis Bike Clubs',
+    title: '2026 Minneapolis Bike Clubs',
     siteName: 'Minneapolis Bike Groups',
     description,
     images: [
@@ -40,7 +41,8 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="flex flex-col mx-auto max-w-screen-md pt-8 px-4">
+        <Banner />
+        <div className="flex flex-col mx-auto max-w-screen-md pt-20 px-4">
           <Header />
           {children}
           <div>

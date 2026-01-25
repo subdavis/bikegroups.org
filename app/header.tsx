@@ -51,7 +51,7 @@ export default function Header() {
     <header>
       {bigwheel()}
       <h1 className="z-10 text-4xl font-semibold sm:mt-0 my-4">
-        {inlineBlockWord('2025')}
+        {inlineBlockWord('2026')}
         <span> </span>
         {inlineBlockWord('Minneapolis')}
         <span> </span>
@@ -71,7 +71,7 @@ export default function Header() {
           </p>
           <div>
             Join a group bicycle ride with a community of cyclists in Minneapolis. This is a list of
-            active teams and clubs that host rides throughout the season, updated for spring 2025.
+            active teams and clubs that host rides throughout the season, updated for winter 2026.
             Schedules change, so check with the organizers to confirm exact details of the ride.
             <p className="font-semibold">
               {' '}
@@ -91,11 +91,11 @@ export default function Header() {
           </p>
           <div>
             {'Others have also put together event calendars, including '}
-            <InlineLink href="https://www.bikemn.org/all-events/">BikeMN</InlineLink>
-            {' and this '}
             <InlineLink href="https://docs.google.com/document/u/0/d/12_6WkT0G6DEzY_fsLS8GMCLkFR237u8MW8fu1a_-NyA/mobilebasic?pli=1">
-              Google Doc
+              this Google Doc
             </InlineLink>
+            {' and '}
+            <InlineLink href="https://www.bikemn.org/all-events/">BikeMN</InlineLink>
             .
             <br />
           </div>

@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="bg-stone-950" role="contentinfo">
       <div className="flex flex-row mx-auto max-w-screen-md justify-between py-6 px-4">
         <div className="text-stone-100 text-left text-sm font-mono">
-          <p className="mb-3">bikegroups.org 2025</p>
+          <p className="mb-3">bikegroups.org 2026</p>
           <p className="mb-3">
             last updated on{' '}
             <time dateTime={buildTime.toISOString()}>{buildTime.toLocaleDateString()}</time>

@@ -12,8 +12,8 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ tag: OrgTags }> }) {
   const { tag } = await params;
   return {
-    title: `${TagName[tag]} | 2025 Minneapolis Bike Clubs`,
-    description: `2025 Minneapolis Bike Clubs tagged as ${TagName[tag]}. ${TagDescriptions[tag]}`,
+    title: `${TagName[tag]} | 2026 Minneapolis Bike Clubs`,
+    description: `2026 Minneapolis Bike Clubs tagged as ${TagName[tag]}. ${TagDescriptions[tag]}`,
     alternates: {
       canonical: `https://bikegroups.org/tags/${tag}`,
       languages: {

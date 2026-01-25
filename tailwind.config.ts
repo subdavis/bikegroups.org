@@ -10,6 +10,13 @@ const config: Config = {
     extend: {
       animation: {
         'spin-slow': 'spin 250s linear infinite',
+        marquee: 'marquee 80s linear infinite',
+      },
+      keyframes: {
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-50%)' },
+        },
       },
       colors: {
         'mn-blue': '#003865',

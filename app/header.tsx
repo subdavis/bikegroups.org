@@ -87,7 +87,11 @@ export default function Header() {
             from all over join together in unity as well!”
           </p>
           <p className="mb-2">
-            <a href="https://www.reddit.com/r/CyclingMSP/comments/1qnp9vg/alex_pretti_memorial_ride_100pm_on_sat_131_at/">
+            <a
+              data-umami-event="click event"
+              data-umami-event-name="Alex Pretti Memorial Ride"
+              href="https://www.reddit.com/r/CyclingMSP/comments/1qnp9vg/alex_pretti_memorial_ride_100pm_on_sat_131_at/"
+            >
               More details here
             </a>
           </p>

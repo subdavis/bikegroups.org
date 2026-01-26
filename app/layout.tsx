@@ -42,7 +42,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     <html lang="en">
       <body className={inter.className}>
         <Banner />
-        <div className="flex flex-col mx-auto max-w-screen-md pt-20 px-4">
+        <div className="flex flex-col mx-auto max-w-screen-md pt-6 px-4">
           <Header />
           {children}
           <div>

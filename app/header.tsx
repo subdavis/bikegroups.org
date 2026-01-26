@@ -61,6 +61,39 @@ export default function Header() {
       </h1>
 
       <p className="my-3 z-10 bg-white"></p>
+
+      <div className="flex flex-col sm:flex-row my-12">
+        <div className="sm:w-[320px] sm:mr-6">
+          <img
+            src="/images/alex-pretti-memorial-ride.webp"
+            alt="Behind Bars Alex Pretti Memorial Ride"
+            className="mr-4 rounded"
+          />
+        </div>
+        <div className="flex-1">
+          <h2 className="text-2xl font-bold mb-3">Unity Ride in honor of Alex Pretti</h2>
+          <p className="mb-3">
+            Alex was one of us, could&apos;ve been any of us, so as we mourn, all of us can come
+            together in unity to remember Alex for what he was. A kind and caring soul put on this
+            earth to be the light for others. Although his light has been extinguished by this
+            fascist regime, it hasn&apos;t been lost. If anything, those sparks fell and ignited
+            something in us that&apos;s been hiding all along. We are stronger together, and they
+            can&apos;t take us all. We&apos;ve gathered together a community of cyclists to remember
+            Alex Pretti. Please join in, near or far this Saturday, 1/31 1:00 PM Central Time
+          </p>
+          <p className="mb-3">
+            Minneapolis joins together Angry Catfish Bicycle, Bonesaw Cycling Collective, GenoSack,
+            Melanin In Motion, The Price Brothers, Unsanctioned Ride group and others. We hope folks
+            from all over join together in unity as well!”
+          </p>
+          <p className="mb-2">
+            <a href="https://www.reddit.com/r/CyclingMSP/comments/1qnp9vg/alex_pretti_memorial_ride_100pm_on_sat_131_at/">
+              More details here
+            </a>
+          </p>
+        </div>
+      </div>
+
       <div
         className="z-10 bg-stone-100 rounded-xl rounded-tr-xl p-3 text-base mt-10 border-2 border-stone-300"
         role="complementary"

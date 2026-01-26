@@ -98,6 +98,7 @@ export default function OrgList(): OrgParams[] {
       image: '/images/Bonesaw_Cycling_Collective_Bridge_Photo.jpg',
       instagram: 'https://www.instagram.com/bonesawcyclingcollective/',
       facebook: 'https://www.facebook.com/bonesawcyclingcollective/',
+      website: 'https://bonesawcycling.bike/events',
       location: 'Sabo Bridge',
     },
     {

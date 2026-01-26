@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <main>
       <TagNavigator className="my-10" />
+
       {orgs.map((params) => (
         <Org key={params.name} {...params} />
       ))}

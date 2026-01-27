@@ -71,7 +71,7 @@ export default function Header() {
           />
         </div>
         <div className="flex-1">
-          <h2 className="text-2xl font-bold mb-3">Unity Ride in honor of Alex Pretti</h2>
+          <h2 className="text-xl font-bold my-3">Unity Ride in honor of Alex Pretti</h2>
           <p className="mb-3">
             Alex was one of us, could&apos;ve been any of us, so as we mourn, all of us can come
             together in unity to remember Alex for what he was. A kind and caring soul put on this

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1769757648129,
+  "timestamp": 1769843591974,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33notjf3hunp40o\"",
@@ -1353,6 +1353,45 @@
         "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
         "originalStartTime": {
           "dateTime": "2026-02-24T18:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3538919685799166\"",
+        "id": "4mdg5e479o3h22tpm8kk04cdi1_20260331T234500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG1kZzVlNDc5bzNoMjJ0cG04a2swNGNkaTFfMjAyNjAzMzFUMjM0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-11-13T22:33:07.000Z",
+        "updated": "2026-01-26T20:37:22.899Z",
+        "summary": "Bonesaw Cycling Collective Winter Tuesday rides",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective Winter Tuesday rides. </b></span><a href=\"https://www.instagram.com/p/DQ-Owx8EcVH/\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Last Tuesday of each month. Meet at</span><span> 6:45 PM</span><span>. Meet at 6:45 pm, roll at 7 pm. </span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Martin+Olav+Sabo+Bridge/data=!4m2!3m1!19sChIJKc5CNksts1IRsDcmcJnTSog\"><span><u>Martin Olav Sabo Bridge</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: typically 10-15 miles. </span><span><b>Pace</b></span><span>: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Our winter ride series starts the last week of November and goes through March! Make sure to dress in layers and bring lights!</span></p>",
+        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-31T18:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-31T20:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
+        "originalStartTime": {
+          "dateTime": "2026-03-31T18:45:00-05:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",

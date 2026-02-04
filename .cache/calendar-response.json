@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770103288918,
+  "timestamp": 1770189718055,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33notjf3hunp40o\"",
@@ -1393,45 +1393,6 @@
         "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
         "originalStartTime": {
           "dateTime": "2026-03-31T18:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3538919705787294\"",
-        "id": "4mdg5e479o3h22tpm8kk04cdi1_20260128T004500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG1kZzVlNDc5bzNoMjJ0cG04a2swNGNkaTFfMjAyNjAxMjhUMDA0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-11-13T22:33:07.000Z",
-        "updated": "2026-01-26T20:37:32.893Z",
-        "summary": "CANCELED: Bonesaw Winter Tuesday ride",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Bonesaw Cycling Collective Winter Tuesday rides. </b></span><a href=\"https://www.instagram.com/p/DQ-Owx8EcVH/\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span><a href=\"https://bonesawcycling.bike/events\" target=\"_blank\"><span><u>Website</u></span></a><span>.</span></p><p dir=\"ltr\">We're canceling our Winter Ride Series ride originally scheduled for tomorrow 1/27.<span> </span></p><p dir=\"ltr\"><span>There is a lot of support and work to be done with our neighbors right now. We encourage everyone to connect with your neighbors and your immediate community if you haven't already.</span></p><p dir=\"ltr\"><span>Looking for ways to get involved? DM Us.</span></p>",
-        "location": "Martin Olav Sabo Bridge, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-27T18:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-27T19:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4mdg5e479o3h22tpm8kk04cdi1",
-        "originalStartTime": {
-          "dateTime": "2026-01-27T18:45:00-06:00",
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4mdg5e479o3h22tpm8kk04cdi1@google.com",

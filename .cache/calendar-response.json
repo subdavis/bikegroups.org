@@ -1,406 +1,16 @@
 {
-  "timestamp": 1770276326601,
+  "timestamp": 1770362556421,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33notjf3hunp40o\"",
+    "etag": "\"p33fsbkfdtf1940o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2026-01-28T20:57:20.580Z",
+    "updated": "2026-02-05T17:09:52.715Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CO-OzeOPr5IDEO-OzeOPr5IDGAEgl43ZmQMol43ZmQM=",
+    "nextSyncToken": "CN_F0e3rwpIDEN_F0e3rwpIDGAEgl43ZmQMol43ZmQM=",
     "items": [
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260201T154500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMDFUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-01T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-01T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-02-01T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260208T154500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMDhUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-08T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-08T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-02-08T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260215T154500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMTVUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-15T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-15T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-02-15T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260222T154500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMjJUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-22T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-22T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-02-22T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260301T154500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMDFUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-01T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-01T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-03-01T09:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260308T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMDhUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-08T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-08T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-03-08T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260315T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMTVUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-15T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-15T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-03-15T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260322T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMjJUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-22T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-22T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-03-22T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260329T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMjlUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-29T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-29T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-03-29T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3482907699087198\"",
-        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260405T144500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjA0MDVUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:10:49.000Z",
-        "updated": "2025-03-08T17:10:49.543Z",
-        "summary": "Utepils Cycling road ride",
-        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
-        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-04-05T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-04-05T12:15:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
-        "originalStartTime": {
-          "dateTime": "2026-04-05T09:45:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
       {
         "kind": "calendar#event",
         "etag": "\"3484100333511230\"",
@@ -1331,39 +941,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3529239506972830\"",
-        "id": "32l6fbva0omgll1nq1ekk0j27i",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzJsNmZidmEwb21nbGwxbnExZWtrMGoyN2kgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-01T20:09:13.000Z",
-        "updated": "2025-12-01T20:09:13.486Z",
-        "summary": "Stuporbowl 2027",
-        "description": "<p dir=\"ltr\">The greatest winter alleycat race in the entire world. </p>",
-        "location": "TBD",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "date": "2026-02-07"
-        },
-        "end": {
-          "date": "2026-02-08"
-        },
-        "transparency": "transparent",
-        "iCalUID": "32l6fbva0omgll1nq1ekk0j27i@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": false
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3538919685799166\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20260225T004500Z",
         "status": "confirmed",
@@ -1477,45 +1054,6 @@
       {
         "kind": "calendar#event",
         "etag": "\"3539254936564702\"",
-        "id": "4no79kmntsjc8l17t90430vi16_20260201T184500Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNjAyMDFUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-08T17:19:41.000Z",
-        "updated": "2026-01-28T19:11:08.282Z",
-        "summary": "No name alleycat",
-        "description": "<p><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\" target=\"_blank\"><span><u>Facebook</u></span></a><span>. </span></p><p><span>Usually the first Sunday of the month. Sometimes rescheduled to avoid conflicts with other events</span><span>. </span></p><p><span>Manifests typically at 12:45 pm. </span></p><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\" target=\"_blank\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: Varies by month.</span>",
-        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-08T12:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-08T14:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "4no79kmntsjc8l17t90430vi16_R20251102T184500",
-        "originalStartTime": {
-          "dateTime": "2026-02-01T12:45:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
-        "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3539254936564702\"",
         "id": "4no79kmntsjc8l17t90430vi16_20260301T184500Z",
         "status": "confirmed",
         "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNjAzMDFUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
@@ -1619,6 +1157,231 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2jl4folk8ibul1c8mfioiugqkv@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540621197568702\"",
+        "id": "32l6fbva0omgll1nq1ekk0j27i",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MzJsNmZidmEwb21nbGwxbnExZWtrMGoyN2kgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2025-12-01T20:09:13.000Z",
+        "updated": "2026-02-05T16:56:38.784Z",
+        "summary": "Stuporbowl 27",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>StuporBowl 27  </b></span><a href=\"https://www.instagram.com/p/DUWrZWAFcrP/?img_index=4\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Feb 7, 2026</span><span>.</span></p><p dir=\"ltr\"><span>Registration 10am-12pm. Race starts at 12:30pm. Finish cut-off at 5:30pm. Awards at 7:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\"><span><u>Venture Bikes Midtown</u></span></a></p><p dir=\"ltr\"><span><b>Cost:</b></span><span> $25, includes long sleeve tee and patch (while supplies last)</span></p><p dir=\"ltr\"><span>The greatest winter alleycat race in the entire world.</span></p><p dir=\"ltr\"><span>Race “Speed” (fast, sober race) or “Stupor” (drink at each stop), with Open, Women, and Trans/GNC categories. </span></p><p dir=\"ltr\"><span>After-party location will be announced at noon on Stuporbowl instagram. </span></p>",
+        "location": "Venture Bikes Midtown, 2834 10th Ave S, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "apourbakhsh@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-07T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-07T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "transparency": "transparent",
+        "iCalUID": "32l6fbva0omgll1nq1ekk0j27i@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540621816414302\"",
+        "id": "1fh3khobo1o23k9hdgpnrkv1c2",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWZoM2tob2JvMW8yM2s5aGRncG5ya3YxYzIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-05T17:01:47.000Z",
+        "updated": "2026-02-05T17:01:48.207Z",
+        "summary": "StuporBowl pre-reg party and death dash race",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>StuporBowl pre-reg party and death dash race  </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUWrZWAFcrP/?img_index%3D4&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2EMPLHaFnmOpW_X2mDDtQ6\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Feb 6, 2026</span><span>. 6-10pm. Death dash race at 8pm. </span></p><p dir=\"ltr\"><span><b>Where</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Modist%2BBrewing%2BCo./data%3D!4m2!3m1!19sChIJdZjxr44ys1IRLpaXP7qJ9DA&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3-hSO1m0DDdUuNvz14lQTL\" target=\"_blank\"><span><u>Modist Brewing Co.</u></span></a></p><p dir=\"ltr\"><span>Pre-register for Stuporbowl and get swag from sponsors while supplies last. </span></p><p dir=\"ltr\"><span>Death dash race will be a 3.5 mile sprint, finishing back at Modist, and will roll-out at 8pm. </span></p>",
+        "location": "Modist Brewing Co., 505 N 3rd St, Minneapolis, MN 55401, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-06T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-06T22:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1fh3khobo1o23k9hdgpnrkv1c2@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540622507845694\"",
+        "id": "4no79kmntsjc8l17t90430vi16_20260201T184500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NG5vNzlrbW50c2pjOGwxN3Q5MDQzMHZpMTZfMjAyNjAyMDFUMTg0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:19:41.000Z",
+        "updated": "2026-02-05T17:07:33.922Z",
+        "summary": "No name alleycat",
+        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>No name. </b></span><a href=\"https://www.facebook.com/groups/139799876050317\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Sunday </span><span>Feb 8, 2026</span><span>. Meet at 12:30pm, Manifests at 12:45 pm, race at 1pm. Finish by 3:30pm. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Father+Hennepin+Bluff+Park/data=!4m2!3m1!19sChIJd6p4n3ots1IRsvZ9bqqonfU\"><span><u>Father Hennepin Bluff Park</u></span></a><span>. Finish: </span><a href=\"https://www.google.com/maps/place/Fraternal+Order+of+Eagles+%2334/data=!4m2!3m1!19sChIJ1UbpTTQts1IRwxTs-qplpik\"><span><u>Fraternal Order of Eagles #34</u></span></a></p><p dir=\"ltr\"><span>Finish meets up with the Stuporbowl afterparty at Eagles #34, which is from 1:30pm-4pm. </span></p>",
+        "location": "Father Hennepin Bluff Park, 420 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-08T12:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-08T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "4no79kmntsjc8l17t90430vi16_R20251102T184500",
+        "originalStartTime": {
+          "dateTime": "2026-02-01T12:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540622785430974\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260201T154500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAyMDFUMTU0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2026-02-05T17:09:52.715Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-01T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-01T12:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-02-01T09:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540622785430974\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260329T144500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjAzMjlUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2026-02-05T17:09:52.715Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-29T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-29T12:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-03-29T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3540622785430974\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260405T144500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjA0MDVUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2026-02-05T17:09:52.715Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-05T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-05T12:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-04-05T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

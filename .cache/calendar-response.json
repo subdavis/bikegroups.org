@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770448553768,
+  "timestamp": 1770535165865,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p33fsbkfdtf1940o\"",
@@ -941,6 +941,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260408T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjA0MDhUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-08T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-08T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-04-08T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3538919685799166\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20260225T004500Z",
         "status": "confirmed",
@@ -1019,40 +1058,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3539254790678526\"",
-        "id": "561cdegrv2k49svds35o9n6qks",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=NTYxY2RlZ3J2Mms0OXN2ZHMzNW85bjZxa3MgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2026-01-26T20:28:55.000Z",
-        "updated": "2026-01-28T19:09:55.339Z",
-        "summary": "Unity Ride in honor of Alex Pretti",
-        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Unity Ride in honor of Alex Pretti</b></span> <a href=\"https://www.instagram.com/p/DT-_YROCe1Q/\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Jan 31, 2026 1:00 PM</span><span>. Meet at 1 pm, roll at 1:30 pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Washburn+Fair+Oaks/data=!4m2!3m1!19sChIJpQy1K7Eys1IRRiOOEe4tdWc\"><span><u>Washburn Fair Oaks</u></span></a><span> (park across from MIA, 24th St and 3rd Ave S) </span></p><p dir=\"ltr\"><span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/VA+Medical+Center-Minneapolis/data=!4m2!3m1!19sChIJTbNHjhYp9ocRl9vw2OShoxo\"><span><u>VA Medical Center-Minneapolis</u></span></a></p><p dir=\"ltr\"><span><b>Distance: </b></span><span>~9 miles (one-way route) </span><span><b>Pace: </b></span><span>Slow roll, no-drop</span></p><p dir=\"ltr\"><span>“Alex was one of us, could’ve been any of us, so as we mourn, all of us can come together in unity to remember Alex for what he was. A kind and caring soul put on this earth to be the light for others. Although his light has been extinguished by this fascist regime, it hasn’t been lost. If anything, those sparks fell and ignited something in us that’s been hiding all along. We are stronger together, and they can’t take us all. We’ve gathered together a community of cyclists to remember Alex Pretti. Please join in, near or far this Saturday, 1/31 1:00 PM Central Time</span></p><br><p dir=\"ltr\"><span>Minneapolis joins together Angry Catfish Bicycle, Bonesaw Cycling Collective, GenoSack, Melanin In Motion, The Price Brothers, Unsanctioned Ride group and others. We hope folks from all over join together in unity as well!”</span></p><br><p dir=\"ltr\"><span>Route will travel to Alex’s memorial, then to Renee’s, and end at the VA medical center near Ford Bridge.</span></p>",
-        "location": "Washburn Fair Oaks, 200 E 24th St, Minneapolis, MN 55404, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-31T13:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-31T15:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "561cdegrv2k49svds35o9n6qks@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3539254936564702\"",
         "id": "4no79kmntsjc8l17t90430vi16_20260301T184500Z",
         "status": "confirmed",
@@ -1123,40 +1128,6 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3539267681160926\"",
-        "id": "2jl4folk8ibul1c8mfioiugqkv",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MmpsNGZvbGs4aWJ1bDFjOG1maW9pdWdxa3YgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2026-01-28T19:10:17.000Z",
-        "updated": "2026-01-28T20:57:20.580Z",
-        "summary": "Behind bars caravan to Unity Ride in honor of Alex Pretti",
-        "description": "<p><span>Group ride (no-drop)</span> <span><b>Behind bars caravan to Unity Ride in honor of Alex Pretti</b></span> <a href=\"https://www.instagram.com/p/DT_ZXQLCWeh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span></p><p><span><b>When: </b></span><span>Saturday </span><span>Jan 31, 2026 12:15 PM</span><span>. Meet at 12:15 pm, roll at 12:30 pm.</span></p><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\" target=\"_blank\"><span><u>Behind Bars Bicycle Shop</u></span></a><p dir=\"ltr\"><span><b>Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Washburn+Fair+Oaks/data=!4m2!3m1!19sChIJpQy1K7Eys1IRRiOOEe4tdWc\"><span><u>Washburn Fair Oaks</u></span></a></p><p dir=\"ltr\"><span>Ride from NE to meet up with the Unity ride in honor of Alex Pretti. </span></p>",
-        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-01-31T12:15:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-01-31T13:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "2jl4folk8ibul1c8mfioiugqkv@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

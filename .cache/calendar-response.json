@@ -1,15 +1,15 @@
 {
-  "timestamp": 1770622104265,
+  "timestamp": 1770708506944,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fsbkfdtf1940o\"",
+    "etag": "\"p337vrfmglr6p40o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2026-02-05T17:09:52.715Z",
+    "updated": "2026-02-09T21:35:14.153Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CN_F0e3rwpIDEN_F0e3rwpIDGAEg4bO7nAMo4bO7nAM=",
+    "nextSyncToken": "CM_9vtCuzZIDEM_9vtCuzZIDGAEgtqHunAMotqHunAM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1316,6 +1316,74 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3541335565691294\"",
+        "id": "1qi9admn4jb06rqgpb4rfhdpej",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXFpOWFkbW40amIwNnJxZ3BiNHJmaGRwZWogNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-09T20:09:42.000Z",
+        "updated": "2026-02-09T20:09:42.845Z",
+        "summary": "Behind Bars Como Conservatory Group Ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Como Conservatory ride. </b></span><a href=\"https://www.instagram.com/p/DUQoTrcjif6/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Feb 15, 2026 12:00 PM</span><span>. Meet at 12:00 PM, roll at 12:15 PM</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a> <span><b>Finish: </b></span><a href=\"https://www.google.com/maps/place/The+Briar/data=!4m2!3m1!19sChIJy3VuDNgts1IRRHLfCsYGDHs\"><span><u>The Briar</u></span></a><span> </span></p><p dir=\"ltr\"><span><b>Mid-ride stop:</b></span> <a href=\"https://www.google.com/maps/place/Como+Park+Zoo+%26+Conservatory/data=!4m2!3m1!19sChIJ5c3H2xArs1IRWl8vqH3Jq0U\"><span><u>Como Park Zoo &amp; Conservatory</u></span></a></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~15 miles. </span><span><b>Pace</b></span><span>: typically 10-12 mph. </span></p><p dir=\"ltr\"><span>Mid ride stop at Como Zoo Conservatory. We will spend an hour or so enjoying everything the conservatory has to offer.</span></p><p dir=\"ltr\"><span>Leaders: @sirbikesalot365</span></p><p dir=\"ltr\"><span>Things you may need:</span></p><p dir=\"ltr\"><span>- Bike Lock, Helmet, Water, Proper clothing (bring layers)</span></p><p dir=\"ltr\"><span>*Check the weather*</span></p><p dir=\"ltr\"><span>**Group Rides are a safe space for everyone, respect everyone!**</span></p>",
+        "location": "Behind Bars Bicycle Shop",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-15T12:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-15T14:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1qi9admn4jb06rqgpb4rfhdpej@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3541345828306334\"",
+        "id": "4cdls965hlvs2gtf3sutfs47p5",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NGNkbHM5NjVobHZzMmd0ZjNzdXRmczQ3cDUgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-09T21:34:50.000Z",
+        "updated": "2026-02-09T21:35:14.153Z",
+        "summary": "FTWNB cyclist meet-up",
+        "description": "<p dir=\"ltr\"><span>Gathering</span><span> and </span><span>Group ride (no-drop)</span> <span><b>FTWNB cyclist meet-up. </b></span><a href=\"https://www.instagram.com/p/DUPftNHDDFQv7sgwOUFKVvrWl8xsslBGNIKKOw0/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Sunday </span><span>Feb 22, 2026 10:00 AM</span><span>.</span></p><p dir=\"ltr\"><span><b>Where: </b></span><a href=\"https://www.google.com/maps/place/FRGMNT+Coffee+-+St.+Anthony+Main/data=!4m2!3m1!19sChIJwRP8Hjwts1IRkSYR_DdNdUc\"><span><u>FRGMNT Coffee - St. Anthony Main</u></span></a></p><p dir=\"ltr\"><span><b>Who’s this for</b></span><span>: FTW (anyone but cis-men). See this resource from Grease Rag </span><a href=\"https://greaserag.org/safer-spaces/wtf-is-ftw/\"><span><u>defining FTW.</u></span></a></p><p dir=\"ltr\"><span>Are you NOT a cis-man? Do you ride bikes? Any bike? Show up and meet others who also ride bikes!!!</span></p><br><p dir=\"ltr\"><span>I am looking to create a regularly meeting group to ride bikes in DIFFERENT ways &lt;3 I love exploring dirt as much as I love rush hour pavement. And im tired of doing it alone. maybe you want other endurance riders to train with, maybe you are tired of mountain biking alone, maybe you are new to the city. Maybe you need to vent about being a gender minority in cycling!</span></p><br><p dir=\"ltr\"><span>You DONT need to ride your bike to this. Weather is barrier, just say hi! Will there be a ride? Yes! Do I know where? Not yet!</span></p><br><p dir=\"ltr\"><span>TIP your barista.</span></p><p dir=\"ltr\"><span>NO TRANSPHOBIA, NO RACISM, NO TRUMPISM, NO ASSHOLE BEHAVIOUR TOLERATED. Also an anti-ICE space.</span></p>",
+        "location": "FRGMNT Coffee - St. Anthony Main, 43 SE Main St, Minneapolis, MN 55414, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-22T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-22T12:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "4cdls965hlvs2gtf3sutfs47p5@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

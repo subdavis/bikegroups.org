@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770881186897,
+  "timestamp": 1770967511511,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337vrfmglr6p40o\"",
@@ -9,7 +9,7 @@
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_9vtCuzZIDEM_9vtCuzZIDGAEg9enGnQMo9enGnQM=",
+    "nextSyncToken": "CM_9vtCuzZIDEM_9vtCuzZIDGAEgpff8nQMopff8nQM=",
     "items": [
       {
         "kind": "calendar#event",

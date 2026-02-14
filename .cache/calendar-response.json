@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770967511511,
+  "timestamp": 1771053460937,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337vrfmglr6p40o\"",
@@ -1126,40 +1126,6 @@
         "transparency": "transparent",
         "iCalUID": "32l6fbva0omgll1nq1ekk0j27i@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3540621816414302\"",
-        "id": "1fh3khobo1o23k9hdgpnrkv1c2",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MWZoM2tob2JvMW8yM2s5aGRncG5ya3YxYzIgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2026-02-05T17:01:47.000Z",
-        "updated": "2026-02-05T17:01:48.207Z",
-        "summary": "StuporBowl pre-reg party and death dash race",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>StuporBowl pre-reg party and death dash race  </b></span><a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUWrZWAFcrP/?img_index%3D4&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2EMPLHaFnmOpW_X2mDDtQ6\" target=\"_blank\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Feb 6, 2026</span><span>. 6-10pm. Death dash race at 8pm. </span></p><p dir=\"ltr\"><span><b>Where</b></span><span>: </span><a href=\"https://www.google.com/url?q=https://www.google.com/maps/place/Modist%2BBrewing%2BCo./data%3D!4m2!3m1!19sChIJdZjxr44ys1IRLpaXP7qJ9DA&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3-hSO1m0DDdUuNvz14lQTL\" target=\"_blank\"><span><u>Modist Brewing Co.</u></span></a></p><p dir=\"ltr\"><span>Pre-register for Stuporbowl and get swag from sponsors while supplies last. </span></p><p dir=\"ltr\"><span>Death dash race will be a 3.5 mile sprint, finishing back at Modist, and will roll-out at 8pm. </span></p>",
-        "location": "Modist Brewing Co., 505 N 3rd St, Minneapolis, MN 55401, USA",
-        "creator": {
-          "email": "minneapoliscyclingcalendar@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-06T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-06T22:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1fh3khobo1o23k9hdgpnrkv1c2@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },

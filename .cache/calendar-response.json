@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771053460937,
+  "timestamp": 1771139939039,
   "response": {
     "kind": "calendar#events",
     "etag": "\"p337vrfmglr6p40o\"",
@@ -942,6 +942,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260415T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjA0MTVUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-15T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-04-15T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3538919685799166\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20260225T004500Z",
         "status": "confirmed",
@@ -1091,41 +1130,6 @@
         },
         "iCalUID": "4no79kmntsjc8l17t90430vi16_R20251102T184500@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3540621197568702\"",
-        "id": "32l6fbva0omgll1nq1ekk0j27i",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MzJsNmZidmEwb21nbGwxbnExZWtrMGoyN2kgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2025-12-01T20:09:13.000Z",
-        "updated": "2026-02-05T16:56:38.784Z",
-        "summary": "Stuporbowl 27",
-        "description": "<p dir=\"ltr\"><span>Race (alleycat)</span> <span><b>StuporBowl 27  </b></span><a href=\"https://www.instagram.com/p/DUWrZWAFcrP/?img_index=4\"><span><u>Instagram</u></span></a><span>. </span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Saturday </span><span>Feb 7, 2026</span><span>.</span></p><p dir=\"ltr\"><span>Registration 10am-12pm. Race starts at 12:30pm. Finish cut-off at 5:30pm. Awards at 7:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Venture+Bikes+Midtown/data=!4m2!3m1!19sChIJpR9g2AIzs1IRgKbuoJkShqQ\"><span><u>Venture Bikes Midtown</u></span></a></p><p dir=\"ltr\"><span><b>Cost:</b></span><span> $25, includes long sleeve tee and patch (while supplies last)</span></p><p dir=\"ltr\"><span>The greatest winter alleycat race in the entire world.</span></p><p dir=\"ltr\"><span>Race “Speed” (fast, sober race) or “Stupor” (drink at each stop), with Open, Women, and Trans/GNC categories. </span></p><p dir=\"ltr\"><span>After-party location will be announced at noon on Stuporbowl instagram. </span></p>",
-        "location": "Venture Bikes Midtown, 2834 10th Ave S, Minneapolis, MN 55407, USA",
-        "creator": {
-          "email": "apourbakhsh@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-07T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-07T20:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "transparency": "transparent",
-        "iCalUID": "32l6fbva0omgll1nq1ekk0j27i@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },

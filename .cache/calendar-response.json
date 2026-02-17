@@ -1,15 +1,15 @@
 {
-  "timestamp": 1771226866741,
+  "timestamp": 1771313112100,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p337vrfmglr6p40o\"",
+    "etag": "\"p32vpt9ufknfp40o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2026-02-09T21:35:14.153Z",
+    "updated": "2026-02-17T00:42:51.038Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CM_9vtCuzZIDEM_9vtCuzZIDGAEgpff8nQMopff8nQM=",
+    "nextSyncToken": "CL-ep8-l35IDEL-ep8-l35IDGAEgioSangMoioSangM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -1276,6 +1276,40 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "4cdls965hlvs2gtf3sutfs47p5@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3542577942077054\"",
+        "id": "2digr791j3l1n2pkg7pnvu9uak",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmRpZ3I3OTFqM2wxbjJwa2c3cG52dTl1YWsgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-17T00:42:23.000Z",
+        "updated": "2026-02-17T00:42:51.038Z",
+        "summary": "Fast Casual: Patrick’s bday ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Fast Casual: Patrick’s bday ride. </b></span><a href=\"https://www.instagram.com/p/DU1odlGDjPg/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Wednesday </span><span>Feb 18, 2026 7:00 PM</span><span>. Roll at 7:15pm.</span></p><p dir=\"ltr\"><span><b>Start</b></span><span>: </span><a href=\"https://maps.app.goo.gl/B41LFvnoZUCqbwuv5\"><span><u>NE corner</u></span></a><span> of </span><a href=\"https://www.google.com/maps/place/Powderhorn+Park/data=!4m2!3m1!19sChIJwyIMSAgo9ocR1u7iOLLnuu8\"><span><u>Powderhorn Park</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: ~12 miles (paved). </span><span><b>Pace</b></span><span>: 13-16 mph. </span></p><p dir=\"ltr\"><span>Help us celebrate Patrick (aka Ratrick) with an excellent b-day ride! The weather will be ???? so ya better be tough.</span></p>",
+        "location": "Powderhorn Park, 3400 15th Ave S, Minneapolis, MN 55407, USA",
+        "creator": {
+          "email": "minneapoliscyclingcalendar@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-18T19:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-18T21:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "2digr791j3l1n2pkg7pnvu9uak@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

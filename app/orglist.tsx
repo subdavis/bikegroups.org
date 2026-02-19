@@ -14,7 +14,7 @@ export default function OrgList(): OrgParams[] {
         "Want to discover great local bike routes? We'd love to ride with you. Here you'll find shop rides, events, and fun biking things we're part of. Explore some of our favorites on our Strava Club page. Riding bikes is about the fun, the adventure, and the stories we're left with when we get home. We hope you feel the same way.",
       description:
         'ACF hosts a Monday speedy training ride, a wednesday social open ride, and a thursday FTW social ride. Check their website for the details.',
-      image: '/images/Angry_Catfish_Group.jpg',
+      image: '/images/ACF_Pretti.jpg',
       eager: true,
       instagram: 'https://www.instagram.com/angrycatfish/',
       website: 'https://www.angrycatfishbicycle.com/articles/group-rides-events-pg260.htm',
@@ -28,7 +28,7 @@ export default function OrgList(): OrgParams[] {
         'A cycling community in the twin cities that celebrates cycling diversity and inclusivity with joyful rides for all bodies.',
       description:
         'All Bodies on Bikes is a movement to create and foster a size inclusive bike community. The Minneapolis chapter was established in 2025.',
-      image: '/images/All_Bodies_On_Bikes.png',
+      image: '/images/All_Bodies_On_Bikes_Group.jpg',
       eager: true,
       website: 'https://www.allbodiesonbikes.com/',
       instagram: 'https://www.instagram.com/abob_mpls/',
@@ -126,8 +126,7 @@ export default function OrgList(): OrgParams[] {
       description: (
         <p>
           Keep an eye out for the{' '}
-          <a href="https://www.instagram.com/corpsewhaleracing/p/C-vpFFUs5jp/">Taco Bell Century</a>{' '}
-          in the fall.
+          <a href="https://www.instagram.com/p/DMdHnsZMm7X/">Taco Bell Century</a> in the fall.
         </p>
       ),
       image: '/images/Corpse_Whale_Racing_Team.jpg',
@@ -271,27 +270,29 @@ export default function OrgList(): OrgParams[] {
       name: 'Midtown Cycling',
       orgKey: 'midtown',
       tags: [OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
-      days: ['Su', 'T', 'F'],
+      days: ['Su', 'T', 'W', 'F', 'Sa'],
       quote:
-        'The Midtown Cycling Club’s mission is to encourage cycling in the Twin Cities Metro area and by doing so, create new friendships, stay healthy, and have lots of fun.',
+        'The Midtown Cycling Club’s mission is to encourage cycling in the Twin Cities Metro area and by doing so, create new friendships, stay healthy, and have lots of fun. We are registered with USAC for those in the club who wish to do some road racing.',
       description:
-        'We are a cycling club in the Metro area.  We are registered with USAC for those in the club who wish to do some road racing.',
+        'Website and calendar are the best places to find details on this club. Midtown is active all year round.',
       image: '/images/Midtown_Cycling.png',
       website: 'https://rmcg.midtowncycling.com/',
       calendar: 'https://rmcg.midtowncycling.com/stats/pages/calendar.xhtml',
       facebook: 'https://www.facebook.com/MidtownCycling/',
+      instagram: 'https://www.instagram.com/midtowncycling/',
     },
     {
       name: 'Midwest Dirt Legion',
       orgKey: 'midwest-dirt-legion',
       tags: [OrgTags.MOUNTAIN, OrgTags.FTW, OrgTags.TRAINING],
       quote:
-        'MIDWEST DIRT LEGION STRIVES TO CREATE AUTHENTIC AND INCLUSIVE SPACES FOR CISGENDER WOMEN, TRANSGENDER, NON-BINARY AND GENDER NON-CONFORMING FOLKS IN THE CYCLING COMMUNITY.  Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program.',
+        'Since February of 2018, founders Ash Murray (they/them) and Steph Aich (she/her) have been coaching mountain bike skills sessions, hosting group rides, and educating folks on gender inclusive language. The MWDL crew continues to thrive through partnerships, community support and the ambassador program.',
       description: (
         <p>
           See their website for{' '}
           <a href="https://www.dirtlegion.com/group-ride-information">group rides</a>, skills
-          clinics, and more.
+          clinics, and more. Rides are also announced on instagram or by an email newsletter you can
+          sign up for on their website.
         </p>
       ),
       image: '/images/Dirt_Legion_Cycling_Team.jpg',
@@ -308,7 +309,8 @@ export default function OrgList(): OrgParams[] {
         "This is where the rubber meets the road. Join us on one of our signature group rides this season. Whether you're new to cycling or a seasoned vet, we have a ride that's right for you.",
       location: 'St Paul & Arden Hills',
       website: 'https://www.nowbikes-fitness.com/articles/rides-events-pg161.htm',
-      description: 'Faster paced rides from both locations.',
+      calendar: 'https://www.nowbikes-fitness.com/articles/rides-events-pg161.htm',
+      description: 'Faster paced rides from both St. Paul and Arden Hills locations year round.',
       image: '/images/Now_Bikes_Group.jpg',
     },
     {
@@ -318,6 +320,7 @@ export default function OrgList(): OrgParams[] {
       description:
         'Perennial hosts and/or promotes all sorts of events. Family fun rides, FTW rides, and 30 Days of Biking pastry rides. Follow their instagram for event updates.',
       instagram: 'https://www.instagram.com/perennialcycle/',
+      website: 'https://linkin.bio/perennialcycle/',
       facebook: 'https://www.facebook.com/perennialcycle/events',
       image: '/images/Perennial_Queer_History_Ride.jpeg',
       location: 'South Uptown',
@@ -382,22 +385,22 @@ export default function OrgList(): OrgParams[] {
       image: '/images/Sociable_Cider_Werks_Group.jpg',
       days: ['W'],
     },
-    {
-      name: 'Stamina Racing Collective',
-      orgKey: 'stamina',
-      tags: [OrgTags.FTW, OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
-      quote:
-        'Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.',
-      description: (
-        <span>
-          Stamina Racing has previously partnered with{' '}
-          <a href="https://driftlessgravelcamp.com/">driftless gravel camp</a> in the spring to
-          encourage and equip FTWNB riders to pursue gravel adventures.
-        </span>
-      ),
-      image: '/images/Stamina_Racing_Collective_Group.jpg',
-      instagram: 'https://www.instagram.com/stamina.racing.collective/',
-    },
+    // {
+    //   name: 'Stamina Racing Collective',
+    //   orgKey: 'stamina',
+    //   tags: [OrgTags.FTW, OrgTags.TRAINING, OrgTags.MEMBERS_ONLY],
+    //   quote:
+    //     'Stamina Racing Collective is a FTW (femme/trans/women) cycling team based in Minneapolis, MN that is working to diversify the sport of cycling through mentorship, improved accessibility, and community development.',
+    //   description: (
+    //     <span>
+    //       Stamina Racing has previously partnered with{' '}
+    //       <a href="https://driftlessgravelcamp.com/">driftless gravel camp</a> in the spring to
+    //       encourage and equip FTWNB riders to pursue gravel adventures.
+    //     </span>
+    //   ),
+    //   image: '/images/Stamina_Racing_Collective_Group.jpg',
+    //   instagram: 'https://www.instagram.com/stamina.racing.collective/',
+    // },
     {
       name: 'Stöke MTB',
       orgKey: 'stoke',
@@ -415,8 +418,8 @@ export default function OrgList(): OrgParams[] {
       quote:
         'The Team Recess approach to racing and riding bikes is supportive, well-stocked with snacks, and fun. We love inviting our friends to play bikes. Recess is the time of day–no matter where you are in life–when you join with folx outside of boundaries set for you by work, school, and other obligations to play and work together and–of course–get the endorphins and the thrill going!',
       description:
-        'Team Recess is a small FTWNB cycling team based in Minneapolis. We are dedicated to supporting FTWNB cyclists in all disciplines.',
-      tags: [OrgTags.MEMBERS_ONLY, OrgTags.FTW],
+        'Team Recess is a small FTWNB cycling team based in Minneapolis. They sometimes also host rides and events that are open to non-members.',
+      tags: [OrgTags.MEMBERS_ONLY, OrgTags.FTW, OrgTags.SOCIAL],
       image: '/images/Team_Recess.jpg',
       website:
         'https://padlet.com/teamrecessmpls/welcome-to-team-recess-racing-4icat5qtx3xh57pe?fbclid=PAZXh0bgNhZW0CMTEAAac_yD0jW2iyaCR4SNX77CmkGooDJDoxArliAlFcXR_7QBEGNhI1g20Y3S23UA_aem_xhX1OIHLi4b2btkAyuYq_w',
@@ -435,16 +438,16 @@ export default function OrgList(): OrgParams[] {
       location: 'Headflyer Brewing (861 E Hennepin Ave, Minneapolis, MN 55414)',
       image: '/images/Tuesday_Night_Rides.jpg',
       website: 'https://www.facebook.com/groups/TuesdayNightRides/',
-      instagram: 'https://www.instagram.com/tuesdaynightrides/',
+      instagram: 'https://www.instagram.com/tuesday_night_rides/',
     },
-    {
-      name: 'Twin Cities Cycling Coalition (T3C)',
-      orgKey: 't3c',
-      quote:
-        'Connection and coordination amongst the cycling community at large in the Twin Cities to link rides, events, volunteers, and resources.',
-      image: '/images/Twin_Cities_Cycling_Coalition.jpg',
-      instagram: 'https://www.instagram.com/twin_cities_cycling_coalition/',
-    },
+    // {
+    //   name: 'Twin Cities Cycling Coalition (T3C)',
+    //   orgKey: 't3c',
+    //   quote:
+    //     'Connection and coordination amongst the cycling community at large in the Twin Cities to link rides, events, volunteers, and resources.',
+    //   image: '/images/Twin_Cities_Cycling_Coalition.jpg',
+    //   instagram: 'https://www.instagram.com/twin_cities_cycling_coalition/',
+    // },
     {
       name: 'Unruly Women',
       orgKey: 'unruly-women',

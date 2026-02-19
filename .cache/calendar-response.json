@@ -1,15 +1,15 @@
 {
-  "timestamp": 1771399529096,
+  "timestamp": 1771485921762,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p32vpt9ufknfp40o\"",
+    "etag": "\"p32nsvl56hni940o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2026-02-17T00:42:51.038Z",
+    "updated": "2026-02-18T22:37:22.039Z",
     "timeZone": "America/Chicago",
     "accessRole": "reader",
     "defaultReminders": [],
-    "nextSyncToken": "CL-ep8-l35IDEL-ep8-l35IDGAEg-rW3ngMo-rW3ngM=",
+    "nextSyncToken": "CK_P1KaN5JIDEK_P1KaN5JIDGAEg-LGPnwMo-LGPnwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -475,6 +475,44 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3488635157062686\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260419T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MTlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2025-04-10T20:39:38.531Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-19T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-04-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3517311057671038\"",
         "id": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4_20260305T000000Z",
         "status": "confirmed",
@@ -546,45 +584,6 @@
         },
         "iCalUID": "65ij8dpm6pi6abb3c4s30b9k68r68b9p6sqj4bb365hjic1m71ij8p1hc4@google.com",
         "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3518332557865438\"",
-        "id": "akq6he9k0demi7ao18fh45gddk_20260212T000000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjAyMTJUMDAwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-03-14T14:43:05.000Z",
-        "updated": "2025-09-29T17:17:58.932Z",
-        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
-        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
-        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-11T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-11T19:30:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
-        "originalStartTime": {
-          "dateTime": "2026-02-11T18:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
-        "sequence": 1,
         "reminders": {
           "useDefault": true
         },
@@ -1216,6 +1215,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3540622785430974\"",
+        "id": "6200tfbg2fjec5e6lj7ehjb4vo_20260419T144500Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjIwMHRmYmcyZmplYzVlNmxqN2VoamI0dm9fMjAyNjA0MTlUMTQ0NTAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-08T17:10:49.000Z",
+        "updated": "2026-02-05T17:09:52.715Z",
+        "summary": "Utepils Cycling road ride",
+        "description": "<p dir=\"ltr\"><span><b>Utepils Cycling road ride. </b></span><a href=\"https://www.facebook.com/groups/UtepilsCycling\"><span><u>Facebook</u></span></a><span>. </span></p><p dir=\"ltr\"><span>Meet at 9:30 am, Roll at 10 am. </span></p><p dir=\"ltr\"><span>Start: </span><a href=\"https://www.google.com/maps/place/Utepils+Brewing/data=!4m2!3m1!19sChIJ44SMFBAzs1IRLGiV1NgqqXo\"><span><u>Utepils Brewing</u></span></a></p><p dir=\"ltr\"><span>Distance: 30 miles (fast pace) or 15 miles (party pace)</span></p><p dir=\"ltr\"><span>These rides run every Sunday. During warm-weather months they usually run 4-5 pace groups. </span></p>",
+        "location": "Utepils Brewing, 225 Thomas Ave N #700, Minneapolis, MN 55405, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-19T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-19T12:15:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "6200tfbg2fjec5e6lj7ehjb4vo",
+        "originalStartTime": {
+          "dateTime": "2026-04-19T09:45:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6200tfbg2fjec5e6lj7ehjb4vo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3541335565691294\"",
         "id": "1qi9admn4jb06rqgpb4rfhdpej",
         "status": "confirmed",
@@ -1310,6 +1348,108 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "2digr791j3l1n2pkg7pnvu9uak@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3542908090719550\"",
+        "id": "1vuc0j5f83m0rh2ssptevj2453",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXZ1YzBqNWY4M20wcmgyc3NwdGV2ajI0NTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-18T22:34:05.000Z",
+        "updated": "2026-02-18T22:34:05.359Z",
+        "summary": "Bike + Bus Practice Session",
+        "description": "Practice loading bikes on Metro Transit bus racks without rush-hour pressure. A Metro Transit bus will be parked outside the church for hands-on practice.\n\nTime: 1:00-3:00 PM\n\nLocation: Outside Bryn Mawr Presbyterian Church (420 Cedar Lake Road South)\n\nBring your own bike or use demo bikes provided on-site. Part of the Active Transportation open house - come inside the church to talk with Recovery Bike Shop and Metro Transit ambassadors, meet new friends, and enjoy snacks &amp; a bingo raffle.\n\nLink: <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUzb4wEjIp9/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw20WHLbmdwTIHm8a0DmmCC6\" target=\"_blank\">https://www.instagram.com/p/DUzb4wEjIp9/</a>",
+        "location": "Outside Bryn Mawr Presbyterian Church, 420 Cedar Lake Road South",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-21T13:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-21T15:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1vuc0j5f83m0rh2ssptevj2453@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3542908126069342\"",
+        "id": "0fb5pkf4h21kjt2e6b3n0hukt1",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGZiNXBrZjRoMjFranQyZTZiM24waHVrdDEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-18T22:34:22.000Z",
+        "updated": "2026-02-18T22:34:23.034Z",
+        "summary": "BE SEEN: A Reflective Clothing Remix Pop-Up (Sew In)",
+        "description": "Reflective clothing sewing pop-up event to help cyclists stay visible while riding in the dark.\n\nTime: 1-4pm on Tuesday, February 24th\n\nLocation: Recovery Bike Shop\n\nHow it works: Bring your clothing items you want to add more visibility to (shirts, hats, favorite jeans, jackets, bags, etc.). Sewing happens while you wait! Walk in with your boring pants, walk out with amazing reflective pants.\n\nCost: $2-15 sliding scale depending on the piece (t-shirt sleeves are cheaper than sweatshirt sleeves, for example). Everything is pretty affordable.\n\nSewing and skill-sharing by: CJ Jensen (@mplsquiltzaddy)\n\nLink: <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUs48tLjqHJ/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0lzWxvI6Zzevc4rCX5qHl0\" target=\"_blank\">https://www.instagram.com/p/DUs48tLjqHJ/</a>",
+        "location": "Recovery Bike Shop",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-24T13:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-24T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0fb5pkf4h21kjt2e6b3n0hukt1@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3542908223780830\"",
+        "id": "3iis3i5gbsr81pvmdma5kg466m",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2lpczNpNWdic3I4MXB2bWRtYTVrZzQ2Nm0gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-18T22:35:05.000Z",
+        "updated": "2026-02-18T22:35:11.890Z",
+        "summary": "Behind Bars Fixed gear ride",
+        "description": "<p dir=\"ltr\"><span>Group ride (no-drop)</span> <span><b>Behind Bars Fixed gear ride. </b></span><a href=\"https://www.instagram.com/p/DUzNnD1jo_Z/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span><b>When: </b></span><span>Friday </span><span>Feb 27, 2026 5:30 PM</span><span>. Meet at 5:30 PM, roll at 6 PM</span></p><p dir=\"ltr\"><span><b>Start and Finish</b></span><span>: </span><a href=\"https://www.google.com/maps/place/Behind+Bars+Bicycle+Shop/data=!4m2!3m1!19sChIJEcRDj3cys1IRIe_IvkrciVw\"><span><u>Behind Bars Bicycle Shop</u></span></a><span> </span></p><p dir=\"ltr\"><span><b>Distance</b></span><span>: Likely ~10 miles. </span><span><b>Pace</b></span><span>: likely ~12 mph. </span></p><p dir=\"ltr\"><span>(Fixed gear preferred, and trying to get some footage while we ride)</span></p><p dir=\"ltr\"><span>Mellow cruise through downtown (likely up Hennepin to Loring park, and back down Nicollet mall)</span></p>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-27T17:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-27T19:30:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3iis3i5gbsr81pvmdma5kg466m@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true

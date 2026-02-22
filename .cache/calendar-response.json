@@ -1,15 +1,15 @@
 {
-  "timestamp": 1771658111332,
+  "timestamp": 1771744728226,
   "response": {
     "kind": "calendar#events",
-    "etag": "\"p33fsjncupjkp40o\"",
+    "etag": "\"p33ft1cnnk7m940o\"",
     "summary": "Minneapolis Cycling Events",
     "description": "",
-    "updated": "2026-02-21T03:02:15.534Z",
+    "updated": "2026-02-22T04:30:57.968Z",
     "timeZone": "America/Chicago",
     "accessRole": "writer",
     "defaultReminders": [],
-    "nextSyncToken": "CN_J3Z7M6ZIDEN_J3Z7M6ZIDGAQg-LGPnwMo-LGPnwM=",
+    "nextSyncToken": "CN_Qsveh7JIDEN_Qsveh7JIDGAQg-LGPnwMo-LGPnwM=",
     "items": [
       {
         "kind": "calendar#event",
@@ -86,386 +86,6 @@
         "transparency": "transparent",
         "iCalUID": "2gllle8uet9h6uckcgmvb4iics_R20250612T230000@google.com",
         "sequence": 1,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260215T160000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAyMTVUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-15T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-15T11:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-02-15T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260222T160000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAyMjJUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-22T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-22T11:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-02-22T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260301T160000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMDFUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-01T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-01T11:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-03-01T10:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260308T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMDhUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-08T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-08T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-03-08T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260315T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMTVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-15T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-15T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-03-15T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260322T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMjJUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-22T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-22T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-03-22T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260329T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMjlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-03-29T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-03-29T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-03-29T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260405T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MDVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-04-05T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-04-05T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-04-05T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260412T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MTJUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-04-12T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-04-12T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-04-12T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3488635157062686\"",
-        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260419T150000Z",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MTlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
-        "created": "2025-04-10T20:39:24.000Z",
-        "updated": "2025-04-10T20:39:38.531Z",
-        "summary": "Coffee (Outside) by Recovery Bike Shop",
-        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-04-19T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-04-19T11:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
-        "originalStartTime": {
-          "dateTime": "2026-04-19T10:00:00-05:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
-        "sequence": 0,
         "reminders": {
           "useDefault": true
         },
@@ -902,6 +522,45 @@
       },
       {
         "kind": "calendar#event",
+        "etag": "\"3518332557865438\"",
+        "id": "akq6he9k0demi7ao18fh45gddk_20260422T230000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWtxNmhlOWswZGVtaTdhbzE4Zmg0NWdkZGtfMjAyNjA0MjJUMjMwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-03-14T14:43:05.000Z",
+        "updated": "2025-09-29T17:17:58.932Z",
+        "summary": "Sociable Cider x Recovery Bike Shop Wednesday social rides",
+        "description": "<p><span>Group ride (no-drop)</span><span> Sociable Cider x Recovery Bike Shop Wednesday social rides</span><span><b>. </b></span><a href=\"https://www.instagram.com/p/DHGeDoIMQ5M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\"><span><u>Instagram</u></span></a><span>.</span></p><p><span>Wednesdays at</span><span> 6:00 PM</span><span>. Every Wednesday year round. Check Recovery Bike Shop's instagram for ride updates, as they occasionally cancel for weather or around holidays. </span></p><p><span>Start and Finish: </span><a href=\"https://www.google.com/maps/place/Sociable+Cider+Werks/data=!4m2!3m1!19sChIJJ7fRo70ts1IRGQFQdE_s2AM\" target=\"_blank\"><span><u>Sociable Cider Werks</u></span></a></p><p><span>Distance: 8-10 miles (~1 hr). Pace: Social, meandering pace. Mechanic supported, free pint of cider at the finish.</span></p>",
+        "location": "Sociable Cider Werks, 1500 Fillmore St NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-22T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-22T19:30:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "akq6he9k0demi7ao18fh45gddk",
+        "originalStartTime": {
+          "dateTime": "2026-04-22T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "akq6he9k0demi7ao18fh45gddk@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
         "etag": "\"3538919685799166\"",
         "id": "4mdg5e479o3h22tpm8kk04cdi1_20260225T004500Z",
         "status": "confirmed",
@@ -1316,74 +975,6 @@
       },
       {
         "kind": "calendar#event",
-        "etag": "\"3542908090719550\"",
-        "id": "1vuc0j5f83m0rh2ssptevj2453",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MXZ1YzBqNWY4M20wcmgyc3NwdGV2ajI0NTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2026-02-18T22:34:05.000Z",
-        "updated": "2026-02-18T22:34:05.359Z",
-        "summary": "Bike + Bus Practice Session",
-        "description": "Practice loading bikes on Metro Transit bus racks without rush-hour pressure. A Metro Transit bus will be parked outside the church for hands-on practice.\n\nTime: 1:00-3:00 PM\n\nLocation: Outside Bryn Mawr Presbyterian Church (420 Cedar Lake Road South)\n\nBring your own bike or use demo bikes provided on-site. Part of the Active Transportation open house - come inside the church to talk with Recovery Bike Shop and Metro Transit ambassadors, meet new friends, and enjoy snacks &amp; a bingo raffle.\n\nLink: <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUzb4wEjIp9/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw20WHLbmdwTIHm8a0DmmCC6\" target=\"_blank\">https://www.instagram.com/p/DUzb4wEjIp9/</a>",
-        "location": "Outside Bryn Mawr Presbyterian Church, 420 Cedar Lake Road South",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-21T13:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-21T15:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "1vuc0j5f83m0rh2ssptevj2453@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
-        "etag": "\"3542908126069342\"",
-        "id": "0fb5pkf4h21kjt2e6b3n0hukt1",
-        "status": "confirmed",
-        "htmlLink": "https://www.google.com/calendar/event?eid=MGZiNXBrZjRoMjFranQyZTZiM24waHVrdDEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
-        "created": "2026-02-18T22:34:22.000Z",
-        "updated": "2026-02-18T22:34:23.034Z",
-        "summary": "BE SEEN: A Reflective Clothing Remix Pop-Up (Sew In)",
-        "description": "Reflective clothing sewing pop-up event to help cyclists stay visible while riding in the dark.\n\nTime: 1-4pm on Tuesday, February 24th\n\nLocation: Recovery Bike Shop\n\nHow it works: Bring your clothing items you want to add more visibility to (shirts, hats, favorite jeans, jackets, bags, etc.). Sewing happens while you wait! Walk in with your boring pants, walk out with amazing reflective pants.\n\nCost: $2-15 sliding scale depending on the piece (t-shirt sleeves are cheaper than sweatshirt sleeves, for example). Everything is pretty affordable.\n\nSewing and skill-sharing by: CJ Jensen (@mplsquiltzaddy)\n\nLink: <a href=\"https://www.google.com/url?q=https://www.instagram.com/p/DUs48tLjqHJ/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0lzWxvI6Zzevc4rCX5qHl0\" target=\"_blank\">https://www.instagram.com/p/DUs48tLjqHJ/</a>",
-        "location": "Recovery Bike Shop",
-        "creator": {
-          "email": "jmbangsund@gmail.com"
-        },
-        "organizer": {
-          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
-          "displayName": "Minneapolis Cycling Events",
-          "self": true
-        },
-        "start": {
-          "dateTime": "2026-02-24T13:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "end": {
-          "dateTime": "2026-02-24T16:00:00-06:00",
-          "timeZone": "America/Chicago"
-        },
-        "iCalUID": "0fb5pkf4h21kjt2e6b3n0hukt1@google.com",
-        "sequence": 0,
-        "reminders": {
-          "useDefault": true
-        },
-        "eventType": "default"
-      },
-      {
-        "kind": "calendar#event",
         "etag": "\"3542908223780830\"",
         "id": "3iis3i5gbsr81pvmdma5kg466m",
         "status": "confirmed",
@@ -1410,6 +1001,659 @@
           "timeZone": "America/Chicago"
         },
         "iCalUID": "3iis3i5gbsr81pvmdma5kg466m@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543415522740798\"",
+        "id": "uosqnndmal3i1sf6ckkiv7heig",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dW9zcW5uZG1hbDNpMXNmNmNra2l2N2hlaWcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-21T20:53:40.000Z",
+        "updated": "2026-02-21T21:02:41.370Z",
+        "summary": "Behind Bars Foodie Ride: Emily's Lebanese Deli",
+        "description": "Group ride (no-drop) Behind Bars Bicycle Shop Foodie Rides series.<br><br><b>When</b>: Thursday March 12th, 2026. Meet at 6:00 PM, depart at 6:15 PM sharp.<br><br><b>Start</b>: Behind Bars Bicycle Shop<br><b>Finish</b>: Emily's Lebanese Deli<br><br>Distance: 10 miles or less. Pace: 10-15 mph (depending on conditions, watch for snow and ice).<br><br>The route will feature a mixture of city streets and bike paths. These are no-drop rides, meaning we will stay together as a group. Use these rides as an opportunity to connect with community and support local businesses.<br><br>Leader: Robin (@robofet)<br><br>Rules of the Ride:<br>- Respect other road and trail users. Give space and an audible signal when passing.<br>- Communicate with your fellow riders. Call out obstacles, turns, and other trail users.<br>- Respect each other. No racist, homophobic, transphobic, or disrespectful behavior allowed.<br>- Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing.<br><br>Link: <a href=\"https://www.instagram.com/p/DU9pu8QDdC5/\" target=\"_blank\">https://www.instagram.com/p/DU9pu8QDdC5/</a>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-12T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-12T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "uosqnndmal3i1sf6ckkiv7heig@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543431143318334\"",
+        "id": "fss5v4o0e2ti7hi7h25eh98a8o",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZnNzNXY0bzBlMnRpN2hpN2gyNWVoOThhOG8gNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-21T20:53:48.000Z",
+        "updated": "2026-02-21T23:12:51.659Z",
+        "summary": "Behind Bars Foodie Ride: Lowry & Central (TBD)",
+        "description": "Group ride (no-drop) Behind Bars Bicycle Shop Foodie Rides series.\n\nWhen: Thursday March 19th, 2026. Meet at 6:00 PM, depart at 6:15 PM sharp.\n\nStart: Behind Bars Bicycle Shop, 208 13th Ave NE\nFinish: Lowry & Central area (restaurant TBD)\n\nDistance: 10 miles or less. Pace: 10-15 mph (depending on conditions, watch for snow and ice).\n\nThe route will feature a mixture of city streets and bike paths. These are no-drop rides, meaning we will stay together as a group. Use these rides as an opportunity to connect with community and support local businesses.\n\nLeader: Robin (@robofet)\n\nRules of the Ride:\n- Respect other road and trail users. Give space and an audible signal when passing.\n- Communicate with your fellow riders. Call out obstacles, turns, and other trail users.\n- Respect each other. No racist, homophobic, transphobic, or disrespectful behavior allowed.\n- Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing.\n\nLink: https://www.instagram.com/p/DU9pu8QDdC5/",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-19T18:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-19T20:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "fss5v4o0e2ti7hi7h25eh98a8o@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460042079742\"",
+        "id": "urpi1dvgfdiu6j33p4e336frb0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dXJwaTFkdmdmZGl1NmozM3A0ZTMzNmZyYjAgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-22T03:13:40.000Z",
+        "updated": "2026-02-22T03:13:41.039Z",
+        "summary": "Utepils Cycling - False Spring Shakeout Ride",
+        "description": "Road ride (recreational pace) - False spring shakeout ride. Utepils Cycling.\n\nWhen: Sunday Feb 15, 2026. Meet at 12:45 PM. Announcements start at 12:55 PM. Rides begin at 1:00 PM.\n\nStart and Finish: Utepils Brewery\n\nDistance: 15-20 miles\n\nPace: 11-14 mph avg rolling speed\n\nLeaders: John Hicks (Lead), Lee Dollahan (Sweep)\n\nBe prepared for sloppy conditions and a casual ride around town. Route to be posted in the morning.\n\nWaiver link (must be signed once per calendar year): https://forms.gle/7uWwCeJ6ShsYbHv27\n\nLink: https://www.facebook.com/groups/UtepilsCycling/permalink/27056620343926449/",
+        "location": "Utepils Brewery",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-15T12:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-15T14:45:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "urpi1dvgfdiu6j33p4e336frb0@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460413787294\"",
+        "id": "3ab6r91clmmsjd45jmgpnq4isk",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2FiNnI5MWNsbW1zamQ0NWptZ3BucTRpc2sgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-22T03:16:46.000Z",
+        "updated": "2026-02-22T03:16:46.893Z",
+        "summary": "Free Yoga at Recovery Bike Shop (Sunday)",
+        "description": "Free community yoga session at Recovery Bike Shop.\n\nTime: Sundays at 9am (before Coffee Outside at 10am)\n\nInstructor: @Rachel.Cro\n\nBring your own mat.\n\n\"Self care is activism. As a community, as a country, as a species, we still have a long way to go. And wherever we go, we'll get there together.\"\n\nLink: https://www.instagram.com/p/DU5vzxzDu9n/",
+        "location": "Recovery Bike Shop, 2504 Central Ave NE, Minneapolis, MN 55418",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-22T09:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-22T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "3ab6r91clmmsjd45jmgpnq4isk@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460427057566\"",
+        "id": "v6u9cuha5h4ni7o7d1liucb988",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=djZ1OWN1aGE1aDRuaTdvN2QxbGl1Y2I5ODggNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-22T03:16:53.000Z",
+        "updated": "2026-02-22T03:16:53.528Z",
+        "summary": "Free Yoga at Recovery Bike Shop (Thursday)",
+        "description": "Free community yoga session at Recovery Bike Shop.\n\nTime: Thursday evenings at 7:15pm\n\nInstructor: @Rachel.Cro\n\nBring your own mat.\n\n\"Self care is activism. As a community, as a country, as a species, we still have a long way to go. And wherever we go, we'll get there together.\"\n\nLink: https://www.instagram.com/p/DU5vzxzDu9n/",
+        "location": "Recovery Bike Shop, 2504 Central Ave NE, Minneapolis, MN 55418",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-26T19:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-26T21:15:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "v6u9cuha5h4ni7o7d1liucb988@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260215T160000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAyMTVUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-15T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-15T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-02-15T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260301T160000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMDFUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-01T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-01T11:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-03-01T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260308T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMDhUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-08T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-08T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-03-08T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260315T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMTVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-15T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-15T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-03-15T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260322T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMjJUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-22T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-22T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-03-22T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260329T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAzMjlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-29T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-29T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-03-29T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260405T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MDVUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-05T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-05T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-04-05T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260412T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MTJUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-12T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-12T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-04-12T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460685105886\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260419T150000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjA0MTlUMTUwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:19:02.552Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "<p dir=\"ltr\"><span>Coffee (Outside) by Recovery Bike Shop. </span><a href=\"http://recovery.bike/events\"><span><u>Website</u></span></a><span>. </span><a href=\"https://www.instagram.com/recoverybikeshop/\"><span><u>Instagram</u></span></a><span>.</span></p><p dir=\"ltr\"><span>Every Sunday at 10am.</span></p><p dir=\"ltr\"><span>Start: Check @RecoveryBikeShop on Instagram for NE location reveal the day before</span></p><p dir=\"ltr\"><span>This is a bike-themed meetup every Sunday at 10am. Not a ride. It’s just coffee and hanging out. New location in NE Mpls every week. We bring treats. BYO coffee.</span></p>",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-04-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-04-19T11:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-04-19T10:00:00-05:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543460951533502\"",
+        "id": "1ujqs0p31sc4dh90ocd9k5g2it_20260222T160000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXVqcXMwcDMxc2M0ZGg5MG9jZDlrNWcyaXRfMjAyNjAyMjJUMTYwMDAwWiA2YTI1NmUyNWUzMTZjYzY3NzcxYjk5YmQ0OTlkZmE1N2QyNzgwZDUxZjZlYjVmOWRmMWE5ZDg0Mjk5YTFiM2MyQGc",
+        "created": "2025-04-10T20:39:24.000Z",
+        "updated": "2026-02-22T03:21:15.766Z",
+        "summary": "Coffee (Outside) by Recovery Bike Shop",
+        "description": "Coffee (Outside) by Recovery Bike Shop. This week at Qahwah House!\n\nWhen: Sunday at 10am\n\nLocation: Qahwah House (19th & Central across from the police station)\n\nThis is a bike-themed meetup. Not a ride. It's just coffee and hanging out. Bundle up - it's going to be a little colder this weekend, but feel free to spend time INSIDE Qahwah as well.\n\nQahwah House has been a hub of activity on Central Ave, hosting meetups, training sessions, decompressions and more. This is what community looks like!\n\nLink: https://www.instagram.com/p/DVBh7SRjunf/",
+        "location": "Qahwah House Coffee - Minneapolis, 1851 Central Ave NE, Minneapolis, MN 55418, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-22T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-22T12:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "recurringEventId": "1ujqs0p31sc4dh90ocd9k5g2it",
+        "originalStartTime": {
+          "dateTime": "2026-02-22T10:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1ujqs0p31sc4dh90ocd9k5g2it@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543461599380894\"",
+        "id": "1vuc0j5f83m0rh2ssptevj2453",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MXZ1YzBqNWY4M20wcmgyc3NwdGV2ajI0NTMgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-18T22:34:05.000Z",
+        "updated": "2026-02-22T03:26:39.690Z",
+        "summary": "Rewrite Your Commute - Active Transportation Open House",
+        "description": "Active Transportation open house by Recovery Bike Shop and the Bryn Mawr Active Transportation Committee. Bridge closures, highway construction, and other infrastructure changes are coming - find out how to adapt and maintain your sanity.\n\nTime: 1:00-3:00 PM\n\nLocation: Bryn Mawr Presbyterian Church (420 Cedar Lake Rd S, Minneapolis)\n\nActivities:\n- Winter riding tips\n- Conversations with MNDoT about detours\n- Practice loading your bike on a bus (Metro Transit bus on-site)\n- Talk with a local bike shop\n- Refreshments & raffle\n- Learn about Asphalt Art coming in Spring\n- Make bike friends and bus friends!\n\nLink: https://www.instagram.com/p/DVBh7SRjunf/",
+        "location": "Bryn Mawr Presbyterian Church, 420 Cedar Lake Rd S, Minneapolis, MN",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-21T13:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-21T15:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "1vuc0j5f83m0rh2ssptevj2453@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543462178471102\"",
+        "id": "6vnhoil9t4i98l4bo7jhf3iu5g",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnZuaG9pbDl0NGk5OGw0Ym83amhmM2l1NWcgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-21T20:53:33.000Z",
+        "updated": "2026-02-22T03:31:29.235Z",
+        "summary": "Behind Bars Foodie Ride: Pho Hòa",
+        "description": "Group ride (no-drop) Behind Bars Bicycle Shop Foodie Rides series.<br><br>Meet at 6:00 PM, depart at 6:15 PM sharp.<br><br><b>Start</b>: Behind Bars Bicycle Shop<br><b>End</b>: Pho Hòa<br><br><b>Distance</b>: 10 miles or less.<br><b>Pace</b>: 10-15 mph (depending on conditions, watch for snow and ice).<br><br>The route will feature a mixture of city streets and bike paths. These are no-drop rides, meaning we will stay together as a group. Use these rides as an opportunity to connect with community and support local businesses.<br><br>Leader: Robin (@robofet)<br><br>Rules of the Ride:<ul><li>Respect other road and trail users. Give space and an audible signal when passing.</li><li>Communicate with your fellow riders. Call out obstacles, turns, and other trail users.</li><li>Respect each other. No racist, homophobic, transphobic, or disrespectful behavior allowed.</li><li>Be prepared. Bring a helmet, lock, lights, a spare inner tube, and extra clothing.</li></ul><br>Link: <a href=\"https://www.instagram.com/p/DU9pu8QDdC5/\" target=\"_blank\">https://www.instagram.com/p/DU9pu8QDdC5/</a>",
+        "location": "Behind Bars Bicycle Shop, 208 13th Ave NE, Minneapolis, MN 55413, USA",
+        "creator": {
+          "email": "bicyclegroupsorg@bicyclegroupsorg.iam.gserviceaccount.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-03-05T18:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-03-05T20:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "6vnhoil9t4i98l4bo7jhf3iu5g@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3543469315936446\"",
+        "id": "0fb5pkf4h21kjt2e6b3n0hukt1",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MGZiNXBrZjRoMjFranQyZTZiM24waHVrdDEgNmEyNTZlMjVlMzE2Y2M2Nzc3MWI5OWJkNDk5ZGZhNTdkMjc4MGQ1MWY2ZWI1ZjlkZjFhOWQ4NDI5OWExYjNjMkBn",
+        "created": "2026-02-18T22:34:22.000Z",
+        "updated": "2026-02-22T04:30:57.968Z",
+        "summary": "BE SEEN: A Reflective Clothing Remix Pop-Up (Sew In)",
+        "description": "Reflective clothing sewing pop-up event to help cyclists stay visible while riding in the dark.<br><br><b>Time</b>: 1-4pm on Tuesday, February 24th<br><br><b>Location</b>: Recovery Bike Shop<br><br><b>How it works</b>: Bring your clothing items you want to add more visibility to (shirts, hats, favorite jeans, jackets, bags, etc.). Sewing happens while you wait! Walk in with your boring pants, walk out with amazing reflective pants.<br><br><b>Cost</b>: $2-15 sliding scale depending on the piece (t-shirt sleeves are cheaper than sweatshirt sleeves, for example). Everything is pretty affordable.<br><br>Sewing and skill-sharing by: CJ Jensen (@mplsquiltzaddy)<br><br>Link: <a href=\"https://www.instagram.com/p/DUs48tLjqHJ/\" target=\"_blank\">https://www.instagram.com/p/DUs48tLjqHJ/</a>",
+        "location": "Recovery Bike Shop, 2504 Central Ave NE, Minneapolis, MN 55418, USA",
+        "creator": {
+          "email": "jmbangsund@gmail.com"
+        },
+        "organizer": {
+          "email": "6a256e25e316cc67771b99bd499dfa57d2780d51f6eb5f9df1a9d84299a1b3c2@group.calendar.google.com",
+          "displayName": "Minneapolis Cycling Events",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2026-02-24T13:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "end": {
+          "dateTime": "2026-02-24T16:00:00-06:00",
+          "timeZone": "America/Chicago"
+        },
+        "iCalUID": "0fb5pkf4h21kjt2e6b3n0hukt1@google.com",
         "sequence": 0,
         "reminders": {
           "useDefault": true
